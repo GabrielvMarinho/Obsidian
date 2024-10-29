@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "bad81284f075dfde",
+    "type": "split",
+    "children": [
+      {
+        "id": "a17d1c7a2fdd9eed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e508bd44f45542a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "756fe392f8193dc6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d06ca3122a5441f",
+    "type": "split",
+    "children": [
+      {
+        "id": "96aa640986e876b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f1064677104eef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f271eb0eafb032a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a97cd49e79944445",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e63ac7d47820a968",
+    "type": "split",
+    "children": [
+      {
+        "id": "608ae9fd8dd66ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c142ea90796f9f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d67238e5b8633f5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3ed4eaedc65fb229",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ace916905623175c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5e508bd44f45542a",
+  "lastOpenFiles": [
+    "ProgramacaoJava/atividade.md",
+    "TesteSoftware/atividade 1.md",
+    "TesteSoftware/JUNIT.md",
+    "ProgramacaoJava/exemplos java.md",
+    "ProgramacaoJava",
+    "TesteSoftware/exemplos.md",
+    "TesteSoftware/TIPOS DE TESTE DE SOFTWARE.md",
+    "TesteSoftware/SELENIUM.md",
+    "TesteSoftware",
+    "Welcome.md",
+    "Untitled 1"
+  ]
+}
