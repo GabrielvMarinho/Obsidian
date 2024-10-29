@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ConceitosProgramacao/XML.md",
+                "file": "TesteSoftware/JUNIT/Dependencies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XML"
+              "title": "Dependencies"
             }
           },
           {
@@ -217,8 +217,8 @@
   },
   "active": "5f6a7bf922fc59f0",
   "lastOpenFiles": [
-    "ConceitosProgramacao/HTML.md",
     "ConceitosProgramacao/XML.md",
+    "ConceitosProgramacao/HTML.md",
     "TesteSoftware/JUNIT/Dependencies.md",
     "ConceitosProgramacao/Untitled.md",
     "ConceitosProgramacao/Lib.md",
