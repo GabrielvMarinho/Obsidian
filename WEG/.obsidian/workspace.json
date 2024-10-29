@@ -16,16 +16,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "756fe392f8193dc6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ]
       }
@@ -164,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e508bd44f45542a",
+  "active": "e7f1064677104eef",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-10-29.md",
     "ProgramacaoJava/atividade.md",
     "TesteSoftware/atividade 1.md",
     "TesteSoftware/JUNIT.md",
