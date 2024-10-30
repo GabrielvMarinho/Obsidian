@@ -1,0 +1,1 @@
+A blueprint for creating objects

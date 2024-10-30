@@ -1,5 +1,5 @@
 
-To Install [[Lib]] [[Maeven]]:
+To Install [[Lib]] [[Maeven]] to use [[JUnit]]:
 file -> project structure -> libraries -> + ->
 digitar a versão da [[Lib]] (org.junit.jupiter:junit-jupiter:5.9.1)
 

@@ -1,0 +1,1 @@
+The instace of a class is also know as [[Object]]
