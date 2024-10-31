@@ -1,0 +1,1 @@
+A software Component that lets the operating system and a device communicate with each other

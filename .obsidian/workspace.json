@@ -11,14 +11,10 @@
             "id": "97d63f55ca5a82ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEG/ProgramacaoJava/anotacao.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "anotacao"
+              "title": "New tab"
             }
           }
         ]
@@ -59,6 +55,18 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "84a10e832b9255d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -151,5 +159,31 @@
     }
   },
   "active": "97d63f55ca5a82ea",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ANOTAÇÕES/Coding/TesteSoftware/JUNIT/Maeven.md",
+    "ANOTAÇÕES/Coding/TesteSoftware/JUNIT/JUnit.md",
+    "ANOTAÇÕES/Coding/TesteSoftware/JUNIT/Dependencies.md",
+    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts/Static Methods.md",
+    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts/Object.md",
+    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts/Methods.md",
+    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts/Instance.md",
+    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts/Class.md",
+    "ANOTAÇÕES/Coding/TesteSoftware/Software Testing.md",
+    "ANOTAÇÕES/Coding/TesteSoftware/JUNIT",
+    "ANOTAÇÕES/Coding/ProgramacaoJava/Java.md",
+    "ANOTAÇÕES/Coding/ProgramacaoJava/OOP.md",
+    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts",
+    "ANOTAÇÕES/Coding/ConceitosProgramacao/XML.md",
+    "ANOTAÇÕES/Coding/ConceitosProgramacao/Lib.md",
+    "ANOTAÇÕES/Coding/ConceitosProgramacao/HTML.md",
+    "ANOTAÇÕES/EstudosEnem/Dissertativo Argumentativo.md",
+    "ANOTAÇÕES/EstudosEnem/Enem.md",
+    "ANOTAÇÕES/EstudosEnem/Conectivos.md",
+    "ANOTAÇÕES/Coding/TesteSoftware",
+    "ANOTAÇÕES/Coding/ProgramacaoJava",
+    "ANOTAÇÕES/Coding/ConceitosProgramacao",
+    "ANOTAÇÕES/EstudosEnem",
+    "ANOTAÇÕES/Coding",
+    "ANOTAÇÕES"
+  ]
 }

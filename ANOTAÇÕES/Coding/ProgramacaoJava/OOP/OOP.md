@@ -7,3 +7,5 @@ Computer programming model that organizes software design around Objects
 - [[Instance]]
 - [[Methods]]
 - [[Static Methods]]
+- [[Heritage]]
+- [[Interface]]

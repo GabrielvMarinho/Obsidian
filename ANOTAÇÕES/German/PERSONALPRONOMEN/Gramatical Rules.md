@@ -1,0 +1,1 @@
+German [[Konjugation]] has no -ING
