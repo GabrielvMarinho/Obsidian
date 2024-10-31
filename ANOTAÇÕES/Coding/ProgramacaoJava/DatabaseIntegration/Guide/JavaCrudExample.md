@@ -5,10 +5,12 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;  
 import java.sql.ResultSet;  
 import java.sql.SQLException;  
+import java.util.ArrayList;  
 import java.util.List;  
   
 public class CRUDConta {  
     private final BancoDeDados banco = new BancoDeDados();  
+  
   
     //create an account  
     public void create(Conta conta){  
@@ -58,12 +60,50 @@ public class CRUDConta {
     }  
   
     //reads a list of accounts  
-    public List<Conta> readAll(){  
-        return null;  
+    public List<Conta> readAll() throws ContasInexistentesException{  
+        List<Conta> lista = new ArrayList<>();  
+        try(Connection con = banco.getConnection()){  
+            PreparedStatement p = con.prepareStatement(  
+                    "SELECT * FROM tb_conta");  
+  
+            ResultSet rs = p.executeQuery();  
+  
+            while(rs.next()){  
+                int numero = rs.getInt("numero");  
+                String titular = rs.getString("titular");  
+                double saldo = rs.getDouble("saldo");  
+                double limite = rs.getDouble("limite");  
+  
+                Conta conta = new Conta(numero, titular, saldo, limite);  
+                lista.add(conta);  
+  
+            }  
+  
+            return lista;  
+        }catch(SQLException e){  
+            System.err.println("erro ao pegar a lista "+e.getMessage());  
+        }  
+        throw new ContasInexistentesException();  
     }  
     //will update the saldo of an account  
-    public void update(int numero, Conta conta) throws SQLException {  
-        return;  
+    public void update(Conta conta) throws ContaInexistenteException {  
+        try(Connection con = banco.getConnection()){  
+            PreparedStatement ps = con.prepareStatement(  
+                    "UPDATE tb_conta " +  
+                            "SET titular = ?" +  
+                            ", saldo = ?" +  
+                            ", limite = ?" +  
+                            " WHERE numero = ?;");  
+            ps.setString(1, conta.getTitular());  
+            ps.setDouble(2, conta.getSaldo());  
+            ps.setDouble(3, conta.getLimite());  
+            ps.setDouble(4, conta.getNumero());  
+            ps.execute();  
+            return;  
+        }catch (SQLException e){  
+            System.err.println(e.getMessage());  
+        }  
+        throw new ContaInexistenteException();  
     }  
     public void delete(int numero){  
         try( Connection con = banco.getConnection()){  
@@ -71,10 +111,15 @@ public class CRUDConta {
                     "DELETE FROM tb_conta WHERE numero = ?");  
             ps.setDouble(1, numero);  
             ps.execute();  
+            return;  
         }catch (SQLException e){  
             System.err.println(e.getMessage());  
         }  
+        throw new ContaInexistenteException();  
+  
     }  
+  
+  
 }
 ```
 
