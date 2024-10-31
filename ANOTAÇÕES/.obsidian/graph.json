@@ -1,44 +1,44 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Coding",
+      "query": "path:Coding  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:German ",
+      "query": "path:German  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5412832
       }
     },
     {
       "query": "path:EstudosEnem  ",
       "color": {
         "a": 1,
-        "rgb": 5405920
+        "rgb": 11657298
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 1.01875,
-  "lineSizeMultiplier": 1.01875,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.59375,
-  "repelStrength": 11.1458333333333,
-  "linkStrength": 0.8125,
-  "linkDistance": 174,
-  "scale": 0.6316046762907513,
+  "centerStrength": 0.583333333333333,
+  "repelStrength": 9.375,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.713275462622443,
   "close": true
 }
