@@ -11,13 +11,56 @@
             "id": "4323d07a6be1b9ee",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/ArquiteturaSoftware/Micro Services/Micro Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Micro Services"
+            }
+          },
+          {
+            "id": "29f35fdcff846149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/ConceitosProgramacao/BACK-END/HTTP Protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP Protocol"
+            }
+          },
+          {
+            "id": "21898d869e8e1e08",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "32024764ee9c3c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/ConceitosProgramacao/BACK-END/API REST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API REST"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,43 +198,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4323d07a6be1b9ee",
+  "active": "21898d869e8e1e08",
   "lastOpenFiles": [
+    "Coding/ConceitosProgramacao/MISCELLANEOUS/WWW.md",
+    "Coding/ConceitosProgramacao/BACK-END/HTTP Protocol.md",
+    "Coding/ArquiteturaSoftware/Micro Services/Micro Services.md",
+    "Coding/ConceitosProgramacao/BACK-END/API REST.md",
+    "Coding/ArquiteturaSoftware/Software Architecture.md",
+    "Coding/Flask",
+    "Coding/ProgramacaoJava/OOP/Static Methods.md",
+    "Coding/ProgramacaoJava/OOP/Methods.md",
+    "Coding/ProgramacaoJava/OOP/Class.md",
+    "Coding/ArquiteturaSoftware/Design Patterns/Design Patterns.md",
+    "Coding/ProgramacaoJava/OOP/OOP.md",
+    "Coding/ProgramacaoJava/Java.md",
+    "Coding/ArquiteturaSoftware/Design Patterns/Examples",
+    "Coding/ArquiteturaSoftware/Micro Services",
+    "Coding/ArquiteturaSoftware/Design Patterns",
+    "Coding/ArquiteturaSoftware/Design Patterns.md",
+    "Coding/ArquiteturaSoftware",
     "Untitled.canvas",
     "Coding/ProgramacaoJava/DatabaseIntegration/Guide/JavaCrudExample.md",
     "Coding/ProgramacaoJava/DatabaseIntegration/Guide/DB Java Integration Guide.md",
-    "Coding/ProgramacaoJava/Java.md",
     "Coding/ConceitosProgramacao/BACK-END/CRUD.md",
     "Coding/ConceitosProgramacao/MISCELLANEOUS",
     "Coding/ConceitosProgramacao/BACK-END",
     "Coding/ConceitosProgramacao/FRONT-END",
     "Coding/ConceitosProgramacao/DB",
     "Coding/ProgramacaoJava/DatabaseIntegration/Guide/Examples",
-    "Coding/ProgramacaoJava/DatabaseIntegration/Guide",
     "Coding/TesteSoftware/JUNIT/JUnit.md",
     "Coding/ProgramacaoJava/OOP/Interface.md",
-    "Coding/ProgramacaoJava/OOP/OOP.md",
     "Coding/ProgramacaoJava/OOP/Heritage.md",
     "Coding/ConceitosProgramacao/DB/MySql.md",
     "Coding/ProgramacaoJava/DatabaseIntegration/Drivers.md",
     "German/PERSONALPRONOMEN/Konjugation.md",
     "German/PERSONALPRONOMEN/Gramatical Rules.md",
-    "German/PERSONALPRONOMEN",
-    "German",
     "EstudosEnem/Enem.md",
     "Coding/ProgramacaoJava/DatabaseIntegration/XAMPP.md",
-    "Coding/ProgramacaoJava/Exceptions",
     "Coding/ConceitosProgramacao/MISCELLANEOUS/Lib.md",
-    "Coding/ProgramacaoJava/Oracle.md",
-    "Coding/ConceitosProgramacao/DB/Sql.md",
-    "Coding/TesteSoftware/JUNIT/Dependencies.md",
-    "Coding/ProgramacaoJava/DatabaseIntegration/Apache.md",
-    "Coding/TesteSoftware/JUNIT/Maeven.md",
-    "Coding/ProgramacaoJava/DatabaseIntegration",
-    "EstudosEnem/Conectivos.md",
-    "Teste.md",
-    "Coding/ProgramacaoJava/OOP/Class.md",
-    "Coding/ProgramacaoJava/OOP/Methods.md",
-    "Coding/ConceitosProgramacao/FRONT-END/HTML.md"
+    "Coding/ProgramacaoJava/Oracle.md"
   ]
 }

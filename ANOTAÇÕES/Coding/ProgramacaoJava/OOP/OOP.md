@@ -1,4 +1,4 @@
-Computer programming model that organizes software design around Objects
+Computer programming model that organizes software design around Objects.
 
 ## Important OOP Concepts
 
