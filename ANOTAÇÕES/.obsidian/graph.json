@@ -64,6 +64,13 @@
       }
     },
     {
+      "query": "path:AgileMethodology  ",
+      "color": {
+        "a": 1,
+        "rgb": 16719904
+      }
+    },
+    {
       "query": "Obsidian color pallete",
       "color": {
         "a": 1,
@@ -77,10 +84,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 0.916666666666667,
   "collapse-forces": false,
-  "centerStrength": 0.552083333333333,
+  "centerStrength": 0.578125,
   "repelStrength": 11.0416666666667,
   "linkStrength": 1,
   "linkDistance": 196,
-  "scale": 0.5760648859023652,
-  "close": true
+  "scale": 0.2930798575676878,
+  "close": false
 }

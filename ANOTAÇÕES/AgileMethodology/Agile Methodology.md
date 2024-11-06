@@ -1,0 +1,1 @@
+Its a methodology that tries to be more agile. No shit. It's a set of patterns and concepts to be used in developing teams.
