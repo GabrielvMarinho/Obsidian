@@ -5,82 +5,82 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:EstudosEnem  ",
+      "query": "path:Coding/ProgramacaoJava  ",
       "color": {
         "a": 1,
-        "rgb": 14729554
-      }
-    },
-    {
-      "query": "path:German  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
+        "rgb": 16744576
       }
     },
     {
       "query": "path:Coding/ArquiteturaSoftware  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Coding/ConceitosProgramacao  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:Coding/Flask  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:Coding/DataScience  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
+        "rgb": 16736352
       }
     },
     {
       "query": "path:Coding/Javascript  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 16732240
       }
     },
     {
-      "query": "path:Coding/ProgramacaoJava  ",
+      "query": "path:Languages ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 16732240
+      }
+    },
+    {
+      "query": "path:Coding/DataScience  ",
+      "color": {
+        "a": 1,
+        "rgb": 16728128
+      }
+    },
+    {
+      "query": "path:Coding/Git  ",
+      "color": {
+        "a": 1,
+        "rgb": 16724016
       }
     },
     {
       "query": "path:Coding/TesteSoftware  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 16721189
+      }
+    },
+    {
+      "query": "path:Coding/ConceitosProgramacao  ",
+      "color": {
+        "a": 1,
+        "rgb": 16719904
+      }
+    },
+    {
+      "query": "Obsidian color pallete",
+      "color": {
+        "a": 1,
+        "rgb": 5407200
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 0.916666666666667,
   "collapse-forces": false,
-  "centerStrength": 0.947916666666667,
-  "repelStrength": 16.4583333333333,
+  "centerStrength": 0.552083333333333,
+  "repelStrength": 11.0416666666667,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.3823010968769976,
+  "linkDistance": 196,
+  "scale": 0.3823010968769983,
   "close": false
 }

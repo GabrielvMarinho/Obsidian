@@ -1,1 +1,1 @@
-A procedure that can be acessed in a specific [[Class]]
+A procedure that can be Called to perform a specific task.

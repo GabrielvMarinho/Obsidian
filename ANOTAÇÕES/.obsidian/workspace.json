@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0961d74dffc7d22c",
+        "id": "9f91e0c54e0501b6",
         "type": "tabs",
         "children": [
           {
-            "id": "948855454c80c288",
+            "id": "1b93f95e59367b7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Git/Commands/Merge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Merge"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e63ac7d47820a968",
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/ProgramacaoJava/DatabaseIntegration/Guide/DB Java Integration Guide.md",
+                "file": "Coding/Git/Commands/Merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DB Java Integration Guide"
+              "title": "Backlinks for Merge"
             }
           },
           {
@@ -155,44 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "948855454c80c288",
+  "active": "1b93f95e59367b7c",
   "lastOpenFiles": [
+    "Coding/Git/GitFlow.canvas",
+    "Coding/Git/Commands/Merge.md",
+    "Coding/Git/Commands/Rebase.md",
+    "Coding/Git/Git.md",
+    "Coding/ProgramacaoJava/OOP/Methods.md",
+    "Coding/ArquiteturaSoftware/Design Patterns/Design Patterns.md",
+    "Coding/Git/Concepts/Features.md",
+    "Coding/Git/Commands/Branch.md",
+    "Coding/Git/Concepts/Pipeline.md",
+    "Coding/Git/Concepts/Hotfix.md",
+    "Coding/Git/Commands/Push.md",
+    "Coding/Git/Commands/Pull.md",
+    "Coding/Git/Commands/Commit.md",
+    "Coding/Git/Commands/Clone.md",
+    "Coding/ProgramacaoJava/OOP/Interface.md",
+    "Coding/ProgramacaoJava/OOP/Heritage.md",
+    "Coding/Git/Concepts",
+    "Coding/Git/Commands",
+    "Obsidian color pallete.md",
+    "Coding/ConceitosProgramacao/BACK-END/HTTP Protocol.md",
+    "Coding/ConceitosProgramacao/MISCELLANEOUS/WWW.md",
+    "Coding/ConceitosProgramacao/MISCELLANEOUS/Python.md",
+    "Coding/ConceitosProgramacao/DB/MySql.md",
+    "Untitled.canvas",
+    "Languages",
+    "AgileMethodology",
+    "EstudosEnem/Conectivos.md",
+    "Coding/Git",
     "Coding/Javascript/Guide/Drag n Drop.md",
     "Coding/Javascript/Guide/Built-in Functions.md",
     "EstudosEnem/Enem.md",
     "Coding/Javascript/Javascript.md",
     "Coding/Javascript/Guide",
-    "Coding/ConceitosProgramacao/BACK-END/API REST.md",
     "Coding/Javascript",
-    "Coding/ProgramacaoJava/OOP/OOP.md",
-    "Coding/DataScience/PandasMatPlotLibGuide/Python MatplotLib and Pandas Guide.md",
-    "German/PERSONALPRONOMEN/Konjugation.md",
-    "Coding/DataScience/PandasMatPlotLibGuide/Pandas.md",
-    "Coding/ArquiteturaSoftware/Design Patterns/Design Patterns.md",
-    "Coding/DataScience/PandasMatPlotLibGuide/MatPlotLib.md",
-    "Coding/DataScience/PandasMatPlotLibGuide/Bar Graphs (Python).md",
-    "Coding/DataScience/PandasMatPlotLibGuide/Dispersion Graphs (Python).md",
-    "Coding/DataScience/PandasMatPlotLibGuide/Untitled.md",
     "Coding/DataScience/PandasMatPlotLibGuide",
-    "Coding/DataScience/PandasMatplotlibGuide/Bar Charts.md",
-    "Coding/DataScience/Data Science.md",
-    "Coding/ConceitosProgramacao/MISCELLANEOUS/Python.md",
     "Coding/DataScience/PandasMatplotlibGuide/Untitled",
-    "Coding/DataScience/PandasMatplotlibGuide",
-    "Coding/DataScience",
-    "Coding/ConceitosProgramacao/MISCELLANEOUS/WWW.md",
-    "Coding/ConceitosProgramacao/BACK-END/HTTP Protocol.md",
-    "Coding/ArquiteturaSoftware/Micro Services/Micro Services.md",
-    "Coding/ArquiteturaSoftware/Software Architecture.md",
-    "Coding/Flask",
-    "Coding/ProgramacaoJava/OOP/Static Methods.md",
-    "Coding/ProgramacaoJava/OOP/Methods.md",
-    "Coding/ProgramacaoJava/OOP/Class.md",
-    "Coding/ProgramacaoJava/Java.md",
-    "Coding/ArquiteturaSoftware/Design Patterns/Examples",
-    "Coding/ArquiteturaSoftware/Micro Services",
-    "Coding/ArquiteturaSoftware/Design Patterns",
-    "Coding/ArquiteturaSoftware/Design Patterns.md",
-    "Untitled.canvas"
+    "Coding/DataScience/PandasMatplotlibGuide"
   ]
 }

@@ -1,0 +1,1 @@
+The work is divided in features, generally each [[Branch]] is a feature.

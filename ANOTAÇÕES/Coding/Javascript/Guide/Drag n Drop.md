@@ -1,79 +1,53 @@
 index.html
 ```
-<div class="container"> 
-	<div class="draggable" draggable="true">Arraste-me!</div> 
-	<div class="dropzone">Solte Aqui</div> 
-</div>
+<div class="dropzone">Dropzone 1</div>
+<div class="dropzone">Dropzone 2</div>
+<div class="dropzone">Dropzone 3</div>
+
+<div class="draggable" id="item1" draggable="true">Item 1</div>
+<div class="draggable" id="item2" draggable="true">Item 2</div>
+<div class="draggable" id="item3" draggable="true">Item 3</div>
+
 ```
 
 script.js
 ```
-const draggable = document.querySelector('.draggable');
+const draggables = document.querySelectorAll('.draggable');
+const dropzones = document.querySelectorAll('.dropzone');
 
-const dropzone = document.querySelector('.dropzone');
 
-// Evento dragstart - inicia o arrasto do elemento
+draggables.forEach(draggable => {
+  draggable.addEventListener('dragstart', (event) => {
+    event.dataTransfer.setData('text/plain', event.target.id);
+    draggable.classList.add('dragging');
+  });
 
-draggable.addEventListener('dragstart', (event) => {
-
-  event.dataTransfer.setData('text/plain', event.target.id);
-
-  draggable.classList.add('dragging'); // Adiciona uma classe de estilo enquanto arrasta
-
+  draggable.addEventListener('dragend', () => {
+    draggable.classList.remove('dragging');
+  });
 });
 
-  
+dropzones.forEach(dropzone => {
+  dropzone.addEventListener('dragenter', (event) => {
+    event.preventDefault();
+    dropzone.classList.add('over');
+  });
 
-// Evento dragend - finaliza o arrasto
+  dropzone.addEventListener('dragover', (event) => {
+    event.preventDefault();
+  });
 
-draggable.addEventListener('dragend', () => {
+  dropzone.addEventListener('dragleave', () => {
+    dropzone.classList.remove('over');
+  });
 
-  draggable.classList.remove('dragging');
-
+  dropzone.addEventListener('drop', (event) => {
+    event.preventDefault();
+    const draggableId = event.dataTransfer.getData('text/plain');
+    const draggable = document.getElementById(draggableId);
+    dropzone.classList.remove('over');
+    dropzone.appendChild(draggable); // Move o elemento para a área de drop
+  });
 });
 
-  
-
-// Evento dragenter - elemento entra na área de drop
-
-dropzone.addEventListener('dragenter', (event) => {
-
-  event.preventDefault();
-
-  dropzone.classList.add('over');
-
-});
-
-  
-
-// Evento dragover - elemento está sobre a área de drop
-
-dropzone.addEventListener('dragover', (event) => {
-
-  event.preventDefault(); // Necessário para permitir o drop
-
-});
-
-  
-
-// Evento dragleave - elemento deixa a área de drop
-
-dropzone.addEventListener('dragleave', () => {
-
-  dropzone.classList.remove('over');
-});
-
-  
-
-// Evento drop - elemento é solto na área de drop
-
-dropzone.addEventListener('drop', (event) => {
-
-  event.preventDefault();
-
-  dropzone.classList.remove('over');
-
-  dropzone.appendChild(draggable); // Move o elemento arrastável para dentro da área de drop
-
-});
 ```

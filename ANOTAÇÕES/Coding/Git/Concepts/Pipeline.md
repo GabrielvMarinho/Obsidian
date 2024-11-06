@@ -1,0 +1,1 @@
+Is basically a set of instructions that are run every that a new version is released on [[Git]].

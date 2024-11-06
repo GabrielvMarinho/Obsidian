@@ -1,0 +1,1 @@
+When you get the attributes and methods of a Super class.
