@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9f91e0c54e0501b6",
+        "id": "c748ebb7ade2fe82",
         "type": "tabs",
         "children": [
           {
-            "id": "1b93f95e59367b7c",
+            "id": "28a2f0b76969b32a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Git/Commands/Merge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Merge"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -38,12 +34,14 @@
             "id": "e7f1064677104eef",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Coding/Git/Git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "icon": "lucide-file",
+              "title": "Git"
             }
           },
           {
@@ -156,47 +154,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "1b93f95e59367b7c",
+  "active": "28a2f0b76969b32a",
   "lastOpenFiles": [
+    "Coding/Git/Git.md",
     "Coding/Git/GitFlow.canvas",
+    "Coding/ProgramacaoJava/OOP/OOP.md",
+    "Coding/Git/Commands/Branch.md",
+    "Obsidian color pallete.md",
+    "Excalidraw/Drawing 2024-11-06 00.02.43.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-11-06 00.01.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-06 00.00.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-05 23.59.16.excalidraw.md",
+    "Languages/German/Vocabulary/HäufigeRedemittel.md",
+    "Languages/German/German.md",
+    "Languages/German/Vocabulary/Greetings.md",
+    "Languages/German/GramaticalRules/PERSONALPRONOMEN/Konjugation.md",
+    "Languages/German/GramaticalRules/Gramatical Rules.md",
+    "Languages/German/GramaticalRules",
+    "Languages/German/Vocabulary/Verben.md",
+    "Languages/German/Vocabulary/Verben/Untitled.md",
+    "Languages/German/Vocabulary/Inhaltlich.md",
+    "Languages/German/Vocabulary/Adjektive.md",
+    "Languages/German/Vocabulary/Inhaltlich",
+    "Languages/German/Vocabulary/Adjektive",
+    "Languages/German/Vocabulary/Verben",
+    "Languages/German/Vocabulary",
     "Coding/Git/Commands/Merge.md",
     "Coding/Git/Commands/Rebase.md",
-    "Coding/Git/Git.md",
     "Coding/ProgramacaoJava/OOP/Methods.md",
     "Coding/ArquiteturaSoftware/Design Patterns/Design Patterns.md",
     "Coding/Git/Concepts/Features.md",
-    "Coding/Git/Commands/Branch.md",
     "Coding/Git/Concepts/Pipeline.md",
     "Coding/Git/Concepts/Hotfix.md",
     "Coding/Git/Commands/Push.md",
-    "Coding/Git/Commands/Pull.md",
-    "Coding/Git/Commands/Commit.md",
-    "Coding/Git/Commands/Clone.md",
-    "Coding/ProgramacaoJava/OOP/Interface.md",
-    "Coding/ProgramacaoJava/OOP/Heritage.md",
     "Coding/Git/Concepts",
     "Coding/Git/Commands",
-    "Obsidian color pallete.md",
-    "Coding/ConceitosProgramacao/BACK-END/HTTP Protocol.md",
-    "Coding/ConceitosProgramacao/MISCELLANEOUS/WWW.md",
-    "Coding/ConceitosProgramacao/MISCELLANEOUS/Python.md",
-    "Coding/ConceitosProgramacao/DB/MySql.md",
     "Untitled.canvas",
     "Languages",
-    "AgileMethodology",
-    "EstudosEnem/Conectivos.md",
-    "Coding/Git",
-    "Coding/Javascript/Guide/Drag n Drop.md",
-    "Coding/Javascript/Guide/Built-in Functions.md",
-    "EstudosEnem/Enem.md",
-    "Coding/Javascript/Javascript.md",
-    "Coding/Javascript/Guide",
-    "Coding/Javascript",
-    "Coding/DataScience/PandasMatPlotLibGuide",
-    "Coding/DataScience/PandasMatplotlibGuide/Untitled",
-    "Coding/DataScience/PandasMatplotlibGuide"
+    "AgileMethodology"
   ]
 }
