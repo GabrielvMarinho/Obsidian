@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Coding/ProgramacaoJava  ",
@@ -84,10 +84,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 0.916666666666667,
   "collapse-forces": false,
-  "centerStrength": 0.578125,
+  "centerStrength": 0.46875,
   "repelStrength": 11.0416666666667,
   "linkStrength": 1,
   "linkDistance": 196,
   "scale": 0.2930798575676878,
-  "close": false
+  "close": true
 }

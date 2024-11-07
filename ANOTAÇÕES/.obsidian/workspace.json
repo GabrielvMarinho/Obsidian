@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c748ebb7ade2fe82",
+        "id": "a40154db1d71124f",
         "type": "tabs",
         "children": [
           {
-            "id": "28a2f0b76969b32a",
+            "id": "27e4d6d419c46893",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AgileMethodology/Scrum/Backlogs.md",
+                "file": "Languages/German/GramaticalRules/PERSONALPRONOMEN/Nominativ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backlogs"
-            }
-          },
-          {
-            "id": "3a2dabfff8b224e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AgileMethodology/Scrum/Sprint.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sprint"
-            }
-          },
-          {
-            "id": "8a9bdd7d33fd7949",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Nominativ"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 246.5
   },
   "right": {
     "id": "e63ac7d47820a968",
@@ -196,48 +171,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a9bdd7d33fd7949",
+  "active": "27e4d6d419c46893",
   "lastOpenFiles": [
-    "AgileMethodology/Scrum/Scrum.md",
-    "AgileMethodology/Scrum/Sprint review.md",
-    "AgileMethodology/Scrum/Sprint.md",
-    "AgileMethodology/Scrum/Backlogs.md",
+    "Languages/German/GramaticalRules/PERSONALPRONOMEN/Dativ.md",
+    "Languages/German/GramaticalRules/PERSONALPRONOMEN/Akkusativ.md",
+    "Languages/German/GramaticalRules/PERSONALPRONOMEN/Nominativ.md",
+    "Languages/German/GramaticalRules/Gramatical Rules.md",
+    "Languages/German/Vocabulary/Pronomen.md",
+    "Languages/German/Vocabulary/Words/Wörter.md",
+    "Languages/German/Vocabulary/Words/Schrift.md",
+    "Languages/German/Vocabulary/Substantive.md",
+    "Languages/German/Vocabulary/Words",
+    "Languages/German/Vocabulary/HäufigeRedemittel.md",
+    "Languages/German/German.md",
+    "Languages/German/Vocabulary/Verben.md",
+    "Coding/Javascript/Guide/Built-in Functions Javascript.md",
+    "Coding/Javascript/Guide/Drag n Drop.md",
+    "Coding/Javascript/Javascript.md",
+    "Obsidian color pallete.md",
+    "Excalidraw/Drawing 2024-11-06 20.22.06.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-06 20.21.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-06 20.21.59_1.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-06 20.21.59.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-06 20.21.59_0.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-06 20.21.57.excalidraw.md",
+    "Coding/Git/Concepts/Features.md",
+    "Excalidraw",
+    "Coding/Git/Commands/Branch.md",
+    "Coding/Git/Git.md",
     "AgileMethodology/Jira.md",
     "AgileMethodology/Agile Methodology.md",
     "AgileMethodology/Scrum",
     "AgileMethodology",
-    "Languages/German/Vocabulary/Verben.md",
     "Untitled.canvas",
-    "Languages/German/Vocabulary/Inhaltlich.md",
-    "Languages/German/Vocabulary/HäufigeRedemittel.md",
-    "Languages/German/Vocabulary/Greetings.md",
-    "Languages/German/Vocabulary/Adjektive.md",
-    "Coding/ProgramacaoJava/DatabaseIntegration/Guide/DB Java Integration Guide.md",
-    "Languages/German/German.md",
-    "Coding/Git/Git.md",
     "Coding/Git/GitFlow.canvas",
-    "Coding/ProgramacaoJava/OOP/OOP.md",
-    "Coding/Git/Commands/Branch.md",
-    "Obsidian color pallete.md",
-    "Excalidraw/Drawing 2024-11-06 00.02.43.excalidraw.md",
-    "Excalidraw",
-    "Excalidraw/Drawing 2024-11-06 00.01.25.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-06 00.00.25.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-05 23.59.16.excalidraw.md",
-    "Languages/German/GramaticalRules/PERSONALPRONOMEN/Konjugation.md",
-    "Languages/German/GramaticalRules/Gramatical Rules.md",
     "Languages/German/GramaticalRules",
-    "Languages/German/Vocabulary/Verben/Untitled.md",
     "Languages/German/Vocabulary/Inhaltlich",
     "Languages/German/Vocabulary/Adjektive",
     "Languages/German/Vocabulary/Verben",
     "Languages/German/Vocabulary",
-    "Coding/Git/Commands/Merge.md",
-    "Coding/Git/Commands/Rebase.md",
-    "Coding/Git/Concepts",
-    "Coding/Git/Commands"
+    "Coding/Git/Concepts"
   ]
 }

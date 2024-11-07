@@ -13,10 +13,10 @@
 
 [[Verben]]
 
-[[Inhaltlich]]
+[[Substantive]]
 
 [[Adjektive]]
 
-[[Konjugation]]
+[[Nominativ]]
 
 [[Gramatical Rules]]

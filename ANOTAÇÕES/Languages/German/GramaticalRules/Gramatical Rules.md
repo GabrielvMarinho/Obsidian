@@ -1,1 +1,8 @@
-German [[Konjugation]] has no -ING
+German Konjugation has no -ING
+
+
+
+PersonalPronomen:
+- [[Akkusativ]]
+- [[Dativ]]
+- [[Nominativ]]

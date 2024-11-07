@@ -1,0 +1,1 @@
+Ein einzelnes eindeutiges bedeutungsvolles element der Sprache oder [[Schrift]].
