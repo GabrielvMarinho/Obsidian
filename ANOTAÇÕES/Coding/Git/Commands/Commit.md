@@ -1,7 +1,11 @@
 Saving the code but not sending it to the repository.
 
-
-to create a commit:
+before the git commit, to add the changes you can:
 ```
-git commit
+git add .
+```
+
+create a commit:
+```
+git commit -m "mensagem"
 ```
