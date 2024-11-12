@@ -31,7 +31,7 @@ to "push" a branch:
 git push --set-upstream origin nomeDoBranch
 ```
 
-clonar branch remota:
+clone branch remota:
 ```
 git checkout -b "nome-da-branch-local" origin/"nome-da-branch-remota"
 ```
