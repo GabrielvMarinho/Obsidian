@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ac4d00a16b3bb542",
+        "id": "c20bd0e8809bf126",
         "type": "tabs",
         "children": [
           {
-            "id": "2e5c58c15285a01e",
+            "id": "e7f7cd8737ce99d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Git/Commands/Branch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Branch"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -174,16 +170,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e5c58c15285a01e",
+  "active": "e7f7cd8737ce99d8",
   "lastOpenFiles": [
-    "Coding/Git/Commands/Merge.md",
+    "Coding/Git/Git.md",
+    "Coding/Git/Concepts/Pipeline.md",
+    "Coding/Git/Concepts/Features.md",
     "Coding/Git/Commands/Branch.md",
-    "Coding/Git/Commands/Commit.md",
     "Coding/Git/Commands/Rebase.md",
+    "Coding/Git/Commands/Merge.md",
+    "Coding/Git/Commands/Commit.md",
     "Coding/Git/Commands/Push.md",
     "Coding/Git/Commands/Pull.md",
     "Coding/Git/Commands/Clone.md",
-    "Coding/Git/Git.md",
     "Coding/Git/GitFlow.canvas",
     "Languages/German/GramaticalRules/PERSONALPRONOMEN/Nominativ.md",
     "Languages/German/GramaticalRules/PERSONALPRONOMEN/Dativ.md",
@@ -202,8 +200,6 @@
     "Coding/Javascript/Javascript.md",
     "Obsidian color pallete.md",
     "Excalidraw/Drawing 2024-11-06 20.22.06.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-06 20.21.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-06 20.21.59_1.excalidraw.md",
     "Excalidraw",
     "AgileMethodology/Scrum",
     "AgileMethodology",
