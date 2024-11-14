@@ -6,8 +6,6 @@ executeLargeUpdate: return how many rows were manipulated (Long)
 executeQuery: return a db query like a select
 
 
-Check [[JavaCrudExample]] for a [[CRUD]] example!
-
 ## Commands
 
 Select:
