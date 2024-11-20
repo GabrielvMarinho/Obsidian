@@ -1,0 +1,1 @@
+It's an abstraction that get different blocks of code that are commonly used in software and provide a generic solution, looking forward to a more efficient approach.

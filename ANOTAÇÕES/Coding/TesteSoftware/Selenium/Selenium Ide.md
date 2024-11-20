@@ -1,0 +1,1 @@
+It's a tool used to created Selenium Test Cases with a Record/Run functionality where you record your mouse/keyboard commands.

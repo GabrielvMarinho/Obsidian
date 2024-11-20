@@ -1,5 +1,5 @@
 H - hypertext
 T - transfer
-P - protocol
+P - [[Protocol]]
 
 Is based on the communication of data in [[WWW]].

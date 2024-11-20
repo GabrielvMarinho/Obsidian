@@ -1,0 +1,1 @@
+It's a model of computer network divided in layers of function.

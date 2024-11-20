@@ -2,7 +2,7 @@ Micro services are blocks of code that do especifics functions and procedures, t
 
 In [[Java]], we can use Spring to create a web server for microservices, an example:
 
-This example is called an [[API REST]]: is called by an URL ([[HTTP Protocol]])
+This example is called an [[API REST]]: is called by an URL ([[HTTP]])
 
 Class DemoApplication
 ```

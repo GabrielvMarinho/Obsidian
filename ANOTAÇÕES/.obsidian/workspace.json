@@ -4,18 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "c20bd0e8809bf126",
+        "id": "9ad5d72f809a3ff0",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f7cd8737ce99d8",
+            "id": "fa51a994f7a253cd",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
+            },
+            "group": "6cb1dd8a82d9172f"
+          }
+        ]
+      },
+      {
+        "id": "d7eabe97ececfb5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de8d8c300e49e603",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Coding/ConceitosProgramacao/PROTOCOLS/TCP.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of TCP"
+            },
+            "group": "6cb1dd8a82d9172f"
           }
         ]
       }
@@ -170,16 +215,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7f7cd8737ce99d8",
+  "active": "fa51a994f7a253cd",
   "lastOpenFiles": [
+    "Coding/ConceitosProgramacao/PROTOCOLS/TCP.md",
+    "Coding/ConceitosProgramacao/PROTOCOLS/WebSocket.md",
+    "Coding/ConceitosProgramacao/PROTOCOLS/Protocol.md",
+    "Coding/ConceitosProgramacao/PROTOCOLS/OSI Model.md",
+    "Coding/ConceitosProgramacao/PROTOCOLS/HTTP.md",
+    "Coding/ConceitosProgramacao/PROTOCOLS",
+    "Coding/ConceitosProgramacao/BACK-END/API REST.md",
+    "Coding/Git/Git.md",
+    "Coding/TesteSoftware/Selenium/Selenium.md",
+    "Coding/TesteSoftware/Selenium/Selenium Ide.md",
+    "Coding/ConceitosProgramacao/MISCELLANEOUS/Framework.md",
+    "Coding/TesteSoftware/Software Testing.md",
+    "Coding/TesteSoftware/Selenium",
+    "Untitled.md",
     "Coding/ProgramacaoJava/DatabaseIntegration/Guide/DB Java Integration Guide.md",
     "Coding/ProgramacaoJava/DatabaseIntegration/Guide/JavaCrudExample.md",
     "Coding/ArquiteturaSoftware/Ports.md",
     "2024-11-14.md",
     "Untitled.canvas",
-    "Coding/Git/Git.md",
     "Coding/ProgramacaoJava/DatabaseIntegration/XAMPP.md",
-    "Untitled.md",
     "Coding/ArquiteturaSoftware/Micro Services/Web Pages and Micro services.md",
     "Coding/ArquiteturaSoftware/Software Architecture.md",
     "Coding/ArquiteturaSoftware/Micro Services/Micro Services.md",
@@ -189,16 +246,7 @@
     "Coding/Git/Commands/Rebase.md",
     "Coding/Git/Commands/Merge.md",
     "Coding/Git/Commands/Commit.md",
-    "Coding/Git/Commands/Push.md",
-    "Coding/Git/Commands/Pull.md",
-    "Coding/Git/Commands/Clone.md",
     "Coding/Git/GitFlow.canvas",
-    "Languages/German/GramaticalRules/PERSONALPRONOMEN/Nominativ.md",
-    "Languages/German/GramaticalRules/PERSONALPRONOMEN/Dativ.md",
-    "Languages/German/GramaticalRules/PERSONALPRONOMEN/Akkusativ.md",
-    "Languages/German/GramaticalRules/Gramatical Rules.md",
-    "Languages/German/Vocabulary/Pronomen.md",
-    "Languages/German/Vocabulary/Words/Wörter.md",
     "Languages/German/Vocabulary/Words",
     "Excalidraw",
     "AgileMethodology/Scrum",
@@ -206,8 +254,6 @@
     "Languages/German/GramaticalRules",
     "Languages/German/Vocabulary/Inhaltlich",
     "Languages/German/Vocabulary/Adjektive",
-    "Languages/German/Vocabulary/Verben",
-    "Languages/German/Vocabulary",
-    "Coding/Git/Concepts"
+    "Languages/German/Vocabulary/Verben"
   ]
 }

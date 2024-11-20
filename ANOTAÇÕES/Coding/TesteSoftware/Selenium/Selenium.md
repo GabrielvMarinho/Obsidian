@@ -1,0 +1,1 @@
+It's a [[Software Testing]] [[Framework]] tool that is used specifically to test websites in browsers, you can install and code a Selenium teste or you can use a more visual approach by using [[Selenium Ide]]
