@@ -1,0 +1,1 @@
+the process of registering important events in a [[Computer]] System

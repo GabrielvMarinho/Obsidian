@@ -1,0 +1,1 @@
+A value that can be passed internally to a [[Function]]

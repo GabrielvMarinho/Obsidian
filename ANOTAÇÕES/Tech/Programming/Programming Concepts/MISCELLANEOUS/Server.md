@@ -1,0 +1,1 @@
+Types of [[Computer]] that manage and provide a service or resources to other devices

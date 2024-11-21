@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9ad5d72f809a3ff0",
+        "id": "463cde29e4a71141",
         "type": "tabs",
         "children": [
           {
-            "id": "fa51a994f7a253cd",
+            "id": "980a648379a0d966",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            },
-            "group": "6cb1dd8a82d9172f"
-          }
-        ]
-      },
-      {
-        "id": "d7eabe97ececfb5c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "de8d8c300e49e603",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Coding/ConceitosProgramacao/PROTOCOLS/TCP.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of TCP"
-            },
-            "group": "6cb1dd8a82d9172f"
+            }
           }
         ]
       }
@@ -81,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Git/Git.md",
+                "file": "Tech/Programming/Programming Tools/Git/Git.md",
                 "mode": "source",
                 "source": false
               },
@@ -95,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:javasc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,11 +84,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 325.5
   },
   "right": {
     "id": "e63ac7d47820a968",
@@ -149,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Git/Commands/Merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Merge"
+              "title": "Backlinks"
             }
           },
           {
@@ -215,45 +169,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa51a994f7a253cd",
+  "active": "980a648379a0d966",
   "lastOpenFiles": [
-    "Coding/ConceitosProgramacao/PROTOCOLS/TCP.md",
-    "Coding/ConceitosProgramacao/PROTOCOLS/WebSocket.md",
-    "Coding/ConceitosProgramacao/PROTOCOLS/Protocol.md",
-    "Coding/ConceitosProgramacao/PROTOCOLS/OSI Model.md",
-    "Coding/ConceitosProgramacao/PROTOCOLS/HTTP.md",
-    "Coding/ConceitosProgramacao/PROTOCOLS",
-    "Coding/ConceitosProgramacao/BACK-END/API REST.md",
-    "Coding/Git/Git.md",
-    "Coding/TesteSoftware/Selenium/Selenium.md",
-    "Coding/TesteSoftware/Selenium/Selenium Ide.md",
-    "Coding/ConceitosProgramacao/MISCELLANEOUS/Framework.md",
-    "Coding/TesteSoftware/Software Testing.md",
-    "Coding/TesteSoftware/Selenium",
-    "Untitled.md",
-    "Coding/ProgramacaoJava/DatabaseIntegration/Guide/DB Java Integration Guide.md",
-    "Coding/ProgramacaoJava/DatabaseIntegration/Guide/JavaCrudExample.md",
-    "Coding/ArquiteturaSoftware/Ports.md",
-    "2024-11-14.md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/Creating an API with Javascript.md",
+    "Tech/Programming/Programming Languages/Javascript/Javascript.md",
+    "Tech/Programming/Programming Concepts/BACK-END/API/API.md",
+    "Tech/Programming/Programming Concepts/BACK-END/API/Methods/POST.md",
+    "Tech/Hardware/Computer.md",
+    "Tech/Programming/Programming Languages/Javascript/NodeJS.md",
+    "Tech/Programming/Programming Tools/Sofwate tools/PostMan.md",
+    "Tech/Programming/Programming Tools/Sofwate tools/XAMPP.md",
+    "Tech/Programming/Programming Tools/Sofwate tools/Apache.md",
+    "Tech/Software/Software Arquitecture/Micro Services/Micro Services.md",
+    "Tech/Programming/Programming Concepts/PROTOCOLS/WebSocket.md",
+    "Tech/Programming/Programming Concepts/MISCELLANEOUS/BackEnd.md",
+    "Tech/Programming/Programming Concepts/MISCELLANEOUS/Server.md",
+    "Tech/Programming/Programming Tools/Sofwate tools/MySql.md",
+    "Tech/Programming/Programming Concepts/MISCELLANEOUS/Internet.md",
+    "Tech/Programming/Programming Tools/Parameter.md",
+    "Tech/Programming/Programming Tools/Sofwate tools",
+    "Tech/Programming/Programming Paradigms/OOP/Interface (Poo).md",
+    "Tech/Programming/Programming Concepts/DB/Sql.md",
+    "Tech/Programming/Programming Tools/Frameworks/Flask/Flask.md",
+    "Tech/Programming/Programming Tools/Frameworks/Express/Express.md",
+    "Tech/Programming/Programming Concepts/MISCELLANEOUS/Web.md",
+    "Tech/Programming/Programming Tools/Frameworks/Express",
+    "Tech/Programming/Programming Concepts/MISCELLANEOUS/Browser.md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/Built-in Functions Javascript.md",
+    "Tech.md",
+    "Tech",
+    "Tech/Programming/Programming Concepts/MISCELLANEOUS/FrontEnd.md",
+    "Tech/Programming/Programming Languages/Javascript/Intern Structure",
+    "Tech/Programming/Programming Concepts/MISCELLANEOUS/Log.md",
+    "Tech/Programming/Programming Concepts/BACK-END/API/Methods",
+    "Tech/Programming/Programming Concepts/BACK-END/API",
+    "Tech/Hardware",
+    "Tech/Software/Software Testing",
+    "Tech/Software",
+    "Tech/DataScience/Data Structure",
     "Untitled.canvas",
-    "Coding/ProgramacaoJava/DatabaseIntegration/XAMPP.md",
-    "Coding/ArquiteturaSoftware/Micro Services/Web Pages and Micro services.md",
-    "Coding/ArquiteturaSoftware/Software Architecture.md",
-    "Coding/ArquiteturaSoftware/Micro Services/Micro Services.md",
-    "Coding/Git/Concepts/Pipeline.md",
-    "Coding/Git/Concepts/Features.md",
-    "Coding/Git/Commands/Branch.md",
-    "Coding/Git/Commands/Rebase.md",
-    "Coding/Git/Commands/Merge.md",
-    "Coding/Git/Commands/Commit.md",
-    "Coding/Git/GitFlow.canvas",
-    "Languages/German/Vocabulary/Words",
-    "Excalidraw",
-    "AgileMethodology/Scrum",
-    "AgileMethodology",
-    "Languages/German/GramaticalRules",
-    "Languages/German/Vocabulary/Inhaltlich",
-    "Languages/German/Vocabulary/Adjektive",
-    "Languages/German/Vocabulary/Verben"
+    "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+Its a standardized [[Method]] composed by a set of syntactics and semantics rules 

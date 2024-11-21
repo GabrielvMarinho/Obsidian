@@ -1,0 +1,1 @@
+A [[Programming Language]] where computation is treated as the evaluation of mathematical [[Function]]s, emphasizing immutability and avoiding side effects.

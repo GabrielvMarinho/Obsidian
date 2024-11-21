@@ -1,0 +1,1 @@
+[[Method]] to receive data from an [[API]], you do It through an [[API Request]]

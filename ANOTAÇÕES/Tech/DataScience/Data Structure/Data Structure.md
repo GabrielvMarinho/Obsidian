@@ -1,0 +1,1 @@
+It's an organized way to store, manage and retrieve data

@@ -1,0 +1,1 @@
+a system in which information can be expressed by combinations of the digits 0 and 1 or true and false

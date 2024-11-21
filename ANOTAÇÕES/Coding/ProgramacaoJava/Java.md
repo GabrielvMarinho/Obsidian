@@ -1,1 +1,0 @@
-Programming Language based on [[OOP]] (Object-Oriented Programming) created in the 90s by James Gosling and his team in Sun Microsystems.

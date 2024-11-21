@@ -5,76 +5,69 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Coding/ProgramacaoJava  ",
-      "color": {
-        "a": 1,
-        "rgb": 16744576
-      }
-    },
-    {
-      "query": "path:Coding/ArquiteturaSoftware  ",
-      "color": {
-        "a": 1,
-        "rgb": 16736352
-      }
-    },
-    {
-      "query": "path:Coding/Javascript  ",
-      "color": {
-        "a": 1,
-        "rgb": 16732240
-      }
-    },
-    {
-      "query": "path:Languages ",
-      "color": {
-        "a": 1,
-        "rgb": 16732240
-      }
-    },
-    {
-      "query": "path:Coding/DataScience  ",
-      "color": {
-        "a": 1,
-        "rgb": 16728128
-      }
-    },
-    {
-      "query": "path:Coding/Git  ",
-      "color": {
-        "a": 1,
-        "rgb": 16724016
-      }
-    },
-    {
-      "query": "path:Coding/TesteSoftware  ",
+      "query": "path:Languages  ",
       "color": {
         "a": 1,
         "rgb": 16721189
       }
     },
     {
-      "query": "path:Coding/ConceitosProgramacao  ",
+      "query": "path:Hardware  ",
       "color": {
         "a": 1,
-        "rgb": 16719904
+        "rgb": 16721189
+      }
+    },
+    {
+      "query": "path:\"Programming/Programming Tools\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16724016
+      }
+    },
+    {
+      "query": "path:\"Programming/Programming Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16728128
+      }
+    },
+    {
+      "query": "path:DataScience  ",
+      "color": {
+        "a": 1,
+        "rgb": 16728128
+      }
+    },
+    {
+      "query": "path:\"Programming/Programming Languages\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16732240
+      }
+    },
+    {
+      "query": "path:\"Programming/Programming Paradigms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16740464
+      }
+    },
+    {
+      "query": "path:Software  ",
+      "color": {
+        "a": 1,
+        "rgb": 16744576
       }
     },
     {
       "query": "path:AgileMethodology  ",
       "color": {
         "a": 1,
-        "rgb": 16719904
-      }
-    },
-    {
-      "query": "Obsidian color pallete",
-      "color": {
-        "a": 1,
-        "rgb": 5407200
+        "rgb": 16748688
       }
     }
   ],
@@ -84,10 +77,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 0.916666666666667,
   "collapse-forces": false,
-  "centerStrength": 0.46875,
-  "repelStrength": 11.0416666666667,
-  "linkStrength": 1,
-  "linkDistance": 196,
-  "scale": 0.2292013594174934,
-  "close": true
+  "centerStrength": 0.614583333333333,
+  "repelStrength": 13.3333333333333,
+  "linkStrength": 0.505208333333333,
+  "linkDistance": 221,
+  "scale": 0.16348370567220552,
+  "close": false
 }

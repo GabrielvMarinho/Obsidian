@@ -1,0 +1,1 @@
+A message sent from the [[API]] to give feedback to the user

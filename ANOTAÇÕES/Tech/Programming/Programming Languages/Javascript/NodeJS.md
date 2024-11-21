@@ -1,0 +1,1 @@
+NodeJs is a [[Computer]] environment to run [[Javascript]] in the [[BackEnd]] withou relying on having to run Javascript on a [[Browser]]

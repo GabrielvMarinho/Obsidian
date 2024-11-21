@@ -1,0 +1,1 @@
+When an error happens in the program, using a [[Try-Catch]] you can treat this error

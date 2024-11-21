@@ -1,0 +1,1 @@
+The programs and operating information used by a [[Computer]]

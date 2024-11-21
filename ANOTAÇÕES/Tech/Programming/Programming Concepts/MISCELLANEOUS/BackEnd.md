@@ -1,0 +1,1 @@
+the [[Server]]-side, where the [[API]]s are stored and constantly receives commands from the [[FrontEnd]], It intercats with the [[Software]] [[DataBase]] and other components

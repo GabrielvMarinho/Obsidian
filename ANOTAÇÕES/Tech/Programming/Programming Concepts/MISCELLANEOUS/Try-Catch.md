@@ -1,0 +1,1 @@
+Used to treat [[Exception]] in a program so that a [[Log]] doesn't appear to the client

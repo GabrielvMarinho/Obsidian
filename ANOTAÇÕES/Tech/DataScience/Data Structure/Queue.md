@@ -1,0 +1,1 @@
+Is a linear [[Data Structure]] that follows the First In, First Out (FIFO) principle

@@ -1,0 +1,1 @@
+A [[Programming Paradigms]] focused on explicitly defining step-by-step instructions that change a program's state to achieve a desired outcome.

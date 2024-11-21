@@ -1,0 +1,1 @@
+A [[Software]] that acts as a [[DBMS]] that uses [[Sql]] as an Interface

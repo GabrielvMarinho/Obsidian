@@ -1,0 +1,1 @@
+The client-side, Its basically the bridge from the user and the actual [[Software]], through the frontEnd you can communicate with the [[BackEnd]] and the [[API]]s

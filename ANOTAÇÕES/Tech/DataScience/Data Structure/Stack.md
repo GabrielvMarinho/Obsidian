@@ -1,0 +1,1 @@
+Is a linear [[Data Structure]] that follows the Last In, First Out (LIFO) principle

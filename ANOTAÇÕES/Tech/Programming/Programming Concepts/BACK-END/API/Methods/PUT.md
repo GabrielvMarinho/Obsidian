@@ -1,0 +1,1 @@
+[[Method]] to update data through an [[API]], can be similar to the [[POST]] method, but It doesn't create anything, only update

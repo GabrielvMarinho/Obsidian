@@ -1,0 +1,1 @@
+[[Method]] to delete something in an [[API]]

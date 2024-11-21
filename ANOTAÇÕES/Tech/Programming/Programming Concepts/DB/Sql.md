@@ -1,0 +1,1 @@
+Its a language for managing relational data in a giving [[DBMS]]

@@ -1,0 +1,1 @@
+Python is a High level, [[OOP]], [[Imperative]] and [[Functional]] [[Programming Language]]
