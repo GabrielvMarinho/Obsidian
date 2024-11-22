@@ -1,0 +1,1 @@
+Scala is an [[OOP]], [[Functional]], [[Imperative]] [[Programming Language]] designed to improve and address the limitations of [[Java]]

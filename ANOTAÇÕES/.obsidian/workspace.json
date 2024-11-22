@@ -11,10 +11,14 @@
             "id": "25ac63079af7dd2a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Wealth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wealth"
             }
           }
         ]
@@ -171,16 +175,19 @@
   },
   "active": "25ac63079af7dd2a",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Languages/Scala/Scala.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring",
+    "Tech/Programming/Programming Languages/Scala",
+    "Tech/IoT/IoT.md",
+    "Tech/IoT",
     "Finance/Economics.md",
     "Wealth.md",
     "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
     "Finance/Concepts/Supply.md",
     "Finance/Concepts/Demand.md",
     "Tech/Software/Sofwate tools/Oauth2.md",
-    "IoT.md",
-    "Spring Security.md",
-    "Spring.md",
-    "Scala.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Security.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
     "Finance/Concepts",
     "Finance/Variable Income",
     "Finance/Fixed Income",
@@ -203,10 +210,6 @@
     "Tech/Software/Software Arquitecture/Multitier.md",
     "Tech/Programming/Programming Languages/Java/MicroServiceIntegration/Micro Services in Java.md",
     "Tech/Programming/Programming Languages/Java/MicroServiceIntegration",
-    "Tech/Software/Software Arquitecture/Micro Services/Ports.md",
-    "Tech/Network",
-    "Tech/Software/Concepts",
-    "Tech/Hardware/Concepts",
     "Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
   ]
