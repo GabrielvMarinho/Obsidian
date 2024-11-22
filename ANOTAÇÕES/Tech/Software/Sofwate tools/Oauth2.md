@@ -1,0 +1,1 @@
+It's  a [[Protocol]] that enable that [[Software]] receives temporary access to an [[HTTP]] service or [[API]]

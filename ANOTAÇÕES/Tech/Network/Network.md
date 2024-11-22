@@ -1,0 +1,1 @@
+Consists on two or more [[Computer]] that are linked in order to share files or allow eletronic communications

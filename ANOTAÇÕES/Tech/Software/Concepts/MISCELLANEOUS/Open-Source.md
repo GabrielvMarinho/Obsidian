@@ -1,0 +1,1 @@
+It's the concept of a code or service that is open to general use and can be modified and created another version by anyone at any time

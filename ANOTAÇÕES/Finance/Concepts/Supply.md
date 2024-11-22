@@ -1,0 +1,1 @@
+the willingness and ability of a provier to sell goods and services at a specific price

@@ -1,0 +1,1 @@
+the willingness and ability of a consumer to buy goods and services at a specific price

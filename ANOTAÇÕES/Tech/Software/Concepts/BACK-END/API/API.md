@@ -9,7 +9,7 @@ Every API is based on an [[API Request]] and always gives at least an [[API Resp
 
 APIs can be [[Synchronous]] or [[Asynchronous]], generally they are Asynchronous as it fits better actual use in production
 
-Check the steps for each API interaction:
+Check the [[Method]]s for API interactions:
 1. [[GET]]
 2. [[POST]]
 3. [[PUT]]

@@ -1,0 +1,1 @@
+A set of rules used for trasmitting data between eletronic devices.

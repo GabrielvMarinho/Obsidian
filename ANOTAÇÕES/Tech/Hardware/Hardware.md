@@ -1,0 +1,1 @@
+The physical components os a [[Computer]]

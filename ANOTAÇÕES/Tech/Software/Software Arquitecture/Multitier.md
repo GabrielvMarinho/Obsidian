@@ -1,0 +1,1 @@
+It's basically an [[Monolithic]] [[Software Architecture]] but all the services ([[BackEnd]], [[FrontEnd]] and [[DataBase]]) are separated and indenpendent
