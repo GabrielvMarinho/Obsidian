@@ -1,0 +1,1 @@
+The [[Halving]] of [[Bitcoin]] is an event that happens every 4 years and dictates whatever the reward for the [[Proof of Work]] in Bitcoin's [[Network]] is, basically sets the reward for each person involved in the [[Bitcoin Mining]] process

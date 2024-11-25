@@ -4,11 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "f5620ee354126991",
+        "id": "b3a5b7bfe244a7c8",
         "type": "tabs",
         "children": [
           {
-            "id": "25ac63079af7dd2a",
+            "id": "4f734f6c1babfea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Crypto/Bitcoin/Bitcoin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bitcoin"
+            }
+          },
+          {
+            "id": "fbf4e7676ae8934a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Crypto/Cryptocurrency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptocurrency"
+            },
+            "group": "47c5ae4c6f60def2"
+          },
+          {
+            "id": "46d6b6d0ada1514a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,20 +45,51 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "159d1bc92c809029",
+        "type": "tabs",
+        "children": [
           {
-            "id": "40083308c437c231",
+            "id": "92b7d774769fce27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Python/Libs/MatPlotLib/MatplotLib and Pandas.md",
-                "mode": "source",
-                "source": false
+                "file": "Tech/Crypto/Cryptocurrency.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
               },
-              "icon": "lucide-file",
-              "title": "MatplotLib and Pandas"
-            }
+              "icon": "lucide-git-fork",
+              "title": "Graph of Cryptocurrency"
+            },
+            "group": "47c5ae4c6f60def2"
           }
         ]
       }
@@ -183,43 +243,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25ac63079af7dd2a",
+  "active": "92b7d774769fce27",
   "lastOpenFiles": [
+    "Tech/Crypto/Bitcoin/Bitcoin.md",
+    "Tech/Crypto/Cryptocurrency.md",
+    "Credit Card.md",
+    "Tech/Programming/Programming Tools/Git/Git.md",
+    "Scalability.md",
+    "Satoshi Nakamoto.md",
+    "Inflation.md",
+    "Deflation.md",
+    "Proof of Work.md",
+    "Finance.md",
+    "Tech/Crypto/Bitcoin/Halving of Bitcoin.md",
+    "Math/Halving.md",
+    "MB.md",
+    "Math",
+    "Finance/Concepts/Centralized.md",
+    "Finance/Concepts/Descentralized.md",
+    "Cryptocurrency Wallet.md",
+    "Tech/Crypto/Bitcoin",
+    "Tech/Crypto/Bitcoin/Bitcoin Mining.md",
+    "Assets.md",
+    "Tech/Crypto/Blockchain.md",
+    "Currency.md",
+    "Tech/Crypto",
     "Tech/Programming/Programming Languages/Python/Libs/Yfinance/Yfinance.md",
     "Tech/Programming/Programming Languages/Python/Libs/Seaborn/Seaborn.md",
     "Tech/Programming/Programming Languages/Python/Libs/Pandas/Pandas.md",
     "Tech/Programming/Programming Languages/Python/Libs/Numpy/Numpy.md",
     "Tech/Programming/Programming Languages/Python/Libs/MatPlotLib/MatPlotLib.md",
     "Tech/Programming/Programming Languages/Python/Libs/MatPlotLib/MatplotLib and Pandas.md",
-    "Tech/Programming/Programming Languages/Python/Libs/MatPlotLib/MatplotLib with Yfinances.md",
     "Tech/Programming/Programming Languages/Python/Libs/Seaborn",
     "Tech/Programming/Programming Languages/Python/Libs/MatPlotLib/Untitled",
-    "Tech/Programming/Programming Languages/Python/Libs/MatPlotLib/MatPltoLib with yfinances.md",
-    "Finance.md",
     "Tech/Programming/Programming Languages/Python/Libs/Yfinance",
     "Tech/Programming/Programming Languages/Python/Libs/Numpy",
     "Tech/Programming/Programming Languages/Python/Libs/Pandas",
-    "Wealth.md",
     "Tech/Programming/Programming Languages/Python/Libs",
     "Tech/Programming/Programming Tools/Untitled",
-    "Tech/Programming/Programming Languages/Scala/Scala.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring",
-    "Tech/Programming/Programming Languages/Scala",
-    "Tech/IoT/IoT.md",
-    "Tech/IoT",
-    "Finance/Economics.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
-    "Finance/Concepts/Supply.md",
-    "Finance/Concepts/Demand.md",
-    "Tech/Software/Sofwate tools/Oauth2.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Security.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
-    "Tech/Cloud/On-demand.md",
-    "Tech/Cloud/Services/SAAS.md",
-    "Tech/Cloud/Services/PAAS.md",
-    "Tech/Cloud/Services/IAAS.md",
-    "Tech/Cloud/Docker.md",
-    "Tech/Cloud/Cloud.md",
     "Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
   ]
