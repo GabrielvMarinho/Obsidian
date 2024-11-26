@@ -1,0 +1,1 @@
+They are a group of miners that cooperate and agreed to divide the rewards of the block validated base on your [[Computer]] power

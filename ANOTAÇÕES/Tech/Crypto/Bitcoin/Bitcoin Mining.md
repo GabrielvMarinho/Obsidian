@@ -1,1 +1,4 @@
 The process of mining [[Bitcoin]] is done by [[Computer]]s all over the world, It works in a way so that every one of those computers have access to the [[Network]] and can validate transactions by solving math equations, you first need to solve those equations and waste a lot of energy by the way, before actually being able to validate a block, once you are the lucky one, you use your [[Hardware]] power to validate theses transactions that will be written in the [[Blockchain]], this makes the network safe since you would need acces to 51% of all computers mining bitcoin to actually make a fraudulent transaction.
+
+Typically mining alone would require you computer to store the whole blockchain and every transaction ever done, currently you would need 515GB of storage to have it.
+You don't need to have the whole blockchain only when you are mining in a [[Mining Pool]]
