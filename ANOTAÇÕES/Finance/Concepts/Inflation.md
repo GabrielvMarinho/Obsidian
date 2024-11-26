@@ -1,0 +1,1 @@
+The opposite of [[Deflation]], an increase in the prices which consequences in a fall of purchasing power

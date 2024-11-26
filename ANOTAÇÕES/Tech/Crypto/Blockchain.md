@@ -1,3 +1,3 @@
-Its a technology used as an open, immutable and [[Descentralized]] book that serves as a tool to register and track [[Assets]], each transaction created is linked with the new creating transactions, like they are written on top of the past transactions, making it hard to insert fraudulent movement (like saying x asset was transffered to y account).
+Its a technology used as an open, immutable and [[Descentralized]] book that serves as a tool to register and track [[Asset]], each transaction created is linked with the new creating transactions, like they are written on top of the past transactions, making it hard to insert fraudulent movement (like saying x asset was transffered to y account).
 
 The blockchain doesn't have a certain date of creation but It's concept was first introduced in the early 1990s but was only popularized by the creation of [[Cryptocurrency]], more specifically by the creation of [[Bitcoin]] from [[Satoshi Nakamoto]]

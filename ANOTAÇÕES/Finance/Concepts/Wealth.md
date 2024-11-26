@@ -1,0 +1,1 @@
+An abundance of valuable [[Asset]]

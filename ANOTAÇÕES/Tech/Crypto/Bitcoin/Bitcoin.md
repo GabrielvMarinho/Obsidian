@@ -29,3 +29,9 @@ It works as a triangle, where you have:
 3. Safety
 
 you can only have 2 at once and that's all, Bitcoin is safe and descentralized, the moment you ad block with fewer time to validate, for example, 10 seconds blocks, the Speed would go up but the safety of said transaction would go down. It make a lot when you stop and see that credit cards offers safe and fast services, but the are not descentralized
+
+
+## The "Solution" to scalability
+
+The solution proposed to help bitcoin overcome the scalability problem is to use the [[Lightning Network]]
+## The fee problems

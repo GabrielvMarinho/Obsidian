@@ -1,0 +1,1 @@
+The opposite of [[Inflation]], a decrease in the prices which consequences in a rise of purchasing power

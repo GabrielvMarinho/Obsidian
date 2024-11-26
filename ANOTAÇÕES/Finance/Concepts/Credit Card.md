@@ -1,0 +1,1 @@
+Lets you borrow [[Funds]] from the bank, It contains a [[Chip]] with the owners information

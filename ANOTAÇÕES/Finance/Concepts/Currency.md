@@ -1,0 +1,1 @@
+A system of money used in a particular group of people or nation

@@ -1,0 +1,1 @@
+A tiny wafer of semiconducting material with an embedded eletronic circuit

@@ -1,0 +1,1 @@
+A usable or valuable thing

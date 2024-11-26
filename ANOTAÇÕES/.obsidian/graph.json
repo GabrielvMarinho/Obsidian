@@ -6,17 +6,53 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:AgileMethodology  ",
+      "color": {
+        "a": 1,
+        "rgb": 3258678
+      }
+    },
+    {
+      "query": "path:Finance  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Foreign Languages",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Math  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Tech  ",
+      "color": {
+        "a": 1,
+        "rgb": 5359161
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.993229166666667,
-  "lineSizeMultiplier": 0.7890625,
+  "nodeSizeMultiplier": 1.4015625,
+  "lineSizeMultiplier": 0.559375,
   "collapse-forces": true,
   "centerStrength": 0.364583333333333,
   "repelStrength": 20,
   "linkStrength": 0.505208333333333,
   "linkDistance": 221,
-  "scale": 0.0593261718750001,
+  "scale": 0.042315902689759405,
   "close": true
 }

@@ -21,22 +21,24 @@ const axios = require('axios');
 
 const app = express();
 
+//for reading json in body
+app.use(express.json());
+
 const PORT = 3000
+
+app.listen(PORT)
 
 app.get('/pessoa', async(req, res) =>{
     try{
-        console.log("entrou")
         res.status(200).json({message: "Mensagem de sucesso"})
     }catch(error){
 
         res.status(500).json({error: "Mensagem de erro"})
     }
 });
-
-app.listen(PORT, () =>{
-    console.log(`porta ${PORT}`)
-})
 ```
+
+to run:
 
 To test just access http://127.0.0.1:3000/pessoa in your [[Browser]] or use [[PostMan]] (better)
 

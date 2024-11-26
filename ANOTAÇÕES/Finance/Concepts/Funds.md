@@ -1,0 +1,1 @@
+A pool of money alocated for a specific purpose
