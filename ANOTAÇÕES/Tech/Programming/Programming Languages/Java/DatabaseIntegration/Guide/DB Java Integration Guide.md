@@ -10,14 +10,14 @@ Open your projects > Project Structure > Libraries > Java > add your jar connect
 ### Java code in the DB Class:
 
 ```
-//las part checks if it exists and creates if not
+//last part checks if it exists and creates if not
 private final String URL = "jdbc:mysql://localhost:3306/db_sistema_bancario?"+"createDatabaseIfNotExist=true";
 
 private final String USER = "root";  
 private final String PASSWORD = "";
 
 public Connection getConnection() throws SQLException {  
-    //class - statis method to connect to database 
+    //class - static method to connect to database 
     return DriverManager.getConnection(URL, USER, PASSWORD);  
 }
 ```

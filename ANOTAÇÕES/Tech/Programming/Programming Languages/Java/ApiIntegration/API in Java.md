@@ -1,7 +1,13 @@
 
-In [[Java]], we can use Spring to create a web [[Server]] for microservices, an example:
+In [[Java]], we can use Spring to create a web [[Server]] for microservices and creating [[API]]s, an example:
 
 This example is called an [[API REST]]: is called by an URL ([[HTTP]])
+
+To create an archive go to https://start.spring.io/ ([[Spring]] initializr)
+
+Project -> [[Maeven]]
+Language -> Java
+Add dependencies -> Spring [[Web]]
 
 Class DemoApplication
 ```
@@ -40,3 +46,11 @@ public class Teste {
     }  
 }
 ```
+
+caso as [[Ports]] esteja sendo usada, vá para o application.properties:
+
+```
+spring.application.name=demo  
+server.port=8081
+```
+assim alteramos a porta para qual escolher
