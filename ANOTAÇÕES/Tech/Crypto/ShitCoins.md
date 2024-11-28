@@ -1,0 +1,1 @@
+Concept of a [[Cryptocurrency]] with generally low market cap mostly with no value, often created for [[Pumping]] and [[Dumping]] prices to generate reveneu to the creators/[[Stake Holder]]s

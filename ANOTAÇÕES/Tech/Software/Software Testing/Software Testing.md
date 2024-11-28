@@ -1,9 +1,3 @@
-Software Testing is key to creating a healthy environment where no method is left behind and everthing is tested
-## Important Concepts AND Good Practices
+The study of Testing [[Software]] with differents tools, varying in techniques and expected results
 
-- Making the code as descriptive as possible is super important
-- The test Itself can work as the code documentation (each test is a functional requirements for example)
-
-
-
-
+A software test can happen both in the [[BackEnd]] of an application or in the [[FrontEnd]]

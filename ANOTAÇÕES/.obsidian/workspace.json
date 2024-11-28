@@ -11,13 +11,70 @@
             "id": "9bf6fad04718792d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Crypto/ShitCoins.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ShitCoins"
+            }
+          },
+          {
+            "id": "a1c5cd4b69f60934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance/Companies/Binance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binance"
+            }
+          },
+          {
+            "id": "bf3fbf5a4d1cd6cb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d881507eeb58a83f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance/Investments/Dumping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dumping"
+            }
+          },
+          {
+            "id": "2934cb8ebdbe10c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance/Investments/Pumping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pumping"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,44 +226,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bf6fad04718792d",
+  "active": "bf3fbf5a4d1cd6cb",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Languages/Java/DatabaseIntegration/Guide/JavaCrudExample.md",
-    "Tech/Programming/Programming Languages/Java/DatabaseIntegration/Guide/DB Java Integration Guide.md",
-    "Tech/Programming/Programming Paradigms/OOP/Interface (Poo).md",
-    "Tech/Software/Sofwate tools/Kafka.md",
-    "Neural Network.md",
-    "Tech/Programming/Programming Languages/Java/ApiIntegration/API in Java.md",
-    "Tech/Programming/Programming Languages/Java/ApiIntegration",
-    "Tech/Network/PROTOCOLS/HTTP/HTTP.md",
-    "Tech/Network/PROTOCOLS/HTTP/CORS.md",
-    "Tech/Network/PROTOCOLS/HTTP",
-    "Tech/Network/P2P.md",
-    "Tech/Crypto/Hot Wallet.md",
-    "Tech/Crypto/Cryptocurrency Wallet.md",
-    "Tech/Crypto/Cold Wallet.md",
-    "Software Testing.md",
-    "Math/Pareto Principle.md",
+    "Finance/Companies/Binance.md",
+    "Finance/Companies",
+    "China.md",
     "Crypto Exchange.md",
-    "Binance.md",
-    "Pareto Principle.md",
+    "Tech/Software/Software Testing/Selenium/Selenium.md",
+    "Tech/Software/Software Testing/Software Testing.md",
+    "Tech/Software/Software Testing/Software Testing.md",
+    "Tech/Software/Software Testing/JUNIT/JUnit.md",
+    "Tech/Software/Software Testing/JUNIT/Dependencies.md",
+    "Neural Network.md",
+    "Finance/Investments/Stake Holder.md",
+    "Finance/Investments/Dumping.md",
+    "Finance/Investments/Asset.md",
+    "Finance/Investments/Demand.md",
+    "Finance/Investments/Funds.md",
+    "Finance/Investments/Market Cap.md",
+    "Finance/Investments/Money.md",
+    "Finance/Investments/Pumping.md",
+    "Finance/Investments/Supply.md",
+    "Finance/Investments/Wealth.md",
+    "Finance/Economy/Inflation.md",
+    "Finance/Economy/Currency.md",
+    "Finance/Economy/Centralized.md",
+    "Finance/Economy/Deflation.md",
+    "Finance/Investments",
+    "Tech/Crypto/AltCoins.md",
+    "Untitled.md",
+    "Tech/Crypto/How it Works",
+    "Tech/Crypto/Bitcoin/Untitled",
+    "Tech/Programming/Programming Languages/Java/ApiIntegration",
+    "Tech/Network/PROTOCOLS/HTTP",
     "Untitled",
-    "Tech/Crypto/Mining Pool.md",
-    "Cryptocurrency Wallet.md",
-    "Tech/Crypto/Bitcoin/Bitcoin Mining.md",
-    "Tech/Crypto/Proof of Work.md",
-    "Tech/Crypto/Proof of Stake.md",
-    "Countries/El Salvador/Chivo Wallet.md",
-    "Countries/El Salvador/El Salvador Bitcoin adoption.md",
-    "Countries/El Salvador/El Salvador.md",
     "Countries/El Salvador",
-    "Tech/Crypto/Bitcoin/Bitcoin.md",
     "Countries",
     "Tech/Database/NoSqlDatabases",
-    "Tech/Database/Sql Databases",
-    "Tech/Database/Sql Databases",
-    "Tech/Database/NoSql Databases",
-    "Tech/Network/Attacks",
     "Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
   ]

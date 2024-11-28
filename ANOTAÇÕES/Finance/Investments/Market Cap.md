@@ -1,0 +1,1 @@
+Market Capitalization is a measure of an asset total value

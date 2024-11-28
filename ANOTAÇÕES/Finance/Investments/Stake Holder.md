@@ -1,0 +1,1 @@
+A group or Individual concerned about the running process of a organization that generally participate actively in decisions and outcomes of said organization

@@ -1,0 +1,1 @@
+[[Cryptocurrency]] alternative to the [[Bitcoin]], most altcoins were created on variations of the source code of bitcoin itself
