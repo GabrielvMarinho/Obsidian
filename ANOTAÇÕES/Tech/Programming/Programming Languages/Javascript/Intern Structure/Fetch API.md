@@ -1,18 +1,14 @@
-A tool native in [[Javascript]] to access [[API]]s
+Provides a [[JavaScript]] interface for making [[HTTP]] requests and processing the responses of [[API]]s
 
-how to use fetch:
+example:
 ```js
-const apiKey = "SUA_CHAVE_DE_API";
-const cidade = "São Paulo";
-const url = `https://api.openweathermap.org/data/2.5/weather?q=${cidade}&appid=${apiKey}&units=metric&lang=pt_br`;
-
-fetch(url)
-  .then((response) => {
-    if (!response.ok) throw new Error("Erro ao buscar dados");
-    return response.json();
-  })
-  .then((data) => {
-    console.log(`A temperatura em ${data.name} é de ${data.main.temp}°C`);
-  })
-  .catch((error) => console.error("Erro:", error));
+fetch('https://jsonplaceholder.typicode.com/posts/1')
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(error => console.error('Error:', error));
 ```
+
+1. `fetch(url)`: Makes a GET request to the provided URL.
+2. `.then(response => response.json())`: Converts the response to JSON format.
+3. `.then(data => console.log(data))`: Logs the resulting data.
+4. `.catch(error => console.error('Error:', error))`: Catches and logs any error that occurs.

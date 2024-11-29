@@ -19,3 +19,5 @@ responses:
 - **200**: Success.
 - **404**: Not Found.
 - **500**: Server error.
+
+It's common to use the same [[URL]] for an api with a different method, so /user can both select all users or insert new ones

@@ -4,77 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "81f51104c6e43ae0",
+        "id": "5e6d7b08dd3178c9",
         "type": "tabs",
         "children": [
           {
-            "id": "9bf6fad04718792d",
+            "id": "21cc961379c44b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Crypto/ShitCoins.md",
+                "file": "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ShitCoins"
+              "title": "Spring"
             }
           },
           {
-            "id": "a1c5cd4b69f60934",
+            "id": "822d550515318d65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Companies/Binance.md",
+                "file": "Spring Crud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binance"
+              "title": "Spring Crud"
             }
           },
           {
-            "id": "bf3fbf5a4d1cd6cb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d881507eeb58a83f",
+            "id": "6ddbef13b6965ffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Investments/Dumping.md",
+                "file": "Tech/Programming/Programming Languages/Javascript/Intern Structure/Fetch API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dumping"
+              "title": "Fetch API"
             }
           },
           {
-            "id": "2934cb8ebdbe10c8",
+            "id": "1931bf38f053401e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Investments/Pumping.md",
+                "file": "Spring Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pumping"
+              "title": "Spring Web"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Fetch",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,8 +216,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf3fbf5a4d1cd6cb",
+  "active": "822d550515318d65",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Fetch API.md",
+    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Fetch API.md",
+    "Spring Crud.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
+    "H2 Database.md",
+    "Spring Data JPA.md",
+    "Spring Web.md",
+    "URL.md",
+    "Tech/Software/Concepts/BACK-END/API/API.md",
+    "Tech/Software/Concepts/BACK-END/API/Methods/POST.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Security.md",
+    "Tech/Network/PROTOCOLS/HTTP/HTTP.md",
+    "HTTPS.md",
+    "Tech/Programming/Programming Languages/Java/ApiIntegration/API in Java.md",
     "Finance/Companies/Binance.md",
     "Finance/Companies",
     "China.md",
@@ -241,20 +245,7 @@
     "Finance/Investments/Stake Holder.md",
     "Finance/Investments/Dumping.md",
     "Finance/Investments/Asset.md",
-    "Finance/Investments/Demand.md",
-    "Finance/Investments/Funds.md",
-    "Finance/Investments/Market Cap.md",
-    "Finance/Investments/Money.md",
-    "Finance/Investments/Pumping.md",
-    "Finance/Investments/Supply.md",
-    "Finance/Investments/Wealth.md",
-    "Finance/Economy/Inflation.md",
-    "Finance/Economy/Currency.md",
-    "Finance/Economy/Centralized.md",
-    "Finance/Economy/Deflation.md",
     "Finance/Investments",
-    "Tech/Crypto/AltCoins.md",
-    "Untitled.md",
     "Tech/Crypto/How it Works",
     "Tech/Crypto/Bitcoin/Untitled",
     "Tech/Programming/Programming Languages/Java/ApiIntegration",
