@@ -8,59 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21cc961379c44b7e",
+            "id": "e04c8dd92061b6de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
+                "file": "Cex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring"
-            }
-          },
-          {
-            "id": "822d550515318d65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Countries/El Salvador/El Salvador.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "El Salvador"
-            }
-          },
-          {
-            "id": "36970b190ae00186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNITY/STUDSAASD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "STUDSAASD"
-            }
-          },
-          {
-            "id": "8b9f709fbddbb82d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Cex"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fetch",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,35 +173,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b9f709fbddbb82d",
+  "active": "4ec2b306d4f3811d",
   "lastOpenFiles": [
-    "UNITY/STUDSAASD.md",
-    "UNITY",
+    "Dex.md",
+    "Cex.md",
+    "Drex.md",
+    "Finance/Defi.md",
+    "XRP.md",
+    "XRP Ledger.md",
+    "Tech/Crypto/Bitcoin/Bitcoin.md",
+    "Ledger.md",
+    "Consensus protocol.md",
+    "Nodes.md",
+    "zzzzzzzzzzz/Brazil.md",
+    "zzzzzzzzzzz",
+    "zzzzzzzzzzz/UNITY/STUDSAASD.md",
+    "zzzzzzzzzzz/UNITY",
     "Countries/El Salvador/Chivo Wallet.md",
     "Countries/El Salvador/El Salvador.md",
     "Countries/El Salvador/El Salvador Bitcoin adoption.md",
-    "Bukele.md",
+    "zzzzzzzzzzz/Bukele.md",
     "Tech/Programming/Programming Languages/Python/Libs/Yfinance/Random Wallets VS IBOV Python.md",
-    "IBOV.md",
-    "Stock.md",
-    "Brazil.md",
-    "Random (Python).md",
+    "zzzzzzzzzzz/IBOV.md",
+    "zzzzzzzzzzz/Stock.md",
+    "zzzzzzzzzzz/Random (Python).md",
     "Tech/Programming/Programming Languages/Python/Libs/Yfinance/Yfinance.md",
     "Tech/Programming/Programming Languages/Python/Python.md",
     "Tech/DataScience/Data Science.md",
-    "HTTPS.md",
-    "Spring Crud.md",
+    "zzzzzzzzzzz/HTTPS.md",
+    "zzzzzzzzzzz/Spring Crud.md",
     "Tech/Programming/Programming Languages/Javascript/Intern Structure/Fetch API.md",
-    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Fetch API.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
-    "H2 Database.md",
-    "Spring Data JPA.md",
-    "Spring Web.md",
-    "URL.md",
-    "Tech/Software/Concepts/BACK-END/API/API.md",
-    "Tech/Software/Concepts/BACK-END/API/Methods/POST.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Security.md",
-    "Tech/Network/PROTOCOLS/HTTP/HTTP.md",
     "Finance/Companies",
     "Finance/Investments",
     "Tech/Crypto/How it Works",
@@ -249,7 +211,6 @@
     "Tech/Network/PROTOCOLS/HTTP",
     "Countries/El Salvador",
     "Countries",
-    "Tech/Database/NoSqlDatabases",
     "Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
   ]

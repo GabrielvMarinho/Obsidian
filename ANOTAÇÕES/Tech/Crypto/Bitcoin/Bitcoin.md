@@ -1,5 +1,8 @@
 Bitcoin is a [[Descentralized]] [[Cryptocurrency]] based on the [[Blockchain]] created by [[Satoshi Nakamoto]] in 2008, Bitcoins main idea was to create a new digital [[Currency]] where no government or organization owns.
 
+Bitcoin is not meant to everyday transaction, bu more for storing and securing money
+"Your bitcoins can be stored in your mind and thats enough"
+
 ## The genius behind It
 
 Bitcoin archtecture is a very intelligent and different approach

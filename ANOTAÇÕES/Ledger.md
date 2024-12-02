@@ -1,0 +1,1 @@
+digital record-keeping system that maintains a history of all transactions and balances on the [[Network]]
