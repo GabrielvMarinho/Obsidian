@@ -31,7 +31,7 @@ var sql = "SELECT * FROM funcionarios";
   });
 ```
 
-## [[CRUD]] Example
+## [[CRUD]] Example With [[Sql]] tables
 
 Notice how I didn't validate data, just played a bit about [[Sql Injections]] protections and nothing else:
 
@@ -113,3 +113,8 @@ app.post("/create", async(req, res) =>{
     }
 })
 ```
+
+
+## [[CRUD]] Example Without [[Sql]] tables
+
+in the prior example we used a [[MySql]] connection and just created the table in the mysql scripts, in this example we will be using other technologies to turn our tables into [[Javascript]] [[Class]]es, so not relying in sql scripts as much to create our models

@@ -18,6 +18,16 @@ Check the [[Method]]s for API interactions:
 responses:
 - **200**: Success.
 - **404**: Not Found.
+- **401**: No Permission.
 - **500**: Server error.
 
 It's common to use the same [[URL]] for an api with a different method, so /user can both select all users or insert new ones
+
+#### Security
+
+An api can be protected through roles, you can say an api can only be accessed by admins for example, you can assign a users role
+
+a specific role generates a token that identifies the role
+
+when requesting the api you can specify your role to validate the request, you basically pass it as a [[Parameter]] like a body
+

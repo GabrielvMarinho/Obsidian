@@ -1,17 +1,2 @@
 
-To Install [[Lib]] [[Maeven]] to use [[JUnit]]:
-file -> project structure -> libraries -> + ->
-digitar a versão da [[Lib]] (org.junit.jupiter:junit-jupiter:5.9.1)
-
-
-Dependencies in the [[XML]]:
-**
-<dependencies>
-   <dependency>
-       <groupId>junit</groupId>
-       <artifactId>junit</artifactId>
-       <version>3.8.1</version>
-       <scope>test</scope>
-   </dependency>
-</dependencies>
-**
+Concept of [[Function]]s or services with value used in a application 

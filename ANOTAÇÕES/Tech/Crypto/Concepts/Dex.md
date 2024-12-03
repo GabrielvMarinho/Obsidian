@@ -1,0 +1,1 @@
+Stands for a [[Descentralized]] [[Crypto Exchange]]

@@ -1,0 +1,1 @@
+Its an additional layer to the [[Spring]] [[Framework]], basically configurates a lot of thing that using only [[Spring]] would obligate you to configurate

@@ -1,9 +1,7 @@
 
-In [[Java]], we can use Spring to create a web [[Server]] for microservices and creating [[API]]s, an example:
+To initialize a [[Spring]] project we can do so
 
-This example is called an [[API REST]]: is called by an URL ([[HTTP]])
-
-To create an archive go to https://start.spring.io/ ([[Spring]] initializr)
+To create an archive go to https://start.spring.io/ 
 
 Project -> [[Maeven]]
 Language -> Java

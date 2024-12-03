@@ -1,4 +1,4 @@
-[[Open-Source]] [[Blockchain]] that uses [[Consensus protocol]] to validate transactions
+[[Open-Source]] [[Blockchain]] that uses [[Consensus Protocol]] to validate transactions
 
 ## How it works
 

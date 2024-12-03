@@ -1,0 +1,1 @@
+a raw material or primary agricultural product that can be bought and sold

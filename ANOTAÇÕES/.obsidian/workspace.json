@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e04c8dd92061b6de",
+            "id": "120d446e2bc55b3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cex.md",
+                "file": "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cex"
+              "title": "Spring"
+            }
+          },
+          {
+            "id": "e52cffbd8b36a221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zzzzzzzzzzz/Code Structure Pattern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Code Structure Pattern"
+            }
+          },
+          {
+            "id": "88e9f375eae410eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IDE"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Javasc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,44 +202,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ec2b306d4f3811d",
+  "active": "e52cffbd8b36a221",
   "lastOpenFiles": [
-    "Dex.md",
-    "Cex.md",
-    "Drex.md",
-    "Finance/Defi.md",
-    "XRP.md",
-    "XRP Ledger.md",
-    "Tech/Crypto/Bitcoin/Bitcoin.md",
-    "Ledger.md",
-    "Consensus protocol.md",
-    "Nodes.md",
-    "zzzzzzzzzzz/Brazil.md",
-    "zzzzzzzzzzz",
+    "Tech/Programming/Programming Languages/Javascript/Guide/MySql connection to Javascript.md",
+    "zzzzzzzzzzz/Code Structure Pattern.md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/Local Storage.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
+    "Tech/Database/Sql Databases/Sql.md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/Drag n Drop.md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/Creating an API with Javascript.md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/Built-in Functions Javascript.md",
+    "Tech/Programming/Programming Languages/Javascript/NodeJS.md",
+    "Tech/Programming/Programming Languages/Javascript/Javascript.md",
+    "Tech/Software/Concepts/BACK-END/API/API.md",
+    "Dependency Injections.md",
+    "Tech/Programming/Programming Paradigms/OOP/Object.md",
+    "Tech/Software/Software Testing/JUNIT/Dependencies.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Boot.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Crud.md",
+    "Tech/Crypto/How it Works/Cold Wallet.md",
+    "Tech/Programming/Programming Tools/Frameworks/Framework.md",
+    "Tech/Programming/Programming Tools/Maeven/Maeven.md",
+    "Plugin.md",
+    "IDE.md",
+    "Tech/Programming/Programming Tools/Maeven",
     "zzzzzzzzzzz/UNITY/STUDSAASD.md",
-    "zzzzzzzzzzz/UNITY",
-    "Countries/El Salvador/Chivo Wallet.md",
-    "Countries/El Salvador/El Salvador.md",
-    "Countries/El Salvador/El Salvador Bitcoin adoption.md",
+    "zzzzzzzzzzz/Brazil.md",
+    "zzzzzzzzzzz/Crypto Exchange.md",
     "zzzzzzzzzzz/Bukele.md",
-    "Tech/Programming/Programming Languages/Python/Libs/Yfinance/Random Wallets VS IBOV Python.md",
-    "zzzzzzzzzzz/IBOV.md",
-    "zzzzzzzzzzz/Stock.md",
-    "zzzzzzzzzzz/Random (Python).md",
-    "Tech/Programming/Programming Languages/Python/Libs/Yfinance/Yfinance.md",
-    "Tech/Programming/Programming Languages/Python/Python.md",
-    "Tech/DataScience/Data Science.md",
-    "zzzzzzzzzzz/HTTPS.md",
-    "zzzzzzzzzzz/Spring Crud.md",
-    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Fetch API.md",
+    "zzzzzzzzzzz/China.md",
+    "Tech/Network/PROTOCOLS/WebSocket",
+    "Tech/Network/PROTOCOLS/Consensus Protocol",
+    "Tech/Crypto/Concepts",
+    "Tech/Crypto/XRP",
+    "zzzzzzzzzzz",
+    "zzzzzzzzzzz/UNITY",
     "Finance/Companies",
     "Finance/Investments",
     "Tech/Crypto/How it Works",
-    "Tech/Crypto/Bitcoin/Untitled",
-    "Tech/Programming/Programming Languages/Java/ApiIntegration",
-    "Tech/Network/PROTOCOLS/HTTP",
-    "Countries/El Salvador",
-    "Countries",
     "Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
   ]

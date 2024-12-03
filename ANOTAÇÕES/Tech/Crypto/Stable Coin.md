@@ -1,0 +1,1 @@
+A [[Cryptocurrency]] designed to have a stable price which is typically related to a [[Commodity]]
