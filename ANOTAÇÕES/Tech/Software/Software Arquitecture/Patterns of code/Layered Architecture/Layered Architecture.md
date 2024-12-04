@@ -1,0 +1,79 @@
+How layered architecture is divided generally:
+
+## Models
+
+Represents the data structure and entities of an application  
+
+example: 
+
+```
+class User {
+    id: Integer
+    name: String
+    email: String
+    password: String  // Sensitive data not included in DTO
+    created_at: DateTime
+}
+
+```
+## DTOs (Data transfer [[Object]]s)
+
+simplify the transfer of data between layers, so like between services and controller
+
+Example:
+
+```
+class UserDTO {
+    id: Integer
+    name: String
+    email: String
+}
+```
+## Controllers
+
+Handle [[HTTP]] requests processing them through services and send responses
+
+Example:
+
+```
+ControllerFunction() {
+	services.function()
+	return true
+}
+```
+## Services 
+
+Contains the business logic and common validations, they bascially do the non-generic work, that is up to the business owner to decide (or the dev he hires)
+
+Example: 
+
+```
+ServiceFunction(object){
+	if(object == "validated"){
+		return true
+	}
+	return false
+}
+```
+## Repositories
+
+Handle the interaction with the [[DataBase]] like [[Sql]] commands
+
+Example:
+
+```
+InsertInto(id, nome){
+	Execute.Query("INSERT INTO xtable (id, name) VALUES ( {id}, {nome})")
+}
+```
+
+this function is later on called by the services generally
+## Routes
+
+Define the mapping between [[HTTP]] URLs and the controller methods to handle them
+
+Example:
+
+```
+@("/something) -> ControllerFunction()
+```
