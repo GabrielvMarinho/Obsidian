@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "120d446e2bc55b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spring"
-            }
-          },
-          {
             "id": "e52cffbd8b36a221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real.md",
+                "file": "Plano Real.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Real"
-            }
-          },
-          {
-            "id": "4af862cde5e0adfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Centavos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Centavos"
-            }
-          },
-          {
-            "id": "30d920dcdbdc170b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/JavaCrudExample.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JavaCrudExample"
-            }
-          },
-          {
-            "id": "8fb284ba56998982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Machine Learning"
-            }
-          },
-          {
-            "id": "7be9f0c62fa4a370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epoch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Epoch"
+              "title": "Plano Real"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,6 +175,21 @@
   },
   "active": "e52cffbd8b36a221",
   "lastOpenFiles": [
+    "o.md",
+    "Plano Real.md",
+    "Countries/El Salvador/Nayib Bukele.md",
+    "Countries/El Salvador/Untitled.canvas",
+    "Countries/El Salvador/El Salvador.md",
+    "zzzzzzzzzzz/Bukele.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
+    "America.md",
+    "Countries/El Salvador/Economy/El Salvador Bitcoin adoption.md",
+    "Countries/Brazil/Economy/Real.md",
+    "Countries/Brazil/Drex.md",
+    "Countries/Brazil/Economy",
+    "Drivers.md",
+    "Cruzeiro Real.md",
+    "Plugin.md",
     "Centavos.md",
     "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/JavaCrudExample.md",
     "Machine Learning.md",
@@ -256,23 +200,10 @@
     "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Crud.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Initializr.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Boot.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
     "Tech/Programming/Programming Languages/Java/Java.md",
     "Tech/Programming/Programming Languages/Javascript/Guide/Creating an API with Javascript.md",
     "Tech/Software/Concepts/BACK-END/API/API.md",
     "Tech/Programming/Programming Tools/Git/Git.md",
-    "Tech/Programming/Programming Tools/Git/Commands/git config --global pull.ff onlyUntitled.md",
-    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Fetch API.md",
-    "Tech/Programming/Programming Languages/Javascript/Guide/Built-in Functions Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Javascript.md",
-    "Real.md",
-    "Cruzeiro Real.md",
-    "Plano Real.md",
-    "zzzzzzzzzzz/Brazil.md",
-    "Countries/El Salvador/El Salvador.md",
-    "Countries/El Salvador/Economy/El Salvador Bitcoin adoption.md",
-    "Countries/El Salvador/Economy/Chivo Wallet.md",
-    "Countries/Brazil/Drex.md",
     "Countries/El Salvador/Economy",
     "Countries/Brazil/Economy",
     "Countries/Brazil",
@@ -281,7 +212,6 @@
     "Tech/Programming/Programming Tools/Maeven",
     "Tech/Network/PROTOCOLS/WebSocket",
     "Tech/Network/PROTOCOLS/Consensus Protocol",
-    "Tech/Crypto/Concepts",
     "Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
   ]

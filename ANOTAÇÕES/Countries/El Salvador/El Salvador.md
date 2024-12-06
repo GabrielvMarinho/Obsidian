@@ -14,9 +14,9 @@ Population : 6,365 million
 
 El salvador just like many Centrel [[America]] countries suffered a real problem with gangs and crime rates in your country
 
-In mach 2022 The [[Bukele]] administration lauched a crackdown implementing a state of emergency.
-This crackdown succeded in arresting a very large chunk of gang members and colaborators, the exact people that were crucial for gang communication leading to a difficultie of managing drug dealing businesses, which is their main source of reveneu
+In march 2022 The [[Nayib Bukele]] administration lauched a crackdown implementing a state of emergency.
+This crackdown succeded in arresting a very large chunk of gang members and colaborators, the exact people that were crucial for gang communication leading to a difficulties of managing drug dealing businesses, which is their main source of reveneu
 
-As of 5 November of 2024, 83.100 people were arrested accused of gang affiliation and gave El salvador the highest incarceration rate in the world of 2023
+As of 5 November of 2024, 83.100 people were arrested accused of gang affiliation, (the concept of gang affiliated was loosen) and gave El salvador the highest incarceration rate in the world of 2023
 
 
