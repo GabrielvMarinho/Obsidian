@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6d7b08dd3178c9",
+        "id": "414a40e937e17a5e",
         "type": "tabs",
         "children": [
           {
-            "id": "e52cffbd8b36a221",
+            "id": "fff0fbbaeb107d57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plano Real.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plano Real"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -173,10 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e52cffbd8b36a221",
+  "active": "fff0fbbaeb107d57",
   "lastOpenFiles": [
+    "Countries/Brazil/Economy/Plano Real.md",
+    "Itamar Franco.md",
+    "Cruzeiro (Third).md",
+    "Cruzado Novo.md",
+    "Cruzado.md",
+    "Cruzeiro (Second).md",
+    "Cruzeiro Novo.md",
+    "Primeiro Cruzeiro.md",
+    "Réis.md",
+    "Cruzeiro Real.md",
     "o.md",
-    "Plano Real.md",
     "Countries/El Salvador/Nayib Bukele.md",
     "Countries/El Salvador/Untitled.canvas",
     "Countries/El Salvador/El Salvador.md",
@@ -188,22 +193,13 @@
     "Countries/Brazil/Drex.md",
     "Countries/Brazil/Economy",
     "Drivers.md",
-    "Cruzeiro Real.md",
     "Plugin.md",
     "Centavos.md",
     "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/JavaCrudExample.md",
     "Machine Learning.md",
     "Epoch.md",
     "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
-    "Tech/Programming/Programming Languages/Java/Guide/JSON formatting in Java.md",
     "Tech/Programming/Programming Languages/Java/Libs",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Crud.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Initializr.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Boot.md",
-    "Tech/Programming/Programming Languages/Java/Java.md",
-    "Tech/Programming/Programming Languages/Javascript/Guide/Creating an API with Javascript.md",
-    "Tech/Software/Concepts/BACK-END/API/API.md",
-    "Tech/Programming/Programming Tools/Git/Git.md",
     "Countries/El Salvador/Economy",
     "Countries/Brazil/Economy",
     "Countries/Brazil",
