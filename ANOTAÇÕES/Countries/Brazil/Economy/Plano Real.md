@@ -12,7 +12,7 @@ The Plano [[Real]] was launched in 1994 by [[Itamar Franco]] and was a ground br
 6. 1989-1990 - [[Cruzado Novo]]
 7. 1990-1993 - [[Cruzeiro (Third)]]
 8. 1993-1994 - [[Cruzeiro Real]]
-9. 1994-20024 - [[Real]]
+9. 1994-2024 - [[Real]]
 
 Brazil had so many coins because of a hiperinflation problem that led to [[Inflation]] rates up to 2.500% in one year
 

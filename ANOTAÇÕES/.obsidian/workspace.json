@@ -8,16 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fff0fbbaeb107d57",
+            "id": "6ff69497080133fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "zzzzzzzzzzz/IBOV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IBOV"
+            }
+          },
+          {
+            "id": "811a208a546593a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          },
+          {
+            "id": "09c13f21e4d1924f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Programming/Programming Paradigms/Document Oriented/Document Oriented.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Document Oriented"
+            }
+          },
+          {
+            "id": "59fa391ee92fbe41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG"
+            }
+          },
+          {
+            "id": "4f4f0cc55a945531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Database/NoSqlDatabases/MongoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MongoDB"
+            }
+          },
+          {
+            "id": "31a806031ff8d92c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vectorial Databases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vectorial Databases"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Java",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,45 +244,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fff0fbbaeb107d57",
+  "active": "811a208a546593a8",
   "lastOpenFiles": [
-    "Countries/Brazil/Economy/Plano Real.md",
-    "Itamar Franco.md",
-    "Cruzeiro (Third).md",
-    "Cruzado Novo.md",
-    "Cruzado.md",
-    "Cruzeiro (Second).md",
-    "Cruzeiro Novo.md",
-    "Primeiro Cruzeiro.md",
-    "Réis.md",
-    "Cruzeiro Real.md",
-    "o.md",
-    "Countries/El Salvador/Nayib Bukele.md",
-    "Countries/El Salvador/Untitled.canvas",
-    "Countries/El Salvador/El Salvador.md",
-    "zzzzzzzzzzz/Bukele.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
-    "America.md",
-    "Countries/El Salvador/Economy/El Salvador Bitcoin adoption.md",
-    "Countries/Brazil/Economy/Real.md",
-    "Countries/Brazil/Drex.md",
-    "Countries/Brazil/Economy",
-    "Drivers.md",
-    "Plugin.md",
-    "Centavos.md",
-    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/JavaCrudExample.md",
-    "Machine Learning.md",
+    "zzzzzzzzzzz/IBOV.md",
+    "Index.md",
+    "Vectorial Databases.md",
+    "Smart Contracts.md",
     "Epoch.md",
-    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
-    "Tech/Programming/Programming Languages/Java/Libs",
-    "Countries/El Salvador/Economy",
+    "IDE.md",
+    "RAG.md",
+    "Countries/Brazil/Economy/Currencies/Primeiro Cruzeiro.md",
+    "Plugin.md",
+    "Machine Learning.md",
+    "Jaraguá do Sul.md",
+    "Tech/Database/NoSqlDatabases/MongoDB.md",
+    "America.md",
+    "Tech/Programming/Programming Paradigms/Document Oriented/Document Oriented.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Static Methods.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Object.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts",
+    "Tech/Programming/Programming Paradigms/Document Oriented",
+    "Tech/Database/DBMS.md",
+    "Countries/Brazil/Economy/Currencies/Réis.md",
+    "Finance/Companies/Weg/Inside Info.md",
+    "Tech/AI",
+    "Finance/Companies/Weg/Founders/Eggon João da Silva.md",
+    "Finance/Companies/Weg/Founders/Geraldo Werninghaus.md",
+    "Finance/Companies/Weg/Founders/Werner Ricardo Voigt.md",
+    "Finance/Companies/Weg/Founders",
+    "Countries/Brazil/Economy/Currencies/Cruzado Novo.md",
+    "Finance/Companies/Weg/WEG.md",
+    "Werner.md",
+    "Eggon.md",
+    "Finance/Companies/Weg",
+    "Finance/Companies/Binance",
+    "Countries/El Salvador/Economy/Currencies",
+    "Countries/Brazil/Economy/Currencies",
+    "Countries/El Salvador/Untitled.canvas",
     "Countries/Brazil/Economy",
-    "Countries/Brazil",
-    "Tech/Software/Software Arquitecture/Patterns of code",
-    "Tech/Software/Software Arquitecture/Patterns of code/Layered Architecture",
-    "Tech/Programming/Programming Tools/Maeven",
-    "Tech/Network/PROTOCOLS/WebSocket",
-    "Tech/Network/PROTOCOLS/Consensus Protocol",
+    "Tech/Programming/Programming Languages/Java/Libs",
     "Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
   ]

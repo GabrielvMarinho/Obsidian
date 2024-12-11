@@ -1,0 +1,1 @@
+[[Currency]] used in [[Brazil]] since Its colonization until 1942

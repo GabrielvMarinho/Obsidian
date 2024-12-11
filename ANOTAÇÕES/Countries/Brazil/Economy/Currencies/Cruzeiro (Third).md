@@ -1,0 +1,1 @@
+[[Currency]] used in [[Brazil]] from 1990 to 1993 created to replace the [[Cruzado Novo]]

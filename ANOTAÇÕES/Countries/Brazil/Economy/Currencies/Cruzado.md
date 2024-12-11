@@ -1,0 +1,1 @@
+[[Currency]] used in [[Brazil]] from 1986 to 1989 created to replace the [[Cruzeiro (Second)]]]
