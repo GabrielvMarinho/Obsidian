@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zzzzzzzzzzz/H2 Database.md",
+                "file": "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/JavaCrudExample.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "H2 Database"
+              "title": "JavaCrudExample"
             }
           },
           {
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "RETURN",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,9 +246,11 @@
   },
   "active": "811a208a546593a8",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/JavaCrudExample.md",
+    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
+    "zzzzzzzzzzz/H2 Database.md",
     "zzzzzzzzzzz/HTTPS.md",
     "zzzzzzzzzzz/IBOV.md",
-    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
     "Index.md",
     "Vectorial Databases.md",
     "Smart Contracts.md",
@@ -274,8 +276,6 @@
     "Finance/Companies/Weg/Founders/Geraldo Werninghaus.md",
     "Finance/Companies/Weg/Founders/Werner Ricardo Voigt.md",
     "Finance/Companies/Weg/Founders",
-    "Countries/Brazil/Economy/Currencies/Cruzado Novo.md",
-    "Finance/Companies/Weg/WEG.md",
     "Finance/Companies/Weg",
     "Finance/Companies/Binance",
     "Countries/El Salvador/Economy/Currencies",
