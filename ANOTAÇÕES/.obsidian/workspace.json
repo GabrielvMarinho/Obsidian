@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zzzzzzzzzzz/IBOV.md",
+                "file": "zzzzzzzzzzz/H2 Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IBOV"
+              "title": "H2 Database"
             }
           },
           {
@@ -246,9 +246,10 @@
   },
   "active": "811a208a546593a8",
   "lastOpenFiles": [
+    "zzzzzzzzzzz/HTTPS.md",
+    "zzzzzzzzzzz/IBOV.md",
     "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
     "Index.md",
-    "zzzzzzzzzzz/IBOV.md",
     "Vectorial Databases.md",
     "Smart Contracts.md",
     "Epoch.md",
@@ -275,7 +276,6 @@
     "Finance/Companies/Weg/Founders",
     "Countries/Brazil/Economy/Currencies/Cruzado Novo.md",
     "Finance/Companies/Weg/WEG.md",
-    "Werner.md",
     "Finance/Companies/Weg",
     "Finance/Companies/Binance",
     "Countries/El Salvador/Economy/Currencies",

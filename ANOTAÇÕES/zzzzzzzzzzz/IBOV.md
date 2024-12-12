@@ -1,1 +1,1 @@
-It's an [[Index]] that represents the 
+[[Index]]
