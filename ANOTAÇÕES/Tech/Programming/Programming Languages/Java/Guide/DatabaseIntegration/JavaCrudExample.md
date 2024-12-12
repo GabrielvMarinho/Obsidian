@@ -6,48 +6,98 @@ executeLargeUpdate: return how many rows were manipulated (Long)
 executeQuery: return a db query like a select
 
 
+  
+
+  
+
+
 ## Commands
 
-Select:
+table ->
+funcionario{
+	id string
+	nome string
+}
+
+Create:
 ```
-public Cliente create(Cliente cliente){  
-    try(Connection con = banco.getConnection()){  
+public Funcionario create(Funcionario funcionario){  
+    try(Connection con = db.getConnection()){  
         PreparedStatement ps = con.prepareStatement("""  
-                INSERT INTO tb_cliente(nome, cpf) VALUES(?, ?)                """,  
-                //especifies that sql has to return the generated primary keys  
-                /**you could just put a "1", because the value of  
-                 * "Statement.RETURN_GENERATED_KEYS" id "1", it's just                 * an attempt to make it look better                 **/                Statement.RETURN_GENERATED_KEYS);  
-        ps.setString(1, cliente.getNome());  
-        ps.setString(2, cliente.getCpf());  
+                INSERT INTO funcionario(nome) VALUES(?);                """, Statement.RETURN_GENERATED_KEYS);  
+        ps.setString(1, funcionario.getNome());  
+  
         ps.execute();  
-        //get the resultSet of the columns of primary keys  
+  
         ResultSet rs = ps.getGeneratedKeys();  
   
         if(rs.next()){  
-            cliente.setId(rs.getInt("id"));  
-            return cliente;  
+            funcionario.setId(rs.getInt(1));  
+            return funcionario;  
         }  
+  
+  
     }catch (SQLException e){  
-        e.printStackTrace();  
+        System.err.println(e);  
     }  
     throw new RuntimeException();  
-}
+}  
 ```
-
-Insert:
+Read:
 ```
-public void create(Cliente cliente){  
-    try(Connection con = banco.getConnection()){  
+public ArrayList<Funcionario> select(){  
+    ArrayList<Funcionario> lista = new ArrayList<>();  
+    try(Connection con = db.getConnection()){  
         PreparedStatement ps = con.prepareStatement("""  
-                INSERT INTO tb_cliente(nome, cpf) VALUES(?, ?)                """, 
-                //tells sql to return the primary keys created
-                Statement.RETURN_GENERATED_KEYS);  
-        ps.setString(1, cliente.getNome());  
-        ps.setString(2, cliente.getCpf());  
-        ps.execute();  
+                   SELECT * FROM funcionario;                """);  
+        ResultSet rs = ps.executeQuery();  
+        while(rs.next()){  
+            int id = rs.getInt("id");  
+            String nome = rs.getString("nome");  
+            lista.add(new Funcionario(id, nome));  
+        }  
+        return lista;  
     }catch (SQLException e){  
-        e.printStackTrace();  
+        System.err.println(e);  
     }  
+    throw new RuntimeException();  
+}  
+```
+Update:
+```
+public Funcionario update(int id, Funcionario funcionario){  
+    try(Connection con = db.getConnection()){  
+        PreparedStatement ps = con.prepareStatement("""  
+                UPDATE funcionario SET nome = ? WHERE id = ?;                """);  
+        ps.setString(1, funcionario.getNome());  
+        ps.setInt(2, id);  
+  
+        if(ps.executeUpdate()>0) {  
+            funcionario.setId(id);  
+            return funcionario;  
+        }  
+  
+  
+    }catch (SQLException e){  
+        System.err.println(e);  
+    }  
+    throw new RuntimeException();  
+}  
+```
+Delete:
+```
+public void delete(int id){  
+    try(Connection con = db.getConnection()){  
+        PreparedStatement ps = con.prepareStatement("""  
+                DELETE FROM funcionario WHERE id = ?;                """);  
+        ps.setInt(1, id);  
+        if(ps.executeUpdate()>0){  
+            return;  
+        }  
+    }catch (SQLException e){  
+        System.err.println(e);  
+    }  
+    throw new RuntimeException();  
 }
 ```
 
