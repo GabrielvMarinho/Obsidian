@@ -1,1 +1,0 @@
-one complete pass of the training dataset through the algorithm

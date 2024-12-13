@@ -1,1 +1,1 @@
-[[Method]] to send data to an [[API]] 
+[[Method]] to send [[Data]] to an [[API]] 

@@ -22,7 +22,7 @@ Bitcoin has this low number of validation due to several reasons:
 1. The time taken to validate a block from the blockchain (10 minutes)
 2. The maximum storage of a single block (close to 2MB)
 
-firstly, 1MB of data can storage a total of only 4000 transactions and since each block is created every 10 minutes it can only process 4000/10x60 = 6.6 transactions
+firstly, 1MB of [[Data]] can storage a total of only 4000 transactions and since each block is created every 10 minutes it can only process 4000/10x60 = 6.6 transactions
 
 Why not only add more MB or lower the time to validate a block?
 

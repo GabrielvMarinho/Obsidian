@@ -2,7 +2,7 @@ J - [[Javascript]]
 O - [[Object]]
 N - Notation
 
-A lightwheight format for storing and trasnporting data
+A lightwheight format for storing and trasnporting [[Data]]
 
 It works with a key value system like this:
 

@@ -1,1 +1,1 @@
-A set of rules used for trasmitting data between eletronic devices.
+A set of rules used for trasmitting [[Data]] between eletronic devices.

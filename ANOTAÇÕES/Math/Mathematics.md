@@ -1,0 +1,1 @@
+The study of numbers, shapes, patterns, fractions, etc.

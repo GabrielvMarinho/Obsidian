@@ -1,1 +1,1 @@
-It's an organized way to store, manage and retrieve data
+It's an organized way to store, manage and retrieve [[Data]]

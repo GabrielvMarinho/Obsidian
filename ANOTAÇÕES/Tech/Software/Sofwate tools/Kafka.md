@@ -1,6 +1,6 @@
 Kafka is an [[Open-Source]] [[Asynchronous]] tool created by [[Apache]], It's written in [[Java]] and [[Scala]]
 
-Kafka is used to treat data in real time
+Kafka is used to treat [[Data]] in real time
 
 Can be used to test and run [[Micro Services]] as well as [[API]]s
 

@@ -2,7 +2,7 @@ How layered architecture is divided generally:
 
 ## Models
 
-Represents the data structure and entities of an application  
+Represents the [[Data]] structure and entities of an application  
 
 example: 
 
@@ -18,7 +18,7 @@ class User {
 ```
 ## DTOs (Data transfer [[Object]]s)
 
-simplify the transfer of data between layers, so like between services and controller
+simplify the transfer of [[Data]] between layers, so like between services and controller
 
 Example:
 

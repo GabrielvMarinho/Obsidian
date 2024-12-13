@@ -1,0 +1,1 @@
+[[Software]] that works like an extensions of an existing and bigger one, adding features and [[Function|Functions]] externally and a lot of times the relation of the bigger [[Software]] with the plugin happens through an [[API]]

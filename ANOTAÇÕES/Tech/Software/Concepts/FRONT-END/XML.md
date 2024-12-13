@@ -1,1 +1,1 @@
-It is a software- and hardware-independent tool for storing and transporting data that works for front-end development similarly to [[HTML]]
+It is a software- and hardware-independent tool for storing and transporting [[Data]] that works for front-end development similarly to [[HTML]]

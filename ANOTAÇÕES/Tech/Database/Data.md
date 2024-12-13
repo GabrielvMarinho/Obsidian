@@ -1,0 +1,1 @@
+the quantities, characters, or symbols on which operations are performed by a [[Computer]], being stored and transmitted in the form of electrical signals and recorded on magnetic, optical, or mechanical recording media

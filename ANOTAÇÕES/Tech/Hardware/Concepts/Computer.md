@@ -1,1 +1,1 @@
-An electronic device for storing and processing data, typically in [[Binary]] form
+An electronic device for storing and processing [[Data]], typically in [[Binary]] form

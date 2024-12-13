@@ -1,4 +1,4 @@
-local storage in [[Javascript]] can really help you save important info about a user, it can save data without exactly using a [[DataBase]]
+local storage in [[Javascript]] can really help you save important info about a user, it can save [[Data]] without exactly using a [[DataBase]]
 
 It works with a key value format, like a [[JSON]] file
 ## Commands

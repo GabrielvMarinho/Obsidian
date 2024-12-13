@@ -2,4 +2,4 @@ I - [[Internet]]
 O - Of
 T - Things
 
-The science that studies the sharing data through the internet
+The science that studies the sharing [[Data]] through the internet

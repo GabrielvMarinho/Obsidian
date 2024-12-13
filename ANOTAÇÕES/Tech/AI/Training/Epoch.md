@@ -1,0 +1,1 @@
+Refers to one complete pass of the entire training dataset through the learning algorithm of an [[Artificial Intelligence]] tool

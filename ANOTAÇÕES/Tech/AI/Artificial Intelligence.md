@@ -1,0 +1,1 @@
+Also know as AI is the technology that enabes [[Computer|Computers]] tho simulate human like learning and is generally the most vast concept when it comes to this camp
