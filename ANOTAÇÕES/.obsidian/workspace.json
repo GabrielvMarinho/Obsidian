@@ -67,10 +67,14 @@
             "id": "6065dcb4bdfdf9e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "zzzzzzzzzzz/Code Structure Pattern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Code Structure Pattern"
             }
           },
           {
@@ -177,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "models",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +208,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -298,6 +303,8 @@
   },
   "active": "6065dcb4bdfdf9e1",
   "lastOpenFiles": [
+    "Tech/Software/Concepts/BACK-END/BackEnd.md",
+    "zzzzzzzzzzz/Code Structure Pattern.md",
     "Tech/Crypto/Bitcoin/Bitcoin Mining.md",
     "Tech/Hardware/Hardware.md",
     "Tech/Software/Concepts/MISCELLANEOUS/Internet.md",
@@ -310,7 +317,6 @@
     "Tech/Database/Data.md",
     "Bolsa Família.md",
     "zzzzzzzzzzz/China.md",
-    "zzzzzzzzzzz/Code Structure Pattern.md",
     "zzzzzzzzzzz/Crypto Exchange.md",
     "zzzzzzzzzzz/URL.md",
     "Tech/Software/Concepts/FRONT-END/XML.md",
@@ -324,7 +330,6 @@
     "Tech/Programming/Programming Languages/Javascript/Guide/Local Storage.md",
     "Tech/Software/Software Arquitecture/Patterns of code/Layered Architecture/Layered Architecture.md",
     "Tech/Software/Sofwate tools/Kafka.md",
-    "Tech/Database/JSON.md",
     "Tech/Database/Vectorial Databases",
     "Untitled.canvas",
     "Tech/Programming/Programming Paradigms/OOP/Concepts",
