@@ -1,7 +1,8 @@
 Compilation automation Tool used primarily in [[Java]]
 
-It helps to manage their project and the thing they need to build their programs
+It helps to manage their project and the thing they need to build their programs ([[Dependency Injections]])
 
+It's written in [[XML]]
 ## Commands
 
 ./mvnw clean - cleans the target/ directory (which stores the compiled files and build outputs)

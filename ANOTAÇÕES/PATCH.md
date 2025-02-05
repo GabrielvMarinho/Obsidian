@@ -1,0 +1,1 @@
+[[Method]] Similar to [[PUT]] but a smaller change compared to

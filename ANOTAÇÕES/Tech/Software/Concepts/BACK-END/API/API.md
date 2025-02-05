@@ -12,8 +12,9 @@ APIs can be [[Synchronous]] or [[Asynchronous]], generally they are Asynchronous
 Check the [[Method]]s for API interactions:
 1. [[GET]]
 2. [[POST]]
-3. [[PUT]]
+3. [[PUT]] or [[PATCH]]
 4. [[DELETE]]
+Technically all those methods could be unified, however Its a [[Network]] interest to know whatever is happeing, how many [[POST]] [[API Request]]s are happenning and so on, aswell as the code being easier to read
 
 responses:
 - **200**: Success.
