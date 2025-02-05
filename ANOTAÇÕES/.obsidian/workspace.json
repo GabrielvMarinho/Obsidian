@@ -4,151 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "414a40e937e17a5e",
+        "id": "a6af6a13b515c16b",
         "type": "tabs",
         "children": [
           {
-            "id": "811a208a546593a8",
+            "id": "2cd436a277be0410",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/AI/Artificial Intelligence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Artificial Intelligence"
-            }
-          },
-          {
-            "id": "e654cccee8f991f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/AI/Training/RAG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RAG"
-            }
-          },
-          {
-            "id": "43c8740f7df0fa5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/AI/Training/Fine Tunning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fine Tunning"
-            }
-          },
-          {
-            "id": "659ddb8bc806c03f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/AI/Training/Fine Tunning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fine Tunning"
-            }
-          },
-          {
-            "id": "6065dcb4bdfdf9e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/Express/Express.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Express"
-            }
-          },
-          {
-            "id": "e0095616ad540dce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLMs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLMs"
-            }
-          },
-          {
-            "id": "164063ea04cc8ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reinforcement Learning"
-            }
-          },
-          {
-            "id": "8f17b87521fffee2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Artificial Intelligence"
-            }
-          },
-          {
-            "id": "af35a1184ac376d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mathematics"
-            }
-          },
-          {
-            "id": "632b326e8eaf6289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vectors"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "express",
+                "query": "DTO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,11 +85,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 536.5
   },
   "right": {
     "id": "e63ac7d47820a968",
@@ -301,37 +170,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6065dcb4bdfdf9e1",
+  "active": "2cd436a277be0410",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Tools/Frameworks/Framework.md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/MVC Architecture pattern to Javascript.md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/MySql connection to Javascript.md",
+    "Tech/Programming/Programming Languages/Javascript/Javascript.md",
+    "Reinforcement Learning.md",
+    "LLMs.md",
+    "Tech/Software/Software Arquitecture/Patterns of code/Layered Architecture/Layered Architecture (MVC).md",
+    "Tech/Programming/Programming Paradigms/OOP/OOP.md",
+    "Tech/Software/Software.md",
+    "zzzzzzzzzzz/UNITY/STUDSAASD.md",
+    "MVC.md",
     "zzzzzzzzzzz/Code Structure Pattern.md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/Creating an API with Javascript.md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/Built-in Functions Javascript.md",
+    "Untitled.canvas",
+    "Tech/Database/Vectorial Databases/Vectors.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Interface (Poo).md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/Using MVC.md",
+    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Call Stack Javascript.md",
+    "Tech/Programming/Programming Tools/Callback.md",
+    "Tech/Programming/Programming Languages/Javascript/Promise (JS).md",
+    "Bolsa Família.md",
+    "Tech/Programming/Programming Tools/Frameworks/Express/Express.md",
+    "Tech/Programming/Programming Tools/Git/Git.md",
+    "Untitled",
+    "Tech/Programming/Programming Tools/Frameworks/Framework.md",
     "Tech/Software/Concepts/BACK-END/BackEnd.md",
     "Tech/Crypto/Bitcoin/Bitcoin Mining.md",
     "Tech/Hardware/Hardware.md",
-    "Tech/Software/Concepts/MISCELLANEOUS/Internet.md",
-    "Tech/Programming/Programming Languages/Python/Libs/MatPlotLib/MatplotLib with Yfinances.md",
-    "Tech/AI/Training/RAG.md",
-    "Tech/AI/Machine Learning.md",
     "Tech/AI/Training",
-    "Tech/AI/Training/Fine Tunning.md",
-    "LLMs.md",
-    "Tech/Database/Data.md",
-    "Bolsa Família.md",
-    "zzzzzzzzzzz/China.md",
-    "zzzzzzzzzzz/Crypto Exchange.md",
-    "zzzzzzzzzzz/URL.md",
-    "Tech/Software/Concepts/FRONT-END/XML.md",
-    "Tech/Database/Sql Databases/Sql.md",
-    "Tech/Software/Concepts/BACK-END/API/Methods/PUT.md",
-    "Tech/Network/PROTOCOLS/Protocol.md",
-    "Tech/Software/Concepts/BACK-END/API/Methods/POST.md",
-    "Tech/Network/P2P.md",
-    "Tech/Database/NoSqlDatabases/NoSql.md",
-    "Tech/Programming/Programming Languages/Python/Libs/MatPlotLib/MatplotLib and Pandas.md",
-    "Tech/Programming/Programming Languages/Javascript/Guide/Local Storage.md",
-    "Tech/Software/Software Arquitecture/Patterns of code/Layered Architecture/Layered Architecture.md",
     "Tech/Database/Vectorial Databases",
-    "Untitled.canvas",
     "Tech/Programming/Programming Paradigms/OOP/Concepts",
     "Tech/Programming/Programming Paradigms/Document Oriented",
     "Tech/AI",
@@ -339,7 +209,6 @@
     "Finance/Companies/Weg",
     "Finance/Companies/Binance",
     "Countries/El Salvador/Economy/Currencies",
-    "Countries/Brazil/Economy/Currencies",
     "Countries/El Salvador/Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
   ]

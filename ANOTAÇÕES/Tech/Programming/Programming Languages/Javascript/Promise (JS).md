@@ -1,0 +1,1 @@
+In [[Javascript]] the promise is an [[Object]] representing the eventual completion or failure of an [[Asynchronous]] operation, basically when something will happen but is not immediate
