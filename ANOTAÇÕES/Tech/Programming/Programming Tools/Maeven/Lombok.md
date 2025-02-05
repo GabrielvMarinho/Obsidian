@@ -1,0 +1,1 @@
+A [[Maeven]] [[Dependencies|Dependency]] to reduce boilerplate code, therefore being very used in [[OOP]] [[Software]] development

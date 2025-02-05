@@ -42,6 +42,20 @@
             }
           },
           {
+            "id": "51be2f24173e56e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Programming/Programming Tools/Maeven/Lombok.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lombok"
+            }
+          },
+          {
             "id": "ff969db34ec6893a",
             "type": "leaf",
             "state": {
@@ -84,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spring",
+                "query": "mae",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,8 +251,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97364b2a1c01d259",
+  "active": "4ec2b306d4f3811d",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Tools/Maeven/Maeven.md",
+    "Tech/Software/Sofwate tools/Software.md",
+    "Tech/Programming/Programming Tools/Maeven/Lombok.md",
+    "[Maeven.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Boot.md",
     "Tech/Software/Concepts/FRONT-END/XML.md",
@@ -249,7 +267,6 @@
     "Tech/Software/Concepts/BACK-END/API/API.md",
     "Endpoints.md",
     "Tech/Programming/Programming Tools/Git/Git.md",
-    "Tech/Programming/Programming Tools/Maeven/Maeven.md",
     "Tech/Programming/Programming Languages/Javascript/JSX.md",
     "Syntax extension.md",
     "Syntax.md",
@@ -264,9 +281,6 @@
     "Tech/Programming/Programming Languages/Javascript/Javascript.md",
     "Reinforcement Learning.md",
     "LLMs.md",
-    "Tech/Software/Software Arquitecture/Patterns of code/Layered Architecture/Layered Architecture (MVC).md",
-    "Tech/Programming/Programming Paradigms/OOP/OOP.md",
-    "Tech/Software/Software.md",
     "Untitled.canvas",
     "Untitled",
     "Tech/AI/Training",
