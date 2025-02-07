@@ -8,79 +8,65 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Tech/IoT  ",
+      "query": "path:AgileMethodology  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 0
       }
     },
     {
-      "query": "path:Tech/Cloud  ",
+      "query": "path:Countries  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 0
       }
     },
     {
-      "query": "path:Tech/Crypto  ",
+      "query": "path:Finance  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 0
       }
     },
     {
-      "query": "path:Tech/Network  ",
+      "query": "path:\"Foreign Languages\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 0
       }
     },
     {
-      "query": "path:Tech/Database  ",
+      "query": "path:Math  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 0
       }
     },
     {
-      "query": "path:Tech/Hardware ",
+      "query": "path:Tech  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 0
       }
     },
     {
-      "query": "path:Tech/Software  ",
+      "query": "path:zzzzzzzzzzz  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:Tech/DataScience  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "path:Tech/Programming  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
+        "rgb": 0
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -1.5,
-  "nodeSizeMultiplier": 1.4015625,
-  "lineSizeMultiplier": 0.355208333333333,
+  "showArrow": true,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.60572916666667,
+  "lineSizeMultiplier": 0.3296875,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 8.22916666666667,
-  "linkStrength": 0.317708333333333,
-  "linkDistance": 30,
-  "scale": 0.0831742783592758,
+  "centerStrength": 0.661458333333333,
+  "repelStrength": 17.2916666666667,
+  "linkStrength": 0.854166666666667,
+  "linkDistance": 409,
+  "scale": 0.08317427835927584,
   "close": false
 }
