@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6af6a13b515c16b",
+        "id": "f708ab43d948c626",
         "type": "tabs",
         "children": [
           {
-            "id": "2cd436a277be0410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/Next.js/NEXT.js.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NEXT.js"
-            }
-          },
-          {
-            "id": "e299eee28964beb8",
+            "id": "f01c864a6deacd04",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -30,79 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "51be2f24173e56e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Machine Learning/Training/Hyperparameters/Hyperparameter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hyperparameter"
-            }
-          },
-          {
-            "id": "bf369392e0b42914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Crypto/Bitcoin/Satoshi Nakamoto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Satoshi Nakamoto"
-            }
-          },
-          {
-            "id": "ff969db34ec6893a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syntax extension.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Syntax extension"
-            }
-          },
-          {
-            "id": "a172ed09dde8357a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syntax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Syntax"
-            }
-          },
-          {
-            "id": "3912441e029c53f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/React/React.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "React"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "machine",
+                "query": "mono",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,8 +170,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e299eee28964beb8",
+  "active": "f01c864a6deacd04",
   "lastOpenFiles": [
+    "zzzzzzzzzzz/Matrix.md",
+    "Countries/Brazil/Economy/Currencies/Real.md",
+    "Finance/Investments/Dumping.md",
+    "Tech/Cloud/Services/SAAS.md",
+    "zzzzzzzzzzz/Cerebrum.md",
+    "zzzzzzzzzzz/Cerebellum.md",
+    "zzzzzzzzzzz/Cranium.md",
+    "zzzzzzzzzzz/Tissue.md",
+    "zzzzzzzzzzz/Arachnoid Membrane.md",
+    "zzzzzzzzzzz/Blood Vessels.md",
+    "Tech/Crypto/How it Works/Proof of Work.md",
+    "zzzzzzzzzzz/Blood.md",
+    "zzzzzzzzzzz/Pia Matter.md",
+    "zzzzzzzzzzz/Dura Mater.md",
+    "zzzzzzzzzzz/Brain.md",
+    "zzzzzzzzzzz/Brainstem.md",
+    "zzzzzzzzzzz/Module.md",
+    "Tech/Software/Software Arquitecture/Distributed Monolithic.md",
+    "Tech/Software/Software Arquitecture/Monolithic.md",
     "Tech/Crypto/Bitcoin/Satoshi Nakamoto.md",
     "zzzzzzzzzzz/Unsupervised Learning.md",
     "Untitled.canvas",
@@ -266,28 +200,9 @@
     "Tech/Machine Learning/Training/Logistic Regression/Metrics/Acurracy.md",
     "Tech/Machine Learning/Training/Logistic Regression/Logistic Regression.md",
     "Tech/Machine Learning/Training/Logistic Regression/Metrics",
-    "Tech/Machine Learning/Training/Logistic Regression/Recall.md",
-    "Tech/Machine Learning/Training/Logistic Regression/Sigmoid Function.md",
-    "Math/Pareto Principle.md",
-    "Tech/Machine Learning/Training/Linear Regression/Linear Progression.md",
     "Tech/Machine Learning/Training/Logistic Regression",
     "Tech/Machine Learning/Training/Linear Regression",
-    "Tech/Machine Learning/Training/Classification Threshold.md",
-    "Tech/Machine Learning/Gradient Descent.md",
-    "Tech/Machine Learning/Machine Learning.md",
-    "Tech/Machine Learning/Training/Hyperparameters/Learning Rate (ML).md",
-    "Tech/Machine Learning/Training/Hyperparameters/Batch Size.md",
-    "Tech/Machine Learning/Training/Hyperparameters/Epoch.md",
-    "Tech/Machine Learning/Training/Hyperparameters/Hyperparameter.md",
-    "Tech/Machine Learning/Training/RAG.md",
     "Tech/Machine Learning/Training/Hyperparameters",
-    "Tech/Machine Learning/Training/Fine Tunning.md",
-    "Tech/Programming/Programming Tools/Maeven/Lombok.md",
-    "Tech/Programming/Programming Tools/Maeven/Maeven.md",
-    "Tech/Software/Sofwate tools/Software.md",
-    "[Maeven.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Boot.md",
     "Tech/Programming/Programming Tools/Frameworks/React",
     "Tech/Programming/Programming Tools/Frameworks/Next.js",
     "Untitled",

@@ -1,0 +1,1 @@
+The part of your [[Brain]] that interprets the five senses of your body, its the largest part of the brain divided into the left and right hemispheres

@@ -1,0 +1,1 @@
+The part of your [[Brain]] that regulates many automatic body functions that you are not aware, like breathing and heart rate

@@ -1,0 +1,1 @@
+The part of your [[Brain]] that maintains your balance, posture, coordination and fine motor skills, its located in the back of the brain and is a small circle

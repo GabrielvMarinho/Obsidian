@@ -1,0 +1,1 @@
+ A [[Monolithic]] architecture where the system is [[Module|modularized]] but still depends on one service to another, so different from a [[Micro Services]]

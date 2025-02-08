@@ -1,0 +1,1 @@
+The middle layer has a thin layer of [[Tissue]] that covers your entire [[Brain]]
