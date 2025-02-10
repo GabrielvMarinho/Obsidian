@@ -12,7 +12,7 @@ The flow of the application is basically:
 6. the repository executes the [[Sql]] command
 7. based on the response from the database, he turns it into a model
 8. the model is sent to services 
-9. the model is turned into a DTO in the service layers
+9. the model is turned into a [[DTO]] in the service layers
 10. the DTO is sent to the controller layer
 11. the DTO is turned into plain text (maybe should have been done in the service layer)
 12. the text is sent to the person who requested the [[API]]
