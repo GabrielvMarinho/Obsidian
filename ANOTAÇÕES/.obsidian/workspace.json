@@ -4,20 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "f708ab43d948c626",
+        "id": "414a40e937e17a5e",
         "type": "tabs",
         "children": [
           {
-            "id": "f01c864a6deacd04",
+            "id": "811a208a546593a8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Tech/AI/Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artificial Intelligence"
+            }
+          },
+          {
+            "id": "e654cccee8f991f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/AI/Training/RAG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG"
+            }
+          },
+          {
+            "id": "43c8740f7df0fa5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/AI/Training/Fine Tunning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fine Tunning"
+            }
+          },
+          {
+            "id": "659ddb8bc806c03f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/AI/Training/Fine Tunning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fine Tunning"
+            }
+          },
+          {
+            "id": "6065dcb4bdfdf9e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Programming/Programming Languages/Javascript/Guide/MVC Architecture pattern to Javascript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MVC Architecture pattern to Javascript"
+            }
+          },
+          {
+            "id": "e0095616ad540dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLMs"
+            }
+          },
+          {
+            "id": "164063ea04cc8ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reinforcement Learning"
+            }
+          },
+          {
+            "id": "8f17b87521fffee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artificial Intelligence"
+            }
+          },
+          {
+            "id": "af35a1184ac376d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mathematics"
+            }
+          },
+          {
+            "id": "632b326e8eaf6289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vectors"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -50,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mono",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 328.5
   },
   "right": {
     "id": "e63ac7d47820a968",
@@ -170,45 +301,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f01c864a6deacd04",
+  "active": "6065dcb4bdfdf9e1",
   "lastOpenFiles": [
-    "zzzzzzzzzzz/Matrix.md",
-    "Countries/Brazil/Economy/Currencies/Real.md",
-    "Finance/Investments/Dumping.md",
-    "Tech/Cloud/Services/SAAS.md",
-    "zzzzzzzzzzz/Cerebrum.md",
-    "zzzzzzzzzzz/Cerebellum.md",
-    "zzzzzzzzzzz/Cranium.md",
-    "zzzzzzzzzzz/Tissue.md",
-    "zzzzzzzzzzz/Arachnoid Membrane.md",
-    "zzzzzzzzzzz/Blood Vessels.md",
-    "Tech/Crypto/How it Works/Proof of Work.md",
-    "zzzzzzzzzzz/Blood.md",
-    "zzzzzzzzzzz/Pia Matter.md",
-    "zzzzzzzzzzz/Dura Mater.md",
-    "zzzzzzzzzzz/Brain.md",
-    "zzzzzzzzzzz/Brainstem.md",
-    "zzzzzzzzzzz/Module.md",
-    "Tech/Software/Software Arquitecture/Distributed Monolithic.md",
-    "Tech/Software/Software Arquitecture/Monolithic.md",
-    "Tech/Crypto/Bitcoin/Satoshi Nakamoto.md",
-    "zzzzzzzzzzz/Unsupervised Learning.md",
-    "Untitled.canvas",
-    "Tech/Machine Learning/Training/Logistic Regression/Metrics/Precision.md",
+    "Tech/Programming/Programming Languages/Javascript/JSX.md",
+    "Tech/Programming/Programming Tools/Frameworks/Express/Express.md",
+    "Tech/Programming/Programming Tools/Maeven/Lombok.md",
+    "Tech/Programming/Programming Tools/Frameworks/React/React.md",
+    "Tech/Programming/Programming Tools/Frameworks/React",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/NEXT.js.md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js",
     "Tech/Machine Learning/Training/Logistic Regression/Metrics/Recall.md",
+    "Tech/Machine Learning/Training/Logistic Regression/Metrics/Precision.md",
     "Tech/Machine Learning/Training/Logistic Regression/Metrics/False Positive Rate.md",
     "Tech/Machine Learning/Training/Logistic Regression/Metrics/Acurracy.md",
-    "Tech/Machine Learning/Training/Logistic Regression/Logistic Regression.md",
     "Tech/Machine Learning/Training/Logistic Regression/Metrics",
+    "Tech/Machine Learning/Training/Logistic Regression/Sigmoid Function.md",
+    "Tech/Machine Learning/Training/Hyperparameters/Hyperparameter.md",
+    "Tech/Machine Learning/Training/Logistic Regression/Logistic Regression.md",
+    "Tech/Machine Learning/Training/Hyperparameters/Batch Size.md",
+    "Tech/Machine Learning/Training/Hyperparameters/Learning Rate (ML).md",
+    "Tech/Machine Learning/Training/Linear Regression/Linear Progression.md",
+    "Tech/Machine Learning/Training/Hyperparameters/Epoch.md",
+    "Tech/Machine Learning/Training/RAG.md",
     "Tech/Machine Learning/Training/Logistic Regression",
     "Tech/Machine Learning/Training/Linear Regression",
     "Tech/Machine Learning/Training/Hyperparameters",
-    "Tech/Programming/Programming Tools/Frameworks/React",
-    "Tech/Programming/Programming Tools/Frameworks/Next.js",
-    "Untitled",
+    "Tech/Machine Learning/Training/Classification Threshold.md",
+    "Tech/Machine Learning/Training/Fine Tunning.md",
     "Tech/Machine Learning/Training",
+    "Tech/Machine Learning/Machine Learning.md",
+    "Tech/Machine Learning/Artificial Intelligence.md",
+    "Tech/Machine Learning/Gradient Descent.md",
+    "Tech/Machine Learning",
+    "Tech/Programming/Programming Tools/Frameworks/Framework.md",
+    "zzzzzzzzzzz/Code Structure Pattern.md",
+    "Tech/Software/Concepts/BACK-END/BackEnd.md",
+    "Tech/Crypto/Bitcoin/Bitcoin Mining.md",
+    "Tech/AI/Training",
     "Tech/Database/Vectorial Databases",
-    "Tech/Programming/Programming Paradigms/OOP/Concepts",
+    "Untitled.canvas",
     "Countries/El Salvador/Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
   ]

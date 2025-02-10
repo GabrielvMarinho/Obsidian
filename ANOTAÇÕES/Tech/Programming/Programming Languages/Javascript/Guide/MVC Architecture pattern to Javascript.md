@@ -1,5 +1,8 @@
 Let's see how to do a [[Layered Architecture (MVC)]]] pattern code in [[Javascript]]
 
+ta certo a importação do connection ta certo ser no repository?
+o controller é responsavel pelo res ou poderia ser na ultima camada (repository)?
+
 The flow of the application is basically:
 1. the app is started in app.js 
 2. app.js requires the routes;
@@ -20,11 +23,11 @@ good to pay attention to the fact that every thing related to the business logic
 
 ```js
 const selectService = require("../SERVICES/userService.js")
-const con = require("../SERVICES/dbCon.js")
+
 
 async function selectController(req, res){
     try{
-        const userSTOs = await selectService(con)
+        const userSTOs = await selectService()
         var texto = ""
         for(var i=0;  i<userSTOs.length; i++){
             texto += "| id: "+userSTOs[i].id + " - nome: "+ userSTOs[i].nome
@@ -64,8 +67,9 @@ module.exports = UserModel
 #### userRepository
 ```js
 const userModel = require("../MODEL/userModel")
+const con = require("../SERVICES/dbCon.js")
 
-async function selectRepository(con, sql){
+async function selectRepository(sql){
 
     return new Promise(resolve =>{
         con.query(sql, function (err, result) {
@@ -123,7 +127,7 @@ const userDTO = require("../DTOs/userDTOs")
 async function selectService(con){
     //the sql command and the dto are defined here because they correlate to the business logic
     var sql = `SELECT * FROM usuario`;
-    const users = await selectRepository(con, sql)
+    const users = await selectRepository(sql)
     var usersDTOs = [];
     
     for(var i=0; i<users.length; i++){
