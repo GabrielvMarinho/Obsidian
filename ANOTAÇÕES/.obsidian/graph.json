@@ -6,67 +6,17 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:AgileMethodology  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:Countries  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:Finance  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:\"Foreign Languages\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:Math  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:Tech  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:zzzzzzzzzzz  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.3,
   "nodeSizeMultiplier": 2.0140625,
   "lineSizeMultiplier": 0.3296875,
   "collapse-forces": false,
-  "centerStrength": 0.677083333333333,
-  "repelStrength": 14.1666666666667,
-  "linkStrength": 1,
-  "linkDistance": 50,
-  "scale": 0.1166089157945747,
+  "centerStrength": 0.3125,
+  "repelStrength": 10.625,
+  "linkStrength": 0.911458333333333,
+  "linkDistance": 500,
+  "scale": 0.08317427835927613,
   "close": false
 }

@@ -1,0 +1,1 @@
+Stands for User Interface, its the construction of an interface that is used by the user to navigate/control a design or software

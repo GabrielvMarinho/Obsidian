@@ -1,0 +1,1 @@
+Stands for User Experience, is related to how the user or client experience a certain product/design
