@@ -1,0 +1,1 @@
+In [[React]] hooks are built in functions to store [[Data]] temporarily, like user info in a form or selected item in a list
