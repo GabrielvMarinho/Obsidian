@@ -1,0 +1,1 @@
+Is a text-encoding which dictactes the structure and formatting of a document

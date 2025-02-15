@@ -1,1 +1,1 @@
-Hyper Text Markup Language used in front-end development and static pages creation
+Hyper Text [[Markup Language]] used in front-end development and static pages creation
