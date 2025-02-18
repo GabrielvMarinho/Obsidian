@@ -1,0 +1,1 @@
+Is generated concatenating the 48 bit [[MAC]] address and the 60 bit timestamp

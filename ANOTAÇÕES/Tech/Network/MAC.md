@@ -1,0 +1,1 @@
+A unique identifier attributed to an interface of a [[Network]] 

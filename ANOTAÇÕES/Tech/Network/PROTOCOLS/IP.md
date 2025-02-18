@@ -1,0 +1,1 @@
+Its [[Internet]] [[Protocol]] address is a numeric value atributted to each [[Computer]] using the [[Network]]

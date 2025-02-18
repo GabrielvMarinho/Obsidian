@@ -1,0 +1,1 @@
+A class that does everything and is not divided in [[Module]]s as it should
