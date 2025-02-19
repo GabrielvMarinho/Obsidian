@@ -1,1 +1,1 @@
-NodeJs is a [[Computer]] environment to run [[Javascript]] in the [[BackEnd]] withou relying on having to run Javascript on a [[Browser]]
+NodeJs is a [[Computer]] environment to run [[Javascript]] in the [[BackEnd]] or an [[API]] without relying on having to run Javascript on a [[Browser]]

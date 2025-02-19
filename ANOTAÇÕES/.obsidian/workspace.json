@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "414a40e937e17a5e",
+        "id": "b231bc743f33ed9a",
         "type": "tabs",
         "children": [
           {
-            "id": "55e7a96703e9e731",
+            "id": "10255cfa216fec52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Software Arquitecture/Patterns of software/SOA/SOA.md",
+                "file": "Tech/Software/Software Arquitecture/Design Patterns/Builder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOA"
+              "title": "Builder"
             }
           },
           {
-            "id": "6ecad748194063ec",
+            "id": "6c5ac25b534c12b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Security.md",
+                "file": "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Security"
+              "title": "Branch"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "secu",
+                "query": "branch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,13 +189,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ec2b306d4f3811d",
+  "active": "6c5ac25b534c12b5",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Paradigms/OOP/OOP.md",
+    "Tech/Programming/Programming Paradigms/OOP/Constructor.md",
+    "Tech/Software/Software Arquitecture/Design Patterns/Builder.md",
+    "Tech/Software/Software Arquitecture/Design Patterns/Design Patterns.md",
+    "Tech/Machine Learning/Training/Hyperparameters/Hyperparameter.md",
+    "Tech/Programming/Programming Languages/Python/Libs/Yfinance/Random Wallets VS IBOV Python.md",
+    "Tech/Programming/Programming Tools/Frameworks/Express/Express.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Pageable (Interface).md",
+    "Tech/Software/Software Arquitecture/Patterns of software/SOA/SOA.md",
+    "Tech/Programming/Programming Languages/Javascript/NodeJS.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Security.md",
     "Perguntas.md",
     "SEO.md",
     "Tech/Software/Software Arquitecture/Patterns of software/ESB.md",
-    "Tech/Software/Software Arquitecture/Patterns of software/SOA/SOA.md",
     "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Micro Services.md",
     "Tech/Software/Software Arquitecture/Patterns of software/Layered Architecture/Layered Architecture (MVC).md",
     "Tech/Software/Software Arquitecture/Software Architecture.md",
@@ -209,16 +219,6 @@
     "zzzzzzzzzzz/Drivers.md",
     "zzzzzzzzzzz/UNITY/STUDSAASD.md",
     "Tech/Programming/Programming Tools/Libraries/React/Hooks/UseState.md",
-    "Tech/Programming/Programming Tools/Libraries/React/Hooks/Hooks (React).md",
-    "zzzzzzzzzzz/URL.md",
-    "Tech/Software/Concepts/BACK-END/API/Endpoints.md",
-    "zzzzzzzzzzz/Dura Mater.md",
-    "Tech/Programming/Programming Paradigms/God Class.md",
-    "zzzzzzzzzzz/DTO.md",
-    "Tech/Network/PROTOCOLS/IP.md",
-    "Tech/Network/MAC.md",
-    "Tech/Software/Concepts/MISCELLANEOUS/UUID.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Merge.md",
     "Tech/Programming/Programming Tools/Documentation",
     "Tech/Programming/Programming Tools/Libraries/React/Hooks/Untitled",
     "Tech/Programming/Programming Tools/Libraries/React/Hooks",

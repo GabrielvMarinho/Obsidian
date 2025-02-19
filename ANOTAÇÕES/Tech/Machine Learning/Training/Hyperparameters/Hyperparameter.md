@@ -1,4 +1,4 @@
-Is a variable that controls different aspects of training a [[Machine Learning]] model
+Is a [[Parameter]] that controls different aspects of training a [[Machine Learning]] model
 
 Examples:
 1. [[Learning Rate (ML)]]

@@ -1,0 +1,1 @@
+A [[Design Patterns]] to dinamically create [[Instance]]s of [[Class]]es without having to create various [[Constructor]]

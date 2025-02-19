@@ -13,6 +13,7 @@ the [[Class]] contains spring configurations
 Define a bean inside a configuration [[Class]]
 ##### @Autowired
 Injects [[Dependencies]] automatically managed by spring
+
 ## Spring Initializr
 
 To start a spring project you can go to [[Spring Initializr]]

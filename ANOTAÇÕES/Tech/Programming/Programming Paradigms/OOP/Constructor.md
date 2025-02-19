@@ -1,0 +1,1 @@
+The [[Method]] to  [[Instance|Instaciate]] a [[Object]]
