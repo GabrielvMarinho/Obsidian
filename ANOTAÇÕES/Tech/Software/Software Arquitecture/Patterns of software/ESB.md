@@ -1,0 +1,1 @@
+A [[Software]] architecture pattern that supports real-time [[Data]] exchange between disparate application, like when you are using a [[SOA]]

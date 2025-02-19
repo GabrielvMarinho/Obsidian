@@ -1,1 +1,1 @@
-A[[Software]] Component that lets the operating system and a device communicate with each other
+A [[Software]] Component that lets the operating system and a device communicate with each other

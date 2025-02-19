@@ -1,5 +1,9 @@
 How layered architecture is divided generally:
 
+Model - Service, repository, model (Backend)
+Controller -  Intermediador Back e Front
+View - (Frontend)
+
 ## Models
 
 Represents the [[Data]] structure and entities of an application  
@@ -31,6 +35,7 @@ class UserDTO {
 ```
 ## Controllers
 
+Just the middleman
 Handle [[HTTP]] requests processing them through services and send responses
 
 Example:

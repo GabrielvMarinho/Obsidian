@@ -1,0 +1,1 @@
+Service Oriented Architecture is a [[Software Architecture]] that divides the software in services, not as much especific as [[Micro Services]], they are a more especific approach

@@ -8,45 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c586e2c7e75bd079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lugares sem site.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lugares sem site"
-            }
-          },
-          {
-            "id": "edfa8c6ff6fb699c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Software/Concepts/MISCELLANEOUS/UUID.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UUID"
-            }
-          },
-          {
             "id": "55e7a96703e9e731",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Software/Software Arquitecture/Patterns of software/SOA/SOA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOA"
+            }
+          },
+          {
+            "id": "6ecad748194063ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Security"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IP",
+                "query": "secu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 316.5
   },
   "right": {
     "id": "e63ac7d47820a968",
@@ -199,8 +189,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55e7a96703e9e731",
+  "active": "4ec2b306d4f3811d",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Security.md",
+    "Perguntas.md",
+    "SEO.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/ESB.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/SOA/SOA.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Micro Services.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/Layered Architecture/Layered Architecture (MVC).md",
+    "Tech/Software/Software Arquitecture/Software Architecture.md",
+    "Tech/IoT/IoT.md",
+    "Tech/Software/Software Arquitecture/SOLID.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/SOA/Monolithic.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/SOA/Distributed Monolithic.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/Monolithic",
+    "Lugares sem site.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/SOA",
+    "zzzzzzzzzzz/Drivers.md",
+    "zzzzzzzzzzz/UNITY/STUDSAASD.md",
+    "Tech/Programming/Programming Tools/Libraries/React/Hooks/UseState.md",
+    "Tech/Programming/Programming Tools/Libraries/React/Hooks/Hooks (React).md",
     "zzzzzzzzzzz/URL.md",
     "Tech/Software/Concepts/BACK-END/API/Endpoints.md",
     "zzzzzzzzzzz/Dura Mater.md",
@@ -209,25 +218,8 @@
     "Tech/Network/PROTOCOLS/IP.md",
     "Tech/Network/MAC.md",
     "Tech/Software/Concepts/MISCELLANEOUS/UUID.md",
-    "Lugares sem site.md",
     "Tech/Programming/Programming Tools/Git/Commands/Merge.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
-    "Tech/Programming/Programming Tools/Git/Git.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Pull.md",
-    "SEO.md",
-    "zzzzzzzzzzz/Dependency Injections.md",
-    "Tech/Programming/Programming Tools/Documentation/Asciidoc.md",
-    "Tech/Software/Concepts/FRONT-END/HTML.md",
-    "Tech/Programming/Programming Tools/Documentation/Markup Language.md",
     "Tech/Programming/Programming Tools/Documentation",
-    "Tech/Programming/Programming Tools/Libraries/React/Hooks/UseState.md",
-    "Tech/Programming/Programming Tools/Libraries/React/Hooks/Hooks (React).md",
-    "Tech/Programming/Programming Tools/Frameworks/Next.js/NEXT.js.md",
-    "Tech/Machine Learning/Training/Logistic Regression/Metrics/False Positive Rate.md",
-    "Tech/Machine Learning/Training/Logistic Regression/Metrics/Acurracy.md",
-    "Tech/Machine Learning/Training/Logistic Regression/Metrics/Recall.md",
-    "Tech/Machine Learning/Training/Logistic Regression/Metrics/Precision.md",
-    "Tech/DataScience/Data Science.md",
     "Tech/Programming/Programming Tools/Libraries/React/Hooks/Untitled",
     "Tech/Programming/Programming Tools/Libraries/React/Hooks",
     "Design",
@@ -235,8 +227,6 @@
     "Tech/Programming/Programming Tools/Libraries/React",
     "Tech/Programming/Programming Tools/Frameworks/Next.js",
     "Tech/Machine Learning/Training/Logistic Regression/Metrics",
-    "Tech/Machine Learning/Training/Logistic Regression",
-    "Tech/Machine Learning/Training/Linear Regression",
     "Untitled.canvas",
     "Countries/El Salvador/Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
