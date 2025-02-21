@@ -2,5 +2,11 @@ Merge combines changes from one branch (source branch) into another branch (targ
 
 to merge two branches:
 ```
-git merge "nomeBranch"
+git merge "nomeBranch" "outroNome"
+```
+
+to copy the main into your branch
+
+```
+git merge origin/main
 ```

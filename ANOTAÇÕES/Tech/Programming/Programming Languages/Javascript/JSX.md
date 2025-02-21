@@ -1,1 +1,1 @@
-It's a [[Javascript]] [[Syntax extension]]
+It's a [[Javascript]] [[Syntax extension]] created by [[React]] that lets you write [[HTML]] and [[Javascript]] together
