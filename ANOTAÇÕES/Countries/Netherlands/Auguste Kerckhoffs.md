@@ -1,0 +1,1 @@
+Born in the [[Netherlands]] and a teacher, most famous for his published paper in 1883 (_La Cryptographie Militaire_)

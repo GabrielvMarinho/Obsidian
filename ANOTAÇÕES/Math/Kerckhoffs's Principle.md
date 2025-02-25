@@ -1,0 +1,1 @@
+Staged by [[Auguste Kerckhoffs]], the principle says that a [[CryptoSystem]] should be secure, even if everything about the system is public, except for the key

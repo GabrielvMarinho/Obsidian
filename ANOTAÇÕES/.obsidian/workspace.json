@@ -4,38 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "b231bc743f33ed9a",
+        "id": "b7b95ebf04d6349a",
         "type": "tabs",
         "children": [
           {
-            "id": "10255cfa216fec52",
+            "id": "2eb774f349c79c01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Git/Commands/Merge.md",
+                "file": "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge"
+              "title": "Branch"
             }
           },
           {
-            "id": "6c5ac25b534c12b5",
+            "id": "2b78a9ef7c31bdc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Git/Commands/Merge.md",
+                "file": "Math/Kerckhoffs's Principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge"
+              "title": "Kerckhoffs's Principle"
+            }
+          },
+          {
+            "id": "6f2e00d89a966fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Kerckhoffs's Principle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kerckhoffs's Principle"
+            }
+          },
+          {
+            "id": "a0cc2def50fed4f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Countries/Netherlands/Auguste Kerckhoffs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auguste Kerckhoffs"
+            }
+          },
+          {
+            "id": "b18715f47122971a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -68,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "merge",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,44 +227,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10255cfa216fec52",
+  "active": "b18715f47122971a",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Merge.md",
-    "Tech/Software/Software Arquitecture/Design Patterns/Builder.md",
-    "Tech/Programming/Programming Languages/Javascript/JSX.md",
-    "Tech/Programming/Programming Tools/Frameworks/Next.js/NEXT.js.md",
-    "Tech/Programming/Programming Paradigms/OOP/OOP.md",
-    "Tech/Programming/Programming Paradigms/OOP/Constructor.md",
-    "Tech/Software/Software Arquitecture/Design Patterns/Design Patterns.md",
-    "Tech/Machine Learning/Training/Hyperparameters/Hyperparameter.md",
-    "Tech/Programming/Programming Languages/Python/Libs/Yfinance/Random Wallets VS IBOV Python.md",
-    "Tech/Programming/Programming Tools/Frameworks/Express/Express.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Pageable (Interface).md",
-    "Tech/Software/Software Arquitecture/Patterns of software/SOA/SOA.md",
-    "Tech/Programming/Programming Languages/Javascript/NodeJS.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Security.md",
-    "Perguntas.md",
+    "Countries/Netherlands/Auguste Kerckhoffs.md",
+    "Math/Kerckhoffs's Principle.md",
+    "Countries/Netherlands/Netherlands.md",
+    "Countries/Netherlands",
+    "Math/CryptoSystem.md",
+    "Important People",
+    "Lugares sem site.md",
     "SEO.md",
-    "Tech/Software/Software Arquitecture/Patterns of software/ESB.md",
-    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Micro Services.md",
-    "Tech/Software/Software Arquitecture/Patterns of software/Layered Architecture/Layered Architecture (MVC).md",
-    "Tech/Software/Software Arquitecture/Software Architecture.md",
-    "Tech/IoT/IoT.md",
-    "Tech/Software/Software Arquitecture/SOLID.md",
-    "Tech/Software/Software Arquitecture/Patterns of software/SOA/Monolithic.md",
-    "Tech/Software/Software Arquitecture/Patterns of software/SOA/Distributed Monolithic.md",
+    "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
+    "Tech/Network/Attacks/DooS.md",
+    "zzzzzzzzzzz/China.md",
+    "Tech/Software/Sofwate tools/Oauth2.md",
+    "Tech/Programming/Programming Tools/Git/Git.md",
+    "Tech/Programming/Programming Tools/Function.md",
+    "Tech/Programming/Programming Tools/Git/Commands/Merge.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
+    "Documentação Vans (2)/Cadastro e acesso (se aplicável) 8cb1bc54.md",
+    "Documentação Vans (2)/Configurações e + dd3f9e0a.md",
+    "Documentação Vans (2)/Design Icônico 167c6052.md",
+    "Documentação Vans (2)/Dicas e Atalhos 64abb1d6.md",
+    "Documentação Vans (2)/Erros Comuns e Soluções 15212d31.md",
+    "Documentação Vans (2)/História af0a50dc.md",
+    "Documentação Vans (2)/index.md",
+    "Documentação Vans (2)/VANS d5d873a1.md",
+    "Documentação Vans (2)/Conclusão 86160cc2.md",
+    "Documentação Vans (2)/files/e9797155-bb88-4430-a049-0000cd97e8e1/image.png",
+    "Documentação Vans (2)/files/b70f4a74-8269-4b8b-88da-8a0f5dff4275/Captura de tela 2025-02-21 211727.png",
+    "Documentação Vans (2)/files/afc9a33a-eb3c-4595-92bf-867fcd2b511b/Captura de tela 2025-02-21 211839.png",
+    "Documentação Vans (2)/files/4dfe7ff0-e30c-497b-9b3c-a22a995b3b7b/Captura de tela 2025-02-21 213306.png",
+    "Documentação Vans (2)/files/435787ed-d8da-4cee-bca6-5945b47d3576/Captura de tela 2025-02-21 213903.png",
+    "Documentação Vans (2)/files/e9797155-bb88-4430-a049-0000cd97e8e1",
+    "Documentação Vans (2)/files/b70f4a74-8269-4b8b-88da-8a0f5dff4275",
+    "Documentação Vans (2)/files/afc9a33a-eb3c-4595-92bf-867fcd2b511b",
+    "Documentação Vans (2)/files/4dfe7ff0-e30c-497b-9b3c-a22a995b3b7b",
+    "Documentação Vans (2)/files/435787ed-d8da-4cee-bca6-5945b47d3576",
+    "Documentação Vans (2)/Pré-requisitos para Uso e955cf6e.md",
+    "Documentação Vans (2)/Referências e Créditos 237ab42b.md",
+    "Documentação Vans (2)/files",
+    "Documentação Vans (2)",
     "Tech/Software/Software Arquitecture/Patterns of software/Monolithic",
-    "Tech/Software/Software Arquitecture/Patterns of software/SOA",
-    "Tech/Programming/Programming Tools/Documentation",
-    "Tech/Programming/Programming Tools/Libraries/React/Hooks/Untitled",
-    "Tech/Programming/Programming Tools/Libraries/React/Hooks",
-    "Design",
-    "Tech/Programming/Programming Tools/Libraries",
-    "Tech/Programming/Programming Tools/Libraries/React",
-    "Tech/Programming/Programming Tools/Frameworks/Next.js",
-    "Tech/Machine Learning/Training/Logistic Regression/Metrics",
     "Untitled.canvas",
     "Countries/El Salvador/Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
