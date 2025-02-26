@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2eb774f349c79c01",
+            "id": "24c5e7f2db6e1b9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,61 +20,8 @@
               "icon": "lucide-file",
               "title": "Branch"
             }
-          },
-          {
-            "id": "2b78a9ef7c31bdc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Kerckhoffs's Principle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kerckhoffs's Principle"
-            }
-          },
-          {
-            "id": "6f2e00d89a966fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Kerckhoffs's Principle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kerckhoffs's Principle"
-            }
-          },
-          {
-            "id": "a0cc2def50fed4f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Countries/Netherlands/Auguste Kerckhoffs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Auguste Kerckhoffs"
-            }
-          },
-          {
-            "id": "b18715f47122971a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "branch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,8 +174,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b18715f47122971a",
+  "active": "24c5e7f2db6e1b9f",
   "lastOpenFiles": [
+    "Tech/Software/Software Arquitecture/SOLID.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/Monolithic/Distributed Monolithic.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/Monolithic/Monolithic.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/SOA/SOA.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Micro Services.md",
+    "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
+    "Untitled.md",
+    "Tech/Programming/Programming Tools/Git/Git.md",
     "Countries/Netherlands/Auguste Kerckhoffs.md",
     "Math/Kerckhoffs's Principle.md",
     "Countries/Netherlands/Netherlands.md",
@@ -237,11 +192,9 @@
     "Important People",
     "Lugares sem site.md",
     "SEO.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
     "Tech/Network/Attacks/DooS.md",
     "zzzzzzzzzzz/China.md",
     "Tech/Software/Sofwate tools/Oauth2.md",
-    "Tech/Programming/Programming Tools/Git/Git.md",
     "Tech/Programming/Programming Tools/Function.md",
     "Tech/Programming/Programming Tools/Git/Commands/Merge.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
@@ -251,9 +204,6 @@
     "Documentação Vans (2)/Dicas e Atalhos 64abb1d6.md",
     "Documentação Vans (2)/Erros Comuns e Soluções 15212d31.md",
     "Documentação Vans (2)/História af0a50dc.md",
-    "Documentação Vans (2)/index.md",
-    "Documentação Vans (2)/VANS d5d873a1.md",
-    "Documentação Vans (2)/Conclusão 86160cc2.md",
     "Documentação Vans (2)/files/e9797155-bb88-4430-a049-0000cd97e8e1/image.png",
     "Documentação Vans (2)/files/b70f4a74-8269-4b8b-88da-8a0f5dff4275/Captura de tela 2025-02-21 211727.png",
     "Documentação Vans (2)/files/afc9a33a-eb3c-4595-92bf-867fcd2b511b/Captura de tela 2025-02-21 211839.png",
@@ -264,8 +214,6 @@
     "Documentação Vans (2)/files/afc9a33a-eb3c-4595-92bf-867fcd2b511b",
     "Documentação Vans (2)/files/4dfe7ff0-e30c-497b-9b3c-a22a995b3b7b",
     "Documentação Vans (2)/files/435787ed-d8da-4cee-bca6-5945b47d3576",
-    "Documentação Vans (2)/Pré-requisitos para Uso e955cf6e.md",
-    "Documentação Vans (2)/Referências e Créditos 237ab42b.md",
     "Documentação Vans (2)/files",
     "Documentação Vans (2)",
     "Tech/Software/Software Arquitecture/Patterns of software/Monolithic",

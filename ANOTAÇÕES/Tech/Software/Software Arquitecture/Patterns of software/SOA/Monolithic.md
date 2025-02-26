@@ -1,1 +1,0 @@
-A monolithic structures [[Software Architecture]] represents an approach where the [[BackEnd]], [[FrontEnd]] and [[DataBase]] lies on the same program.
