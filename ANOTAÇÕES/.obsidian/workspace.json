@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
+                "file": "Tech/Programming/Programming Tools/Frameworks/Next.js/Loading Handling (Next.js).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Branch"
+              "title": "Loading Handling (Next.js)"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "branch",
+                "query": "next",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,12 +176,16 @@
   },
   "active": "24c5e7f2db6e1b9f",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/Error Handling (Next.js).md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/Loading Handling (Next.js).md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/Folder Groups (Next.js).md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/NEXT.js.md",
+    "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
     "Tech/Software/Software Arquitecture/SOLID.md",
     "Tech/Software/Software Arquitecture/Patterns of software/Monolithic/Distributed Monolithic.md",
     "Tech/Software/Software Arquitecture/Patterns of software/Monolithic/Monolithic.md",
     "Tech/Software/Software Arquitecture/Patterns of software/SOA/SOA.md",
     "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Micro Services.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
     "Untitled.md",
     "Tech/Programming/Programming Tools/Git/Git.md",
     "Countries/Netherlands/Auguste Kerckhoffs.md",
@@ -200,10 +204,6 @@
     "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
     "Documentação Vans (2)/Cadastro e acesso (se aplicável) 8cb1bc54.md",
     "Documentação Vans (2)/Configurações e + dd3f9e0a.md",
-    "Documentação Vans (2)/Design Icônico 167c6052.md",
-    "Documentação Vans (2)/Dicas e Atalhos 64abb1d6.md",
-    "Documentação Vans (2)/Erros Comuns e Soluções 15212d31.md",
-    "Documentação Vans (2)/História af0a50dc.md",
     "Documentação Vans (2)/files/e9797155-bb88-4430-a049-0000cd97e8e1/image.png",
     "Documentação Vans (2)/files/b70f4a74-8269-4b8b-88da-8a0f5dff4275/Captura de tela 2025-02-21 211727.png",
     "Documentação Vans (2)/files/afc9a33a-eb3c-4595-92bf-867fcd2b511b/Captura de tela 2025-02-21 211839.png",
