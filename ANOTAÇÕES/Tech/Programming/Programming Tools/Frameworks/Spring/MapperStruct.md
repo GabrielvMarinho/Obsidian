@@ -1,0 +1,1 @@
+[[Spring]] [[Lib]] to facilitate the conversion of [[DTO|DTOs]] and entities in the app

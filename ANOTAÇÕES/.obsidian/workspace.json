@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/Next.js/Loading Handling (Next.js).md",
+                "file": "Tech/Programming/Programming Languages/Java/Guide/Record.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loading Handling (Next.js)"
+              "title": "Record"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "next",
+                "query": "java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,10 +176,14 @@
   },
   "active": "24c5e7f2db6e1b9f",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Tools/Frameworks/Next.js/Error Handling (Next.js).md",
-    "Tech/Programming/Programming Tools/Frameworks/Next.js/Loading Handling (Next.js).md",
-    "Tech/Programming/Programming Tools/Frameworks/Next.js/Folder Groups (Next.js).md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/MapperStruct.md",
+    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
+    "Tech/Programming/Programming Languages/Java/Guide/Record.md",
+    "Tech/Programming/Programming Languages/Java/Java.md",
     "Tech/Programming/Programming Tools/Frameworks/Next.js/NEXT.js.md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/Loading Handling (Next.js).md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/Error Handling (Next.js).md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/Folder Groups (Next.js).md",
     "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
     "Tech/Software/Software Arquitecture/SOLID.md",
     "Tech/Software/Software Arquitecture/Patterns of software/Monolithic/Distributed Monolithic.md",
@@ -200,10 +204,6 @@
     "zzzzzzzzzzz/China.md",
     "Tech/Software/Sofwate tools/Oauth2.md",
     "Tech/Programming/Programming Tools/Function.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Merge.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
-    "Documentação Vans (2)/Cadastro e acesso (se aplicável) 8cb1bc54.md",
-    "Documentação Vans (2)/Configurações e + dd3f9e0a.md",
     "Documentação Vans (2)/files/e9797155-bb88-4430-a049-0000cd97e8e1/image.png",
     "Documentação Vans (2)/files/b70f4a74-8269-4b8b-88da-8a0f5dff4275/Captura de tela 2025-02-21 211727.png",
     "Documentação Vans (2)/files/afc9a33a-eb3c-4595-92bf-867fcd2b511b/Captura de tela 2025-02-21 211839.png",
