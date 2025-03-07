@@ -11,20 +11,20 @@
       "query": "path:/",
       "color": {
         "a": 1,
-        "rgb": 4236620
+        "rgb": 11563758
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 1.19739583333333,
-  "lineSizeMultiplier": 0.559375,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.7078125,
+  "lineSizeMultiplier": 0.355208333333333,
   "collapse-forces": false,
-  "centerStrength": 0.942708333333333,
-  "repelStrength": 15.5208333333333,
-  "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.6316046762907662,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0,
+  "linkDistance": 500,
+  "scale": 0.0301828950673242,
   "close": false
 }

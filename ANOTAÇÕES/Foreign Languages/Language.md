@@ -1,0 +1,1 @@
+[[Method]] for communication used by living beings to transmit ideas
