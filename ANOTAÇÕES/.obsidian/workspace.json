@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Java/Guide/Record.md",
+                "file": "Tech/Programming/Programming Tools/Frameworks/Spring/@Bean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Record"
+              "title": "@Bean"
+            }
+          },
+          {
+            "id": "b406cac3ab275d0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "java",
+                "query": "framewo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,11 +185,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24c5e7f2db6e1b9f",
+  "active": "b406cac3ab275d0a",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Paradigms/Programming Paradigms.md",
+    "Tech/Programming/Programming Tools/Git/Git.md",
+    "Tech/Programming/Programming Tools/Libraries/React/React.md",
+    "Tech/Programming/Programming Tools/Libraries/ModelMapper.md",
+    "Tech/Programming/Programming Tools/Frameworks/Framework.md",
+    "Tech/Software/Concepts/MISCELLANEOUS/Lib.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/@Bean.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/@Configuration.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
+    "Tech/Programming/Programming Languages/Java/Guide/Record.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/MapperStruct.md",
     "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
-    "Tech/Programming/Programming Languages/Java/Guide/Record.md",
     "Tech/Programming/Programming Languages/Java/Java.md",
     "Tech/Programming/Programming Tools/Frameworks/Next.js/NEXT.js.md",
     "Tech/Programming/Programming Tools/Frameworks/Next.js/Loading Handling (Next.js).md",
@@ -191,19 +211,10 @@
     "Tech/Software/Software Arquitecture/Patterns of software/SOA/SOA.md",
     "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Micro Services.md",
     "Untitled.md",
-    "Tech/Programming/Programming Tools/Git/Git.md",
     "Countries/Netherlands/Auguste Kerckhoffs.md",
     "Math/Kerckhoffs's Principle.md",
-    "Countries/Netherlands/Netherlands.md",
     "Countries/Netherlands",
-    "Math/CryptoSystem.md",
     "Important People",
-    "Lugares sem site.md",
-    "SEO.md",
-    "Tech/Network/Attacks/DooS.md",
-    "zzzzzzzzzzz/China.md",
-    "Tech/Software/Sofwate tools/Oauth2.md",
-    "Tech/Programming/Programming Tools/Function.md",
     "Documentação Vans (2)/files/e9797155-bb88-4430-a049-0000cd97e8e1/image.png",
     "Documentação Vans (2)/files/b70f4a74-8269-4b8b-88da-8a0f5dff4275/Captura de tela 2025-02-21 211727.png",
     "Documentação Vans (2)/files/afc9a33a-eb3c-4595-92bf-867fcd2b511b/Captura de tela 2025-02-21 211839.png",
