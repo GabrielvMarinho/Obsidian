@@ -1,0 +1,1 @@
+[[Spring]] annotation to represent a [[Class]] as an entity in the [[DataBase]]

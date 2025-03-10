@@ -1,0 +1,1 @@
+[[Spring]] attribute of [[@NtoN]] used in bidirectional relationships to specify which side of the relationship owns the association
