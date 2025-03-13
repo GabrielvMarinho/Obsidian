@@ -1,0 +1,1 @@
+JPA is a set of rules used as a [[Dependencies|Dependency]] in [[Spring]] to create, manage and use [[Interface (Poo)|Interfaces]] to execute [[DataBase]] queries 

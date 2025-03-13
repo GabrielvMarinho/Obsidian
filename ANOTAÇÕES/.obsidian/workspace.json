@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "c35a7177f9daba67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Entity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Entity"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jpa",
+                "query": "JPA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,20 +173,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c35a7177f9daba67",
+  "active": "1f271eb0eafb032a",
   "lastOpenFiles": [
+    "Tech/Database/DataBase.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Data JPA/Queries/Spring Data JPA Queries.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Data JPA/Spring Data JPA.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Data JPA/Queries",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Data JPA",
+    "Untitled.canvas",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Entity.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@NtoN.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/Attributes/MappedBy.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/Attributes/CascadeType.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/Attributes",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Entity.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Configuration.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Anota",
     "Biology/Human.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Bean.md",
-    "zzzzzzzzzzz/Spring Data JPA.md",
-    "Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/Git.md",
     "Math/Constants.md",
     "Mammal.md",
@@ -219,7 +209,6 @@
     "Tech/Programming/Programming Languages/Java/Guide/Record.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/MapperStruct.md",
     "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
-    "Tech/Programming/Programming Languages/Java/Java.md",
     "Countries/Netherlands",
     "Important People",
     "Documentação Vans (2)/files/e9797155-bb88-4430-a049-0000cd97e8e1/image.png",
@@ -228,9 +217,6 @@
     "Documentação Vans (2)/files/4dfe7ff0-e30c-497b-9b3c-a22a995b3b7b/Captura de tela 2025-02-21 213306.png",
     "Documentação Vans (2)/files/435787ed-d8da-4cee-bca6-5945b47d3576/Captura de tela 2025-02-21 213903.png",
     "Documentação Vans (2)/files/e9797155-bb88-4430-a049-0000cd97e8e1",
-    "Documentação Vans (2)/files/b70f4a74-8269-4b8b-88da-8a0f5dff4275",
-    "Documentação Vans (2)/files/afc9a33a-eb3c-4595-92bf-867fcd2b511b",
-    "Documentação Vans (2)/files/4dfe7ff0-e30c-497b-9b3c-a22a995b3b7b",
     "Countries/El Salvador/Untitled.canvas",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
   ]
