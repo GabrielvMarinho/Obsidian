@@ -1,0 +1,1 @@
+represents a single value from a [[Data Source (ScadaBR)]], like temperature or humidity

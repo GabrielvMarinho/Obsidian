@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "bad81284f075dfde",
+    "id": "90da667b75891ade",
     "type": "split",
     "children": [
       {
-        "id": "b7b95ebf04d6349a",
+        "id": "abc910f9b53e7dde",
         "type": "tabs",
         "children": [
           {
-            "id": "3d78623d1065c0de",
+            "id": "3bed378b342216fe",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,37 +23,33 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7d06ca3122a5441f",
+    "id": "f9757853a4f89f09",
     "type": "split",
     "children": [
       {
-        "id": "96aa640986e876b1",
+        "id": "f8d7fe239cd77a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f1064677104eef",
+            "id": "8f1f7d4f96272fcb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "file-explorer",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "1f271eb0eafb032a",
+            "id": "c8bea44d8cca6b54",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "JPA",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "a97cd49e79944445",
+            "id": "a5098ab00fd31935",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,41 +69,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "4ec2b306d4f3811d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 300
   },
   "right": {
-    "id": "e63ac7d47820a968",
+    "id": "da8e93ab09e1d88e",
     "type": "split",
     "children": [
       {
-        "id": "608ae9fd8dd66ec5",
+        "id": "c8a11d97332754a7",
         "type": "tabs",
         "children": [
           {
-            "id": "2c142ea90796f9f2",
+            "id": "ac5353428d0f056b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech/Hardware/PLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,43 +100,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for PLC"
             }
           },
           {
-            "id": "d67238e5b8633f5a",
+            "id": "fa2eaa501292163a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech/Hardware/PLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from PLC"
             }
           },
           {
-            "id": "3ed4eaedc65fb229",
+            "id": "cd8b42ed4fd8b14d",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "ace916905623175c",
+            "id": "617385e289503f77",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Tech/Hardware/PLC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of PLC"
             }
           }
         ]
@@ -165,59 +156,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "1f271eb0eafb032a",
+  "active": "3bed378b342216fe",
   "lastOpenFiles": [
-    "Tech/Database/DataBase.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Data JPA/Queries/Spring Data JPA Queries.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Data JPA/Spring Data JPA.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Data JPA/Queries",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Data JPA",
-    "Untitled.canvas",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Entity.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@NtoN.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/Attributes/MappedBy.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/Attributes/CascadeType.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/Attributes",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Configuration.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Anota",
-    "Biology/Human.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Bean.md",
-    "Tech/Programming/Programming Tools/Git/Git.md",
-    "Math/Constants.md",
-    "Mammal.md",
-    "Biology",
-    "Foreign Languages/Language.md",
-    "zzzzzzzzzzz/Syntax.md",
-    "SEO.md",
-    "Math/Kerckhoffs's Principle.md",
-    "Tech/Programming/Programming Paradigms/Programming Paradigms.md",
-    "Tech/Programming/Programming Tools/Libraries/React/React.md",
-    "Tech/Programming/Programming Tools/Libraries/ModelMapper.md",
-    "Tech/Programming/Programming Tools/Frameworks/Framework.md",
-    "Tech/Software/Concepts/MISCELLANEOUS/Lib.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring.md",
-    "Tech/Programming/Programming Languages/Java/Guide/Record.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/MapperStruct.md",
-    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
-    "Countries/Netherlands",
-    "Important People",
-    "Documentação Vans (2)/files/e9797155-bb88-4430-a049-0000cd97e8e1/image.png",
-    "Documentação Vans (2)/files/b70f4a74-8269-4b8b-88da-8a0f5dff4275/Captura de tela 2025-02-21 211727.png",
-    "Documentação Vans (2)/files/afc9a33a-eb3c-4595-92bf-867fcd2b511b/Captura de tela 2025-02-21 211839.png",
-    "Documentação Vans (2)/files/4dfe7ff0-e30c-497b-9b3c-a22a995b3b7b/Captura de tela 2025-02-21 213306.png",
-    "Documentação Vans (2)/files/435787ed-d8da-4cee-bca6-5945b47d3576/Captura de tela 2025-02-21 213903.png",
-    "Documentação Vans (2)/files/e9797155-bb88-4430-a049-0000cd97e8e1",
-    "Countries/El Salvador/Untitled.canvas",
-    "Tech/Programming/Programming Tools/Git/GitFlow.canvas"
+    "PIB.md",
+    "Tech/Programming/Programming Tools/Docker/Containers (Docker).md",
+    "Tech/Programming/Programming Tools/Docker/Docker.md",
+    "Tech/Programming/Programming Tools/Docker/Images (Docker).md",
+    "USD.md",
+    "Tech/Software/Concepts/BACK-END/API/API.md",
+    "CPU.md",
+    "Tech/Hardware/PLC.md",
+    "Tech/Hardware/Hardware.md",
+    "Tech/Software/Sofwate tools/Software.md",
+    "Tech/Database/Data.md",
+    "zzzzzzzzzzz/Drivers.md"
   ]
 }

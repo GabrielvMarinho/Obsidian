@@ -1,0 +1,1 @@
+[[Software]] that is based on the [[SCADA]] protocol, used to create [[Network]] communications and work on [[IoT]]project

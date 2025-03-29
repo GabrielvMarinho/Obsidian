@@ -1,0 +1,1 @@
+[[Protocol]] that allows devices to communicate in a scada system

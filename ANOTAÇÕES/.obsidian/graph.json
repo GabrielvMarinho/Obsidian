@@ -8,23 +8,128 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:/",
+      "query": "path:AgileMethodology  ",
       "color": {
         "a": 1,
         "rgb": 6531043
+      }
+    },
+    {
+      "query": "path:Countries  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Biology  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Design  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Finance  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Foreign Languages\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Math  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Tech/Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:Tech/Cloud  ",
+      "color": {
+        "a": 1,
+        "rgb": 10048224
+      }
+    },
+    {
+      "query": "path:Tech/Crypto  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Tech/Network  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Tech/Database  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Tech/Hardware  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Tech/Software  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Tech/DataScience  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Tech/DataScience  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 0.6359375,
-  "lineSizeMultiplier": 0.40625,
+  "nodeSizeMultiplier": 1.65636363636364,
+  "lineSizeMultiplier": 0.492727272727273,
   "collapse-forces": false,
-  "centerStrength": 0.567708333333333,
-  "repelStrength": 14.8958333333333,
+  "centerStrength": 0.474359925788497,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.08317427835927568,
-  "close": true
+  "linkDistance": 86,
+  "scale": 0.04972021026335186,
+  "close": false
 }

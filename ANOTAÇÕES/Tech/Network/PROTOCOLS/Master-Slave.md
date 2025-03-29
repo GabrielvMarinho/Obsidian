@@ -1,0 +1,1 @@
+[[Computer|Computational]] model that defines a relationship between a master and slaves, very used in [[Network|Networks]] and [[Protocol|Protocols]]
