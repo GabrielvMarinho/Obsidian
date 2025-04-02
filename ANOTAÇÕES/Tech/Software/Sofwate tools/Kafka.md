@@ -1,4 +1,6 @@
-Kafka is an [[Open-Source]] [[Asynchronous]] tool created by [[Apache]], It's written in [[Java]] and [[Scala]]
+Kafka is an [[Open-Source]] [[Asynchronous]] [Messaging Service](Messaging%20Service.md) created by [[Apache]], It's written in [[Java]] and [[Scala]]
+
+
 
 Kafka is used to treat [[Data]] in real time
 
