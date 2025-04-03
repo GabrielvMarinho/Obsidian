@@ -1,0 +1,1 @@
+The concept of [[Descentralized]] [Finance](obsidian://open?vault=Obsidian&file=Finance%2FFinance)

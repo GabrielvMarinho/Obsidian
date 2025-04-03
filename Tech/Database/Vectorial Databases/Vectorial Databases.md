@@ -1,0 +1,1 @@
+A [[DataBase]] that stores [Vectors](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FVectorial%20Databases%2FVectors)

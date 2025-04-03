@@ -1,0 +1,5 @@
+Micro services are blocks of [[Software]] that do especifics functions and procedures, they don't depend on other parts of the system to actually work.
+
+They can be end-to-end, which means it can have a chunk of the [FrontEnd](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FFRONT-END%2FFrontEnd), [BackEnd](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FBackEnd) and [DataBase](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FDataBase) but makes a single task in the system as a whole
+
+Each service can have a different technology, like [Programming Languages](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Languages%2FProgramming%20Language) or [Protocols](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FPROTOCOLS%2FProtocol)

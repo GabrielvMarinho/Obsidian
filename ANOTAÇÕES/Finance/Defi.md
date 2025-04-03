@@ -1,1 +1,0 @@
-The concept of [[Descentralized]] [[Finance]]

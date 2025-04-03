@@ -1,0 +1,1 @@
+Its a language for managing relational [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) in a giving [[DBMS]]

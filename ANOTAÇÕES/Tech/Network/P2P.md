@@ -1,1 +1,0 @@
-Is a [[Computer]] [[Network]] architecture where each [[Hardware]] works as both a client and a [[Server]], giving the possibility to share [[Data]] and services in a [[Descentralized]] way

@@ -1,0 +1,1 @@
+Its a [[Data]] transmission System that can be trasmitted in both direction at the same time.

@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "4ce722da12da10e7",
+    "id": "90da667b75891ade",
     "type": "split",
     "children": [
       {
-        "id": "5082408f1d8b1c0d",
+        "id": "6335bc42d3046b6a",
         "type": "tabs",
         "children": [
           {
-            "id": "97d63f55ca5a82ea",
+            "id": "6cb4bbe5fa534679",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,20 +23,33 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f303aaf4de9746f",
+    "id": "f9757853a4f89f09",
     "type": "split",
     "children": [
       {
-        "id": "27fa504611993cde",
+        "id": "f8d7fe239cd77a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "394a609cfbee4d53",
+            "id": "8f1f7d4f96272fcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c8bea44d8cca6b54",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "framework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +61,7 @@
             }
           },
           {
-            "id": "6d34b60612521ec4",
+            "id": "a5098ab00fd31935",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -56,40 +69,29 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "84a10e832b9255d8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "27fb86696b215bb7",
+    "id": "da8e93ab09e1d88e",
     "type": "split",
     "children": [
       {
-        "id": "06d0a0c4454bc111",
+        "id": "c8a11d97332754a7",
         "type": "tabs",
         "children": [
           {
-            "id": "1312252eff3b2f42",
+            "id": "ac5353428d0f056b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEG/ProgramacaoJava/anotacao.md",
+                "file": "Tech/Hardware/PLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,46 +101,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for anotacao"
+              "title": "Backlinks for PLC"
             }
           },
           {
-            "id": "1dbeb72142f19632",
+            "id": "fa2eaa501292163a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEG/ProgramacaoJava/anotacao.md",
+                "file": "Tech/Hardware/PLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from anotacao"
+              "title": "Outgoing links from PLC"
             }
           },
           {
-            "id": "875c590cf89c8c8d",
+            "id": "cd8b42ed4fd8b14d",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "85fba833c76d28e5",
+            "id": "617385e289503f77",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEG/ProgramacaoJava/anotacao.md"
+                "file": "Tech/Hardware/PLC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of anotacao"
+              "title": "Outline of PLC"
             }
           }
         ]
@@ -155,35 +162,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "97d63f55ca5a82ea",
+  "active": "6cb4bbe5fa534679",
   "lastOpenFiles": [
-    "ANOTAÇÕES/Coding/TesteSoftware/JUNIT/Maeven.md",
-    "ANOTAÇÕES/Coding/TesteSoftware/JUNIT/JUnit.md",
-    "ANOTAÇÕES/Coding/TesteSoftware/JUNIT/Dependencies.md",
-    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts/Static Methods.md",
-    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts/Object.md",
-    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts/Methods.md",
-    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts/Instance.md",
-    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts/Class.md",
-    "ANOTAÇÕES/Coding/TesteSoftware/Software Testing.md",
-    "ANOTAÇÕES/Coding/TesteSoftware/JUNIT",
-    "ANOTAÇÕES/Coding/ProgramacaoJava/Java.md",
-    "ANOTAÇÕES/Coding/ProgramacaoJava/OOP.md",
-    "ANOTAÇÕES/Coding/ProgramacaoJava/Important OOP Concepts",
-    "ANOTAÇÕES/Coding/ConceitosProgramacao/XML.md",
-    "ANOTAÇÕES/Coding/ConceitosProgramacao/Lib.md",
-    "ANOTAÇÕES/Coding/ConceitosProgramacao/HTML.md",
-    "ANOTAÇÕES/EstudosEnem/Dissertativo Argumentativo.md",
-    "ANOTAÇÕES/EstudosEnem/Enem.md",
-    "ANOTAÇÕES/EstudosEnem/Conectivos.md",
-    "ANOTAÇÕES/Coding/TesteSoftware",
-    "ANOTAÇÕES/Coding/ProgramacaoJava",
-    "ANOTAÇÕES/Coding/ConceitosProgramacao",
-    "ANOTAÇÕES/EstudosEnem",
-    "ANOTAÇÕES/Coding",
-    "ANOTAÇÕES"
+    "Finance/Defi.md",
+    "Tech/Software/Concepts/BACK-END/API/API.md",
+    "Tech/Software/Concepts/BACK-END/API/API Request.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Micro Services.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Ports.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Web Pages and Micro services.md",
+    "Tech/Network/PROTOCOLS/Protocol.md",
+    "zzzzzzzzzzz/Spring Web.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Crud.md",
+    "Tech/Network/PROTOCOLS/HTTP/HTTP.md",
+    "Tech/Programming/Programming Tools/Frameworks/Framework.md",
+    "Tech/Database/Vectorial Databases/Vectorial Databases.md",
+    "Finance/Companies/Weg/Inside Info.md",
+    "Tech/Database/Vectorial Databases/Vectors.md",
+    "Tech/Machine Learning/Training/RAG.md",
+    "Tech/Crypto/How it Works/Proof of Work.md",
+    "Tech/Machine Learning/Training/Logistic Regression/Metrics/Recall.md",
+    "Tech/Machine Learning/Training/Logistic Regression/Sigmoid Function.md",
+    "Tech/Machine Learning/Artificial Intelligence.md",
+    "Tech/Machine Learning/Gradient Descent.md",
+    "Tech/Machine Learning/Training/Hyperparameters/Hyperparameter.md",
+    "Virtual Machines.md",
+    "Tech/Programming/Programming Tools/Frameworks/Express/Express.md",
+    "zzzzzzzzzzz/Dependency Injections.md",
+    "Tech/Software/Sofwate tools/Kafka.md",
+    "Tech/Programming/Programming Languages/Javascript/Guide/MVC Architecture pattern to Javascript.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Kafka/Kafka Integration In Spring",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Spring Security Flow.png",
+    "Pasted image 20250402143441.png",
+    "Pasted image 20250402143444.png",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Kafka",
+    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Messaging service/Components",
+    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Messaging service",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic/Untitled",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic/Authenticate Object Simple Auth Logic Spring SecurityUntitled",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic/A",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security"
   ]
 }

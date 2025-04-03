@@ -1,1 +1,0 @@
-A message sent to the [[API]] requesting a service

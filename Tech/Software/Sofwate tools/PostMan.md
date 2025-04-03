@@ -1,0 +1,3 @@
+Its an [[API]] platform used for managing, creating and using APIs
+
+It let's you acess different APIs with different [Methods](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FMethod) and it includes all of them ([GET](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FMethods%2FGET), [POST](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FMethods%2FPOST), [PUT](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FMethods%2FPUT), [DELETE](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FMethods%2FDELETE))

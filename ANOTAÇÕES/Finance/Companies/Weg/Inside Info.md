@@ -1,1 +1,0 @@
-[[WEG]] uses [[Vectorial Databases]] and [[NoSql]] [[DataBase]]s, like [[MongoDB]], in [[RAG]] processes

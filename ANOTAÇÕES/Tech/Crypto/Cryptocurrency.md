@@ -1,1 +1,0 @@
-A cryptocurrency is a digital [[Currency]] used in transactions and does not rely on a [[Centralized]] organization, even though most crypto uses [[Blockchain]] as their main transaction technology, the existion of said currency does not imply the existence of blockchain in It's ecosytem

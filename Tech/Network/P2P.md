@@ -1,0 +1,1 @@
+Is a [Computer](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FConcepts%2FComputer) [[Network]] architecture where each [[Hardware]] works as both a client and a [[Server]], giving the possibility to share [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) and services in a [[Descentralized]] way

@@ -1,0 +1,1 @@
+Python is a High level, [OOP](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FOOP), [[Imperative]] and [[Functional]] [[Programming Language]]

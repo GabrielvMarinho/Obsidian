@@ -1,0 +1,1 @@
+It's a [[Programming Language]] based on [OOP](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FOOP) (Object-Oriented Programming) created in the 90s by James Gosling and his team in Sun Microsystems.
