@@ -1,1 +1,1 @@
-[[Software]] that is based on the [[SCADA]] protocol, used to create [[Network]] communications and work on [[IoT]]project
+[Software](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FSoftware) that is based on the [[SCADA]] protocol, used to create [Network](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FNetwork) communications and work on [[IoT]] project

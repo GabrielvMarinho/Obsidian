@@ -10,4 +10,4 @@ It's written in [[XML]]
 ./mvnw test - runs unit tests in your project 
 ./mvnw package - creates a .jar file and stores in the target directory (used for deploying to production)
 ./mvnw verify - runs all lifecylcle phases 
-./mvnw spring-boot:run - runs [[Spring]] application through maeven [[Plugin]]
+./mvnw spring-boot:run - runs [Spring](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Tools%2FFrameworks%2FSpring%2FSpring) application through maeven [Plugin](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FPlugin)

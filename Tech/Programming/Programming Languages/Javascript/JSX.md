@@ -1,1 +1,1 @@
-It's a [[Javascript]] [[Syntax extension]] created by [[React]] that lets you write [[HTML]] and [[Javascript]] together
+It's a [Javascript](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Languages%2FJavascript%2FJavascript) [Syntax extension](obsidian://open?vault=Obsidian&file=zzzzzzzzzzz%2FSyntax%20extension) created by [[React]] that lets you write [[HTML]] and [Javascript](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Languages%2FJavascript%2FJavascript) together

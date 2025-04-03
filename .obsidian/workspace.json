@@ -18,6 +18,48 @@
             }
           }
         ]
+      },
+      {
+        "id": "2658e0b1576ee7c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a0927d9c681480f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224425,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "framework",
+                "query": "bitcoin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,32 +210,32 @@
   },
   "active": "6cb4bbe5fa534679",
   "lastOpenFiles": [
-    "Finance/Defi.md",
-    "Tech/Software/Concepts/BACK-END/API/API.md",
-    "Tech/Software/Concepts/BACK-END/API/API Request.md",
-    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Micro Services.md",
-    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Ports.md",
-    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Web Pages and Micro services.md",
+    "Tech/Hardware/Concepts/Server.md",
+    "Tech/Software/Sofwate tools/Apache.md",
+    "Tech/Software/Concepts/BACK-END/BackEnd.md",
+    "Tech/Network/Network.md",
+    "Tech/IoT/ScadaBR/ScadaBR.md",
+    "Tech/Network/PROTOCOLS/Modbus/ModBus.md",
+    "Tech/Network/PROTOCOLS/Master-Slave.md",
+    "Tech/Software/Concepts/FRONT-END/FrontEnd.md",
+    "Tech/Software/Software Testing/Software Testing.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Object.md",
+    "Tech/Software/Software Arquitecture/Patterns of software/Layered Architecture/Layered Architecture (MVC).md",
+    "Tech/Network/PROTOCOLS/WebSocket/WebSocket.md",
+    "Tech/Software/Software Arquitecture/Multitier.md",
     "Tech/Network/PROTOCOLS/Protocol.md",
-    "zzzzzzzzzzz/Spring Web.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Spring Crud.md",
-    "Tech/Network/PROTOCOLS/HTTP/HTTP.md",
-    "Tech/Programming/Programming Tools/Frameworks/Framework.md",
-    "Tech/Database/Vectorial Databases/Vectorial Databases.md",
-    "Finance/Companies/Weg/Inside Info.md",
-    "Tech/Database/Vectorial Databases/Vectors.md",
-    "Tech/Machine Learning/Training/RAG.md",
+    "Tech/Programming/Programming Languages/Scala/Scala.md",
+    "Tech/Cloud/Services/PAAS.md",
+    "Tech/Crypto/Cryptocurrency.md",
     "Tech/Crypto/How it Works/Proof of Work.md",
-    "Tech/Machine Learning/Training/Logistic Regression/Metrics/Recall.md",
-    "Tech/Machine Learning/Training/Logistic Regression/Sigmoid Function.md",
-    "Tech/Machine Learning/Artificial Intelligence.md",
-    "Tech/Machine Learning/Gradient Descent.md",
-    "Tech/Machine Learning/Training/Hyperparameters/Hyperparameter.md",
-    "Virtual Machines.md",
-    "Tech/Programming/Programming Tools/Frameworks/Express/Express.md",
-    "zzzzzzzzzzz/Dependency Injections.md",
-    "Tech/Software/Sofwate tools/Kafka.md",
-    "Tech/Programming/Programming Languages/Javascript/Guide/MVC Architecture pattern to Javascript.md",
+    "Countries/El Salvador/Economy/El Salvador Bitcoin adoption.md",
+    "Tech/Crypto/XRP/XRP Ledger.md",
+    "zzzzzzzzzzz/Brain.md",
+    "Tech/Crypto/Concepts/Ledger.md",
+    "Tech/Network/Attacks/DooS.md",
+    "Tech/Crypto/How it Works/Hot Wallet.md",
+    "Tech/Crypto/Concepts/Nodes.md",
+    "Tech/Crypto/Bitcoin/Bitcoin.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Kafka/Kafka Integration In Spring",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Spring Security Flow.png",
     "Pasted image 20250402143441.png",

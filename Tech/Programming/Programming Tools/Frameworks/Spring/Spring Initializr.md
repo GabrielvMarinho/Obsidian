@@ -3,9 +3,9 @@ To initialize a [[Spring]] project we can do so
 
 To create an archive go to https://start.spring.io/ 
 
-Project -> [[Maeven]]
+Project -> [Maeven](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Tools%2FMaeven%2FMaeven)
 Language -> Java
-Add dependencies -> Spring [[Web]]
+Add dependencies -> Spring [Web](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FWeb)
 
 Class DemoApplication
 ```
@@ -45,7 +45,7 @@ public class Teste {
 }
 ```
 
-caso as [[Ports]] esteja sendo usada, vá para o application.properties:
+caso as [Ports](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSoftware%20Arquitecture%2FPatterns%20of%20software%2FMicro%20Services%2FPorts) esteja sendo usada, vá para o application.properties:
 
 ```
 spring.application.name=demo  

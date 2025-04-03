@@ -1,1 +1,1 @@
-They are a group of miners that cooperate and agreed to divide the rewards of the block validated base on your [[Computer]] power
+They are a group of miners that cooperate and agreed to divide the rewards of the block validated base on your [Computer](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FConcepts%2FComputer) power

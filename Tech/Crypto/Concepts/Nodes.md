@@ -1,3 +1,3 @@
-Any [[Computer]] running [[Software]] that interacts with the [[Blockchain]] [[Network]]
+Any [Computer](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FConcepts%2FComputer) running [Software](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FSoftware) that interacts with the [[Blockchain]] [Network](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FNetwork)
 
-They are responsible for storing, validating and transmitting data accross the [[Network]]
+They are responsible for storing, validating and transmitting data accross the [Network](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FNetwork)

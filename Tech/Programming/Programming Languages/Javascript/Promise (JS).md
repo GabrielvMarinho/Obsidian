@@ -1,1 +1,1 @@
-In [[Javascript]] the promise is an [[Object]] representing the eventual completion or failure of an [[Asynchronous]] operation, basically when something will happen but is not immediate
+In [[Javascript]] the promise is an [Object](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FObject) representing the eventual completion or failure of an [Asynchronous](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FAsynchronous) operation, basically when something will happen but is not immediate

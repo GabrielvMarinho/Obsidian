@@ -1,4 +1,4 @@
-Its an archtecture for managing non-relational [[Data]] in a giving [[DBMS]]
+Its an archtecture for managing non-relational [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) in a giving [[DBMS]]
 
 NoSql stands for Not-only Sql because some nosql [[DataBase]]s actually uses small implementations of [[Sql]] Itself
 

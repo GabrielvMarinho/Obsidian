@@ -1,6 +1,6 @@
-Its a [[Stack]] is a structure responsible for organizing the functions in [[Javascript]]
+Its a [Stack](obsidian://open?vault=Obsidian&file=Tech%2FDataScience%2FData%20Structure%2FStack) is a structure responsible for organizing the functions in [[Javascript]]
 
-when called, the [[Function]] is added on top of the stack and only get out when Its execution is finished.
+when called, the [Function](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Tools%2FFunction) is added on top of the stack and only get out when Its execution is finished.
 
 It can be tested by calling functions inside other functions:
 ```js

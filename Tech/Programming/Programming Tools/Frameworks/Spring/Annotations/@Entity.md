@@ -1,1 +1,1 @@
-[[Spring]] annotation to represent a [[Class]] as an entity in the [[DataBase]]
+[[Spring]] annotation to represent a [Class](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FClass) as an entity in the [DataBase](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FDataBase)

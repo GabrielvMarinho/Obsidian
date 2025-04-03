@@ -1,3 +1,3 @@
 Refers to a physical wallet of [[Cryptocurrency]] where you can have an interface or not, used to store private keys
 
-Since the Cold wallet is not connected to the [[Internet]], It's much safer, since the private keys are generated offline instead of like a [[Hot Wallet]], where your keys can end up being saved on your [[Browser]] for example
+Since the Cold wallet is not connected to the [Internet](obsidian://open?vault=Obsidian&file=Tech%2FCrypto%2FHow%20it%20Works%2FHot%20Wallet), It's much safer, since the private keys are generated offline instead of like a [[Hot Wallet]], where your keys can end up being saved on your [Browser](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FBrowser) for example

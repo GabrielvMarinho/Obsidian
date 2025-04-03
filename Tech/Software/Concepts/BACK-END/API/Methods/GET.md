@@ -1,1 +1,1 @@
-[[Method]] to receive [[Data]] from an [[API]], you do It through an [[API Request]]
+[[Method]] to receive [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) from an [[API]], you do It through an [[API Request]]

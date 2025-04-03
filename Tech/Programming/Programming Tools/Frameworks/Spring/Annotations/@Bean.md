@@ -1,8 +1,8 @@
-[[Spring]] annotation to manage [[Object]]s
+[[Spring]] annotation to manage [Objects](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FObject)
 
 You create a config [[@Configuration]] class that returns an object manipulated by you
 
-if i want to have a custom object of [[ModelMapper]] for example, we can create a bean like this
+if i want to have a custom object of [ModelMapper](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Tools%2FLibraries%2FModelMapper) for example, we can create a bean like this
 
 ```java
 

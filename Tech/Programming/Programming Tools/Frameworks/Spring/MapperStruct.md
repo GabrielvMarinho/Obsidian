@@ -1,1 +1,1 @@
-[[Spring]] [[Lib]] to facilitate the conversion of [[DTO|DTOs]] and entities in the app
+[[Spring]] [Lib](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FLib) to facilitate the conversion of [DTOs](obsidian://open?vault=Obsidian&file=zzzzzzzzzzz%2FDTO) and entities in the app

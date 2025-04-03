@@ -1,2 +1,2 @@
-Its a [[Framework]] for [[NodeJS]] tha lets you build [[Web]] Systems and [[API]]s
+Its a [[Framework]] for [NodeJS](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Languages%2FJavascript%2FNodeJS) tha lets you build [Web](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FWeb) Systems and [API](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FAPI)
 

@@ -1,6 +1,6 @@
 How to create simple [[Spring Data JPA]] queries:
 
-in the  jpa [[Interface (Poo)|Interface]] do so:
+in the  jpa [Interfaces](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FInterface%20(Poo)) do so:
 
 ```java
 List<Conta> findByTitular_NomeAndNumero(String nome, Integer numero);

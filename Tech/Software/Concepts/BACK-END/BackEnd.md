@@ -1,1 +1,1 @@
-the [[Server]]-side, where the [[API]]s are stored and constantly receives commands from the [[FrontEnd]], It intercats with the [[Software]] [[DataBase]] and other components
+the [[Server]]-side, where the [[API]]s are stored and constantly receives commands from the [FrontEnd](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FFRONT-END%2FFrontEnd), It intercats with the [[Software]] [DataBase](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FDataBase) and other components

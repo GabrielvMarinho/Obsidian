@@ -1,4 +1,4 @@
-How to connect [[MySql]] to [[Javascript]]
+How to connect [MySql](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FSql%20Databases%2FMySql) to [[Javascript]]
 
 to install:
 ```js
@@ -31,9 +31,9 @@ var sql = "SELECT * FROM funcionarios";
   });
 ```
 
-## [[CRUD]] Example With [[Sql]] tables
+## [CRUD](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FCRUD) Example With [Sql](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FSql%20Databases%2FSql) tables
 
-Notice how I didn't validate data, just played a bit about [[Sql Injections]] protections and nothing else:
+Notice how I didn't validate data, just played a bit about [Sql Injections](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FSql%20Injections) protections and nothing else:
 
 ```js
 
@@ -115,6 +115,6 @@ app.post("/create", async(req, res) =>{
 ```
 
 
-## [[CRUD]] Example Without [[Sql]] tables
+## [CRUD](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FCRUD) Example Without [Sql](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FSql%20Databases%2FSql) tables
 
-in the prior example we used a [[MySql]] connection and just created the table in the mysql scripts, in this example we will be using other technologies to turn our tables into [[Javascript]] [[Class]]es, so not relying in sql scripts as much to create our models
+in the prior example we used a [MySql](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FSql%20Databases%2FMySql) connection and just created the table in the mysql scripts, in this example we will be using other technologies to turn our tables into [[Javascript]] [Classes](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FClass), so not relying in sql scripts as much to create our models

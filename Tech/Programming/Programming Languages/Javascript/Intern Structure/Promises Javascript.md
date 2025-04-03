@@ -1,4 +1,4 @@
-Promise is an [[Object]] in [[Javascript]] that represents a pending task
+Promise is an [Object](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FObject) in [[Javascript]] that represents a pending task
 
 
 Pending → Fulfilled (success) 

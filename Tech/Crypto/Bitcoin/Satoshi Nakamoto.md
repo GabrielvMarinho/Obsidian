@@ -1,1 +1,1 @@
-The pseudonym of the creator of [[Bitcoin]], he vanished completely from the [[Internet]] and no one knows his real identity
+The pseudonym of the creator of [[Bitcoin]], he vanished completely from the [Internet](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FInternet) and no one knows his real identity

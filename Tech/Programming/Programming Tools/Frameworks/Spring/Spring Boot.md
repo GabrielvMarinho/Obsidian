@@ -1,1 +1,1 @@
-Its an additional layer to the [[Spring]] [[Framework]], basically configurates a lot of thing that using only [[Spring]] would obligate you to configurate
+Its an additional layer to the [[Spring]] [Framework](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Tools%2FFrameworks%2FFramework), basically configurates a lot of thing that using only [[Spring]] would obligate you to configurate

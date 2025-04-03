@@ -1,4 +1,4 @@
-[[Spring]] annotation to stablish the relationship of two [[@Entity|Entities]] in the [[DataBase]]
+[[Spring]] annotation to stablish the relationship of two [[@Entity|Entities]] in the [DataBase](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FDataBase)
 
 
 **@OneToOne**: Defines a **one-to-one** relationship.

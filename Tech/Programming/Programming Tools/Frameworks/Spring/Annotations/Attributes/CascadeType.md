@@ -5,7 +5,7 @@
 @OneToMany(mappedBy = "example", cascade = CascadeType.CONSTANT")
 ```
 
-Here are the [[Constants]] that can be used
+Here are the [Constants](obsidian://open?vault=Obsidian&file=Math%2FConstants) that can be used
 
 1. **NONE** = Does nothing
 2. **MERGE** = Updates children when updates the father (only updates)

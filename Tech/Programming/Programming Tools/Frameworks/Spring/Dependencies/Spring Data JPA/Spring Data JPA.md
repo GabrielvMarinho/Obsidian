@@ -1,1 +1,1 @@
-JPA is a set of rules used as a [[Dependencies|Dependency]] in [[Spring]] to create, manage and use [[Interface (Poo)|Interfaces]] to execute [[DataBase]] queries 
+JPA is a set of rules used as a [Dependencies](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSoftware%20Testing%2FJUNIT%2FDependencies) in [[Spring]] to create, manage and use [Interfaces](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FInterface%20(Poo)) to execute [DataBase](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FDataBase) queries 

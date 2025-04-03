@@ -1,1 +1,1 @@
-Scala is an [[OOP]], [[Functional]], [[Imperative]] [[Programming Language]] designed to improve and address the limitations of [[Java]]
+Scala is an [OOP](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FOOP), [Functional](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FFunctional%2FFunctional), [Imperative](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FImperative%2FImperative) [[Programming Language]] designed to improve and address the limitations of [[Java]]

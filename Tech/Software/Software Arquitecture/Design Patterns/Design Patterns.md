@@ -1,3 +1,3 @@
 Design patterns are pre-defined behaviours or ideas made to help developer solve problems more easily, It is like an approach on how to solve something.
 
-[[Java]] is so good at using design patterns simply because It follow [[OOP]] rules strictly.
+[Java](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Languages%2FJava%2FJava) is so good at using design patterns simply because It follow [OOP](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FOOP) rules strictly.

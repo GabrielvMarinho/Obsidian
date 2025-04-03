@@ -1,1 +1,1 @@
-The client-side, Its basically the bridge from the user and the actual [[Software]], through the frontEnd you can communicate with the [[BackEnd]] and the [[API]]s
+The client-side, Its basically the bridge from the user and the actual [Software](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FSoftware), through the frontEnd you can communicate with the [BackEnd](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FBackEnd) and the [API](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FAPI)s

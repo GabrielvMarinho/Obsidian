@@ -1,4 +1,4 @@
-Provides a [[JavaScript]] interface for making [[HTTP]] requests and processing the responses of [[API]]s
+Provides a [[JavaScript]] interface for making [HTTP](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FPROTOCOLS%2FHTTP%2FHTTP) requests and processing the responses of [API](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FAPI)
 
 example:
 ```js

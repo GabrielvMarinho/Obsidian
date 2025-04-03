@@ -6,7 +6,7 @@ View - (Frontend)
 
 ## Models
 
-Represents the [[Data]] structure and entities of an application  
+Represents the [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) structure and entities of an application  
 
 example: 
 
@@ -20,9 +20,9 @@ class User {
 }
 
 ```
-## DTOs (Data transfer [[Object]]s)
+## DTOs (Data transfer [Object](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FObject)s)
 
-simplify the transfer of [[Data]] between layers, so like between services and controller
+simplify the transfer of [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) between layers, so like between services and controller
 
 Example:
 
@@ -36,7 +36,7 @@ class UserDTO {
 ## Controllers
 
 Just the middleman
-Handle [[HTTP]] requests processing them through services and send responses
+Handle [HTTP](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FPROTOCOLS%2FHTTP%2FHTTP) requests processing them through services and send responses
 
 Example:
 
@@ -62,7 +62,7 @@ ServiceFunction(object){
 ```
 ## Repositories
 
-Handle the interaction with the [[DataBase]] like [[Sql]] commands
+Handle the interaction with the [DataBase](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FDataBase) like [Sql](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FSql%20Databases%2FSql) commands
 
 Example:
 
@@ -75,7 +75,7 @@ InsertInto(id, nome){
 this function is later on called by the services generally
 ## Routes
 
-Define the mapping between [[HTTP]] URLs and the controller methods to handle them
+Define the mapping between [HTTP](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FPROTOCOLS%2FHTTP%2FHTTP) URLs and the controller methods to handle them
 
 Example:
 

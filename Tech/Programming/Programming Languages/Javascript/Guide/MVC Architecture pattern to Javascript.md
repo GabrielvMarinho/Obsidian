@@ -1,4 +1,4 @@
-Let's see how to do a [[Layered Architecture (MVC)]]] pattern code in [[Javascript]]
+Let's see how to do a [Layered Architecture (MVC)](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSoftware%20Arquitecture%2FPatterns%20of%20software%2FLayered%20Architecture%2FLayered%20Architecture%20(MVC)) pattern code in [[Javascript]]
 
 ta certo a importação do connection ta certo ser no repository?
 o controller é responsavel pelo res ou poderia ser na ultima camada (repository)?

@@ -1,6 +1,6 @@
-local storage in [[Javascript]] can really help you save important info about a user, it can save [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) without exactly using a [[DataBase]]
+local storage in [Javascript](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Languages%2FJavascript%2FJavascript) can really help you save important info about a user, it can save [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) in a [[Browser]] without exactly using a [DataBase](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FDataBase)
 
-It works with a key value format, like a [[JSON]] file
+It works with a key value format, like a [JSON](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FJSON) file
 ## Commands
 
 settting a value:

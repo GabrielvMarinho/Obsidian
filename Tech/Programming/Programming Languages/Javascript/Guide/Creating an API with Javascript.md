@@ -1,4 +1,4 @@
-Creating an [API](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FAPI) from scratch using [[Javascript]] and [[Express]]
+Creating an [API](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FAPI) from scratch using [[Javascript]] and [Express]
 
 Commands:
 
@@ -40,10 +40,10 @@ app.get('/pessoa', async(req, res) =>{
 
 to run:
 
-To test just access http://127.0.0.1:3000/pessoa in your [[Browser]] or use [[PostMan]] (better)
+To test just access http://127.0.0.1:3000/pessoa in your [Browser](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FBrowser) or use [PostMan](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FPostMan) (better)
 
 
-## More Examples with parameters [[GET]] and [[POST]]:
+## More Examples with parameters [GET](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FMethods%2FGET) and [POST](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FMethods%2FPOST):
 
 ```js
 app.get('/atividade1/:id/:nome/:idade', async(req, res) =>{

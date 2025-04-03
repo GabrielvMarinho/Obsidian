@@ -1,1 +1,1 @@
-[[Method]] to send [[Data]] to an [[API]] 
+[[Method]] to send [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) to an [[API]] 

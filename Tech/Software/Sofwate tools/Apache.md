@@ -1,1 +1,1 @@
-Its an [[Web]] [[Server]] created in 1995 and It delivers Web content though the [[Internet]]
+Its an [Web](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FWeb) [Server](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FConcepts%2FServer) created in 1995 and It delivers Web content though the [Internet](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FInternet)

@@ -1,6 +1,6 @@
 Is an [Interface (Poo)](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FInterface%20(Poo)) in [[Spring]] [Framework](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Tools%2FFrameworks%2FFramework) to facilitate how the data is transmitted to the [FrontEnd](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FFRONT-END%2FFrontEnd), dividing in different "pages" of content, just like we see in e-commerces
 
-we can change [[Parameter]]s such as
+we can change [Parameters](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSoftware%20Arquitecture%2FPatterns%20of%20software%2FMicro%20Services%2FPorts) such as
 1. page: the page you want to be at
 2. size: how many elements for each page 
 3. sort: what attribute to show the sequence of elements

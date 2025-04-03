@@ -1,1 +1,1 @@
-Its a standardized [[Method]] composed by a set of syntactics and semantics rules 
+Its a standardized [Method](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FMethod) composed by a set of syntactics and semantics rules 

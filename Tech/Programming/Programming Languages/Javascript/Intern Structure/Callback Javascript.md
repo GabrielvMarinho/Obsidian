@@ -1,4 +1,4 @@
-the [[Callback]] in [[Javascript]] can be written this way:
+the [Callback](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Tools%2FCallback) in [[Javascript]] can be written this way:
 
 
 ```js
@@ -30,7 +30,7 @@ Olá, Maria
 Volte Sempre!
 ```
 
-Now callbacks with [[Asynchronous]] [[Function]]s:
+Now callbacks with [Asynchronous](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FAsynchronous) [Functions](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Tools%2FFunction):
 
 ```js
 console.log("Início"); 

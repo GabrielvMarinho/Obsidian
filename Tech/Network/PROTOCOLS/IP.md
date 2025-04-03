@@ -1,1 +1,1 @@
-Its [[Internet]] [[Protocol]] address is a numeric value atributted to each [[Computer]] using the [[Network]]
+Its [[Internet]] [[Protocol]] address is a numeric value atributted to each [Computer](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FConcepts%2FComputer) using the [[Network]]

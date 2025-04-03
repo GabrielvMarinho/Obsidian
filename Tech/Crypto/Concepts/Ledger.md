@@ -1,1 +1,1 @@
-digital record-keeping system that maintains a history of all transactions and balances on the [[Network]]
+digital record-keeping system that maintains a history of all transactions and balances on the [Network](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FNetwork)

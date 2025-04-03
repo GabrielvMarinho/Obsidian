@@ -1,1 +1,1 @@
-A [[Programming Language]] where computation is treated as the evaluation of mathematical [[Function]]s, emphasizing immutability and avoiding side effects.
+A [Programming Language](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Languages%2FProgramming%20Language) where computation is treated as the evaluation of mathematical [[Function]]s, emphasizing immutability and avoiding side effects.

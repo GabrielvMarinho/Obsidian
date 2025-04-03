@@ -1,1 +1,1 @@
-[[Method]] to update [[Data]] through an [[API]], can be similar to the [[POST]] method, but It doesn't create anything, only update
+[Method](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FMethod) to update [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) through an [[API]], can be similar to the [[POST]] method, but It doesn't create anything, only update

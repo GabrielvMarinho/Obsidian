@@ -1,1 +1,1 @@
-[[Computer|Computational]] model that defines a relationship between a master and slaves, very used in [[Network|Networks]] and [[Protocol|Protocols]]
+[Computational](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FConcepts%2FComputer) model that defines a relationship between a master and slaves, very used in [Networks](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FNetwork) and [Protocols](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FPROTOCOLS%2FProtocol)
