@@ -1,1 +1,1 @@
-It's  a [[Protocol]] that enable that [[Software]] receives temporary access to an [[HTTP]] service or [[API]]
+It's  a [[Protocol]] that enable that [Software](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FSoftware) receives temporary access to an [HTTP](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FPROTOCOLS%2FHTTP%2FHTTP) service or [API](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FBACK-END%2FAPI%2FAPI)

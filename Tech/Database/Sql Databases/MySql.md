@@ -1,1 +1,1 @@
-A [[Software]] that acts as a [[DBMS]] that uses [[Sql]] as an Interface
+A [Software](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FSoftware) that acts as a [[DBMS]] that uses [[Sql]] as an Interface

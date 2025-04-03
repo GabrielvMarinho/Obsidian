@@ -1,0 +1,1 @@
+Its a [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) transmission System that can be trasmitted in both direction at the same time.

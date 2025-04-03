@@ -1,1 +1,1 @@
- A [[Monolithic]] architecture where the system is [[Module|modularized]] but still depends on one service to another, so different from a [[Micro Services]]
+ A [[Monolithic]] architecture where the system is [Modularized](obsidian://open?vault=Obsidian&file=zzzzzzzzzzz%2FModule) but still depends on one service to another, so different from a [Micro Services](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSoftware%20Arquitecture%2FPatterns%20of%20software%2FMicro%20Services%2FMicro%20Services)

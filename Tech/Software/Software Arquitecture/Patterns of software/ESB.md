@@ -1,1 +1,1 @@
-A [[Software]] architecture pattern that supports real-time [[Data]] exchange between disparate application, like when you are using a [[SOA]]
+A [Software](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FSoftware) architecture pattern that supports real-time [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) exchange between disparate application, like when you are using a [SOA](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSoftware%20Arquitecture%2FPatterns%20of%20software%2FSOA%2FSOA)

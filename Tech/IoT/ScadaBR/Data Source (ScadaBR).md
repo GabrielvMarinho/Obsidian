@@ -1,1 +1,0 @@
-the origin of the [[Data]] in a [[ScadaBR]] application, has the set of rules, like the location of the data, the [[Protocol]] used, and so on

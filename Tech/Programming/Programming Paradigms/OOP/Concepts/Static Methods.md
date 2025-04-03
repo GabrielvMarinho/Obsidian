@@ -1,1 +1,1 @@
-They are [[Method]] in a [[Class]] that can be acessed by other classes without having to create an instance of the Class
+They are [Method](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FMethod) in a [Class](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FClass) that can be acessed by other classes without having to create an instance of the Class

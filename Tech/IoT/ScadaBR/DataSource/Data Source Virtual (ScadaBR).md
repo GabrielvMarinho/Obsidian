@@ -1,0 +1,1 @@
+[[Data Source (ScadaBR)]] That generates virtual (memory-based) variables.

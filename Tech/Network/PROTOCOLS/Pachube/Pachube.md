@@ -1,0 +1,1 @@
+IoT communication [[Protocol]] (renamed Xively, later acquired by Google, now discontinued).

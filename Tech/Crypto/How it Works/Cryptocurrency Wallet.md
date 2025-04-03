@@ -1,5 +1,5 @@
 A mechanism to manage and store [[Cryptocurrency]], It can be a [[Hot Wallet]] or a [[Cold Wallet]]
 
-Crypto wallets don't exactlty store anything, as every transacation is stored on the [[Blockchain]] and the crypto itself doesn't even existe, it shows you an interface that make it easier to transact and thats all
+Crypto wallets don't exactlty store anything, as every transacation is stored on the [Blockchain](obsidian://open?vault=Obsidian&file=Tech%2FCrypto%2FHow%20it%20Works%2FBlockchain) and the crypto itself doesn't even existe, it shows you an interface that make it easier to transact and thats all
 
-Generally, you dont access a cryptocurrency wallet when you are in an environment like a [[Crypto Exchange]], you have a private network that works similarly to a [[Lightning Network]] system, that's why you can go to [[Binance]] for example and buy and sell [[Bitcoin]] with fees lower than the bitcoin blockchain feed 
+Generally, you dont access a cryptocurrency wallet when you are in an environment like a [[Crypto Exchange]], you have a private network that works similarly to a [[Lightning Network]] system, that's why you can go to [Binance](obsidian://open?vault=Obsidian&file=Finance%2FCompanies%2FBinance%2FBinance) for example and buy and sell [Bitcoin](obsidian://open?vault=Obsidian&file=Tech%2FCrypto%2FBitcoin%2FBitcoin) with fees lower than the bitcoin blockchain feed 

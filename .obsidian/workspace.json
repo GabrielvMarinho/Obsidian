@@ -6,9 +6,10 @@
       {
         "id": "6335bc42d3046b6a",
         "type": "tabs",
+        "dimension": 53.22896281800391,
         "children": [
           {
-            "id": "6cb4bbe5fa534679",
+            "id": "97baeee13e879569",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -22,6 +23,7 @@
       {
         "id": "2658e0b1576ee7c4",
         "type": "tabs",
+        "dimension": 46.77103718199609,
         "children": [
           {
             "id": "7a0927d9c681480f",
@@ -51,8 +53,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224425,
-                  "close": false
+                  "scale": 0.7132754626224431,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
@@ -91,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bitcoin",
+                "query": "PROTOCOL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,8 +114,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,45 +209,46 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "6cb4bbe5fa534679",
+  "active": "97baeee13e879569",
   "lastOpenFiles": [
-    "Tech/Hardware/Concepts/Server.md",
-    "Tech/Software/Sofwate tools/Apache.md",
-    "Tech/Software/Concepts/BACK-END/BackEnd.md",
-    "Tech/Network/Network.md",
-    "Tech/IoT/ScadaBR/ScadaBR.md",
-    "Tech/Network/PROTOCOLS/Modbus/ModBus.md",
-    "Tech/Network/PROTOCOLS/Master-Slave.md",
-    "Tech/Software/Concepts/FRONT-END/FrontEnd.md",
-    "Tech/Software/Software Testing/Software Testing.md",
-    "Tech/Programming/Programming Paradigms/OOP/Concepts/Object.md",
-    "Tech/Software/Software Arquitecture/Patterns of software/Layered Architecture/Layered Architecture (MVC).md",
-    "Tech/Network/PROTOCOLS/WebSocket/WebSocket.md",
-    "Tech/Software/Software Arquitecture/Multitier.md",
+    "Tech/Network/PROTOCOLS/Wire (Protocol).md",
+    "Tech/Network/PROTOCOLS/TCP-IP.md",
+    "Tech/Network/PROTOCOLS/TCP Serotonin Persistente/TCP Serotonin Persistente.md",
+    "Tech/Network/PROTOCOLS/SNMP/SNMP.md",
+    "Tech/Network/PROTOCOLS/SCADA.md",
     "Tech/Network/PROTOCOLS/Protocol.md",
-    "Tech/Programming/Programming Languages/Scala/Scala.md",
-    "Tech/Cloud/Services/PAAS.md",
-    "Tech/Crypto/Cryptocurrency.md",
-    "Tech/Crypto/How it Works/Proof of Work.md",
-    "Countries/El Salvador/Economy/El Salvador Bitcoin adoption.md",
-    "Tech/Crypto/XRP/XRP Ledger.md",
-    "zzzzzzzzzzz/Brain.md",
-    "Tech/Crypto/Concepts/Ledger.md",
-    "Tech/Network/Attacks/DooS.md",
-    "Tech/Crypto/How it Works/Hot Wallet.md",
-    "Tech/Crypto/Concepts/Nodes.md",
-    "Tech/Crypto/Bitcoin/Bitcoin.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Kafka/Kafka Integration In Spring",
+    "Tech/Network/PROTOCOLS/Recuperador HTTP/Recuperador HTTP.md",
+    "Tech/Network/PROTOCOLS/OSI Model.md",
+    "Tech/Network/PROTOCOLS/Receptor HTTP/Receptor HTTP.md",
+    "Tech/Network/PROTOCOLS/Radiuino/Radiuino.md",
+    "Tech/Network/PROTOCOLS/Pachube/Pachube.md",
+    "Tech/Network/PROTOCOLS/OpenV4J/OpenV4J.md",
+    "Tech/Network/PROTOCOLS/OPC DA/OPC DA.md",
+    "Tech/Network/PROTOCOLS/Untitled 8",
+    "Tech/Network/PROTOCOLS/Wire (Protocol)",
+    "Tech/Network/PROTOCOLS/TCP Serotonin Persistente",
+    "Tech/Network/PROTOCOLS/SNMP",
+    "Tech/Network/PROTOCOLS/Recuperador HTTP",
+    "Tech/Network/PROTOCOLS/Receptor HTTP",
+    "Tech/Network/PROTOCOLS/Radiuino",
+    "Tech/Network/PROTOCOLS/Pachube",
+    "Tech/Network/PROTOCOLS/OpenV4J",
+    "Tech/Network/Attacks/Untitled",
+    "Tech/Network/PROTOCOLS/NMEA Listener/NMEA Listener.md",
+    "Tech/Network/PROTOCOLS/Modbus IP/Modbus IP.md",
+    "Tech/Network/PROTOCOLS/Mitsubishi Alpha2/Mitsubishi Alpha2.md",
+    "Tech/Network/PROTOCOLS/Master-Slave/Master-Slave.md",
+    "Tech/Network/PROTOCOLS/M Bus/M Bus.md",
+    "Tech/Network/PROTOCOLS/JMX/JMX.md",
+    "Tech/Network/PROTOCOLS/IP.md",
+    "Tech/Network/PROTOCOLS/Image HTTP/Image HTTP.md",
+    "Tech/Network/PROTOCOLS/IEC101 Serial/IEC101 Serial.md",
+    "Tech/Network/PROTOCOLS/IEC101 Ethernet/IEC101 Ethernet.md",
+    "Tech/Network/PROTOCOLS/Full-Duplex/Full-Duplex.md",
+    "Tech/Network/PROTOCOLS/Galil DMC-21x2/Galil DMC-21x2.md",
+    "Tech/Network/PROTOCOLS/Email POP3/Email POP3.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Spring Security Flow.png",
     "Pasted image 20250402143441.png",
-    "Pasted image 20250402143444.png",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Kafka",
-    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Messaging service/Components",
-    "Tech/Software/Software Arquitecture/Patterns of software/Micro Services/Messaging service",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic/Untitled",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic/Authenticate Object Simple Auth Logic Spring SecurityUntitled",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic/A",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security"
+    "Pasted image 20250402143444.png"
   ]
 }

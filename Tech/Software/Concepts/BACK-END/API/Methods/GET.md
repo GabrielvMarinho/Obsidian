@@ -1,1 +1,1 @@
-[[Method]] to receive [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) from an [[API]], you do It through an [[API Request]]
+[Method](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FMethod) to receive [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) from an [[API]], you do It through an [[API Request]]

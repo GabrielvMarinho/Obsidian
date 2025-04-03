@@ -1,4 +1,4 @@
-[Open-Source](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FOpen-Source) [[Blockchain]] that uses [[Consensus Protocol]] to validate transactions
+[Open-Source](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FOpen-Source) [Blockchain](obsidian://open?vault=Obsidian&file=Tech%2FCrypto%2FHow%20it%20Works%2FBlockchain) that uses [Consensus Protocol](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FPROTOCOLS%2FConsensus%20Protocol%2FConsensus%20Protocol) to validate transactions
 
 ## How it works
 

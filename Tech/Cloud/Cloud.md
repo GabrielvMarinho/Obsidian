@@ -1,3 +1,3 @@
-Is a collection of [[Server]]s that hosts [[IAAS]], [[PAAS]] and [[SAAS]] for users across the [[Internet]]
+Is a collection of [Server](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FConcepts%2FServer)s that hosts [[IAAS]], [[PAAS]] and [[SAAS]] for users across the [Internet](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FInternet)
 
-It's basically a [[Computer]] somewhere else doing the [[Hardware]] for you, and you pay for it
+It's basically a [Computer](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FConcepts%2FComputer) somewhere else doing the [Hardware](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FHardware) for you, and you pay for it

@@ -1,4 +1,4 @@
-It's a set of [[PAAS]] to deliver [[Software]] in packages called containers
+It's a set of [PAAS](obsidian://open?vault=Obsidian&file=Tech%2FCloud%2FServices%2FPAAS) to deliver [Software](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FSoftware) in packages called containers
 
 A docker is usually separated into [[Containers (Docker)|Containers]] and [[Images (Docker)|Images]].
 

@@ -1,0 +1,1 @@
+[[Protocol]] that reads text-based (ASCII) commands via a serial port

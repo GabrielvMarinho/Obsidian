@@ -1,0 +1,1 @@
+Microsoft-developed [[Protocol]] acting as a gateway for industrial automation.

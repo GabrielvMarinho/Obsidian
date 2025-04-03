@@ -1,4 +1,4 @@
-A [[Spring]] [Lib]() for managing users and roles
+A [[Spring]] [Lib](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FLib) for managing users and roles
 
 
 ### Spring Security Example

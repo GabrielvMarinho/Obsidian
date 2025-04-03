@@ -1,0 +1,1 @@
+Serial version of the Modbus [[Protocol]].

@@ -1,0 +1,1 @@
+the origin of the [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) , represents n [[DataPoint (ScadaBR)]] in a [[ScadaBR]] application, has the set of rules, like the location of the data, the [Protocol](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FPROTOCOLS%2FProtocol) used, and so on.

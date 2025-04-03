@@ -1,6 +1,6 @@
 A country located in central [[America]] founded in september 15th, 1821 
 
-El salvador is very know for their very different economical desicions [[El Salvador Bitcoin adoption]] as their official [[Currency]]
+El salvador is very know for their very different economical desicions [[El Salvador Bitcoin adoption]] as their official [Currency](obsidian://open?vault=Obsidian&file=Finance%2FEconomy%2FCurrency)
 
 ### Stats 2023
 

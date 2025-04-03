@@ -110,11 +110,11 @@ public class UserManager {
 
 ### Open/Close
 
-[[Class]]es are open for extension but closed for modification
+[Classes](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FClass) are open for extension but closed for modification
 
 ###### wrong approach:
 
-the [[Class]] FolhaDePagamento will have to be changed if a new role is created, like a manager PJ
+the [Class](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FClass) FolhaDePagamento will have to be changed if a new role is created, like a manager PJ
 
 ```java
 class ContratoClt {
@@ -146,7 +146,7 @@ class FolhaDePagamento {
 
 ###### correct approach:
 
-all classes implements Remuneravel and overrides the [[Method]], now classes can be created without changing FolhaDePagamento
+all classes implements Remuneravel and overrides the [Method](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FMethod), now classes can be created without changing FolhaDePagamento
 
 ```java
 interface Remuneravel {
@@ -187,7 +187,7 @@ class FolhaDePagamento {
 ```
 ### Liskov substitution
 
-A subclass needs to be substituted by your superclass without altering the programs expected behavior, if we create an Ave class with a [[Method]] fly(), a subclass Penguim shouldnt be forced to implement it, because that would violate liskov substitution principle
+A subclass needs to be substituted by your superclass without altering the programs expected behavior, if we create an Ave class with a [Method](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FMethod) fly(), a subclass Penguim shouldnt be forced to implement it, because that would violate liskov substitution principle
 
 ###### wrong approach:
 
@@ -233,7 +233,7 @@ class Pinguim extends Ave {
 ```
 ###### correct approach:
 
-Here with have a class Ave without actually a [[Method]] voar, but we create an [[Interface (Poo)]] AvesQueVoam that can be implemented when needed
+Here with have a class Ave without actually a [Method](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FMethod) voar, but we create an [Interface (Poo)](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FInterface%20(Poo)) AvesQueVoam that can be implemented when needed
 
 ```java
 abstract class Ave {
@@ -279,10 +279,10 @@ class Pinguim extends Ave {
 
 ### Interface segregation
 
-Not forcing [[Class]]es to implement behaviors from an [[Interface (Poo)]] they dont need
+Not forcing [Classes](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FClass) to implement behaviors from an [Interface (Poo)](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FInterface%20(Poo)) they dont need
 ###### wrong approach:
 
-here an [[Interface (Poo)]] calculated both the area and the volume when some classes might not use it all
+here an [Interface (Poo)](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FInterface%20(Poo)) calculated both the area and the volume when some classes might not use it all
 
 ```java
 interface IShapeAreaCalculator(){
@@ -325,7 +325,7 @@ class Cube implements IAreaCalculator, IVolumeCalculator {
 
 ### Dependency inversion
 
-High levels modules shouldnt depende on low level [[Module|Modules]], instead it should be the opposite of this, or, a dependency inversion
+High levels modules shouldnt depende on low level [Module](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FModule), instead it should be the opposite of this, or, a dependency inversion
 
 ###### wrong approach:
 

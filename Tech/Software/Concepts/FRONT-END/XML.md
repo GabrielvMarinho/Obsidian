@@ -1,1 +1,1 @@
-It is a [[Software]] and [[Hardware]]-independent tool for storing and transporting [[Data]] that works for front-end development similarly to [[HTML]]
+It is a [Software](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FSoftware) and [Hardware](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FHardware)-independent tool for storing and transporting [[Data]] that works for front-end development similarly to [HTML](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FFRONT-END%2FHTML)

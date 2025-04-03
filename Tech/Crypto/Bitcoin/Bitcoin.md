@@ -1,4 +1,4 @@
-Bitcoin is a [Descentralized](obsidian://open?vault=Obsidian&file=Finance%2FEconomy%2FDescentralized) [[Cryptocurrency]] based on the [[Blockchain]] created by [[Satoshi Nakamoto]] in 2008, Bitcoins main idea was to create a new digital [Currency](obsidian://open?vault=Obsidian&file=Finance%2FEconomy%2FCurrency) where no government or organization owns.
+Bitcoin is a [Descentralized](obsidian://open?vault=Obsidian&file=Finance%2FEconomy%2FDescentralized) [Cryptocurrency](obsidian://open?vault=Obsidian&file=Tech%2FCrypto%2FCryptocurrency) based on the [[Blockchain]] created by [[Satoshi Nakamoto]] in 2008, Bitcoins main idea was to create a new digital [Currency](obsidian://open?vault=Obsidian&file=Finance%2FEconomy%2FCurrency) where no government or organization owns.
 
 Bitcoin is not meant to everyday transaction, bu more for storing and securing money
 "Your bitcoins can be stored in your mind and thats enough"
@@ -10,7 +10,7 @@ Bitcoin archtecture is a very intelligent and different approach
 It's based on [[Proof of Work]] which makes it runs by itself, every transaction that happens is validated and done by the people involved in [[Bitcoin Mining]] and by doing so, no [Centralized](obsidian://open?vault=Obsidian&file=Finance%2FEconomy%2FCentralized) organization ever needs to run It.
 
 Since it uses [[Blockchain]] technology, no one actually owns anything, It's just stored in a [[Cryptocurrency Wallet]] and whoever has acess to it can control where the bitcoin will go next
-## [[Supply]]
+## [Supply](obsidian://open?vault=Obsidian&file=Finance%2FInvestments%2FSupply)
 
 Bitcoin's supply is fixed at 21 millions bitcoins, making it a [Deflation](obsidian://open?vault=Obsidian&file=Finance%2FEconomy%2FDeflation) based currency since there will never be more than that number of bitcoins in the ecosytem. The number of bitcoins is distributed in the [Network](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FNetwork) through the years and the ammount of bitcoin distributed is based on that date, As of 25/11/2024, the current supply of bitcoin is approximately 19.8 million units, the 21.000.000th bitcoin will be mined only in 2100, this control is based on [[Halving of Bitcoin]] 
 

@@ -1,1 +1,1 @@
-a [[Java]] [[Lib]] to manage and map [[Object|Objects]]
+a [[Java]] [[Lib]] to manage and map [Objects](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FObject)

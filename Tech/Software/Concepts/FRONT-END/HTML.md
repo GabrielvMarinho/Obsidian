@@ -1,1 +1,1 @@
-Hyper Text [[Markup Language]] used in front-end development and static pages creation
+Hyper Text [Markup Language](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Tools%2FDocumentation%2FMarkup%20Language) used in front-end development and static pages creation

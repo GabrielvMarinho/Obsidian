@@ -1,1 +1,1 @@
-[[Method]] to delete something in an [[API]]
+[Method](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FMethod) to delete something in an [[API]]

@@ -1,1 +1,1 @@
-Also know as AI is the technology that enabes [[Computer|Computers]] tho simulate human like learning and is generally the most vast concept when it comes to this camp
+Also know as AI is the technology that enabes [Computers](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FConcepts%2FComputer) tho simulate human like learning and is generally the most vast concept when it comes to this camp

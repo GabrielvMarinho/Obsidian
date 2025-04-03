@@ -1,1 +1,1 @@
-[[Cryptocurrency]] alternative to the [[Bitcoin]], most altcoins were created on variations of the source code of bitcoin itself
+[[Cryptocurrency]] alternative to the [Bitcoin](obsidian://open?vault=Obsidian&file=Tech%2FCrypto%2FBitcoin%2FBitcoin), most altcoins were created on variations of the source code of bitcoin itself

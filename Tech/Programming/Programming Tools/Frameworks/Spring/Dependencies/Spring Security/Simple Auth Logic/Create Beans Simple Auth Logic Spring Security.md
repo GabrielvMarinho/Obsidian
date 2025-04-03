@@ -1,4 +1,4 @@
-creating the beans
+creating the beans in the configuration.
 
 ```java
 SecurityContextRepository securityContextRepository;  
@@ -13,13 +13,15 @@ public SecurityContextRepository securityContextRepository(){
 //here we are setting the login and logout pages to be accessed by anyone
 @Bean  
 public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {  
-    http.securityContext(config ->config.securityContextRepository(securityContextRepository()));
+    http.securityContext(config ->config.securityContextRepository(securityContextRepository()));  
     http.csrf(AbstractHttpConfigurer::disable);  
-    //disabling the default login page
     http.formLogin(AbstractHttpConfigurer::disable);  
+
+      http.authorizeHttpRequests(auth ->{  
+
         auth.requestMatchers(HttpMethod.POST, "/api/auth/login", "/api/auth/logout")  
-        .permitAll()  
-		.anyRequest().authenticated();
+                .permitAll()  
+                .anyRequest().authenticated();  
     });  
     return http.build();  
 }
