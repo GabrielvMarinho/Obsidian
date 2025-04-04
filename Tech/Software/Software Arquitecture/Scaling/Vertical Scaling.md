@@ -1,0 +1,1 @@
+The action of Scalling a [Server](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FConcepts%2FServer) with a single machine, increasing singular power when necessary
