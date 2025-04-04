@@ -1,1 +1,3 @@
 [Open-Source](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FOpen-Source) [Software](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FSoftware) that is based on the [[SCADA]] protocol, used to create [Network](obsidian://open?vault=Obsidian&file=Tech%2FNetwork%2FNetwork) communications and work on [[IoT]] project
+
+The scada br application can be run on [Windows](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FOperating%20Systems%2FWindows%2FWindows), [Linux](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FOpen-Source) and other, it just needs to run in a server and generally that would be an apache 

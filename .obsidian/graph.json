@@ -95,7 +95,7 @@
       "query": "path:Tech/Hardware  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 5960791
       }
     },
     {
@@ -123,13 +123,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 2.00509090909091,
+  "nodeSizeMultiplier": 1.37604166666667,
   "lineSizeMultiplier": 0.283272727272727,
   "collapse-forces": false,
-  "centerStrength": 0.291666666666667,
-  "repelStrength": 20,
-  "linkStrength": 0.697916666666667,
-  "linkDistance": 231,
-  "scale": 0.0215287184424303,
+  "centerStrength": 0.442708333333333,
+  "repelStrength": 18.9583333333333,
+  "linkStrength": 1,
+  "linkDistance": 182,
+  "scale": 0.059326171875000874,
   "close": true
 }

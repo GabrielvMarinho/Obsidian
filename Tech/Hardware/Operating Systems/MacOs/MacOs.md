@@ -1,0 +1,1 @@
+[Apple (Company)](obsidian://open?vault=Obsidian&file=Finance%2FCompanies%2FApple%2FApple%20(Company)) [[Operating System]] very know for UI and security

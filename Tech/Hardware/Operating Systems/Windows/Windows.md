@@ -1,0 +1,1 @@
+Most used [[Operating System]], created by [Microsoft](obsidian://open?vault=Obsidian&file=Finance%2FCompanies%2FApple%2FApple%20(Company))

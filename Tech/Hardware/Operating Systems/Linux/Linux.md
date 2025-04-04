@@ -1,0 +1,1 @@
+[Open-Source](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FOpen-Source) [[Operating System]] very used by developers and used by applications that run [Servers](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FConcepts%2FServer) since its a lightwheight system compared to [Windows](obsidian://open?vault=Obsidian&file=Windows) for example

@@ -1,0 +1,1 @@
+A mobile [[Operating System]] created by [Google](obsidian://open?vault=Obsidian&file=Finance%2FCompanies%2FGoogle%2FGoogle)

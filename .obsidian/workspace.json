@@ -4,61 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6335bc42d3046b6a",
+        "id": "0a92dc83f8d4656c",
         "type": "tabs",
-        "dimension": 53.22896281800391,
         "children": [
           {
-            "id": "97baeee13e879569",
+            "id": "c52b00210d5c5724",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2658e0b1576ee7c4",
-        "type": "tabs",
-        "dimension": 46.77103718199609,
-        "children": [
-          {
-            "id": "7a0927d9c681480f",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224431,
-                  "close": true
-                }
+                "file": "Foreign Languages/German/GramaticalRules/PERSONALPRONOMEN/Nominativ German.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "Nominativ German"
             }
           }
         ]
@@ -93,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PROTOCOL",
+                "query": "german",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,44 +169,44 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "97baeee13e879569",
+  "active": "c52b00210d5c5724",
   "lastOpenFiles": [
-    "Tech/Network/PROTOCOLS/Wire (Protocol).md",
-    "Tech/Network/PROTOCOLS/TCP-IP.md",
-    "Tech/Network/PROTOCOLS/TCP Serotonin Persistente/TCP Serotonin Persistente.md",
-    "Tech/Network/PROTOCOLS/SNMP/SNMP.md",
-    "Tech/Network/PROTOCOLS/SCADA.md",
-    "Tech/Network/PROTOCOLS/Protocol.md",
-    "Tech/Network/PROTOCOLS/Recuperador HTTP/Recuperador HTTP.md",
-    "Tech/Network/PROTOCOLS/OSI Model.md",
-    "Tech/Network/PROTOCOLS/Receptor HTTP/Receptor HTTP.md",
-    "Tech/Network/PROTOCOLS/Radiuino/Radiuino.md",
-    "Tech/Network/PROTOCOLS/Pachube/Pachube.md",
-    "Tech/Network/PROTOCOLS/OpenV4J/OpenV4J.md",
-    "Tech/Network/PROTOCOLS/OPC DA/OPC DA.md",
-    "Tech/Network/PROTOCOLS/Untitled 8",
-    "Tech/Network/PROTOCOLS/Wire (Protocol)",
-    "Tech/Network/PROTOCOLS/TCP Serotonin Persistente",
-    "Tech/Network/PROTOCOLS/SNMP",
-    "Tech/Network/PROTOCOLS/Recuperador HTTP",
-    "Tech/Network/PROTOCOLS/Receptor HTTP",
-    "Tech/Network/PROTOCOLS/Radiuino",
-    "Tech/Network/PROTOCOLS/Pachube",
-    "Tech/Network/PROTOCOLS/OpenV4J",
-    "Tech/Network/Attacks/Untitled",
-    "Tech/Network/PROTOCOLS/NMEA Listener/NMEA Listener.md",
-    "Tech/Network/PROTOCOLS/Modbus IP/Modbus IP.md",
-    "Tech/Network/PROTOCOLS/Mitsubishi Alpha2/Mitsubishi Alpha2.md",
-    "Tech/Network/PROTOCOLS/Master-Slave/Master-Slave.md",
-    "Tech/Network/PROTOCOLS/M Bus/M Bus.md",
-    "Tech/Network/PROTOCOLS/JMX/JMX.md",
-    "Tech/Network/PROTOCOLS/IP.md",
-    "Tech/Network/PROTOCOLS/Image HTTP/Image HTTP.md",
-    "Tech/Network/PROTOCOLS/IEC101 Serial/IEC101 Serial.md",
-    "Tech/Network/PROTOCOLS/IEC101 Ethernet/IEC101 Ethernet.md",
-    "Tech/Network/PROTOCOLS/Full-Duplex/Full-Duplex.md",
-    "Tech/Network/PROTOCOLS/Galil DMC-21x2/Galil DMC-21x2.md",
-    "Tech/Network/PROTOCOLS/Email POP3/Email POP3.md",
+    "Foreign Languages/German/GramaticalRules/PERSONALPRONOMEN/Dativ.md",
+    "Foreign Languages/German/GramaticalRules/PERSONALPRONOMEN/Akkusativ.md",
+    "Foreign Languages/German/GramaticalRules/Gramatical Rules German.md",
+    "Foreign Languages/German/GramaticalRules/PERSONALPRONOMEN/Nominativ German.md",
+    "Foreign Languages/German/German.md",
+    "Foreign Languages/German/Vocabulary/Verben German.md",
+    "Foreign Languages/German/Vocabulary/Adjektive German.md",
+    "Foreign Languages/German/Vocabulary/HäufigeRedemittel German.md",
+    "Foreign Languages/German/Vocabulary/Greetings German.md",
+    "Foreign Languages/German/Vocabulary/Substantive German.md",
+    "Tech/Hardware/Operating Systems/Solus/Solus.md",
+    "Tech/Hardware/Operating Systems/Solus",
+    "Tech/Hardware/Operating Systems/Android/Android.md",
+    "Finance/Companies/Google/Google.md",
+    "Finance/Companies/Weg/Inside Info.md",
+    "Finance/Companies/Google",
+    "Tech/Hardware/Operating Systems/Android",
+    "Tech/Hardware/Operating Systems/Windows/Windows.md",
+    "Tech/Hardware/Operating Systems/MacOs/MacOs.md",
+    "Finance/Finance.md",
+    "Finance/Companies/Apple/Apple (Company).md",
+    "Finance/Companies/Microsoft/Microsoft.md",
+    "Finance/Companies/Apple",
+    "Finance/Companies/Microsoft",
+    "Tech/Hardware/Operating System.md",
+    "Tech/IoT/ScadaBR/ScadaBR.md",
+    "Tech/Hardware/Operating Systems/Linux/Linux.md",
+    "Tech/Hardware/GPU.md",
+    "Tech/Hardware/Operating Systems/Untitled.md",
+    "Tech/Hardware/Operating Systems/Fedora/Fedora.md",
+    "Tech/Hardware/Operating Systems/Ubuntu/Ubuntu.md",
+    "Tech/Hardware/Operating Systems/MacOs",
+    "Tech/Hardware/Operating Systems/Linux",
+    "Tech/Hardware/Operating Systems/Ubuntu",
+    "Tech/Hardware/Operating Systems/Fedora",
+    "Tech/Hardware/Operating Systems/Windows",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Spring Security Flow.png",
     "Pasted image 20250402143441.png",
     "Pasted image 20250402143444.png"

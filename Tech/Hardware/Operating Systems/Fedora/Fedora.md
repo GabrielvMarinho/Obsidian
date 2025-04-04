@@ -1,0 +1,1 @@
+A [Linux](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FOperating%20Systems%2FLinux%2FLinux) based [[Operating System]]

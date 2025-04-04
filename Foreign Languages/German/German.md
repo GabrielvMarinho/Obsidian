@@ -7,16 +7,16 @@
 - Ü = alt + 154.
 
 
-[[HäufigeRedemittel]]
+[[HäufigeRedemittel German]]
 
-[[Greetings]]
+[[Greetings German]]
 
-[[Verben]]
+[[Verben German]]
 
-[[Substantive]]
+[[Substantive German]]
 
-[[Adjektive]]
+[[Adjektive German]]
 
-[[Nominativ]]
+[[Nominativ German]]
 
-[[Gramatical Rules]]
+[[Gramatical Rules German]]

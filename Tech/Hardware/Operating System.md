@@ -1,0 +1,1 @@
+the [Software](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FSoftware) that runs the [[Hardware]] 

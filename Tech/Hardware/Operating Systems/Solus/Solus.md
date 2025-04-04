@@ -1,0 +1,1 @@
+[Linux](obsidian://open?vault=Obsidian&file=Tech%2FHardware%2FOperating%20Systems%2FLinux%2FLinux) [[Operating System]] that is focused on desktop usability

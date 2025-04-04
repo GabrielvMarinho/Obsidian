@@ -5,4 +5,4 @@ German Konjugation has no -ING
 PersonalPronomen:
 - [[Akkusativ]]
 - [[Dativ]]
-- [[Nominativ]]
+- [[Nominativ German]]
