@@ -1,0 +1,1 @@
+based on the conjugation you can see which tense the clause if written
