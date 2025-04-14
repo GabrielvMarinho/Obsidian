@@ -1,1 +1,0 @@
-Gesamtheit der in einem system zusammengefassten grafischen zeichen
