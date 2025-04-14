@@ -1,0 +1,1 @@
+Prepositions are words that show the relationship between a noun (or pronoun) and another word in the sentence, often indicating location, direction, or time.

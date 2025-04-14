@@ -1,0 +1,1 @@
+Pronouns replace nouns in order to avoid repetition and provide clarity or generalization. They refer to people, things, or ideas without naming them directly.

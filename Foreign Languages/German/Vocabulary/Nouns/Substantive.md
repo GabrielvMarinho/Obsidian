@@ -1,0 +1,1 @@
+Nouns name people, places, things, or ideas. They are typically the subject or object of a sentence.

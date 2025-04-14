@@ -1,0 +1,1 @@
+Verbs describe actions, occurrences, or states of being. They express what the subject is doing or what is happening to them.

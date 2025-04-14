@@ -1,0 +1,1 @@
+Interjections are words or phrases used to express strong emotions, reactions, or exclamations. They are often standalone or form part of a sentence to express a feeling.

@@ -1,0 +1,1 @@
+Adjectives describe or modify nouns. They provide more information about the noun's qualities or characteristics.

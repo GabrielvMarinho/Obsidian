@@ -1,0 +1,1 @@
+Adverbs modify verbs, adjectives, or other adverbs. They provide information about how, when, where, or to what extent something happens.
