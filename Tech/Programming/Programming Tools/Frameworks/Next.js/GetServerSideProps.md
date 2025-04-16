@@ -1,0 +1,1 @@
+A form of the server fetching client data before the ssr 

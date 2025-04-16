@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foreign Languages/German/Tenses/GehenWart/Perfekt/Perfekt.md",
+                "file": "Tech/Programming/Programming Tools/Frameworks/Next.js/How SSR works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perfekt"
+              "title": "How SSR works"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 462.5
   },
   "right": {
     "id": "da8e93ab09e1d88e",
@@ -185,12 +185,16 @@
   },
   "active": "a4c6620048fc8ab4",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/GetServerSideProps.md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/How SSR works.md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/NEXT.js.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic/Create Beans Simple Auth Logic Spring Security.md",
+    "Foreign Languages/German/Tenses/GehenWart/Perfekt/Perfekt.md",
     "Foreign Languages/German/Tenses/GehenWart/Präsens/Präsens.md",
     "Foreign Languages/German/Tenses/Vergangenheit/Präterium/Präterium.md",
     "Foreign Languages/German/Konjugation/Unregelmässige/Unregelmässige.md",
     "Foreign Languages/German/Konjugation/Regelmässige/Regelmässige Partizip.md",
     "Foreign Languages/German/Konjugation/Unregelmässige/Unregelmässige Partizip.md",
-    "Foreign Languages/German/Tenses/GehenWart/Perfekt/Perfekt.md",
     "Foreign Languages/German/Konjugation/TrennBare/TrennBare verbs Partizip.md",
     "Foreign Languages/German/Konjugation/TrennBare/TrennBare verbs.md",
     "Foreign Languages/German/Konjugation/Regelmässige/Regelmässige.md",
@@ -217,10 +221,6 @@
     "Foreign Languages/German/Vocabulary/Adverbs/Adverbien.md",
     "Foreign Languages/German/Vocabulary/Adjectives/Adjektive.md",
     "Foreign Languages/German/Vocabulary/Verbs/Verben.md",
-    "Foreign Languages/German/Vocabulary/Nouns/Substantive.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/Attributes/CascadeType.md",
-    "Foreign Languages/German/Verb/Untitled.md",
-    "Tech/Software/Software Arquitecture/Authentication/Web Authentication/Types of Web Authentication/JWT Web Authentication.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Spring Security Flow.png",
     "Pasted image 20250402143441.png",
     "Pasted image 20250402143444.png"
