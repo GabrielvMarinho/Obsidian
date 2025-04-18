@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0a92dc83f8d4656c",
+        "id": "720a16ade2a31761",
         "type": "tabs",
         "children": [
           {
-            "id": "a4c6620048fc8ab4",
+            "id": "585053becd24c003",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/Next.js/How SSR works.md",
+                "file": "Tech/Network/PROTOCOLS/Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How SSR works"
-            }
-          },
-          {
-            "id": "b250d6d63a65a8f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foreign Languages/German/Konjugation/Regelmässige/Regelmässige.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regelmässige"
+              "title": "Protocol"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssr",
+                "query": "csrf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,21 +169,30 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "a4c6620048fc8ab4",
+  "active": "585053becd24c003",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Tools/Frameworks/Next.js/GetServerSideProps.md",
-    "Tech/Programming/Programming Tools/Frameworks/Next.js/How SSR works.md",
-    "Tech/Programming/Programming Tools/Frameworks/Next.js/NEXT.js.md",
+    "Tech/Software/Software Security/CSRF.md",
+    "Tech/Software/Software Security/XSS.md",
+    "Foreign Languages/German/Konjugation/TrennBare/TrennBare verbs Partizip.md",
+    "Foreign Languages/German/Konjugation/Regelmässige/Regelmässige Partizip.md",
+    "Foreign Languages/German/Konjugation/Regelmässige/Regelmässige.md",
+    "CSRF Tokens.md",
+    "Tech/Software/Software Arquitecture/Authentication/Web Authentication/Types of Web Authentication/JWT Web Authentication.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic/Create Beans Simple Auth Logic Spring Security.md",
+    "Tech/Software/Software Security",
+    "Tech/Software/Untitled.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Spring Security.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic/Injecting Dependencies Simple Auth Logic Process Spring Security.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Kafka/Kafka Integration In Spring/Configuration Docker (Kafka Integration In Spring).md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/How SSR works.md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/GetServerSideProps.md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/NEXT.js.md",
     "Foreign Languages/German/Tenses/GehenWart/Perfekt/Perfekt.md",
     "Foreign Languages/German/Tenses/GehenWart/Präsens/Präsens.md",
     "Foreign Languages/German/Tenses/Vergangenheit/Präterium/Präterium.md",
     "Foreign Languages/German/Konjugation/Unregelmässige/Unregelmässige.md",
-    "Foreign Languages/German/Konjugation/Regelmässige/Regelmässige Partizip.md",
     "Foreign Languages/German/Konjugation/Unregelmässige/Unregelmässige Partizip.md",
-    "Foreign Languages/German/Konjugation/TrennBare/TrennBare verbs Partizip.md",
     "Foreign Languages/German/Konjugation/TrennBare/TrennBare verbs.md",
-    "Foreign Languages/German/Konjugation/Regelmässige/Regelmässige.md",
     "Foreign Languages/German/Konjugation/TrennBare",
     "Foreign Languages/German/Konjugation/Kongujation.md",
     "Foreign Languages/German/Tenses/GehenWart/Perfekt",
@@ -209,18 +204,9 @@
     "Foreign Languages/German/German plan.md",
     "Foreign Languages/German/Tenses/Zukunft/Futur II",
     "Foreign Languages/German/Tenses/Zukunft/Futur I",
-    "Foreign Languages/German/Tenses/Zukunft",
     "Foreign Languages/German/Klausel/Hauptsätze.md",
     "Foreign Languages/German/Klausel/Nebensatz.md",
     "Foreign Languages/German/Klausel/Verb letzte Regel/Verb letzte Regel.md",
-    "Foreign Languages/German/Klausel/v2-Regeln/v2-Regeln.md",
-    "Foreign Languages/German/Vocabulary/Interjections/Interjektionen.md",
-    "Foreign Languages/German/Vocabulary/Conjunctions/Konjunktionen.md",
-    "Foreign Languages/German/Vocabulary/Prepositions/Präpositionen.md",
-    "Foreign Languages/German/Vocabulary/Pronouns/Pronomen.md",
-    "Foreign Languages/German/Vocabulary/Adverbs/Adverbien.md",
-    "Foreign Languages/German/Vocabulary/Adjectives/Adjektive.md",
-    "Foreign Languages/German/Vocabulary/Verbs/Verben.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Spring Security Flow.png",
     "Pasted image 20250402143441.png",
     "Pasted image 20250402143444.png"

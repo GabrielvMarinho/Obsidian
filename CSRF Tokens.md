@@ -1,0 +1,1 @@
+A token is generated for each session or request, generally the csrf token is embedded in a form or tag

@@ -1,7 +1,7 @@
 A [[Spring]] [Lib](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FLib) for managing users and roles
 
 
-### Spring Security Example
+### Spring Security Code Example
 
 1. [[Injecting Dependencies Simple Auth Logic Process Spring Security|Injecting Depedencies]]
 2. [[Create UserRepository Simple Auth Logic Process Spring Security|User Repository UserDetailsService]]
@@ -18,8 +18,16 @@ A [[Spring]] [Lib](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcept
 
 ![[Spring Security Flow.png]]
 
-Security Context: Saves the context so the user can log once and save for a while
-Authentication Manager: Gerencia e decide o Provider para verificar o usuário (google, banco de dados local, etc.)
-Authentication Provider: Procura o usuário pelo username usando o user details service e depois verificar a senha no password encode, responsável por acionar cada um dos blocos. O google por exemplo é um provider, ou podemos criar para buscar no nosso banco
+# The flow
 
+1. The credentials are sent from the front end to the authentication filter
 
+2. Intecerpts every single request to allow or to deny access
+
+3. The authentication manager is responsible for seeing which authentication provider will be used
+
+4. Once the authentication provider is chosen (google auth or your own database with username and password)
+
+5. The authentication provider first checks the user details service to see if the user exists (by username)
+
+6. If it exists he will get the plain text password, encrypt and compare with the crypted password, once all these are confirmed and validated, the security context will be saved, when saving the context in the server or using JWT this process still happens, even if using jwts the context is set and saved momentarily to let the user use the endpoint,
