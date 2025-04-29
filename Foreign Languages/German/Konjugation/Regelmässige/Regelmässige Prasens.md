@@ -1,5 +1,7 @@
 To conjugate a regelmassige verben you have to cut the **en** and work with the stem:
 
+### Present
+
 **Mach** - en 
 
 And conjugate with the Person singular and person plural:
@@ -18,5 +20,6 @@ What are you doing right now?
 
 ich schaue youtube.
 im watching youtube.
+
 
 ---- 

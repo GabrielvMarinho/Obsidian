@@ -6,8 +6,7 @@ the partizip is always at th  e end.
 
 ## When to use haben:
 
-1. verbs with accusative object, like machen / kaufen / sehen.
-2. reflexive verbs.
+1. most verbs
 
 ### How to use Haben:
 
@@ -34,3 +33,19 @@ besuchen -> besucht
 
 gestern habe ich oma besucht
 ## When to use sein:
+
+1. motion
+2. change in condition
+
+most common verbs:
+1. gehen
+2. wachsen
+3. kommen
+4. fliegen
+5. laufen 
+### How to Sein:
+
+1. ich reise nach berlin
+2. ich bin nach berlin gereist 
+3. er ist nach spanien geflogen
+4. die pflanze ist gewachsen

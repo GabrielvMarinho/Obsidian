@@ -1,4 +1,4 @@
-past participle of the [[Regelmässige]]
+past participle of the [[Regelmässige Prasens]]
 
 conjugation of the 3rd person and add a **ge** in the beginning.
 
