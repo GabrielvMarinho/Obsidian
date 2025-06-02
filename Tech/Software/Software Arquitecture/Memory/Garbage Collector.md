@@ -1,0 +1,1 @@
+Basically finds dat in the heap and deletes it when not used, high level languages used have garbage collector unlike languages of low level, like [[C++]]
