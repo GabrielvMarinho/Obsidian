@@ -1,1 +1,0 @@
-A technology based on [[Chromium]] that enables native Windows applications to embed and run web content seamlessly within a browser environment.

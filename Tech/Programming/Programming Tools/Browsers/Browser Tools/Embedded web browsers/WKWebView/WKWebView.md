@@ -1,0 +1,1 @@
+A [[Embedded web browser]] based on [[Webkit]] that allows you to integrate web content directly and seamlessly into your application's user interface.

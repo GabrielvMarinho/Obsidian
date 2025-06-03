@@ -1,0 +1,1 @@
+a component that allows an application to display web content natively in the desktop/mobile
