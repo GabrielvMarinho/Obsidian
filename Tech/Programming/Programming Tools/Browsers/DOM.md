@@ -1,0 +1,1 @@
+Document Object Model, The final form of html and css structures, what is displayed to the final web page
