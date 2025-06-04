@@ -1,0 +1,1 @@
+the processes communicate via [[IPC]] "channels" with the [[ipcMain Electron]] and [[ipcRenderer Electron]] modules, their communication is bidirectional.

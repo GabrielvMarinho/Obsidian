@@ -1,0 +1,1 @@
+receives and respond to [[ipcRenderer Electron]], runs in nodejs

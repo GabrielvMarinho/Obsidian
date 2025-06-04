@@ -1,0 +1,1 @@
+send message to main process ([[ipcMain Electron]]), runs on the chromium

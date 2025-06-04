@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/Electron/Electron.js.md",
+                "file": "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/Electron IPC System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electron.js"
+              "title": "Electron IPC System"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electron",
+                "query": "tauri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,6 +171,20 @@
   },
   "active": "c47cef95d19a964f",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/IPC Channels Electron.md",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/modules/ipcRenderer Electron.md",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/modules/ipcMain Electron.md",
+    "Tech/Software/Software Arquitecture/IPC/IPC.md",
+    "Tech/Software/Software Arquitecture/IPC",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/Electron IPC System.md",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/modules",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/Electron Archtecture.md",
+    "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri Architecture.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WKWebView/WKWebView.md",
+    "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri Webview.md",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/Electron.md",
+    "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri.md",
     "Tech/Network/PROTOCOLS/WebSocket/WebSocket.md",
     "Tech/Network/Server/SSE.md",
     "Tech/Network/Server/SSR.md",
@@ -179,17 +192,13 @@
     "Tech/Network/Server",
     "Tech/Software/Software Security/CSRF.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView/PyWebView.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WKWebView/WKWebView.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/Embedded web browser.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WebView/WebView2.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Browsers Engine",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Browsers Engine/Webkit/Webkit.md",
-    "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri Webview.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers",
-    "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri Architecture.md",
     "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri API.md",
-    "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri.md",
     "Tech/Programming/Programming Tools/Browsers/Renderer Engine.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WKWebView",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WebView",
@@ -198,16 +207,6 @@
     "Finance/Investments/Dumping.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools",
     "Tech/Programming/Programming Languages/Rust/Rust types/coumpound/Array (Rust).md",
-    "Tech/Programming/Programming Tools/Browsers/Browser.md",
-    "Tech/Programming/Programming Tools/Browsers",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Browsers Engine/Webkit",
-    "Tech/Programming/Programming Tools/Engines",
-    "Tech/Software/Software Arquitecture/Memory/Pointer.md",
-    "Tech/Software/Software Arquitecture/Memory/Stack that referentiates the Heap.md",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector.md",
-    "Tech/Software/Software Arquitecture/Memory/Heap.md",
-    "Tech/Software/Software Arquitecture/Memory/Stack.md",
-    "Tech/Programming/Programming Languages/Rust/Rust.md",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }
