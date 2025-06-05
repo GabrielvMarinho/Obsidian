@@ -1,0 +1,1 @@
+[[Python]] module from standarts libreary to spawn separate processes, with individual interpreters and memory space for python only
