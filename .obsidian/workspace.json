@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/Electron IPC System.md",
+                "file": "PersonalProjects/Script Manager PCP/Script Manager PCP architechture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electron IPC System"
+              "title": "Script Manager PCP architechture"
             }
           }
         ]
@@ -171,12 +171,19 @@
   },
   "active": "c47cef95d19a964f",
   "lastOpenFiles": [
+    "PersonalProjects/Script Manager PCP/Script Manager PCP.md",
+    "PersonalProjects/Script Manager PCP/Script Manager PCP architechture.md",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/Electron IPC System.md",
+    "PersonalProjects/in work",
+    "PersonalProjects/finished",
+    "PersonalProjects/discontinued",
+    "PersonalProjects/Ghost Link/Untitled",
+    "PersonalProjects/Script Manager PCP",
     "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/IPC Channels Electron.md",
     "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/modules/ipcRenderer Electron.md",
     "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/modules/ipcMain Electron.md",
     "Tech/Software/Software Arquitecture/IPC/IPC.md",
     "Tech/Software/Software Arquitecture/IPC",
-    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/Electron IPC System.md",
     "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/modules",
     "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System",
     "Tech/Programming/Programming Tools/Frameworks/Electron/Electron Archtecture.md",
@@ -195,18 +202,11 @@
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/Embedded web browser.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WebView/WebView2.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Browsers Engine",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Browsers Engine/Webkit/Webkit.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers",
     "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri API.md",
     "Tech/Programming/Programming Tools/Browsers/Renderer Engine.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WKWebView",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WebView",
     "Tech/Programming/Programming Tools/Browsers/DOM.md",
     "Tech/Programming/Programming Tools/Browsers/CSSOM.md",
-    "Finance/Investments/Dumping.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools",
-    "Tech/Programming/Programming Languages/Rust/Rust types/coumpound/Array (Rust).md",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }
