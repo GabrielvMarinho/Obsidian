@@ -13,6 +13,6 @@ the class also has attributes related to websocket communication and so on
 
 this class is instantiate and sent to the front end via pywebview
 
-the react frontend receives a js_api object to access the methods and do so accordingly
+the react frontend receives a connection, where he does access the methods directly, but rather access a channel that lets javascript send commands to execute python methods in run time
 
 the frontend needs to be build each time so that the main "index.html" file can be passed as a parameter to pywebview
