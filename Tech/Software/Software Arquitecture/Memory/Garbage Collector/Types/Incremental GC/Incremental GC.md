@@ -1,0 +1,1 @@
+[[Garbage Collector]] perfoms in small chunks or increments rather than stopping the program for a full collection

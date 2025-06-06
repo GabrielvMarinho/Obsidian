@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PersonalProjects/themarketwatchlist/the market watchlist.md",
+                "file": "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Generational GC/Generational GC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the market watchlist"
+              "title": "Generational GC"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tauri",
+                "query": "garba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 347.5
   },
   "right": {
     "id": "4b36682cc47667dc",
@@ -171,42 +171,42 @@
   },
   "active": "c47cef95d19a964f",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri Webview.md",
-    "Tech/Programming/Programming Tools/Frameworks/Framework.md",
-    "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri Architecture.md",
-    "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri API.md",
-    "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri.md",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Manual Memory Management/Manual Memory Management.md",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Region-based GC/Regio-based GC.md",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Incremental GC/Incremental GC.md",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Concurrent GC/Concurrent GC.md",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Generational GC/Generational GC.md",
+    "Tech/Software/Software Arquitecture/Memory/Heap.md",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Garbage Collector.md",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Tracing GC/Tracing GC.md",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Reference Counting GC/Reference Counting GC.md",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Manual Memory Management",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Region-based GC",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Incremental GC",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Concurrent GC",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Generational GC",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Tracing GC",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Reference Counting GC",
+    "Tech/Software/Software Arquitecture/Memory/Garbage Collector",
+    "Tech/Programming/Programming Languages/Python/Libs/Standart Libray/multiprocess/multiprocessing (Python).md",
+    "Tech/Programming/Programming Languages/Python/Libs/Standart Libray/multiprocess/Untitled.md",
+    "Tech/Programming/Programming Tools/Libraries/React/Craco/Craco.md",
+    "Tech/Programming/Programming Tools/Libraries/React/Hooks/Hooks (React).md",
+    "Tech/Programming/Programming Tools/Libraries/React/Craco",
+    "Tech/Programming/Programming Languages/Python/Libs/Standart Libray/subprocess/subprocess (Python).md",
     "PersonalProjects/themarketwatchlist/the market watchlist.md",
-    "PersonalProjects/themarketwatchlist",
-    "Tech/Software/Software Arquitecture/IPC/IPC.md",
-    "Tech/Software/Software Arquitecture/IPC",
+    "Tech/Programming/Programming Languages/Python/Python.md",
+    "PersonalProjects/Script Manager PCP/Script Manager PCP architechture.md",
+    "PersonalProjects/Script Manager PCP/Script Manager PCP.md",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/Electron IPC System.md",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/IPC Channels Electron.md",
     "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/modules/ipcRenderer Electron.md",
     "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/modules/ipcMain Electron.md",
-    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/IPC Channels Electron.md",
-    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/modules",
-    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/Electron IPC System.md",
-    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System",
-    "Tech/Programming/Programming Tools/Frameworks/Electron/Electron.md",
+    "Tech/Software/Software Arquitecture/IPC/IPC.md",
     "Tech/Programming/Programming Tools/Frameworks/Electron/Electron Archtecture.md",
+    "Tech/Programming/Programming Tools/Frameworks/Tauri/Tauri Architecture.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WKWebView/WKWebView.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WebView/WebView2.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView/PyWebView.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WKWebView",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WebView",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/Embedded web browser.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Browsers Engine/Webkit/Webkit.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Browsers Engine/Webkit",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Browsers Engine",
-    "Tech/Programming/Programming Languages/Python/Libs/Standart Libray/subprocess/subprocess (Python).md",
-    "Tech/Programming/Programming Languages/Python/Libs/Standart Libray/multiprocess/multiprocessing (Python).md",
-    "Tech/Network/Server/SSR.md",
-    "Tech/Network/Server/SSE.md",
-    "PersonalProjects/discontinued/Ghost Link/Ghost Link.md",
-    "PersonalProjects/Script Manager PCP/Script Manager PCP.md",
-    "PersonalProjects/Script Manager PCP/Script Manager PCP architechture.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/WebView/WebView2.md",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+[[Garbage Collector]] runs concurrently alongside the program, does it in parallel with program execution
