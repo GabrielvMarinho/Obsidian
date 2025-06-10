@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Parameter.md",
+                "file": "Tech/DataScience/Data Structure/Big O Notatin/Big O.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parameter"
+              "title": "Big O"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parameter",
+                "query": "big o",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 226.5
   },
   "right": {
     "id": "4b36682cc47667dc",
@@ -170,11 +169,22 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "c47cef95d19a964f",
+  "active": "5bf477f9bda42ffc",
   "lastOpenFiles": [
+    "Tech/DataScience/Data Structure/Big O Notatin",
+    "Tech/DataScience/Data Structure/Hash/Hash Map/Closed Addressing.md",
+    "Tech/DataScience/Data Structure/Big O Notatin/Big O.md",
+    "Tech/DataScience/Data Structure/Hash/Hash Map/Open Addressing.md",
+    "Tech/DataScience/Data Structure/Hash/Hash Map/Hash Map.md",
+    "Tech/DataScience/Data Structure/Hash/Hash Function/Hash Function.md",
+    "Tech/DataScience/Data Structure/Hash/Hash Function",
+    "Tech/DataScience/Data Structure/Hash/Hash.md",
+    "Tech/DataScience/Data Structure/Hash",
+    "Tech/DataScience/Data Structure/Linked List/Linked List.md",
+    "Tech/DataScience/Data Structure/Hash/Hash Map",
+    "Tech/Programming/Programming Tools/Parameter.md",
     "Tech/Software/Concepts/BACK-END/API/API.md",
     "PersonalProjects/Script Manager PCP/Script Manager PCP architechture.md",
-    "Tech/Programming/Programming Tools/Parameter.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView/PyWebView.md",
     "PersonalProjects/Script Manager PCP/Script Manager PCP.md",
     "Tech/Software/Software Arquitecture/Proxy/Proxy.md",
@@ -191,23 +201,12 @@
     "Tech/Software/Software Arquitecture/Memory/Heap.md",
     "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Garbage Collector.md",
     "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Tracing GC/Tracing GC.md",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Reference Counting GC/Reference Counting GC.md",
     "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types",
     "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Manual Memory Management",
     "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Region-based GC",
     "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Incremental GC",
     "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Concurrent GC",
     "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Generational GC",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Tracing GC",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Reference Counting GC",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector",
-    "Tech/Programming/Programming Languages/Python/Libs/Standart Libray/multiprocess/multiprocessing (Python).md",
-    "Tech/Programming/Programming Languages/Python/Libs/Standart Libray/multiprocess/Untitled.md",
-    "Tech/Programming/Programming Tools/Libraries/React/Craco/Craco.md",
-    "Tech/Programming/Programming Tools/Libraries/React/Hooks/Hooks (React).md",
-    "Tech/Programming/Programming Languages/Python/Libs/Standart Libray/subprocess/subprocess (Python).md",
-    "Tech/Programming/Programming Languages/Python/Python.md",
-    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/Electron IPC System.md",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }
