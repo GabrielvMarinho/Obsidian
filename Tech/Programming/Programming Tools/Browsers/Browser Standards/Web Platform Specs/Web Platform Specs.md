@@ -1,0 +1,1 @@
+a set of rules for [[Browser]] development, includes everything web-api related (fetch, storage, etc.)

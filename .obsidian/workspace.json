@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/DataScience/Data Structure/Big O Notatin/Big O.md",
+                "file": "Tech/Programming/Programming Languages/Python/Libs/Pyinstaller/Pyinstaller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big O"
+              "title": "Pyinstaller"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "big o",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 318.5
   },
   "right": {
     "id": "4b36682cc47667dc",
@@ -169,44 +169,44 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "5bf477f9bda42ffc",
+  "active": "c47cef95d19a964f",
   "lastOpenFiles": [
-    "Tech/DataScience/Data Structure/Big O Notatin",
-    "Tech/DataScience/Data Structure/Hash/Hash Map/Closed Addressing.md",
-    "Tech/DataScience/Data Structure/Big O Notatin/Big O.md",
-    "Tech/DataScience/Data Structure/Hash/Hash Map/Open Addressing.md",
-    "Tech/DataScience/Data Structure/Hash/Hash Map/Hash Map.md",
-    "Tech/DataScience/Data Structure/Hash/Hash Function/Hash Function.md",
-    "Tech/DataScience/Data Structure/Hash/Hash Function",
-    "Tech/DataScience/Data Structure/Hash/Hash.md",
-    "Tech/DataScience/Data Structure/Hash",
-    "Tech/DataScience/Data Structure/Linked List/Linked List.md",
-    "Tech/DataScience/Data Structure/Hash/Hash Map",
-    "Tech/Programming/Programming Tools/Parameter.md",
-    "Tech/Software/Concepts/BACK-END/API/API.md",
+    "Tech/Programming/Programming Languages/Python/Libs/Pyinstaller/Pyinstaller.md",
     "PersonalProjects/Script Manager PCP/Script Manager PCP architechture.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView/PyWebView.md",
+    "Tech/Programming/Programming Languages/Python/Libs/Pyinstaller",
     "PersonalProjects/Script Manager PCP/Script Manager PCP.md",
-    "Tech/Software/Software Arquitecture/Proxy/Proxy.md",
-    "Tech/Software/Software Arquitecture/Proxy/IPC/IPC.md",
-    "Tech/Software/Software Arquitecture/Proxy",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WebView/WebView2.md",
-    "PersonalProjects/themarketwatchlist/the market watchlist.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView/PyWebView architecture.md",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Generational GC/Generational GC.md",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Manual Memory Management/Manual Memory Management.md",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Region-based GC/Regio-based GC.md",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Incremental GC/Incremental GC.md",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Concurrent GC/Concurrent GC.md",
-    "Tech/Software/Software Arquitecture/Memory/Heap.md",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Garbage Collector.md",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Tracing GC/Tracing GC.md",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Manual Memory Management",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Region-based GC",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Incremental GC",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Concurrent GC",
-    "Tech/Software/Software Arquitecture/Memory/Garbage Collector/Types/Generational GC",
+    "Tech/Software/Software execution LifeCycle/Compilation and Execution/Compiler.md",
+    "Tech/Software/Software execution LifeCycle/Compilation and Execution/Compilation.md",
+    "Tech/Software/Software execution LifeCycle/Interpreter.md",
+    "Tech/Software/Software execution LifeCycle",
+    "Tech/Software/Software execution LifeCycle/Runtime/Runtime.md",
+    "Tech/Software/Software execution LifeCycle/Building/Software Building.md",
+    "Tech/Software/Software execution LifeCycle/Runtime",
+    "Tech/Software/Software execution LifeCycle/Building/JIT.md",
+    "Tech/Programming/Programming Languages/Python/Libs/Standart Library/subprocess/subprocess (Python).md",
+    "Tech/Programming/Programming Languages/Python/Python.md",
+    "Tech/Programming/Programming Tools/Frameworks/Flask/Flask.md",
+    "Tech/Software/Software execution LifeCycle/Compilation and Execution/Compilation and Execution of Software.md",
+    "Tech/Security/CSRF.md",
+    "Tech/Security/XSS.md",
+    "Tech/Security",
+    "zzzzzzzzzzz/Tissue.md",
+    "Tech/Software/Software execution LifeCycle/Building",
+    "Tech/Software/Software execution LifeCycle/Compilation and Execution",
+    "zzzzzzzzzzz/Supervised Learning.md",
+    "zzzzzzzzzzz/Syntax.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser Standards/IDL/Web IDL.md",
+    "Tech/Software/Software Building",
+    "Tech/Programming/Programming Tools/Browsers/Browser Standards/DOM Standard/DOM Standard.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser Standards/Web Platform Specs/Web Platform Specs.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser Standards/IDL",
+    "Tech/Programming/Programming Tools/Browsers/Browser Standards/Web Platform Specs",
+    "Tech/Programming/Programming Tools/Browsers/Browser Standards/HTML Living Standart/HTML Living Standard.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser Standards/DOM Standard",
+    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Web History API/Web History API.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser.md",
+    "Tech/DataScience/Data Structure/Hash/Hash Map/Hash Map.md",
+    "Tech/DataScience/Data Structure/Hash/Hash.md",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }
