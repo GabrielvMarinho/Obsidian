@@ -1,0 +1,1 @@
+A [[DataBase]] representing a separate [[Process]] with a dedicated [[Server]]

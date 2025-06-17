@@ -1,1 +1,1 @@
-A linear [[Data Structure]] where each element, called a node, contains two parts, the data and a refenrece to the next node in sequence
+A linear [[Data Structure]] where each element, called a node, contains two parts, the data and a refence or pointer to the next node in sequence

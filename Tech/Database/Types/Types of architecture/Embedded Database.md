@@ -1,0 +1,1 @@
+[[DataBase]] that runs inside an app as a [[Lib]], no [[Server]] required

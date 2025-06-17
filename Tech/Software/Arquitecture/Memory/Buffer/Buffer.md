@@ -1,0 +1,1 @@
+a Region of memory to store data temporarily until its processed
