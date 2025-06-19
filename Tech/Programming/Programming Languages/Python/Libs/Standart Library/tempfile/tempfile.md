@@ -1,0 +1,1 @@
+[[Python]] [[Lib]] to create temporary files and directories this lib refers by default to a path of temporary files that every os has 

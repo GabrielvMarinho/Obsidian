@@ -1,0 +1,1 @@
+a [[Data Structure]] that is basically a double [[Queue]], the inserting process is the same, but the elements can be taken from both sides

@@ -1,0 +1,1 @@
+every [[Operating System]] has its own temporary files path, its mostly used by applications to manage cache, version controlling of states of running applications, etc.
