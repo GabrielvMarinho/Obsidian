@@ -1,0 +1,1 @@
+a [[Function]] that can pause its execution, save its state and continue from where it stopped, its basically an async function, however in some lower level languages its implemented differently and that might envolve stack switching and manual context saving

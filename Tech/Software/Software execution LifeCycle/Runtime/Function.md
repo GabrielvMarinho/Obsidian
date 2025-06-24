@@ -1,0 +1,1 @@
+Piece of code that can be called anywhere and will execute something
