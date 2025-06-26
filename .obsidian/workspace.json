@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Hardware/Operating Systems/Architecture/Kernel/Kernel.md",
+                "file": "Tech/Programming/Programming Tools/Code editors/Vim/Vim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kernel"
+              "title": "Vim"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "2a2a2753b0bc11ee",
   "lastOpenFiles": [
-    "Tech/Hardware/Operating Systems/Operating System.md",
+    "Tech/Programming/Programming Tools/Frameworks/Maven/Maven.md",
+    "Tech/Programming/Programming Tools/Code editors/Vim/Vim.md",
+    "Tech/Programming/Programming Tools/Code editors/Vim",
     "Tech/Hardware/Operating Systems/Architecture/Kernel/Kernel.md",
+    "Tech/Programming/Programming Tools/Code editors",
+    "Tech/Hardware/Operating Systems/Operating System.md",
     "Tech/Hardware/Operating Systems/Architecture/Kernel",
     "Tech/Hardware/OS/Untitled",
     "Tech/Hardware/OS",
@@ -202,11 +206,7 @@
     "Tech/Programming/Programming Languages/Python/Libs/MatPlotLib/MatPlotLib.md",
     "Tech/Programming/Programming Languages/Python/Libs/Standart Library/tempfile",
     "Tech/DataScience/Data Structure/Queue/Dqueue.md",
-    "Tech/DataScience/Data Structure/Queue/Queue.md",
     "Tech/DataScience/Data Structure/Queue",
-    "Tech/Database/Types/Types of storing data/Sql Databases/SQLite/sqlite.md",
-    "Tech/Database/Types/Types of architecture",
-    "Tech/Database/Types/Types of storing data",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }

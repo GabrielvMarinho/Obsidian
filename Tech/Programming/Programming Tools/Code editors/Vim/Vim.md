@@ -1,0 +1,1 @@
+A Code editor built on top of vi, focuses on keyboard functions for a faster, terminal look a like code development
