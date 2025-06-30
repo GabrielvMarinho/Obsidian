@@ -1,0 +1,1 @@
+Technically not an [[Operating System]], its just a [[Kernel]] to manage everything related to an os, but not one, generally you would use a distro
