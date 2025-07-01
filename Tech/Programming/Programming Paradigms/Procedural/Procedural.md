@@ -1,0 +1,1 @@
+a [[Programming Paradigms|Programming Paradigm]] where the code represents procedures that are executed into a sequential logic line of steps
