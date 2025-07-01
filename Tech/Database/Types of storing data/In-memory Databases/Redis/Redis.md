@@ -1,0 +1,1 @@
+[[NoSql]] [[In-memory Database]] commonly used for caching

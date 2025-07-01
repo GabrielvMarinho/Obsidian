@@ -1,0 +1,1 @@
+Central Processing Unit, responsible for completing instructions given by a given [[Software]]

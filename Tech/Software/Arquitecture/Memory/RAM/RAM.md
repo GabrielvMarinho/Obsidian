@@ -1,0 +1,1 @@
+Random Access Memory, provides fast non persistent memory to the [[CPU]]
