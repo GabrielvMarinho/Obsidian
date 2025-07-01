@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Software execution LifeCycle/Testing/CI CD Pipelines/CI CD Pipelines.md",
+                "file": "Tech/Programming/Programming Tools/Docker/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CI CD Pipelines"
+              "title": "Docker"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linux",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,8 +172,14 @@
   },
   "active": "2a2a2753b0bc11ee",
   "lastOpenFiles": [
-    "Tech/Hardware/Operating Systems/Architecture/Kernel/Linux/Linux.md",
+    "Tech/Software/Software execution LifeCycle/Runtime/RTE.md",
+    "Tech/Programming/Programming Tools/Docker/Docker.md",
+    "Tech/Programming/Programming Tools/Docker/Container Runtime.md",
+    "Tech/Programming/Programming Tools/Docker/Images (Docker).md",
+    "Tech/Programming/Programming Tools/Docker/Containers (Docker).md",
+    "Tech/Software/Software execution LifeCycle/Runtime/Process.md",
     "Tech/Software/Software execution LifeCycle/Testing/CI CD Pipelines/CI CD Pipelines.md",
+    "Tech/Hardware/Operating Systems/Architecture/Kernel/Linux/Linux.md",
     "Tech/Software/Software execution LifeCycle/Testing/CI CD Pipelines",
     "Tech/Software/Software execution LifeCycle/Testing",
     "Tech/Programming/Programming Tools/Code editors/Vim/Vim.md",
@@ -186,7 +193,6 @@
     "Tech/Hardware/OS",
     "Tech/Hardware/Operating Systems/examples/Android/Android.md",
     "Tech/Software/Software execution LifeCycle/Runtime/Runtime.md",
-    "Tech/Software/Software execution LifeCycle/Runtime/Process.md",
     "Tech/Software/Software execution LifeCycle/Runtime/Thread.md",
     "Tech/Software/Software execution LifeCycle/Runtime/Function.md",
     "Tech/Programming/Programming Tools/Callback.md",
@@ -199,14 +205,9 @@
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WebView/WebView2.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView/PyWebView.md",
     "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/Embedded web browser.md",
-    "Tech/Hardware/Operating Systems/Architecture/Temporary files/Temporary files.md",
-    "Tech/Database/Types/Types of architecture/Cloud Database.md",
-    "Tech/Hardware/Operating Systems/examples/Fedora/Fedora.md",
     "Tech/Hardware/Operating Systems/Architecture/Temporary files",
-    "Tech/Hardware/Operating Systems/architecture/Untitled.md",
     "Tech/Hardware/Operating Systems/Architecture",
     "Tech/Hardware/Operating Systems/examples",
-    "Tech/Programming/Programming Languages/Python/Libs/Standart Library/tempfile/tempfile.md",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }

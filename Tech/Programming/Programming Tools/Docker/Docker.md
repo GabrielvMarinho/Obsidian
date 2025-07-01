@@ -1,11 +1,17 @@
-It's a set of [PAAS](obsidian://open?vault=Obsidian&file=Tech%2FCloud%2FServices%2FPAAS) to deliver [Software](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FSofwate%20tools%2FSoftware) in packages called containers
+A software development tool that helps bundle the code in images and containers to help standardize the development environment.
 
-A docker is usually separated into [[Containers (Docker)|Containers]] and [[Images (Docker)|Images]].
+## Images
 
-### Differences of Images and Containers
+A template with the actual software and the environment.
 
-#### Images 
+It bundles:
+1. Dependencies
+2. Environment variables
+3. an [[RTE]]
+## Containers
 
-are related to whatever environment you want to set, Its really similiar to [[Virtual Machines]] in some ways and very different in others
+An isolated [[Process]] to run instance of images
 
-### Difference of Dockers and a [[Virtual Machines|Virtual Machine]]
+## Deploying
+
+Dockers can be used to deploy applications, its generally simple to do so in server applications and more of a challenge when it comes to local/desktop applications 

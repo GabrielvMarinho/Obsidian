@@ -1,1 +1,0 @@
-Contains de bundle of [[Images (Docker)]] and sets the environment as a whole
