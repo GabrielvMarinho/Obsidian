@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Docker/Docker.md",
+                "file": "Tech/Programming/Programming Tools/Docker/concepts/Docker Container.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Docker Container"
             }
           }
         ]
@@ -74,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 244.5
   },
   "right": {
     "id": "4b36682cc47667dc",
@@ -172,42 +171,42 @@
   },
   "active": "2a2a2753b0bc11ee",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Tools/Docker/concepts/Docker Virtual Networking Environment.md",
+    "Tech/Programming/Programming Tools/Docker/concepts/Docker Image.md",
+    "Tech/Programming/Programming Tools/Docker/concepts/Docker Container.md",
     "Tech/Software/Software execution LifeCycle/Runtime/RTE.md",
     "Tech/Programming/Programming Tools/Docker/Docker.md",
-    "Tech/Programming/Programming Tools/Docker/Container Runtime.md",
-    "Tech/Programming/Programming Tools/Docker/Images (Docker).md",
-    "Tech/Programming/Programming Tools/Docker/Containers (Docker).md",
-    "Tech/Software/Software execution LifeCycle/Runtime/Process.md",
-    "Tech/Software/Software execution LifeCycle/Testing/CI CD Pipelines/CI CD Pipelines.md",
-    "Tech/Hardware/Operating Systems/Architecture/Kernel/Linux/Linux.md",
-    "Tech/Software/Software execution LifeCycle/Testing/CI CD Pipelines",
-    "Tech/Software/Software execution LifeCycle/Testing",
-    "Tech/Programming/Programming Tools/Code editors/Vim/Vim.md",
-    "Tech/Programming/Programming Tools/Frameworks/Maven/Maven.md",
-    "Tech/Programming/Programming Tools/Code editors/Vim",
-    "Tech/Hardware/Operating Systems/Architecture/Kernel/Kernel.md",
-    "Tech/Programming/Programming Tools/Code editors",
-    "Tech/Hardware/Operating Systems/Operating System.md",
-    "Tech/Hardware/Operating Systems/Architecture/Kernel",
-    "Tech/Hardware/OS/Untitled",
-    "Tech/Hardware/OS",
-    "Tech/Hardware/Operating Systems/examples/Android/Android.md",
-    "Tech/Software/Software execution LifeCycle/Runtime/Runtime.md",
-    "Tech/Software/Software execution LifeCycle/Runtime/Thread.md",
-    "Tech/Software/Software execution LifeCycle/Runtime/Function.md",
-    "Tech/Programming/Programming Tools/Callback.md",
-    "Tech/Software/Software execution LifeCycle/Runtime/Method.md",
-    "Tech/Programming/Programming Paradigms/OOP/Constructor.md",
-    "Tech/Software/Software execution LifeCycle/Runtime/Coroutine.md",
-    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Call Stack Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Guide/Built-in Functions Javascript.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WKWebView/WKWebView.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/WebView/WebView2.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView/PyWebView.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/Embedded web browser.md",
-    "Tech/Hardware/Operating Systems/Architecture/Temporary files",
-    "Tech/Hardware/Operating Systems/Architecture",
-    "Tech/Hardware/Operating Systems/examples",
+    "Tech/Programming/Programming Tools/Docker/Dockerfile.md",
+    "Tech/Programming/Programming Tools/Docker/Docker compose.md",
+    "Tech/Programming/Programming Tools/Docker/example",
+    "Tech/Programming/Programming Tools/Docker/concepts",
+    "Tech/Programming/Programming Tools/Docker/example/Building a container.md",
+    "Tech/Database/Types of storing data/In-memory Databases/examples/Redis/Redis.md",
+    "Tech/Database/Types of storing data/In-memory Databases/examples/Redis",
+    "Tech/Database/Types of storing data/In-memory Databases/examples",
+    "Tech/Programming/Programming Tools/Docker/Docker with Spring and Mysql/Creating a Docker with Spring and Mysql.md",
+    "Tech/Programming/Programming Tools/Docker/Docker with Spring and Mysql",
+    "Tech/Database/Types of storing data/In-memory Databases/Redis/Redis.md",
+    "Tech/Database/Types of storing data/In-memory Databases/Redis",
+    "Tech/Hardware/CPU.md",
+    "Tech/Database/Types of storing data/Vectorial Databases/Vectors.md",
+    "Tech/Database/Types of storing data/Vectorial Databases/Vectorial Databases.md",
+    "Tech/Database/Types of storing data/Vectorial Databases",
+    "Tech/Database/Types of storing data/Sql Databases/SQLite/sqlite.md",
+    "Tech/Database/Types of storing data/Sql Databases/SQLite",
+    "Tech/Database/Types of storing data/Sql Databases/Sql.md",
+    "Tech/Database/Types of storing data/Sql Databases/MySql.md",
+    "Tech/Database/Types of storing data/Sql Databases/DB file.md",
+    "Tech/Database/Types of storing data/Sql Databases",
+    "Tech/Database/Types of storing data/NoSqlDatabases/NoSql.md",
+    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB.md",
+    "Tech/Database/Types of storing data/NoSqlDatabases",
+    "Tech/Software/Arquitecture/Memory/RAM/RAM.md",
+    "Tech/Programming/Programming Paradigms/Procedural/Procedural.md",
+    "Tech/Database/Types of storing data/In-memory Databases/In-memory Database.md",
+    "Tech/Database/Types of architecture/Embedded Database.md",
+    "Tech/Database/Types of architecture/Cloud Database.md",
+    "Tech/Database/Types of architecture/Client-Server Database.md",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }
