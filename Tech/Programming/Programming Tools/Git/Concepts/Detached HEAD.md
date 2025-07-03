@@ -1,0 +1,1 @@
+a [[HEAD]] no pointing to any [[Branch]]

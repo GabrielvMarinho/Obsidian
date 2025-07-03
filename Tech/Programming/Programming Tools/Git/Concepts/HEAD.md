@@ -1,0 +1,1 @@
+a pointer to the current commit

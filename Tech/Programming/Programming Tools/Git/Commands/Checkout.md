@@ -1,0 +1,1 @@
+you can use checkout to changes [[Branch|Branches]] but can also you to change the [[HEAD]] to a specific commit when you call the commit hash

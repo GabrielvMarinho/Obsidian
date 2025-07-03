@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Docker/Dockerfile.md",
+                "file": "Tech/Programming/Programming Tools/Git/Commands/Revert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dockerfile"
+              "title": "Revert"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,12 +171,21 @@
   },
   "active": "2a2a2753b0bc11ee",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Tools/Git/Commands/Reset.md",
+    "Tech/Programming/Programming Tools/Git/Commands/Revert.md",
+    "Tech/Programming/Programming Tools/Git/Commands/Log.md",
+    "Tech/Programming/Programming Tools/Git/Concepts/Detached HEAD.md",
+    "Tech/Programming/Programming Tools/Git/Commands/Checkout.md",
+    "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
+    "Tech/Programming/Programming Tools/Git/Concepts/HEAD.md",
+    "Tech/Programming/Programming Tools/Git/Commands/Push.md",
+    "Flash Point.md",
+    "Tech/Programming/Programming Tools/Docker/Dockerfile.md",
     "Untitled.canvas",
     "Tech/Programming/Programming Tools/Docker/Docker compose.md",
     "Tech/Programming/Programming Tools/Docker/concepts/Docker Virtual Networking Environment.md",
     "Tech/Programming/Programming Tools/Docker/concepts/Docker Container.md",
     "Tech/Programming/Programming Tools/Docker/concepts/Docker Image.md",
-    "Tech/Programming/Programming Tools/Docker/Dockerfile.md",
     "Tech/Software/Software execution LifeCycle/Runtime/RTE.md",
     "Tech/Programming/Programming Tools/Docker/Docker.md",
     "Tech/Programming/Programming Tools/Docker/example",
@@ -197,16 +206,8 @@
     "Tech/Database/Types of storing data/Sql Databases/SQLite",
     "Tech/Database/Types of storing data/Sql Databases/Sql.md",
     "Tech/Database/Types of storing data/Sql Databases/MySql.md",
-    "Tech/Database/Types of storing data/Sql Databases/DB file.md",
     "Tech/Database/Types of storing data/Sql Databases",
-    "Tech/Database/Types of storing data/NoSqlDatabases/NoSql.md",
-    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB.md",
     "Tech/Database/Types of storing data/NoSqlDatabases",
-    "Tech/Software/Arquitecture/Memory/RAM/RAM.md",
-    "Tech/Programming/Programming Paradigms/Procedural/Procedural.md",
-    "Tech/Database/Types of storing data/In-memory Databases/In-memory Database.md",
-    "Tech/Database/Types of architecture/Embedded Database.md",
-    "Tech/Database/Types of architecture/Cloud Database.md",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }
