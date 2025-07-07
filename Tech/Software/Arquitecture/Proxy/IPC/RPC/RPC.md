@@ -1,0 +1,1 @@
+Remote procedure call, an abstraction of [[Tech/Software/Arquitecture/Proxy/IPC/IPC]] calling processes in a remote address

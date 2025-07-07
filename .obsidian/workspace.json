@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Arquitecture/Authentication/Web Authentication/How is a JWT created.md",
+                "file": "BLAH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How is a JWT created"
+              "title": "BLAH"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jwt",
+                "query": "ports",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,6 +171,15 @@
   },
   "active": "2a2a2753b0bc11ee",
   "lastOpenFiles": [
+    "Tech/Software/Arquitecture/Proxy/IPC/Types/IPC Unnamed Pipes.md",
+    "Tech/Software/Arquitecture/Proxy/IPC/Types/IPC Named Pipes.md",
+    "Tech/Software/Arquitecture/Proxy/IPC/Types/IPC Pipes.md",
+    "Tech/Software/Arquitecture/Proxy/IPC/RPC/RPC.md",
+    "Tech/Software/Arquitecture/Proxy/IPC/IPC.md",
+    "Tech/Software/Arquitecture/Patterns of software/Micro Services/Ports.md",
+    "Tech/Software/Arquitecture/Proxy/IPC/RPC",
+    "Tech/Software/Arquitecture/Proxy/IPC/Types",
+    "Tech/Software/Arquitecture/Authentication/Web Authentication/How is a JWT created.md",
     "Tech/Software/Arquitecture/Authentication/Web Authentication/JWT.md",
     "Tech/Programming/Programming Tools/Git/Commands/Revert.md",
     "Tech/Programming/Programming Tools/Git/Commands/Reset.md",
@@ -196,19 +204,10 @@
     "Tech/Database/Types of storing data/In-memory Databases/examples/Redis/Redis.md",
     "Tech/Database/Types of storing data/In-memory Databases/examples/Redis",
     "Tech/Database/Types of storing data/In-memory Databases/examples",
-    "Tech/Programming/Programming Tools/Docker/Docker with Spring and Mysql/Creating a Docker with Spring and Mysql.md",
     "Tech/Programming/Programming Tools/Docker/Docker with Spring and Mysql",
-    "Tech/Database/Types of storing data/In-memory Databases/Redis/Redis.md",
     "Tech/Database/Types of storing data/In-memory Databases/Redis",
-    "Tech/Hardware/CPU.md",
-    "Tech/Database/Types of storing data/Vectorial Databases/Vectors.md",
-    "Tech/Database/Types of storing data/Vectorial Databases/Vectorial Databases.md",
     "Tech/Database/Types of storing data/Vectorial Databases",
-    "Tech/Database/Types of storing data/Sql Databases/SQLite/sqlite.md",
     "Tech/Database/Types of storing data/Sql Databases/SQLite",
-    "Tech/Database/Types of storing data/Sql Databases/Sql.md",
-    "Tech/Database/Types of storing data/Sql Databases",
-    "Tech/Database/Types of storing data/NoSqlDatabases",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }
