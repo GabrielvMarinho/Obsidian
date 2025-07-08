@@ -1,0 +1,1 @@
+the process of removing items fom [[Caching|Cache]] to free up space, usually because the cache is full

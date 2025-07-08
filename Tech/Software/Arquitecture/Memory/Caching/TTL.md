@@ -1,0 +1,1 @@
+time to live, refers to the time setted by a [[Caching]] system to clean and query new data

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLAH.md",
+                "file": "Tech/Software/Software execution LifeCycle/Versioning/Git/Architecture/Commits Storing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BLAH"
+              "title": "Commits Storing"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ports",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 332.5
   },
   "right": {
     "id": "4b36682cc47667dc",
@@ -171,6 +171,19 @@
   },
   "active": "2a2a2753b0bc11ee",
   "lastOpenFiles": [
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Git.md",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Architecture/Commits Storing.md",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Architecture",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Untitled.md",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/GitFlow.canvas",
+    "Tech/Software/Arquitecture/Memory/Caching/Caching.md",
+    "Tech/Software/Software execution LifeCycle/Versioning",
+    "Tech/Software/Arquitecture/Memory/Caching/Cache Eviction.md",
+    "Tech/Software/Arquitecture/Memory/Caching/TTL.md",
+    "BLAH.md",
+    "Tech/Software/Arquitecture/Memory/Caching",
+    "Tech/Programming/Programming Tools/Docker/concepts/Base Image (docker).md",
+    "Tech/Programming/Programming Tools/Docker/Docker Commands.md",
     "Tech/Software/Arquitecture/Proxy/IPC/Types/IPC Unnamed Pipes.md",
     "Tech/Software/Arquitecture/Proxy/IPC/Types/IPC Named Pipes.md",
     "Tech/Software/Arquitecture/Proxy/IPC/Types/IPC Pipes.md",
@@ -181,33 +194,21 @@
     "Tech/Software/Arquitecture/Proxy/IPC/Types",
     "Tech/Software/Arquitecture/Authentication/Web Authentication/How is a JWT created.md",
     "Tech/Software/Arquitecture/Authentication/Web Authentication/JWT.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Revert.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Reset.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Log.md",
-    "Tech/Programming/Programming Tools/Git/Concepts/Detached HEAD.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Checkout.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Branch.md",
-    "Tech/Programming/Programming Tools/Git/Concepts/HEAD.md",
-    "Tech/Programming/Programming Tools/Git/Commands/Push.md",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Revert.md",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Reset.md",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Log.md",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Concepts/Detached HEAD.md",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Checkout.md",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Branch.md",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Concepts/HEAD.md",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Push.md",
     "Flash Point.md",
-    "Tech/Programming/Programming Tools/Docker/Dockerfile.md",
     "Untitled.canvas",
-    "Tech/Programming/Programming Tools/Docker/Docker compose.md",
-    "Tech/Programming/Programming Tools/Docker/concepts/Docker Virtual Networking Environment.md",
-    "Tech/Programming/Programming Tools/Docker/concepts/Docker Container.md",
-    "Tech/Programming/Programming Tools/Docker/concepts/Docker Image.md",
-    "Tech/Software/Software execution LifeCycle/Runtime/RTE.md",
-    "Tech/Programming/Programming Tools/Docker/Docker.md",
     "Tech/Programming/Programming Tools/Docker/example",
     "Tech/Programming/Programming Tools/Docker/concepts",
-    "Tech/Programming/Programming Tools/Docker/example/Building a container.md",
-    "Tech/Database/Types of storing data/In-memory Databases/examples/Redis/Redis.md",
     "Tech/Database/Types of storing data/In-memory Databases/examples/Redis",
     "Tech/Database/Types of storing data/In-memory Databases/examples",
     "Tech/Programming/Programming Tools/Docker/Docker with Spring and Mysql",
-    "Tech/Database/Types of storing data/In-memory Databases/Redis",
-    "Tech/Database/Types of storing data/Vectorial Databases",
-    "Tech/Database/Types of storing data/Sql Databases/SQLite",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+the action of saving data available in a more acessible location, like [[RAM]]
