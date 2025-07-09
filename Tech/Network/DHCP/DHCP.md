@@ -1,0 +1,1 @@
+Dynamic host configuration protocol is a network service for automatically assigning IP addresses to devices on a [[Network]]

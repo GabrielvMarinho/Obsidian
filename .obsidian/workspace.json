@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Software execution LifeCycle/Versioning/Git/Architecture/Commits Storing.md",
+                "file": "Tech/Network/DNS/DDNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commits Storing"
+              "title": "DDNS"
             }
           }
         ]
@@ -171,8 +171,23 @@
   },
   "active": "2a2a2753b0bc11ee",
   "lastOpenFiles": [
-    "Tech/Software/Software execution LifeCycle/Versioning/Git/Git.md",
+    "Tech/Network/DHCP/DHCP.md",
+    "Tech/Network/DNS/DDNS.md",
+    "Tech/Network/PROTOCOLS/IP.md",
+    "Tech/Network/DHCP",
+    "Tech/Network/DNS/DNS.md",
+    "Tech/Network/PROTOCOLS/Important/HTTP/Architecture/Architecture of HTTP Requests.md",
+    "Tech/Network/DNS",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Reset.md",
+    "Tech/Programming/Programming Languages/Javascript/Package Manager/npx.md",
+    "Tech/Programming/Programming Languages/Javascript/Package Manager/npm.md",
+    "Tech/Software/Software execution LifeCycle/Testing/Static analysis tool/ESLint/ESLint.md",
+    "Tech/Programming/Programming Languages/Javascript/Package Manager",
     "Tech/Software/Software execution LifeCycle/Versioning/Git/Architecture/Commits Storing.md",
+    "Tech/Software/Software execution LifeCycle/Testing/Static analysis tool/ESLint",
+    "Tech/Software/Software execution LifeCycle/Testing/Static analysis tool",
+    "Tech/Software/Software execution LifeCycle/Testing/Frameworks",
+    "Tech/Software/Software execution LifeCycle/Versioning/Git/Git.md",
     "Tech/Software/Software execution LifeCycle/Versioning/Git/Architecture",
     "Tech/Software/Software execution LifeCycle/Versioning/Git/Untitled.md",
     "Tech/Software/Software execution LifeCycle/Versioning/Git/GitFlow.canvas",
@@ -191,24 +206,9 @@
     "Tech/Software/Arquitecture/Proxy/IPC/IPC.md",
     "Tech/Software/Arquitecture/Patterns of software/Micro Services/Ports.md",
     "Tech/Software/Arquitecture/Proxy/IPC/RPC",
-    "Tech/Software/Arquitecture/Proxy/IPC/Types",
     "Tech/Software/Arquitecture/Authentication/Web Authentication/How is a JWT created.md",
     "Tech/Software/Arquitecture/Authentication/Web Authentication/JWT.md",
-    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Revert.md",
-    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Reset.md",
-    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Log.md",
-    "Tech/Software/Software execution LifeCycle/Versioning/Git/Concepts/Detached HEAD.md",
-    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Checkout.md",
-    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Branch.md",
-    "Tech/Software/Software execution LifeCycle/Versioning/Git/Concepts/HEAD.md",
-    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Push.md",
-    "Flash Point.md",
     "Untitled.canvas",
-    "Tech/Programming/Programming Tools/Docker/example",
-    "Tech/Programming/Programming Tools/Docker/concepts",
-    "Tech/Database/Types of storing data/In-memory Databases/examples/Redis",
-    "Tech/Database/Types of storing data/In-memory Databases/examples",
-    "Tech/Programming/Programming Tools/Docker/Docker with Spring and Mysql",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
 }
