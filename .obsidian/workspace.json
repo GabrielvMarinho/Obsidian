@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Network/DNS/DDNS.md",
+                "file": "Tech/Programming/Programming Languages/Python/Python Importing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DDNS"
+              "title": "Python Importing"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +171,11 @@
   },
   "active": "2a2a2753b0bc11ee",
   "lastOpenFiles": [
-    "Tech/Network/DHCP/DHCP.md",
+    "Tech/Programming/Programming Languages/Python/Python.md",
+    "Tech/Programming/Programming Languages/Python/Python Importing.md",
+    "Tech/Programming/Programming Languages/Python/Libs/Standart Library/multiprocess/multiprocessing (Python).md",
     "Tech/Network/DNS/DDNS.md",
+    "Tech/Network/DHCP/DHCP.md",
     "Tech/Network/PROTOCOLS/IP.md",
     "Tech/Network/DHCP",
     "Tech/Network/DNS/DNS.md",
@@ -204,10 +207,7 @@
     "Tech/Software/Arquitecture/Proxy/IPC/Types/IPC Pipes.md",
     "Tech/Software/Arquitecture/Proxy/IPC/RPC/RPC.md",
     "Tech/Software/Arquitecture/Proxy/IPC/IPC.md",
-    "Tech/Software/Arquitecture/Patterns of software/Micro Services/Ports.md",
     "Tech/Software/Arquitecture/Proxy/IPC/RPC",
-    "Tech/Software/Arquitecture/Authentication/Web Authentication/How is a JWT created.md",
-    "Tech/Software/Arquitecture/Authentication/Web Authentication/JWT.md",
     "Untitled.canvas",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
