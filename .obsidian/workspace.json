@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Javascript/Module System/ES Modules/ES Modules.md",
+                "file": "Books/Clean Code/Insight/Explicitness over Simplicity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ES Modules"
+              "title": "Explicitness over Simplicity"
             }
           }
         ]
@@ -169,12 +169,19 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "5bf477f9bda42ffc",
+  "active": "2a2a2753b0bc11ee",
   "lastOpenFiles": [
+    "Captura de tela 2025-07-13 092449.png",
+    "Captura de tela 2025-07-13 092522.png",
+    "Tech/Programming/Programming Languages/Javascript/Module System/ES Modules/ES Modules.md",
+    "Books/Clean Code/Insight/Explicitness over Simplicity.md",
+    "Books/Clean Code/Insight",
+    "Books/Clean Code",
+    "Books",
+    "PersonalProjects/Script Manager PCP/Script Manager PCP.md",
     "Tech/Programming/Programming Languages/Javascript/Module System",
     "Tech/Programming/Programming Languages/Javascript/Untitled",
     "Tech/Programming/Programming Languages/Javascript/Module System/CommonJs/CommonJs.md",
-    "Tech/Programming/Programming Languages/Javascript/Module System/ES Modules/ES Modules.md",
     "Tech/Programming/Programming Languages/Javascript/Module System/ES Modules",
     "Tech/Programming/Programming Languages/Javascript/Javascript.md",
     "Tech/Programming/Programming Languages/Javascript/Module System/CommonJs",
@@ -194,11 +201,7 @@
     "Tech/Programming/Programming Languages/Javascript/Package Manager/npx.md",
     "Tech/Programming/Programming Languages/Javascript/Package Manager/npm.md",
     "Tech/Software/Software execution LifeCycle/Testing/Static analysis tool/ESLint/ESLint.md",
-    "Tech/Programming/Programming Languages/Javascript/Package Manager",
     "Tech/Software/Software execution LifeCycle/Versioning/Git/Architecture/Commits Storing.md",
-    "Tech/Software/Software execution LifeCycle/Testing/Static analysis tool/ESLint",
-    "Tech/Software/Software execution LifeCycle/Testing/Static analysis tool",
-    "Tech/Software/Software execution LifeCycle/Testing/Frameworks",
     "Tech/Software/Software execution LifeCycle/Versioning/Git/Git.md",
     "Tech/Software/Software execution LifeCycle/Versioning/Git/Untitled.md",
     "Tech/Software/Software execution LifeCycle/Versioning/Git/GitFlow.canvas",
@@ -206,8 +209,6 @@
     "Tech/Software/Arquitecture/Memory/Caching/Cache Eviction.md",
     "Tech/Software/Arquitecture/Memory/Caching/TTL.md",
     "BLAH.md",
-    "Tech/Programming/Programming Tools/Docker/concepts/Base Image (docker).md",
-    "Tech/Programming/Programming Tools/Docker/Docker Commands.md",
     "Untitled.canvas",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
