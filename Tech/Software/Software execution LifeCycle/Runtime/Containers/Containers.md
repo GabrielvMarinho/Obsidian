@@ -1,0 +1,1 @@
+A container is a packaged and isolated [[Runtime]] environment that includes everything needed for an application to run
