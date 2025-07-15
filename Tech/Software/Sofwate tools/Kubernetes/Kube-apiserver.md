@@ -1,0 +1,1 @@
+[[Kubernetes]] tool found on the [[Control Plane Node]], acting as the entry point for all API requests and the central communication hub that coordinates workloads and maintains desired state in a kubernetes application.

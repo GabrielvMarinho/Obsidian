@@ -1,2 +1,5 @@
-Each [[Node]] in a [[Kubernetes]] network can run many pods, its the smallest deployable unit, of 1 to N containers
+A wrapper of one or more containers
 
+Each [[Node]] in a [[Kubernetes]] network can run many pods, its the smallest deployable unit
+
+Generally the pod is a copy of an existing service for availability and scalability

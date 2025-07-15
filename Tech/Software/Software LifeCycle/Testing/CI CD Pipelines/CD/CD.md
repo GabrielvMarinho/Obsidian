@@ -1,0 +1,1 @@
+Continuos Delivery: focuses on automatically deploy the application

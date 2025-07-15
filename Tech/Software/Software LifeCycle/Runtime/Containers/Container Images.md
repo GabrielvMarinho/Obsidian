@@ -1,0 +1,1 @@
+A ready to go template of the container

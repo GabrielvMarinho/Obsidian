@@ -1,0 +1,1 @@
+The [[Node]] in a [[Kubernetes]] environment responsible for controlling the core components of it

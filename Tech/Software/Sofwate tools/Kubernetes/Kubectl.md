@@ -1,1 +1,1 @@
-[[Kubernetes]] tool to manage the whole applcaition though cli
+[[Kubernetes]] tool to interact with [[Kube-apiserver]]

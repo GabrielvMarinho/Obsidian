@@ -1,0 +1,1 @@
+[[Kubernetes]] api object to store non confidential data in yaml files that can later be accessed as env variables, its processed during runtime (when its actually called, it may not be).

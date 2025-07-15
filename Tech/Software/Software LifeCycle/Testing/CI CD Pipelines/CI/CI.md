@@ -1,0 +1,1 @@
+Continuos integration: focuses of building and testing the app

@@ -1,4 +1,4 @@
-A template with the actual software and the environment.
+A template with the actual software and the environment. A [[Containers|Container]] ready to run
 
 It bundles:
 1. Dependencies
