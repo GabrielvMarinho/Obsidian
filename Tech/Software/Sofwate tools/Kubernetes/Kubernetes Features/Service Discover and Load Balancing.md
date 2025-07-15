@@ -1,0 +1,2 @@
+[[Kubernetes]] feature: done by [[Kube-proxy]].
+Can expose a container using [[DNS]] name or using they own IP, if traffic to a container is high, it is able to load balance and distribute the network traffic, by sending the traffic to another container for example (depend on the configuration).

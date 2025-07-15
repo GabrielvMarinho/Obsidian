@@ -13,6 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Features/Service Discover and Load Balancing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Service Discover and Load Balancing"
+            }
+          },
+          {
+            "id": "5fa88e3bd6bff624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Features/Self-healing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Self-healing"
+            }
+          },
+          {
+            "id": "841ac448744d6fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Tech/Software/Sofwate tools/Kubernetes/Kubernetes.md",
                 "mode": "source",
                 "source": false
@@ -27,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Sofwate tools/Docker/concepts/Docker Container.md",
+                "file": "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Features/Automatic Bin Packing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Container"
+              "title": "Automatic Bin Packing"
+            }
+          },
+          {
+            "id": "abf88da26e0e90a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Software/Arquitecture/Node.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Node"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "computer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,47 +226,47 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "f52dd7b20b5af329",
+  "active": "841ac448744d6fd4",
   "lastOpenFiles": [
-    "Tech/Software/Software execution LifeCycle/Runtime/Containers/Containers.md",
-    "Tech/Software/Sofwate tools/Docker/concepts/Docker Container.md",
-    "Tech/Software/Software execution LifeCycle/Runtime/Containers",
-    "Tech/Software/Sofwate tools/Docker/concepts/Base Image (docker).md",
+    "Tech/Software/Sofwate tools/Kubernetes/Kube-proxy.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Kubectl.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Kubelet.md",
     "Tech/Software/Sofwate tools/Kubernetes/Kubernetes.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Kubernete Clusters.md",
-    "Tech/Network/PROTOCOLS/No one cares/OpenV4J/OpenV4J.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Pods.md",
-    "Articles/Software Development/Docker Architecture/Docker Architecture.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Management/Kubernetes Pods.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Features/Automated Rollouts and Rollbacks.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Features/IPv4-IPv6 dual-stack.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Features/Self-healing.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Features/Automatic Bin Packing.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Features/Service Discover and Load Balancing.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Features/Horizontal Scaling.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Management/Managing Nodes/Managing Nodes.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Management/Managing Nodes/Kubernetes Clusters.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Management/Managing Containers/Managing Containers.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Management/Managing Containers",
+    "Tech/Software/Sofwate tools/Kubernetes/Management/Managing Nodes",
+    "Tech/Software/Sofwate tools/Kubernetes/Management",
+    "Tech/Software/Arquitecture/Node.md",
+    "zzzzzzzzzzz/DTO.md",
+    "Tech/Software/Arquitecture/Proxy/IPC/RPC/RPC.md",
+    "Tech/Software/Arquitecture/Multitier.md",
+    "Tech/Hardware/Concepts/Computer.md",
+    "Tech/Cloud/Cloud.md",
+    "Tech/Crypto/Concepts/Blockchain Nodes.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Features.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Features",
+    "Tech/Software/Abstraction.md",
+    "Tech/Software/Software LifeCycle/Declarative Configuration.md",
+    "Tech/Software/Software LifeCycle/Runtime/Containers/Containers.md",
+    "Finance/Companies/Weg/K8s System/K8s WEG.md",
+    "Finance/Companies/Weg/K8s System",
+    "WEG",
+    "Tech/Software/Software LifeCycle/Runtime/Containers",
     "Tech/Software/Sofwate tools/Kubernetes",
-    "Tech/Software/Sofwate tools/Docker/Docker.md",
     "Articles/Software Development/Docker Architecture",
     "Articles/Software Development",
-    "Articles/Untitled.md",
-    "Articles",
-    "Tech/Software/Sofwate tools/Docker/Docker Architecture.md",
-    "Tech/Software/Sofwate tools/Docker/Dockerfile.md",
-    "Tech/Software/Sofwate tools/Docker/Docker Commands.md",
-    "Tech/Software/Sofwate tools/Docker/concepts/Docker Virtual Networking Environment.md",
-    "Tech/Software/Software execution LifeCycle/Versioning/Git/Commands/Reset.md",
-    "Re",
-    "Books/Clean Code/Insight/Explicitness over Simplicity.md",
     "Captura de tela 2025-07-13 092449.png",
     "Captura de tela 2025-07-13 092522.png",
-    "Tech/Programming/Programming Languages/Javascript/Module System/ES Modules/ES Modules.md",
-    "Books/Clean Code/Insight",
-    "Books/Clean Code",
-    "Books",
-    "PersonalProjects/Script Manager PCP/Script Manager PCP.md",
-    "Tech/Programming/Programming Languages/Javascript/Module System",
-    "Tech/Programming/Programming Languages/Javascript/Module System/CommonJs/CommonJs.md",
-    "Tech/Programming/Programming Languages/Javascript/Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Guide/Creating an API with Javascript.md",
-    "Tech/DataScience/Data Structure/Linked List/Linked List.md",
-    "Tech/Programming/Programming Languages/Python/Python Importing.md",
-    "Tech/DataScience/Data Structure/Graph/Graph.md",
-    "Tech/Network/DNS/DDNS.md",
-    "Tech/Network/DHCP/DHCP.md",
-    "Tech/Software/Software execution LifeCycle/Versioning/Git/GitFlow.canvas",
+    "Tech/Software/Software LifeCycle/Versioning/Git/GitFlow.canvas",
     "Untitled.canvas",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]

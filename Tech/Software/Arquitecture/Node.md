@@ -1,0 +1,1 @@
+a computational instance that is responsible for computation, storage or communication of an environment/[[Network]]

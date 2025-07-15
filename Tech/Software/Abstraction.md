@@ -1,0 +1,3 @@
+The act of concentrating the development environment to interact with the part of the development that actually matters
+
+If you want to make a website, you probably wouldnt want to recreate the internet, not even have to configure your own http server, you would probably look for a web framework to do the heavy work, so that you can focuse on the things that actually matter, like your bussiness logic

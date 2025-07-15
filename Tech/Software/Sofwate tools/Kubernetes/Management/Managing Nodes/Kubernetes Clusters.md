@@ -1,0 +1,1 @@
+A group of nodes in a [[Kubernetes]] environment

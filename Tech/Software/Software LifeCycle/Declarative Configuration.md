@@ -1,0 +1,1 @@
+The practice of declaring the desired state of a system
