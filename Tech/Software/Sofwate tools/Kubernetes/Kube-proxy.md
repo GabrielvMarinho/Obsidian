@@ -1,1 +1,0 @@
-network component that runs in each [[Kubernetes]] [[Node]]

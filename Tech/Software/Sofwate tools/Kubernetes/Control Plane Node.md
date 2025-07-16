@@ -1,1 +1,1 @@
-The [[Node]] in a [[Kubernetes]] environment responsible for controlling the core components of it
+The [[Tech/Software/Arquitecture/Node]] in a [[Kubernetes]] environment responsible for controlling the core components of it

@@ -1,0 +1,1 @@
+An agent that run on each node of the [[Kubernetes]] network, Its responsible for ensure [[Pods]] specifications and validate that the [[Containers]] in that pod are healty (ensures the [[Declarative Configuration]]).

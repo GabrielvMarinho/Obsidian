@@ -1,0 +1,1 @@
+network component that runs in each [[Kubernetes]] [[Tech/Software/Arquitecture/Node]]

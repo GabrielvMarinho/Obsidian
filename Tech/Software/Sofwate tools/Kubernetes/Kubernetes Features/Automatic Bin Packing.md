@@ -1,2 +1,2 @@
 [[Kubernetes]] feature
-With [[CPU]] and [[RAM]] being set for your [[Node|Nodes]], Kubernetes will fit the containers into the nodes to make the best use of their resources  
+With [[CPU]] and [[RAM]] being set for your [[Tech/Software/Arquitecture/Node|Nodes]], Kubernetes will fit the containers into the nodes to make the best use of their resources  

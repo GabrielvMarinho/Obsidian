@@ -7,14 +7,7 @@ A [[Container Builder]] and [[Container Runtime]] tool that helps bundle the cod
 [[Docker Container]]
 ## Environment
 
-Docker runs apps in isolated environments called containers, but unlike [[Virtual Machines]], they share the host's kernel.  
-When you write `FROM alpine`, you're using a lightweight Linux-based filesystem without the kernel.  
-This makes containers faster and smaller than VMs since they don't virtualize hardware or boot full OSes.  
-However, if your host OS (e.g. Windows) doesn't match the container's expected kernel (e.g. Linux), Docker spins up a lightweight VM.  
-So while containers aren't VMs by design, kernel mismatch can make Docker rely on one behind the scenes.
-
-
-
+very similar to a generic [[Container Environment]]
 
 ## Deploying
 

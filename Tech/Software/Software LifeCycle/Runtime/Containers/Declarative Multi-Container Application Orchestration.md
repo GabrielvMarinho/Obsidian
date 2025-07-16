@@ -1,0 +1,1 @@
+method for managing multiple [[Containers]] and using [[Declarative Configuration]], set the desired state of the application

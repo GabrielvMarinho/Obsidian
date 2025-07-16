@@ -1,0 +1,1 @@
+Kubernetes Container Network Interface is a set of rules that manage [[Pods]] IP setting
