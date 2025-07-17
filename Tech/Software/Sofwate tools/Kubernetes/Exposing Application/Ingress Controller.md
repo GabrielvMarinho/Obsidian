@@ -1,0 +1,1 @@
+[[Kubernetes]] component responsible for processing [[Ingress]] routes, it usually points an ip for external communication, and this ip is given by a network team or a cloud provider

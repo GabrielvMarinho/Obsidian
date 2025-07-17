@@ -6,30 +6,19 @@
       {
         "id": "37cab6b17f8a11b4",
         "type": "tabs",
-        "dimension": 55.82901554404145,
         "children": [
           {
             "id": "19a0746b0fcb91c3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "ca366b03340bc640",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Software LifeCycle/Runtime/Containers/Container Environment.md",
+                "file": "Tech/Programming/Programming Languages/Python/Python Importing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Container Environment"
+              "title": "Python Importing"
             }
           },
           {
@@ -44,49 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Virtual Network"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d1aa97dd616093c9",
-        "type": "tabs",
-        "dimension": 44.17098445595855,
-        "children": [
-          {
-            "id": "4cb519311fba32bf",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -121,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CD",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,18 +185,23 @@
   },
   "active": "19a0746b0fcb91c3",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Languages/Python/Libs/MatPlotLib/MatPlotLib.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/Service.md",
+    "Tech/Software/Sofwate tools/Kubernetes/IP Assigning/IP Assigning.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Ingress Controller.md",
+    "Tech/Software/Software LifeCycle/Runtime/Containers/Container Environment.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Ingress.md",
+    "Internal Processes/WEG K8S.md",
+    "Internal Processes",
+    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Consistent Service Ip Assigning.md",
+    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/LoadBalancer.md",
     "Tech/Software/Sofwate tools/Kubernetes/Kubernetes.md",
     "Tech/Software/Sofwate tools/Kubernetes/Pods.md",
     "Tech/Software/Sofwate tools/Kubernetes/Node.md",
     "Tech/Software/Sofwate tools/Kubernetes/Cluster.md",
-    "Tech/Software/Sofwate tools/Kubernetes/IP Assigning/IP Assigning.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Consistent Service Ip Assigning.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Ingress.md",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/ClusterIP.md",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Selector Label.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/Service.md",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/NodePort.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/LoadBalancer.md",
     "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Deploy.md",
     "Tech/Software/Software LifeCycle/Deploy/CD Pipelines/CD/CD Pipelines.md",
     "Tech/Software/Software LifeCycle/Deploy/CD Pipelines/CD/CD.md",
@@ -260,21 +211,16 @@
     "Tech/Software/Software LifeCycle/Compilation and Execution/Compilation and Execution of Software.md",
     "Tech/Software/Sofwate tools/Kubernetes/IP Assigning",
     "Tech/Software/Sofwate tools/Kubernetes/CNI.md",
-    "Tech/Software/Software LifeCycle/Runtime/Containers/Container Environment.md",
     "Tech/Software/Software LifeCycle/Runtime/Containers/Container Runtime.md",
     "Tech/Software/Sofwate tools/Kubernetes/Tools/Kube-apiserver.md",
     "Tech/Software/Sofwate tools/Docker/Docker.md",
     "Tech/Software/Software LifeCycle/Runtime/Containers/Container Builder.md",
-    "Tech/Software/Sofwate tools/Docker/Docker Commands.md",
-    "Tech/Software/Sofwate tools/Docker/Docker Architecture.md",
-    "Tech/Software/Sofwate tools/Docker/concepts/Docker Container.md",
     "Tech/Software/Sofwate tools/Kubernetes/Manifests",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application",
     "Tech/Software/Sofwate tools/Kubernetes/Tools",
     "Tech/Software/Sofwate tools/Kubernetes/Management/Untitled",
     "Tech/Software/Software LifeCycle/Testing/CI CD Pipelines/CD/Untitled",
-    "Tech/Software/Software LifeCycle/Deploy/CD Pipelines/CD",
     "Captura de tela 2025-07-13 092449.png",
     "Captura de tela 2025-07-13 092522.png",
     "Tech/Software/Software LifeCycle/Versioning/Git/GitFlow.canvas",
