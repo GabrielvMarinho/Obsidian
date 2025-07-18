@@ -48,7 +48,8 @@ spec:
                   number: 3000
             path: /
             pathType: Prefix
-      targetPort: 8080```
+      targetPort: 8080
+```
 
 now both the api and frontend would be accessed through the same ip or dns
 
