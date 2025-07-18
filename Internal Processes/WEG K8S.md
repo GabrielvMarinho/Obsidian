@@ -66,47 +66,47 @@ is the ingress controller and is an annotation to set the ip of the app
 
 to apply this you would need to create a repository and add this as a cicd file:
 ```yml
-image: registry.weg.net/kubectl:envsubst  
-  
-stages:  
-  - deploy  
-  
-deploy:QA:  
-environment: qa  
-stage: deploy  
-tags:  
-   - docker  
-variables:  
-   NAMESPACE: [namespace qa]  
-   URL: [DNS QA]  
-rules:   
-   - if: '$CI_COMMIT_BRANCH == "master" || $CI_COMMIT_TAG != null || $CI_PIPELINE_SOURCE == "web"'  
-     when: on_success  
-   - if: '$CI_COMMIT_BRANCH != "master" && $CI_PIPELINE_SOURCE == "push"'  
-     when: manual  
-  
-script:  
-- mkdir -p /root/.docker  
-- echo $DOCKER_AUTH_CONFIG > /root/.docker/config.json  
-- envsubst  < ingress.yaml > ingress-var.yaml  
-- cat ingress-var.yaml  
-- kubectl --kubeconfig=$k8s_dev_op apply -f ingress-var.yaml --namespace $NAMESPACE  
-  
-deploy:PRD:  
-environment: prd  
-stage: deploy  
-tags:  
-   - docker  
-variables:  
-   NAMESPACE: [namespace prd]  
-   URL: [DNS PRD]  
-rules:   
-   - if: '$CI_COMMIT_TAG != null'  
-     when: manual  
-script:  
-- mkdir -p /root/.docker  
-- echo $DOCKER_AUTH_CONFIG > /root/.docker/config.json  
-- envsubst  < ingress.yaml > ingress-var.yaml  
-- cat ingress-var.yaml  
-- kubectl --kubeconfig=$k8s_prd_op apply -f ingress-var.yaml --namespace $NAMESPACE
+image: registry.weg.net/kubectl:envsubst
+
+stages:
+  - deploy
+
+deploy:QA:
+  environment: qa
+  stage: deploy
+  tags:
+    - docker
+  variables:
+    NAMESPACE: [namespace qa]
+    URL: [DNS QA]
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "master" || $CI_COMMIT_TAG != null || $CI_PIPELINE_SOURCE == "web"'
+      when: on_success
+    - if: '$CI_COMMIT_BRANCH != "master" && $CI_PIPELINE_SOURCE == "push"'
+      when: manual
+  script:
+    - mkdir -p /root/.docker
+    - echo "$DOCKER_AUTH_CONFIG" > /root/.docker/config.json
+    - envsubst < ingress.yaml > ingress-var.yaml
+    - cat ingress-var.yaml
+    - kubectl --kubeconfig="$k8s_dev_op" apply -f ingress-var.yaml --namespace="$NAMESPACE"
+
+deploy:PRD:
+  environment: prd
+  stage: deploy
+  tags:
+    - docker
+  variables:
+    NAMESPACE: [namespace prd]
+    URL: [DNS PRD]
+  rules:
+    - if: '$CI_COMMIT_TAG != null'
+      when: manual
+  script:
+    - mkdir -p /root/.docker
+    - echo "$DOCKER_AUTH_CONFIG" > /root/.docker/config.json
+    - envsubst < ingress.yaml > ingress-var.yaml
+    - cat ingress-var.yaml
+    - kubectl --kubeconfig="$k8s_prd_op" apply -f ingress-var.yaml --namespace="$NAMESPACE"
+
 ```
