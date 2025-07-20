@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Software Development/Code Patterns/Simple Explicit Code/Simple Explicit Code.md",
+                "file": "Books/Software/Clean Code/Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simple Explicit Code"
+              "title": "Review"
             }
           },
           {
@@ -183,10 +183,16 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "19a0746b0fcb91c3",
+  "active": "5bf477f9bda42ffc",
   "lastOpenFiles": [
-    "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg",
+    "Books/Fantasy/A Midsummer Night's Dream/Review.md",
+    "Books/Software/Clean Code/Review.md",
+    "Books/Software/Clean Code/Insight/Explicitness over Simplicity.md",
+    "Books/Fantasy/A Midsummer Night's Dream",
+    "Books/Fantasy",
+    "Books/Software",
     "Articles/Software Development/Code Patterns/Simple Explicit Code/Simple Explicit Code.md",
+    "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg",
     "Articles/Software Development/Code Patterns/Simple Explicit Code",
     "Articles/Software Development/Algorithms and Data Structures/Hash Table.md",
     "Articles/Software Development/Code Patterns",
@@ -200,7 +206,6 @@
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/loadBalancerArchitecture.excalidraw",
     "Tech/Software/Sofwate tools/Kubernetes/loadBalancerArchitecture.excalidraw",
     "loadBalancerArchitecture.excalidraw.crswap",
-    "loadBalancerArchitecture.excalidraw",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Ingress Controller Ip Assigning.md",
     "Tech/Software/Sofwate tools/Kubernetes/Cluster.md",
     "Tech/Software/Sofwate tools/Kubernetes/Kubernetes.md",
@@ -213,15 +218,11 @@
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/Service.md",
     "Tech/Software/Sofwate tools/Kubernetes/IP Assigning/IP Assigning.md",
     "Tech/Software/Software LifeCycle/Runtime/Containers/Container Environment.md",
-    "Internal Processes",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/LoadBalancer.md",
     "Tech/Software/Sofwate tools/Kubernetes/Pods.md",
     "Tech/Software/Sofwate tools/Kubernetes/Node.md",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Selector Label.md",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/NodePort.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Deploy.md",
-    "Tech/Software/Software LifeCycle/Deploy/CD Pipelines/CD/CD Pipelines.md",
-    "Tech/Software/Software LifeCycle/Deploy/CD Pipelines",
     "Captura de tela 2025-07-13 092449.png",
     "Captura de tela 2025-07-13 092522.png",
     "Tech/Software/Software LifeCycle/Versioning/Git/GitFlow.canvas",
