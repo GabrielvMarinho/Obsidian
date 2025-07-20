@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal Processes/WEG K8S.md",
+                "file": "Articles/Software Development/Code Patterns/Simple Explicit Code/Simple Explicit Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WEG K8S"
+              "title": "Simple Explicit Code"
             }
           },
           {
@@ -185,8 +185,17 @@
   },
   "active": "19a0746b0fcb91c3",
   "lastOpenFiles": [
-    "K8s System/K8s WEG.md",
+    "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg",
+    "Articles/Software Development/Code Patterns/Simple Explicit Code/Simple Explicit Code.md",
+    "Articles/Software Development/Code Patterns/Simple Explicit Code",
+    "Articles/Software Development/Algorithms and Data Structures/Hash Table.md",
+    "Articles/Software Development/Code Patterns",
+    "Articles/Software Development/Docker Architecture/Docker Architecture.md",
+    "Articles/Software Development/Algorithms and Data Structures/Hash Table/Untitled.md",
+    "Articles/Software Development/Algorithms and Data Structures/Hash Table",
+    "Articles/Software Development/Algorithms and Data Structures",
     "Internal Processes/WEG K8S.md",
+    "K8s System/K8s WEG.md",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Ingress.md",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/loadBalancerArchitecture.excalidraw",
     "Tech/Software/Sofwate tools/Kubernetes/loadBalancerArchitecture.excalidraw",
@@ -212,16 +221,7 @@
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/NodePort.md",
     "Tech/Software/Sofwate tools/Kubernetes/Kubernetes Deploy.md",
     "Tech/Software/Software LifeCycle/Deploy/CD Pipelines/CD/CD Pipelines.md",
-    "Tech/Software/Software LifeCycle/Deploy/CD Pipelines/CD/CD.md",
     "Tech/Software/Software LifeCycle/Deploy/CD Pipelines",
-    "Tech/Software/Software LifeCycle/Deploy",
-    "Tech/Software/Software LifeCycle/Compilation and Execution/Compilation.md",
-    "Tech/Software/Software LifeCycle/Compilation and Execution/Compilation and Execution of Software.md",
-    "Tech/Software/Sofwate tools/Kubernetes/IP Assigning",
-    "Tech/Software/Sofwate tools/Kubernetes/CNI.md",
-    "Tech/Software/Software LifeCycle/Runtime/Containers/Container Runtime.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Manifests",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service",
     "Captura de tela 2025-07-13 092449.png",
     "Captura de tela 2025-07-13 092522.png",
     "Tech/Software/Software LifeCycle/Versioning/Git/GitFlow.canvas",
