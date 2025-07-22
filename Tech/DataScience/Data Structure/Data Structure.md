@@ -1,1 +1,1 @@
-It's an organized way to store, manage and retrieve [[Data]]
+It's an organized way to store, manage and retrieve [[Data]], generally can be accessed directly, not passing through any abstraction.

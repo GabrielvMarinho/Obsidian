@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Software/Clean Code/Insight/Abstracting Implementation.md",
+                "file": "Tech/Software/Technical Debt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstracting Implementation"
+              "title": "Technical Debt"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "object",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 269.5
   },
   "right": {
     "id": "4b36682cc47667dc",
@@ -185,8 +185,16 @@
   },
   "active": "19a0746b0fcb91c3",
   "lastOpenFiles": [
-    "Books/Software/Clean Code/Insight/Consistent Noun Using.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Object.md",
+    "Tech/Software/Technical Debt.md",
+    "Tech/DataScience/Data Structure/Data Structure.md",
+    "Tech/Programming/Programming Paradigms/OOP/Constructor.md",
+    "Books/Software/Clean Code/Insight/Procedural vs OOP in adding functionality.md",
+    "Tech/Software/Software LifeCycle/Versioning/Git/GitHub/GitHub.md",
+    "Tech/Software/Software LifeCycle/Versioning/Git/Git.md",
+    "Tech/Software/Software LifeCycle/Versioning/Git/GitHub",
     "Books/Software/Clean Code/Insight/Abstracting Implementation.md",
+    "Books/Software/Clean Code/Insight/Consistent Noun Using.md",
     "Books/Software/Clean Code/Review.md",
     "Books/Fantasy/A Midsummer Night's Dream/Review.md",
     "Books/Software/Clean Code/Insight/Explicitness over Simplicity.md",
@@ -207,7 +215,6 @@
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Ingress.md",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/loadBalancerArchitecture.excalidraw",
     "Tech/Software/Sofwate tools/Kubernetes/loadBalancerArchitecture.excalidraw",
-    "loadBalancerArchitecture.excalidraw.crswap",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Ingress Controller Ip Assigning.md",
     "Tech/Software/Sofwate tools/Kubernetes/Cluster.md",
     "Tech/Software/Sofwate tools/Kubernetes/Kubernetes.md",
@@ -216,13 +223,6 @@
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Untitled.canvas",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/ClusterIP.md",
     "Tech/Programming/Programming Languages/Python/Python Importing.md",
-    "Tech/Programming/Programming Languages/Python/Libs/MatPlotLib/MatPlotLib.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/Service.md",
-    "Tech/Software/Sofwate tools/Kubernetes/IP Assigning/IP Assigning.md",
-    "Tech/Software/Software LifeCycle/Runtime/Containers/Container Environment.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/LoadBalancer.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Pods.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Node.md",
     "Captura de tela 2025-07-13 092449.png",
     "Captura de tela 2025-07-13 092522.png",
     "Tech/Software/Software LifeCycle/Versioning/Git/GitFlow.canvas",

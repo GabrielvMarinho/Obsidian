@@ -1,0 +1,1 @@
+The result of writing and architecturing bad software just considering speed and not caring about system maintainability, longevity. 
