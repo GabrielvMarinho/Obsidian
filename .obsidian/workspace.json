@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Technical Debt.md",
+                "file": "Tech/Programming/Programming Tools/Frameworks/Next.js/Example Impl/Local storage and NextJs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technical Debt"
+              "title": "Local storage and NextJs"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "object",
+                "query": "nextjs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 332.5
   },
   "right": {
     "id": "4b36682cc47667dc",
@@ -185,15 +185,27 @@
   },
   "active": "19a0746b0fcb91c3",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Paradigms/OOP/Concepts/Object.md",
-    "Tech/Software/Technical Debt.md",
-    "Tech/DataScience/Data Structure/Data Structure.md",
-    "Tech/Programming/Programming Paradigms/OOP/Constructor.md",
+    "Tech/Network/PROTOCOLS/Important/HTTP/Cookies.md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/Example Impl/Local storage and NextJs.md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/Example Impl",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/How SSR works.md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/NEXT.js.md",
+    "Tech/Network/PROTOCOLS/Important/HTTP/Architecture/Architecture of HTTP Requests.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Untitled.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Local Storage.md",
+    "Tech/Software/Arquitecture/Memory/Pointer.md",
+    "Tech/Software/Arquitecture/Memory/Heap.md",
+    "Tech/Software/Arquitecture/Memory/RAM/RAM.md",
+    "Tech/Programming/Programming Tools/Libraries/React/Hooks/Dependency Hooks.md",
+    "Tech/Programming/Programming Tools/Libraries/React/Hooks/Hooks (React).md",
+    "Tech/Programming/Programming Tools/Libraries/React/React.md",
+    "Tech/Programming/Programming Tools/Libraries/React/Craco/Craco.md",
     "Books/Software/Clean Code/Insight/Procedural vs OOP in adding functionality.md",
-    "Tech/Software/Software LifeCycle/Versioning/Git/GitHub/GitHub.md",
-    "Tech/Software/Software LifeCycle/Versioning/Git/Git.md",
-    "Tech/Software/Software LifeCycle/Versioning/Git/GitHub",
     "Books/Software/Clean Code/Insight/Abstracting Implementation.md",
+    "Tech/Software/Technical Debt.md",
+    "Tech/Software/Software LifeCycle/Versioning/Git/GitHub/GitHub.md",
+    "Tech/Software/Software LifeCycle/Versioning/Git/GitHub",
     "Books/Software/Clean Code/Insight/Consistent Noun Using.md",
     "Books/Software/Clean Code/Review.md",
     "Books/Fantasy/A Midsummer Night's Dream/Review.md",
@@ -207,22 +219,10 @@
     "Articles/Software Development/Algorithms and Data Structures/Hash Table.md",
     "Articles/Software Development/Code Patterns",
     "Articles/Software Development/Docker Architecture/Docker Architecture.md",
-    "Articles/Software Development/Algorithms and Data Structures/Hash Table/Untitled.md",
     "Articles/Software Development/Algorithms and Data Structures/Hash Table",
     "Articles/Software Development/Algorithms and Data Structures",
-    "Internal Processes/WEG K8S.md",
-    "K8s System/K8s WEG.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Ingress.md",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/loadBalancerArchitecture.excalidraw",
-    "Tech/Software/Sofwate tools/Kubernetes/loadBalancerArchitecture.excalidraw",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Ingress Controller Ip Assigning.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Cluster.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Kubernetes.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Consistent Service Ip Assigning.md",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/Ingress Controller.md",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Untitled.canvas",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Service/ClusterIP.md",
-    "Tech/Programming/Programming Languages/Python/Python Importing.md",
     "Captura de tela 2025-07-13 092449.png",
     "Captura de tela 2025-07-13 092522.png",
     "Tech/Software/Software LifeCycle/Versioning/Git/GitFlow.canvas",

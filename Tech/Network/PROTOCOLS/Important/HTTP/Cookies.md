@@ -1,0 +1,1 @@
+A component of [[HTTP]] requests, include important data related to the request

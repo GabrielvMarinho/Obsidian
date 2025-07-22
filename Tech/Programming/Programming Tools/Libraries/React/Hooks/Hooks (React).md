@@ -1,1 +1,1 @@
-In [[React]] hooks are built in functions to store [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) temporarily, like user info in a form or selected item in a list
+In [[React]], hooks are tools to manage state and behaviour, you can store data temporarily or realize given task within a change in a reference when using react [[Dependency Hooks]]
