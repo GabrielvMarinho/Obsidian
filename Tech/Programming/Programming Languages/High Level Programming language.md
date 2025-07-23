@@ -1,0 +1,1 @@
+A [[Programming Language]] that can be easily understood by humans because of abstractions

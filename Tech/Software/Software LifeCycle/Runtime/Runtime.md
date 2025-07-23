@@ -2,5 +2,5 @@ the enviroment that manages everything related to a program after its been [[Com
 
 [[Garbage Collector]]
 exception handling
-input outpu
+input output
 type checks

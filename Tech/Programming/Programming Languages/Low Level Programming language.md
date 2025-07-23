@@ -1,0 +1,1 @@
+A [[Programming Language]] that is not as easily understood by humans and generally doesnt have many abstractions

@@ -1,0 +1,1 @@
+tranlates code to [[Machine Code]] line by line, converts a line and execute it directly
