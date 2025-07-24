@@ -1,0 +1,1 @@
+A standard for script languages like [[Javascript]], the ecmascript itself sets syntax rules like ifs or fors, but the ecmascript doesnt provide the console web api for example, which is very common in javascript

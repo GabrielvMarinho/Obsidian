@@ -1,1 +1,0 @@
-Just-in-time compilation is the compilation of the program at runtime

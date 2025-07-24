@@ -1,0 +1,1 @@
+all the code is [[Compiler|Compiled]] before [[Runtime]]

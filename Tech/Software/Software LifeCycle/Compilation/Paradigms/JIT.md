@@ -1,0 +1,1 @@
+[[Compiler|Compile]] the code during [[Runtime]], compiles entire functions and execute each time.
