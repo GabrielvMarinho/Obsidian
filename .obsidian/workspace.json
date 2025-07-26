@@ -13,15 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Arquitecture/Patterns of software/SOLID.md",
+                "file": "Tech/Software/Arquitecture/Security/CSRF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID"
+              "title": "CSRF"
+            }
+          },
+          {
+            "id": "1c16a73f9b30e01b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Software/Arquitecture/Security/CSRF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSRF"
+            }
+          },
+          {
+            "id": "518bbf644d78a9b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Software/Processes/Testing/Software Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Testing"
+            }
+          },
+          {
+            "id": "ab93a3f1dc11f365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/WWW/Internet/Web/Data Trasnfer/XML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XML"
+            }
+          },
+          {
+            "id": "1ef5de2e10483679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/WWW/Internet/Web/Data Trasnfer/HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML"
+            }
+          },
+          {
+            "id": "3d1dca0a3a07d2e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Software/Processes/Versioning/Git/Architecture/Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -53,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lisko",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +145,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.5
   },
   "right": {
     "id": "4b36682cc47667dc",
@@ -170,49 +240,48 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "f324d8fab07704c9",
+  "active": "3d1dca0a3a07d2e7",
   "lastOpenFiles": [
-    "Tech/Software/Software LifeCycle/Compilation/Paradigms/Ahead of time.md",
-    "Tech/Software/Software LifeCycle/Compilation/Paradigms/JIT.md",
-    "Tech/Software/Software LifeCycle/Compilation/Paradigms/Interpreter.md",
-    "Tech/Software/Software LifeCycle/Compilation/Compiler.md",
-    "Tech/Software/Software LifeCycle/Runtime/Containers/Virtual Network.md",
-    "Tech/Software/Software LifeCycle/Compilation/Paradigms/Compiled.md",
-    "Tech/Software/Software LifeCycle/Compilation/Paradigms/Interpreted.md",
-    "Tech/Programming/Programming Paradigms/Programming Paradigms.md",
-    "Tech/Software/Software LifeCycle/Compilation/Compilation and Execution of Software.md",
-    "Tech/Software/Software LifeCycle/Compilation/Compilation.md",
-    "Tech/Software/Software LifeCycle/Building/Software Building.md",
-    "Tech/Software/Software LifeCycle/Building/JIT.md",
-    "Tech/Programming/Programming Languages/Javascript/Memory Allocation System/Var and Let.md",
-    "Tech/Programming/Programming Languages/Javascript/Module System/CommonJs/CommonJs.md",
-    "Tech/Programming/Programming Languages/Javascript/Memory Allocation System",
-    "Tech/Programming/Programming Languages/Javascript/Guide/MySql connection to Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Guide/MVC Architecture pattern to Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Guide/Drag n Drop.md",
-    "Tech/Programming/Programming Languages/Javascript/Guide/Creating an API with Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Guide/Built-in Functions Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Call Stack Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Callback Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Event loop Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Fetch API.md",
-    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Promises Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Task Queue Javascript.md",
-    "Tech/Programming/Programming Languages/Javascript/Javascript.md",
-    "Tech/Programming/Programming Tools/Libraries/React/Components",
-    "Tech/Software/Software LifeCycle/Compilation/Paradigms",
-    "Tech/Software/Software LifeCycle/Compilation and Execution/Methods",
-    "Tech/Programming/Programming Tools/Frameworks/Next.js/Example Impl",
-    "Tech/Software/Software LifeCycle/Versioning/Git/GitHub",
-    "Books/Fantasy/A Midsummer Night's Dream",
-    "Books/Fantasy",
-    "Books/Software",
+    "Tech/Software/Processes/Versioning/Git/Architecture/Commit.md",
+    "Tech/Software/Processes/Versioning/Git/Architecture/BLOB.md",
+    "Tech/Software/Processes/Versioning/Git/Architecture/Commits Storing.md",
+    "Visual Maps/loadBalancerArchitecture.excalidraw",
+    "Visual Maps",
+    "Visual maps",
+    "Nova pasta",
+    "Tech/Software/Processes/Versioning/Git/Architecture/Tree.md",
+    "Tech/Software/Processes/Versioning/Git/Commands/Commit.md",
+    "Tech/Software/Processes/Versioning/Git/Architecture/Internal Version structures.md",
+    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Merge.md",
+    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Rebase and merge.md",
+    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Squash and merge.md",
+    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Fast Forward.md",
+    "Tech/Software/Processes/Versioning/Git/GitHub/GitHub.md",
+    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types",
+    "Tech/Software/Processes/Versioning/Git/Commands/Merge",
+    "zzzzzzzzzzz/Chromium.md",
+    "zzzzzzzzzzz/China.md",
+    "zzzzzzzzzzz/Bolsa Família.md",
+    "zzzzzzzzzzz/Boilerplate Code.md",
+    "zzzzzzzzzzz/America.md",
+    "Tech/Database/Types of storing data/In-memory Databases/Examples/H2 Database/H2.md",
+    "Tech/Database/Types of storing data/In-memory Databases/Examples/H2 Database",
+    "zzzzzzzzzzz/Index.md",
+    "zzzzzzzzzzz/Itamar Franco.md",
+    "zzzzzzzzzzz/Jaraguá do Sul.md",
+    "zzzzzzzzzzz/matrix.md",
+    "zzzzzzzzzzz/Neural Network.md",
+    "zzzzzzzzzzz/Reinforcement Learning.md",
+    "zzzzzzzzzzz/Stock.md",
+    "Flash Point.md",
+    "Tech/WWW/Internet/Web/REST API",
+    "Tech/WWW",
+    "Tech/WWW/Internet/Web/Data Trasnfer",
     "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg",
-    "Articles/Software Development/Code Patterns/Simple Explicit Code",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Untitled.canvas",
     "Captura de tela 2025-07-13 092449.png",
     "Captura de tela 2025-07-13 092522.png",
-    "Tech/Software/Software LifeCycle/Versioning/Git/GitFlow.canvas",
+    "Tech/Software/Processes/Versioning/Git/GitFlow.canvas",
     "Untitled.canvas",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]

@@ -1,0 +1,1 @@
+Software that mimicks the functionalities of [[Hardware]] virtually, simulates and boots an entire os, including network system, file system, kernel, etc.

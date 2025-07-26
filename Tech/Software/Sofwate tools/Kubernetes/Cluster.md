@@ -1,1 +1,0 @@
-A group of [[Tech/Software/Sofwate tools/Kubernetes/Node|Nodes]]

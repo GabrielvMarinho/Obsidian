@@ -1,4 +1,4 @@
-a process to start a [[TCP-IP]] connection
+a process to start a [[TCP]] connection
 
 1 SYN
 the client sends a syn packet to the server (asking to start a connection) 

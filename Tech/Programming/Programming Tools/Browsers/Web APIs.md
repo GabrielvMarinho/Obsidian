@@ -1,1 +1,1 @@
-a set of [[API|APIs]] and function to use in a [[www|web]] application 
+a set of [[API|APIs]] and function to use in a [[WWW|web]] application 

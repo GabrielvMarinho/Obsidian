@@ -1,0 +1,1 @@
+Where the content of a file is stored

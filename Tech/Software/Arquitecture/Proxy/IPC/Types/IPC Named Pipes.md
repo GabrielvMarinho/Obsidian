@@ -1,4 +1,4 @@
-a bridge for separate processes (parent, child) in [[Tech/Software/Arquitecture/Proxy/IPC/IPC|Inter processes Communication]]  
+a bridge for separate processes (parent, child) in [[IPC|Inter processes Communication]]  
 
 Has names, exist in disk, exist until deleted
 

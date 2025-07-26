@@ -1,1 +1,0 @@
-Additional [[Syntax]] for an existing set of rules for a [Programming Language](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Languages%2FProgramming%20Language) for example
