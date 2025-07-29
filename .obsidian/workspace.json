@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Squash and merge.md",
+                "file": "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Deciding which type or merge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Squash and merge"
+              "title": "Deciding which type or merge"
             }
           }
         ],
@@ -243,6 +243,7 @@
   "active": "3d1dca0a3a07d2e7",
   "lastOpenFiles": [
     "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Fast Forward.md",
+    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Deciding which type or merge.md",
     "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Merge.md",
     "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Squash and merge.md",
     "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Rebase and merge.md",
