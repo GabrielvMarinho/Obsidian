@@ -1,0 +1,1 @@
+The component of [[JRE]] that executes the [[Bytecode]] [[Java]]

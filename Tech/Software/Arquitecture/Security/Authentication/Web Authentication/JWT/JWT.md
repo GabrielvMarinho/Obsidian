@@ -2,6 +2,8 @@ Json
 Web
 Token
 
+jwt uses a [[Symmetric (HS256)]] signing
+
 A string divided in 3 parts:
 1. Header -> encryption algorithm used.
 2. Payload -> the claims, basically all the data.

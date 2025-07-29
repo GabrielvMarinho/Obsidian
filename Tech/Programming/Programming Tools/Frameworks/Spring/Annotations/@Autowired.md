@@ -1,0 +1,1 @@
+[[Spring]] annotation for automatic [[Dependency Injections|Dependency Injection]], by default spring will search for a matching in the application 

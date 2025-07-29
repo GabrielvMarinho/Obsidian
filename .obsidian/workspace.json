@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f324d8fab07704c9",
+            "id": "19a0746b0fcb91c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Arquitecture/Security/CSRF.md",
+                "file": "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Keycloak/Keycloak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSRF"
-            }
-          },
-          {
-            "id": "1c16a73f9b30e01b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Software/Arquitecture/Security/CSRF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSRF"
-            }
-          },
-          {
-            "id": "518bbf644d78a9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Software/Processes/Testing/Software Testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Software Testing"
-            }
-          },
-          {
-            "id": "ab93a3f1dc11f365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/WWW/Internet/Web/Data Trasnfer/XML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "XML"
-            }
-          },
-          {
-            "id": "1ef5de2e10483679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/WWW/Internet/Web/Data Trasnfer/HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML"
-            }
-          },
-          {
-            "id": "3d1dca0a3a07d2e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Deciding which type or merge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deciding which type or merge"
+              "title": "Keycloak"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 332.5
   },
   "right": {
     "id": "4b36682cc47667dc",
@@ -240,49 +169,50 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "3d1dca0a3a07d2e7",
+  "active": "19a0746b0fcb91c3",
   "lastOpenFiles": [
-    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Fast Forward.md",
+    "Tech/Software/Tools/Kubernetes/Kubernetes Deploy.md",
+    "Tech/Software/Tools/Kubernetes/Kubernetes.md",
+    "Tech/Software/Tools/Kubernetes/Control Plane Node.md",
+    "Tech/Software/Tools/Apache.md",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Asymmetric (RS256).md",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Web Authentication.md",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Symmetric (HS256).md",
+    "Tech/Software/Processes/Compilation/Compiler.md",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Keycloak/Keycloak.md",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Keycloak",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/JWT/JWT.md",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/JWT/How is a JWT created.md",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/JWT",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Bean.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Autowired.md",
+    "Tech/Programming/Programming Languages/Java/JDK/Contains/JRE/JVM.md",
+    "Tech/Programming/Programming Languages/Java/JDK/Contains/JRE/JRE.md",
+    "Tech/Programming/Programming Languages/Java/JDK/Contains/JRE",
+    "Tech/Programming/Programming Languages/Java/JDK/Contains/Javac.md",
+    "Tech/Programming/Programming Languages/Java/JDK/Contains/Jar.md",
+    "Tech/Programming/Programming Languages/Java/JDK/JDK.md",
+    "Tech/Programming/Programming Languages/Java/JDK/Contains",
+    "Tech/Programming/Programming Languages/Java/JDK",
     "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Deciding which type or merge.md",
-    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Merge.md",
-    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Squash and merge.md",
-    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Rebase and merge.md",
-    "Tech/Software/Processes/Versioning/Git/Architecture/Tree.md",
-    "Tech/Software/Processes/Versioning/Git/Architecture/Commit.md",
-    "Tech/Software/Processes/Versioning/Git/Architecture/BLOB.md",
-    "Tech/Software/Processes/Versioning/Git/Architecture/Commits Storing.md",
-    "Visual Maps/loadBalancerArchitecture.excalidraw",
-    "Visual Maps",
-    "Visual maps",
-    "Nova pasta",
-    "Tech/Software/Processes/Versioning/Git/Commands/Commit.md",
-    "Tech/Software/Processes/Versioning/Git/Architecture/Internal Version structures.md",
-    "Tech/Software/Processes/Versioning/Git/GitHub/GitHub.md",
-    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types",
-    "Tech/Software/Processes/Versioning/Git/Commands/Merge",
-    "zzzzzzzzzzz/Chromium.md",
-    "zzzzzzzzzzz/China.md",
-    "zzzzzzzzzzz/Bolsa Família.md",
-    "zzzzzzzzzzz/Boilerplate Code.md",
-    "zzzzzzzzzzz/America.md",
-    "Tech/Database/Types of storing data/In-memory Databases/Examples/H2 Database/H2.md",
-    "Tech/Database/Types of storing data/In-memory Databases/Examples/H2 Database",
-    "zzzzzzzzzzz/Index.md",
-    "zzzzzzzzzzz/Itamar Franco.md",
-    "zzzzzzzzzzz/Jaraguá do Sul.md",
-    "zzzzzzzzzzz/matrix.md",
-    "zzzzzzzzzzz/Neural Network.md",
-    "zzzzzzzzzzz/Reinforcement Learning.md",
-    "zzzzzzzzzzz/Stock.md",
-    "Flash Point.md",
-    "Tech/WWW/Internet/Web/REST API",
-    "Tech/WWW",
-    "Tech/WWW/Internet/Web/Data Trasnfer",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Types of Web Authentication/Session Web Authentication.md",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Types of Web Authentication/JWT Web Authentication.md",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Types of Web Authentication",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/JWT.md",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/How is a JWT created.md",
+    "Login Session Web Authentication.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Bean.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Configuration.md",
+    "Tech/Database/Types of storing data/In-memory Databases/examples/H2 Database",
+    "Tech/DataScience/Machine Learning/Training/Logistic Regression/Metrics",
+    "Tech/DataScience/Machine Learning/Training/Hyperparameters",
+    "Tech/DataScience/Machine Learning/Training/Linear Regression",
+    "Tech/Software/Processes/Versioning/Git/GitFlow.canvas",
     "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg",
     "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Untitled.canvas",
     "Captura de tela 2025-07-13 092449.png",
     "Captura de tela 2025-07-13 092522.png",
-    "Tech/Software/Processes/Versioning/Git/GitFlow.canvas",
+    "Tech/Software/Software LifeCycle/Versioning/Git/GitFlow.canvas",
     "Untitled.canvas",
     "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
   ]
