@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Keycloak/Keycloak.md",
+                "file": "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Web Authentication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keycloak"
+              "title": "Web Authentication"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "19a0746b0fcb91c3",
   "lastOpenFiles": [
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Keycloak/Keycloak.md",
+    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Untitled.md",
     "Tech/Software/Tools/Kubernetes/Kubernetes Deploy.md",
     "Tech/Software/Tools/Kubernetes/Kubernetes.md",
     "Tech/Software/Tools/Kubernetes/Control Plane Node.md",
@@ -179,7 +181,6 @@
     "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Web Authentication.md",
     "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Symmetric (HS256).md",
     "Tech/Software/Processes/Compilation/Compiler.md",
-    "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Keycloak/Keycloak.md",
     "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/Keycloak",
     "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/JWT/JWT.md",
     "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/JWT/How is a JWT created.md",
@@ -202,7 +203,6 @@
     "Tech/Software/Arquitecture/Security/Authentication/Web Authentication/How is a JWT created.md",
     "Login Session Web Authentication.md",
     "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Bean.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Configuration.md",
     "Tech/Database/Types of storing data/In-memory Databases/examples/H2 Database",
     "Tech/DataScience/Machine Learning/Training/Logistic Regression/Metrics",
     "Tech/DataScience/Machine Learning/Training/Hyperparameters",
