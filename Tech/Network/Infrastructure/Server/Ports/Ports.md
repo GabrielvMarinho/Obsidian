@@ -1,0 +1,1 @@
+A virtual point where you start [[Network|Networking]] connections, its generally correlated to a specific protocol

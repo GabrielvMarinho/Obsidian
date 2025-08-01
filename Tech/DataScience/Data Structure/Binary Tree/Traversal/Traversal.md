@@ -1,0 +1,1 @@
+Algorithm to visit each node in a [[Binary Tree]] once.
