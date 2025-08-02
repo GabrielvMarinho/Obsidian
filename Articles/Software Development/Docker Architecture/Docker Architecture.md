@@ -11,3 +11,5 @@ This base image consists of a lot of Operating System features, like a file or p
 Going deeper into It, you would see that an alpine env would never be able to use your Windows kernel (if you have Windows), because It's expecting Linux, what is done then? Well, a virtual machine is run, the process will only share kernel resources if both parts demand from the same kernel.  
   
 So in the end, It just came back to being a VM.
+
+[[Doker Architecture Pic.jpg]]
