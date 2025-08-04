@@ -1,1 +1,0 @@
-[[Git]] only store deltas of commits, not all the content itself
