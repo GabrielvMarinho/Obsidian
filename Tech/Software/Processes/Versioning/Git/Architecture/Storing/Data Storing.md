@@ -4,8 +4,8 @@
 useful article: [[Git Short Storage]].
 
 
-### Short term
+### Packs and loose objects
 
 In the short term, git represents those objects loosely in the /objects dir, for long term effectiveness, those commits dont stay loose, they are rather stored in pack formats in the /objects/pack dir.
 
-Which is basically the same way it was structured loosely, but in a more compressed way.
+Which is basically the same way it was structured loosely, but in a more compressed way in .pack files

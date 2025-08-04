@@ -2,8 +2,8 @@ When you reset to a certain commit, git status wil point something has changed, 
 
 When you reset to a commit, git still stores the changes and wait for the default time of weeks for the garbage collector to delete it.
 
-Those objects dont represent any difference for github meaning if you trigger the garbage collector to delete those objects or keep it, github wouldnt notice the difference and Its not something you could commit.
+When you clean the not used objects with the garbage collector, github doesnt notice the difference.
 
-The same way, if you clone a github repository, the objects dir would be empty.
+When you clone a repository that had dangling commits, you dont have those dangling objects, its like gitlab (at least gitlab) runs a gc command to clean all objects every time you clone it
 
-How does git keep up with whats happening if the /objects dir is empty? or how does github store objects?
+# GitLab doesn't preserve dangling objects for 90 days as it should (vanila git does)

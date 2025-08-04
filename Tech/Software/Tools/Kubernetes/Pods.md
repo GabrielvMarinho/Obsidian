@@ -1,4 +1,4 @@
-A wrapper of one or more [[Containers]]
+A wrapper of one or more [[Containers]], uses [[cgroup]] to create a shared environment for the containers.
 
 Each [[Tech/Software/Tools/Kubernetes/Node|Node]] in a [[Kubernetes]] network can run many pods, its the smallest deployable unit
 
