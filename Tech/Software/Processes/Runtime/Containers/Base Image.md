@@ -1,0 +1,1 @@
+Pre configured minimal environment that includes "light wheight operating systems"

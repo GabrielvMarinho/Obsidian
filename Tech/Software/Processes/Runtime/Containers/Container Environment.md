@@ -1,6 +1,6 @@
 Container runtimes run applications in isolated environments called containers, but unlike virtual machines, containers share the host’s kernel.  
 
-When you use a minimal base image (like a lightweight Linux filesystem), it provides all necessary user-space files, similar to an OS but **without including the kernel**.  
+When you use a minimal [[Base Image]] (like a lightweight Linux filesystem), it provides all necessary user-space files, similar to an OS but **without including the kernel**.  
 
 This makes containers faster and smaller than virtual machines because they don’t virtualize hardware or boot full operating systems.
 

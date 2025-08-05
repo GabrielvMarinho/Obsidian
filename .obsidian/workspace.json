@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Processes/Versioning/Git/GitHub/How Github Integrates Git.md",
+                "file": "Tech/Software/Processes/Runtime/Containers/Container Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How Github Integrates Git"
+              "title": "Container Environment"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github",
+                "query": "container",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,9 +172,15 @@
   },
   "active": "5a568e1642ab2231",
   "lastOpenFiles": [
+    "Tech/Software/Processes/Runtime/Containers/Container Images.md",
+    "Tech/Software/Processes/Runtime/Containers/Base Image.md",
+    "Tech/Software/Processes/Runtime/Containers/Container Environment.md",
+    "Tech/Software/Processes/Runtime/Containers/Container Runtime.md",
+    "Tech/Software/Processes/Runtime/Containers/Containers.md",
+    "Tech/Software/Tools/Docker/example/Building a container.md",
+    "Tech/Software/Processes/Versioning/Git/GitHub/How Github Integrates Git.md",
     "Tech/Software/Processes/Versioning/Git/Commands/gc/gc.md",
     "Tech/Software/Processes/Versioning/Git/Commands/Branch.md",
-    "Tech/Software/Processes/Versioning/Git/GitHub/How Github Integrates Git.md",
     "Tech/Software/Processes/Versioning/Git/Architecture/Storing/Data Storing.md",
     "Tech/Software/Processes/Versioning/Git/GitHub/GitHub.md",
     "Tech/Software/Processes/Compilation/Byte Code.md",
@@ -194,13 +200,7 @@
     "Tech/Software/Tools/Kubernetes/Kubernetes Deploy.md",
     "Tech/Software/Software.md",
     "Visual Maps/kubernetesArchitecture.excalidraw",
-    "Visual Maps/kubernetesArchitecture.excalidraw.md",
-    "Tech/WWW/Web/Web Server/Integration with apps.md",
-    "Tech/WWW/Web/Web Server/Web Server.md",
     "Tech/WWW/Web/Web Server",
-    "Tech/WWW/WWW.md",
-    "Tech/WWW/Internet/Web/Web.md",
-    "Tech/Network/Protocols/Important/HTTP/Architecture/HTTP Server.md",
     "Tech/Programming/Programming Languages/Python/WSGI",
     "Tech/Programming/Programming Tools/Libraries/Python",
     "Articles/Software Development/Git Storage/Git Storage Pic.jpg",
