@@ -1,4 +1,6 @@
-A [[WSGI]] [[Lib]] for creating a development [[Web Server]] environment.
+A [[WSGI]] [[Lib]] for developing WSGI application.
+
+A development [[Web Server]] environment.
 
 Doesnt operate gracefully in high load environments
 

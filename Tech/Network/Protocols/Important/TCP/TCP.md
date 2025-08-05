@@ -1,2 +1,2 @@
-handles the network packages sending and receiving in the [[Internet]]
+Connection oriented [[Protocol]] that handles the network packages being sent and received in the [[Internet]]
 
