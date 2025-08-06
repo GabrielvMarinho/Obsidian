@@ -1,0 +1,1 @@
+The process of hiding/managing state with a certain behaviour

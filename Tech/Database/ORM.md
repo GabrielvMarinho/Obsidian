@@ -1,0 +1,1 @@
+Object-Relational Mapping, a bridge between the code and the database, an ORM turns [[OOP]] classes into database tables

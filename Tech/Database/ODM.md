@@ -1,0 +1,1 @@
+Object Document Mapper, between the code and the database, an ORM turns [[OOP]] classes into database documents

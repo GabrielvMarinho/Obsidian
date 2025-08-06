@@ -1,0 +1,1 @@
+A [[Python]] function being called by the instance of a class, making it automatically send the class instance as a paremeter, self.
