@@ -1,0 +1,1 @@
+Secure Sockets Layer is a security [[Protocol]]

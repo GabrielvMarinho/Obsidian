@@ -1,1 +1,0 @@
-The process of separating a [[DataBase]] into pieces, [[Tech/Software/Tools/Kubernetes/Kubernetes Features/Horizontal Scaling|Horizontally Scaling]] It

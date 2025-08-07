@@ -9,7 +9,7 @@ Is a feature of docker compose to share file/directories to multiple containers
 
 Mounts a specific folder or file from the host’s filesystem directly into one or more containers (docker compose).
 
-this works by giving access to the containers for the exact path of the directory (awesome for [[Embedded Database|Embedded Databases]] like [[sqlite]])
+this works by giving access to the containers for the exact path of the directory (awesome for [[Embedded Database|Embedded Databases]] like [[SQLite]])
 
 ### **Docker Volumes**
 

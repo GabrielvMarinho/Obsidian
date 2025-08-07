@@ -2,7 +2,7 @@ J - [Javascript](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgra
 O - [Object](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FObject)
 N - Notation
 
-A lightwheight format for storing and trasnporting [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData)
+A lightwheight format for storing and transporting [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData)
 
 It works with a key value system like this:
 

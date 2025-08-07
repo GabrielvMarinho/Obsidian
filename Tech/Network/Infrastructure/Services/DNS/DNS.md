@@ -7,7 +7,7 @@ even though dns has distributed servers, they have a consensus on whos names bel
 
 you query for a website: google.com
 this is sent to a dns server: that will direct to a specific ip
-
+this is a [[A Record]]
 ### Buying a domain
 
 technically if a domain doesnt exist you can just go and register it with ICANN, but that hard, generally you pay for a company to deal with that

@@ -329,7 +329,7 @@ High levels modules shouldnt depende on low level [Module](obsidian://open?vault
 
 ###### wrong approach:
 
-NotificationService depends on EmailNotificationProvider and SMSNotificationProvider because the implementations are made in the low level modules, which dumb and should be done in the high level module
+NotificationService depends on EmailNotificationProvider and SMSNotificationProvider because the implementations are made in the low level modules, which is dumb and should be done in the high level module
 
 ```java
 // Step 1: Concrete implementations without an abstraction
@@ -403,3 +403,5 @@ class NotificationService {
     }
 }
 ```
+
+For this code to work on a spring application you could autowire the provider an choose one of them to be the primary implementation, letting spring decide which to use at runtime, which is ok.

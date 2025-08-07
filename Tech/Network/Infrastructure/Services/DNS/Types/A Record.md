@@ -1,0 +1,1 @@
+[[DNS]] service record especifies a host for a specific ipv4

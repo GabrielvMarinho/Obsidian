@@ -1,0 +1,1 @@
+Transport Layer Security is a security [[Protocol]], an evolution of the earlier version, [[SSL]]

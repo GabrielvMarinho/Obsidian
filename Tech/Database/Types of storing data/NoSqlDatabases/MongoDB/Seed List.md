@@ -1,0 +1,1 @@
+A collection of DNS [[SRV]] of all the [[MongoDB]] intances in a [[Replica Set]]

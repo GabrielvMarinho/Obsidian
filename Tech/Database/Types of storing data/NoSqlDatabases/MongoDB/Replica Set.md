@@ -1,0 +1,1 @@
+A group of [[MongoDB]] instances with the same data set, updating all the instances when something changes, creating a highly available environment.
