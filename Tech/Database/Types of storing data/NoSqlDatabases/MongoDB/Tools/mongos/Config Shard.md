@@ -1,0 +1,1 @@
+an embedded [[Config Servers|config server]] in a form of a shard in case you have 3 or less shards.

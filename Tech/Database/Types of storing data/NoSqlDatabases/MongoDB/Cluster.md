@@ -1,0 +1,1 @@
+a [[MongoDB]] cluster is usually the concept refering to a replica set or a sharded cluster

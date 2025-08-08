@@ -1,0 +1,1 @@
+[[mongos]] [[Sharding|Shards]], each is a [[Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Replica Set]] with primary and secondary members.

@@ -1,0 +1,1 @@
+The archtecture concept of replication of content in different independent servers 

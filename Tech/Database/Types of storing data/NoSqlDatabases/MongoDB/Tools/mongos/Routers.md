@@ -1,0 +1,1 @@
+act as an intermediary between clients and the [[MongoDB]] [[Sharding|Shards]] 

@@ -1,0 +1,1 @@
+a server that holds a cluster [[Sharding|Shards]] metadata, such as values ranges, shard key definitions, etc. this is great for mapping shards.

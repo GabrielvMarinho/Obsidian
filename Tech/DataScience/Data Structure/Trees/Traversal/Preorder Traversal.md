@@ -9,5 +9,4 @@ Root → Left → Right
  / \ / \
  D E F G
 ```
-
 output: A → B → D → E → C → F → G

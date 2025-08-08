@@ -1,1 +1,1 @@
-A collection of DNS [[SRV]] of all the [[MongoDB]] intances in a [[Replica Set]]
+A collection of DNS [[SRV]] of all the [[MongoDB]] intances in a [[Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Replica Set]] or cluster
