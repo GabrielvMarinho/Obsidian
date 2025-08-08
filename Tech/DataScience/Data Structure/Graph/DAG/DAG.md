@@ -1,0 +1,1 @@
+A [[Graph]] type [[Data Structure]] are connected by directed arrows that never form a cycle
