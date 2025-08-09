@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/DataScience/Data Structure/Graph/DAG/DAG.md",
+                "file": "Tech/DataScience/Data Structure/Trees/Traversal/Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DAG"
+              "title": "Traversal"
             }
           }
         ]
@@ -170,11 +170,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5bf477f9bda42ffc",
+  "active": "5a568e1642ab2231",
   "lastOpenFiles": [
+    "Tech/DataScience/Data Structure/Trees/Traversal/Postorder Traversal.md",
+    "Tech/DataScience/Data Structure/Trees/Traversal/Preorder Traversal.md",
+    "Tech/DataScience/Data Structure/Trees/Traversal/Inorder Traversal.md",
+    "Tech/DataScience/Data Structure/Trees/Traversal/Breadth-First Traversal.md",
+    "Tech/DataScience/Data Structure/Trees/Traversal/Traversal.md",
+    "Tech/DataScience/Data Structure/Graph/DAG/DAG.md",
     "Tech/DataScience/Data Structure/Graph/DAG",
     "Tech/DataScience/Data Structure/Data Structure.md",
-    "Tech/DataScience/Data Structure/Graph/DAG/DAG.md",
     "Tech/DataScience/Data Structure/Trees/B-tree/B-tree.md",
     "Tech/Software/Processes/Versioning/Git/Upstream.md",
     "Tech/Software/Processes/Versioning/Git/Downstream.md",
@@ -200,14 +205,9 @@
     "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Tools/mongos.md",
     "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Tools/mongod.md",
     "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Tools",
-    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Storage.md",
-    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Seed List.md",
-    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Replica Set.md",
-    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/ObjectId.md",
     "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB",
     "Tech/Database/Sharding/Sharding strategies",
     "Tech/Database/Sharding",
-    "Tech/DataScience/Data Structure/Trees/N-ary Tree",
     "Articles/Software Development/Git Storage/Git Storage Pic.jpg",
     "Tech/Software/Processes/Versioning/Git/GitFlow.canvas",
     "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg",
