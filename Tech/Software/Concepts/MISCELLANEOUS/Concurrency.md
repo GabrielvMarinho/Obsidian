@@ -1,0 +1,1 @@
+When the same [[Thread]] switches rapidly between functions to seems like they execute in parallel, even though they dont.

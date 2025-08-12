@@ -1,0 +1,1 @@
+A [[Java]] [[Class]] that handled and answer requests

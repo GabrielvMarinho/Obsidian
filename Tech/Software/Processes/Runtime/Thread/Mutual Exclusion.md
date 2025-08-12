@@ -1,0 +1,1 @@
+Only one [[Thread]] can access shared data or a shared resource at a time.

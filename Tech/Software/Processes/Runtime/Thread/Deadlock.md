@@ -1,0 +1,1 @@
+two or more [[Thread]]s waiting for each other to finish, generally because one would return a value that acts as a dependency on another thread.

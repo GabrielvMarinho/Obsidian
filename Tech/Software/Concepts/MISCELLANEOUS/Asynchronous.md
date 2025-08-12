@@ -1,2 +1,1 @@
-Multiple tasks can happen at once and indenpendently
-
+A programming model where tasks can start, pause, and resume without blocking the entire flow — allowing other tasks to run [[Concurrency|Concurrently]] without waiting.

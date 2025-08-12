@@ -1,3 +1,2 @@
-Each task is done one by one, the Program waits to execute the code.
+events or operations happens in a specific sequence, can be multithreaded.
 
-Might be a problem if giving task is very slow and takes a lot of times.

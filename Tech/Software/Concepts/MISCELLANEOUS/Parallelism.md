@@ -1,0 +1,1 @@
+multiple functions can run at the exact same time, happens when multi [[Thread|threads]] are used.

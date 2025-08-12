@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/DataScience/Data Structure/Trees/Binary Tree/Types/Binary Search Tree.md",
+                "file": "Tech/Software/Processes/Runtime/Thread/Starvation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Search Tree"
-            }
-          },
-          {
-            "id": "7f70ca3c3931fb07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/DataScience/Data Structure/Trees/Binary Tree/Examples/Sorted Array to Binary Search Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sorted Array to Binary Search Tree"
+              "title": "Starvation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Threads",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,44 +170,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5bf477f9bda42ffc",
+  "active": "5a568e1642ab2231",
   "lastOpenFiles": [
-    "Tech/DataScience/Data Structure/Trees/Binary Tree/Examples",
-    "Tech/DataScience/Data Structure/Trees/Binary Tree/Types/Binary Search.md",
-    "Tech/DataScience/Data Structure/Trees/Binary Tree/Types/Binary Tree.md",
-    "Tech/DataScience/Data Structure/Trees/Binary Tree/Types/Binary Search Tree.md",
-    "Tech/DataScience/Data Structure/Trees/Binary Tree/Examples/Sorted Array to Binary Search Tree.md",
-    "Tech/DataScience/Data Structure/Trees/Binary Tree/Types/Differences of Each Tree.md",
+    "Tech/Software/Processes/Runtime/Thread/Mutual Exclusion.md",
+    "Tech/Software/Processes/Runtime/Thread/Livelock.md",
+    "Tech/Software/Processes/Runtime/Thread/Deadlock.md",
+    "Tech/Software/Processes/Runtime/Thread/Bound Resources.md",
+    "Tech/Software/Processes/Runtime/Thread/Starvation.md",
+    "Tech/Software/Processes/Runtime/Thread/Thread.md",
+    "Tech/Software/Processes/Runtime/Thread",
+    "Tech/Software/Concepts/MISCELLANEOUS/Parallelism.md",
+    "Tech/Programming/Programming Languages/Java/Servlet.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Dependencies/Spring Security/Simple Auth Logic/Checking Context Simple Auth Logic Spring Security.md",
+    "Tech/Programming/Programming Tools/Frameworks/FastApi/FastApi.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/Uvicorn.md",
+    "Tech/Programming/Programming Tools/Frameworks/FastApi",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/Werkzeug.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/Examples",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/WSGI.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/ASGI.md",
+    "Tech/WWW/Web/Web Server/Worker.md",
+    "Tech/Programming/Programming Languages/Python/Memory Allocation.md",
+    "Tech/Programming/Programming Languages/Javascript/Intern Structure/Event loop Javascript.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/Difference of ASGI and WSGI.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface",
+    "Tech/WWW/Web/Web Server/Untitled.md",
+    "Tech/WWW/Web/Data Trasnfer/HTML.md",
+    "Tech/WWW/Web/Web Server/Web Server.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/Examples/Gunicorn.md",
+    "Tech/Software/Processes/Runtime/Process.md",
+    "Tech/Database/Types of architecture/Client-Server Database.md",
+    "Tech/Software/Concepts/MISCELLANEOUS/Concurrency.md",
+    "Tech/Software/Concepts/MISCELLANEOUS/Asynchronous.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI",
     "Tech/DataScience/Data Structure/Trees/Binary Tree/Examples/binary_tree_type.excalidraw",
-    "Tech/DataScience/Data Structure/Trees/Binary Tree/Types/Binary",
-    "Tech/DataScience/Data Structure/Trees/Binary Tree/Types",
-    "Tech/DataScience/Data Structure/Trees/Traversal/Breadth-First Traversal.md",
-    "binary_tree_type.excalidraw.crswap",
-    "Tech/DataScience/Data Structure/Trees/Traversal/Postorder Traversal.md",
-    "Tech/DataScience/Data Structure/Trees/Traversal/Traversal.md",
-    "Tech/DataScience/Data Structure/Trees/Traversal/Preorder Traversal.md",
-    "Tech/DataScience/Data Structure/Trees/Traversal/Inorder Traversal.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Parameters/Args and Kwargs.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Lambda functions.md",
+    "Tech/DataScience/Data Structure/Trees/Binary Tree/Examples",
     "Tech/Programming/Programming Languages/Python/Python Internal/Parameters",
-    "Tech/Programming/Programming Languages/Python/Python.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Bound method.md",
-    "Tech/Programming/Programming Paradigms/Lambda function.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Generator.md",
-    "Tech/DataScience/Data Structure/Bitwise Operators.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Iterator.md",
-    "Tech/DataScience/Data Structure/Graph/DAG/DAG.md",
-    "Tech/DataScience/Data Structure/Graph/DAG",
-    "Tech/DataScience/Data Structure/Data Structure.md",
-    "Tech/DataScience/Data Structure/Trees/B-tree/B-tree.md",
-    "Tech/Software/Processes/Versioning/Git/Upstream.md",
-    "Tech/Software/Processes/Versioning/Git/Downstream.md",
-    "Tech/Software/Processes/Versioning/Git/Commands/Branch.md",
-    "Books/Software/Clean Code/Insight/Procedural vs OOP in adding functionality.md",
     "Tech/Programming/Programming Languages/Python/Python Internal",
-    "Tech/Network/Protocols/Important/TLS",
-    "Tech/Network/Protocols/Important/SSL",
-    "Tech/Network/Protocols/Important/SOAP",
+    "Tech/DataScience/Data Structure/Trees/Binary Tree/Types",
     "Articles/Software Development/Git Storage/Git Storage Pic.jpg",
     "Tech/Software/Processes/Versioning/Git/GitFlow.canvas",
     "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg",

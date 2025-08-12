@@ -1,0 +1,1 @@
+One [[Thread]] or a group is prohibited from proceeding for an excessively long time. Example: letting fast running threads though first could starve longer running threads.
