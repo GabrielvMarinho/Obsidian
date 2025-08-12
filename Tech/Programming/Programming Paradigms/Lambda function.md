@@ -1,0 +1,1 @@
+an anonymous function for small unit operations

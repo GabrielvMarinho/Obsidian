@@ -2,8 +2,6 @@ functions used to create [[Iterator|Iterators]], returns an iterable set of item
 
 Example:
 ```python
-  
-
 def fibonacci():
     a = 0
     b = 1
@@ -32,3 +30,4 @@ Output:
 8
 13
 ```
+
