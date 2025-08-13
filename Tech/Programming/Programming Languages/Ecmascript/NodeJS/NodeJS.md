@@ -1,3 +1,3 @@
-[[Javascript]] prepared to run on the server side, has unique and customized APIs
+A [[Runtime]] environment to allow [[Javascript]] to run on the server
 
 
