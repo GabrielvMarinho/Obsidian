@@ -1,0 +1,1 @@
+a multiplataform [[C]] [[Lib]] that provides support for I/O operations based on [[Event loop]]s, originially developed for [[NodeJS]] to abstract non blocking I/O operations, but has been used in other software projects
