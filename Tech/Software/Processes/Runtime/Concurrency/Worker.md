@@ -1,0 +1,1 @@
+basically a [[Process]] at application level, while process would be os level

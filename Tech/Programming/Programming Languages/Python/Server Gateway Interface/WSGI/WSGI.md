@@ -6,7 +6,7 @@ So its not the web server itself, its simply a bridge between the app and the ac
 
 ## Request processing
 
-WSGI processes requests in a synchronous approach, meaning it blocks the [[Worker]] Thread when a request needs to be processed. 
+WSGI processes requests in a synchronous approach, meaning it blocks the [[Tech/WWW/Web/Web Server/Worker]] Thread when a request needs to be processed. 
 
 ```
 Webserver thread                      YourCode 

@@ -1,1 +1,0 @@
-a bundle of [[Thread|Threads]] and resources in a isolated environment.
