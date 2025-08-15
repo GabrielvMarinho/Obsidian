@@ -23,4 +23,4 @@ Webserver thread                      YourCode
 ```
 
 
-When many requests are made, since a single one of them blocks the thread, a prexistant thread is allocated the request. If a worker has too much load, depending on the config a new worker can be called.
+When many requests are made, since a single one of them blocks the process, a prexistant process is allocated the request. The number of workers is pre setted.
