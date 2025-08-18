@@ -1,0 +1,1 @@
+A [[NodeJS]] API that wrapps a [[Libuv]] existing function to return the optimal number of parallel processes in the machine.

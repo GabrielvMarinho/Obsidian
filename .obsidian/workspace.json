@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "9a5970a91ec18dcf",
+    "id": "400b7551bb2b982f",
     "type": "split",
     "children": [
       {
-        "id": "e4f30fdab2ea4dfd",
+        "id": "d3c5ef720648910f",
         "type": "tabs",
         "children": [
           {
-            "id": "5a568e1642ab2231",
+            "id": "21d457ce2a89a645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Libraries/Libuv/Libuv.md",
+                "file": "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Libuv"
+              "title": "Cluster"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e33b0c27fbfbc34e",
+    "id": "f8f1e7658b4b8a86",
     "type": "split",
     "children": [
       {
-        "id": "7d7c36558bf21dc8",
+        "id": "6085c000b2d6aa8f",
         "type": "tabs",
         "children": [
           {
-            "id": "5bf477f9bda42ffc",
+            "id": "2215c3c31b83fe0d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "1da9a110caa4448c",
+            "id": "6f8ef60268767ebb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "lib",
+                "query": "Worker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "8f9a4148b929ae72",
+            "id": "4bdb9c36a3f1b9df",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 276.5
   },
   "right": {
-    "id": "4b36682cc47667dc",
+    "id": "f69488161ef3db57",
     "type": "split",
     "children": [
       {
-        "id": "6353036f02f58ebf",
+        "id": "71a4d990b092a88c",
         "type": "tabs",
         "children": [
           {
-            "id": "8be5fc450083a5a0",
+            "id": "f28c9811ba78863c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Libraries/Libuv/Libuv.md",
+                "file": "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Libuv"
+              "title": "Backlinks for Cluster"
             }
           },
           {
-            "id": "33b2ae2d480bc8f4",
+            "id": "8513ebcf09791114",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foreign Languages/German/Konjugation/Regelmässige/Reglemassige Praterium.md",
+                "file": "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reglemassige Praterium"
+              "title": "Outgoing links from Cluster"
             }
           },
           {
-            "id": "70e4e700ccf7f16e",
+            "id": "ee5032597cfe9ee5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "86896edaefccc04a",
+            "id": "e90295610463d702",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foreign Languages/German/Konjugation/Regelmässige/Reglemassige Praterium.md",
+                "file": "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reglemassige Praterium"
+              "title": "Outline of Cluster"
             }
           }
         ]
@@ -170,52 +170,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5a568e1642ab2231",
+  "active": "21d457ce2a89a645",
   "lastOpenFiles": [
-    "Tech/Software/Concepts/MISCELLANEOUS/Lib.md",
-    "Tech/Programming/Programming Tools/Libraries/Libuv/Libuv.md",
-    "Tech/Programming/Programming Languages/Python/Libraries",
-    "Tech/Programming/Programming Tools/Libraries/Libuv",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Node-API.md",
-    "Tech/Programming/Programming Languages/Ecmascript/V8.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/C++ addons.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Buffer.md",
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/AsyncLocalStorage.md",
-    "Tech/Programming/Programming Languages/Ecmascript/Standard/Uint8array.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/NodeJS.md",
-    "Tech/Programming/Programming Languages/Ecmascript/Standard",
-    "Tech/Software/Arquitecture/Memory/Buffer/Buffer.md",
-    "Tech/Software/Processes/Runtime/Concurrency/Thread/Thread.md",
-    "Tech/Software/Processes/Runtime/Concurrency/Thread/Starvation.md",
-    "Tech/Software/Processes/Runtime/Concurrency/Thread/Mutual Exclusion.md",
-    "Tech/Software/Processes/Runtime/Concurrency/Thread/Livelock.md",
-    "Tech/Software/Processes/Runtime/Concurrency/Thread/Deadlock.md",
-    "Tech/Software/Processes/Runtime/Concurrency/Thread/Bound Resources.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Child Processes.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/OS/availableParallelism.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/OS",
     "Tech/Software/Processes/Runtime/Concurrency/Worker.md",
-    "Tech/Software/Processes/Runtime/Concurrency/Thread",
-    "Tech/Software/Processes/Runtime/Concurrency/Process.md",
-    "Tech/Software/Processes/Runtime/Concurrency",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs",
-    "Tech/Programming/Programming Languages/Ecmascript/Module System/ES Modules/ES Modules.md",
-    "Tech/Programming/Programming Languages/Ecmascript/Module System/CommonJs/CommonJs.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/Built-in Features/Untitled.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/Built-in Features",
-    "Tech/Programming/Programming Languages/Ecmascript/ECMAScript.md",
-    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Javascript.md",
-    "Tech/Software/Processes/Runtime/Thread/Bound Resources.md",
-    "Tech/Software/Processes/Runtime/Thread/Mutual Exclusion.md",
-    "Tech/Software/Processes/Runtime/Thread/Livelock.md",
-    "Tech/Programming/Programming Languages/Ecmascript/Implementation",
-    "Tech/Programming/Programming Languages/Ecmascript/Javascript",
-    "Tech/Programming/Programming Languages/Javascript/Untitled",
-    "Articles/Software Development/Git Storage/Git Storage Pic.jpg",
-    "Tech/Software/Processes/Versioning/Git/GitFlow.canvas",
-    "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg",
-    "Tech/Software/Sofwate tools/Kubernetes/Exposing Application/Untitled.canvas",
-    "Captura de tela 2025-07-13 092449.png",
-    "Captura de tela 2025-07-13 092522.png",
-    "Tech/Software/Software LifeCycle/Versioning/Git/GitFlow.canvas",
-    "Untitled.canvas",
-    "Foreign Languages/German/Tenses/GehenWart/Untitled.canvas"
+    "Tech/WWW/Web/Web Server/Worker.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/NodeJS architecture.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/NodeJS.md",
+    "Tech/Software/Arquitecture/Design Patterns/Event Loop.md",
+    "Tech/Programming/Programming Tools/Libraries/Libuv/Libuv.md",
+    "Untitled.md",
+    "Tech/Software/Arquitecture/Design Patterns/Design Patterns.md"
   ]
 }
