@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Worker",
+                "query": "electron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,11 +172,17 @@
   },
   "active": "21d457ce2a89a645",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/Server Gateway Interface.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/AsyncLocalStorage.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Node-API.md",
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Child Processes.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/C++ addons.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Buffer.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/AsyncLocalStorage.md",
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/OS/availableParallelism.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView/PyWebView.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Browsers Engine/Webkit/Webkit.md",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/Electron.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/Server Gateway Interface.md",
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/OS",
     "Tech/Software/Processes/Runtime/Concurrency/Worker.md",
     "Tech/WWW/Web/Web Server/Worker.md",

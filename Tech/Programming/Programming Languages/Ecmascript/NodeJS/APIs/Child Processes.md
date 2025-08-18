@@ -1,7 +1,4 @@
 in [[NodeJS]], you have APIs to spawn child processes
-
-
-
 ### Example
 
 ```node
