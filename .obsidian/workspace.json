@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Cluster"
             }
+          },
+          {
+            "id": "d3772cede0edbe65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Programming/Programming Languages/Ecmascript/Javascript/WebPack/WebPack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WebPack"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,8 +186,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "21d457ce2a89a645",
+  "active": "d3772cede0edbe65",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel/Babel.md",
+    "Tech/Programming/Programming Languages/Ecmascript/Javascript/WebPack/WebPack.md",
+    "Tech/Programming/Programming Languages/Ecmascript/Javascript/WebPack",
+    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel",
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Node-API.md",
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Child Processes.md",
