@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Ecmascript/Javascript/WebPack/WebPack.md",
+                "file": "Tech/Programming/Programming Paradigms/OOP/Factory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebPack"
+              "title": "Factory"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electron",
+                "query": "oop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +188,12 @@
   },
   "active": "d3772cede0edbe65",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel/Babel.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Class.md",
+    "Tech/Programming/Programming Paradigms/OOP/Factory.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Object.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Entity.md",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/WebPack/WebPack.md",
+    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel/Babel.md",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/WebPack",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel",
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Node-API.md",
