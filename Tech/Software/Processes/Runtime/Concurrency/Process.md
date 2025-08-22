@@ -1,1 +1,1 @@
-a bundle of [[Thread|Threads]] and resources in a isolated environment at OS level.
+A running instance of a program, may contain multiple [[Thread|Threads]]

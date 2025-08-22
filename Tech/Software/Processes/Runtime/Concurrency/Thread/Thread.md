@@ -1,1 +1,1 @@
-A sequence of instructions that can run independently, often in parallel with others. It’s a _unit of execution_ managed by the OS or runtime.
+A unit of execution inside a [[Process]]

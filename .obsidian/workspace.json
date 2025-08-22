@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Processes/Versioning/Git/Commands/Clone.md",
+                "file": "Tech/Programming/Programming Languages/Python/Libraries/Threads/multiprocessing/multiprocessing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clone"
+              "title": "multiprocessing"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "byte code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,36 +171,41 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2215c3c31b83fe0d",
+  "active": "3313c08385058a0c",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Languages/Python/Libraries/Threads/subprocess/subprocess.md",
+    "Tech/Programming/Programming Languages/Python/Libraries/Threads/threading/threading.md",
+    "Tech/Programming/Programming Languages/Python/Libraries/Threads/multiprocessing/multiprocessing.md",
+    "Tech/Software/Processes/Runtime/Concurrency/Process.md",
+    "Tech/Software/Processes/Runtime/Concurrency/Thread/Scheduling algorithms.md",
+    "Tech/Programming/Programming Languages/Python/GIL.md",
+    "Tech/Software/Processes/Compilation/Bytecode.md",
+    "Bytecode.md",
+    "Tech/Programming/Programming Languages/Python/Libraries/Threads/subprocess",
+    "Tech/Programming/Programming Languages/Python/Libraries/Threads",
+    "Tech/Programming/Programming Languages/Python/Libraries/Threads/multiprocessing",
+    "Books/Software/Clean Code/Insight/Procedural vs OOP in adding functionality.md",
+    "Books/Software/Clean Code/Insight/Explicitness over Simplicity.md",
+    "Books/Software/Clean Code/Insight/Consistent Noun Using.md",
+    "Books/Software/Clean Code/Insight/Abstracting Implementation.md",
+    "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg",
+    "Articles/Software Development/Algorithms and Data Structures/Hash Table.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Polymorphism.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Object.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Bean.md",
+    "Tech/Software/Processes/Runtime/Concurrency/Thread/Thread.md",
+    "Tech/Programming/Programming Languages/Python/Python.md",
+    "Tech/Programming/Programming Languages/Python/Libraries/Threads/threading",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Parameters/Args and Kwargs.md",
+    "Tech/Software/Processes/Compilation/Paradigms/Interpreter.md",
+    "Tech/Software/Processes/Versioning/Git/Commands/Clone.md",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/WebPack/WebPack.md",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel/Babel.md",
     "Tech/DataScience/Lakehouse.md",
     "Tech/DataScience/Data warehouse.md",
     "Tech/DataScience/Data lake.md",
-    "Tech/Software/Arquitecture/Patterns of software/SOLID.md",
-    "Tech/Software/Arquitecture/Proxy/IPC/Types/IPC Named Pipes.md",
-    "Tech/Software/Arquitecture/Proxy/IPC/Types/IPC Unnamed Pipes.md",
-    "Tech/Programming/Programming Paradigms/OOP/Factory.md",
-    "Tech/Programming/Programming Paradigms/OOP/Concepts/Class.md",
-    "Tech/Programming/Programming Paradigms/OOP/Concepts/Object.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Entity.md",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/WebPack",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Node-API.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Child Processes.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/C++ addons.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Buffer.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/AsyncLocalStorage.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/OS/availableParallelism.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Embedded web browsers/PyWebView/PyWebView.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser Tools/Browsers Engine/Webkit/Webkit.md",
-    "Tech/Programming/Programming Tools/Frameworks/Electron/Electron.md",
-    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/Server Gateway Interface.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/OS",
-    "Tech/Software/Processes/Runtime/Concurrency/Worker.md",
-    "Tech/WWW/Web/Web Server/Worker.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/NodeJS architecture.md"
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/OS"
   ]
 }

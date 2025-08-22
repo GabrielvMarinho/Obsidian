@@ -1,0 +1,1 @@
+An approach that allows a value type to assume different types or forms.

@@ -1,0 +1,1 @@
+An algorithm to decide in which order a process/thread will access resources to execute its tasks 

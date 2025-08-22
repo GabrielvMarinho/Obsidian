@@ -1,3 +1,3 @@
 It's a both compiled and interpreted [[Programming Language]] based on [OOP](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FOOP) (Object-Oriented Programming) created in the 90s by James Gosling and his team in Sun Microsystems.
 
-Java's compilation process involves tranforming the code into [[Byte Code]], which is an intermediate of the code's normal form and machine code, this result in a program that can be run in any machine with a [[JVM]]
+Java's compilation process involves tranforming the code into [[Tech/Software/Processes/Compilation/Bytecode]], which is an intermediate of the code's normal form and machine code, this result in a program that can be run in any machine with a [[JVM]]

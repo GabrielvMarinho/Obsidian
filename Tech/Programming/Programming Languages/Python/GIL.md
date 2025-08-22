@@ -1,0 +1,1 @@
+Global Interpreter Lock, a mechanism used by [[CPython]] interpreter to assure only one thread executes [[Python]] [[Bytecode]] ata a time.
