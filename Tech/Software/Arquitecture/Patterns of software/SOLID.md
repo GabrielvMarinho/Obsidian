@@ -325,7 +325,8 @@ class Cube implements IAreaCalculator, IVolumeCalculator {
 
 ### Dependency inversion
 
-High levels modules shouldnt depende on low level [Module](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FModule), instead it should be the opposite of this, or, a dependency inversion
+High levels modules shouldnt depende on low level [Module](obsidian://open?vault=Obsidian&file=Tech%2FSoftware%2FConcepts%2FMISCELLANEOUS%2FModule), instead it should be the opposite of this, or, a dependency inversion.
+A class should depend of an abstraction instead of a concrete implementation.
 
 ###### wrong approach:
 

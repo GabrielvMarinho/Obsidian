@@ -1,1 +1,1 @@
-an open source [[Javascript]] module to bundle assets
+an open source [[Javascript]] module to bundle assets.

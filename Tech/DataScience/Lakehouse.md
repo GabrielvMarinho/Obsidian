@@ -1,0 +1,1 @@
+Hybrid implementation of a [[Data lake]] and a [[Data warehouse]], stores both raw and structures data.

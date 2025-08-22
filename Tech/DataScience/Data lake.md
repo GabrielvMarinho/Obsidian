@@ -1,0 +1,1 @@
+A repository that stores raw data at scale.

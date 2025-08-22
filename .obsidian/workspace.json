@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d3c5ef720648910f",
+        "id": "aee0104ca4bfb78b",
         "type": "tabs",
         "children": [
           {
-            "id": "21d457ce2a89a645",
+            "id": "3313c08385058a0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
+                "file": "Tech/Software/Processes/Versioning/Git/Commands/Clone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cluster"
-            }
-          },
-          {
-            "id": "d3772cede0edbe65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Programming/Programming Paradigms/OOP/Factory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Factory"
+              "title": "Clone"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oop",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,14 +171,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d3772cede0edbe65",
+  "active": "2215c3c31b83fe0d",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Paradigms/OOP/Concepts/Class.md",
-    "Tech/Programming/Programming Paradigms/OOP/Factory.md",
-    "Tech/Programming/Programming Paradigms/OOP/Concepts/Object.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Entity.md",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/WebPack/WebPack.md",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel/Babel.md",
+    "Tech/DataScience/Lakehouse.md",
+    "Tech/DataScience/Data warehouse.md",
+    "Tech/DataScience/Data lake.md",
+    "Tech/Software/Arquitecture/Patterns of software/SOLID.md",
+    "Tech/Software/Arquitecture/Proxy/IPC/Types/IPC Named Pipes.md",
+    "Tech/Software/Arquitecture/Proxy/IPC/Types/IPC Unnamed Pipes.md",
+    "Tech/Programming/Programming Paradigms/OOP/Factory.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Class.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Object.md",
+    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Entity.md",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/WebPack",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel",
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Node-API.md",
@@ -210,11 +201,6 @@
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/OS",
     "Tech/Software/Processes/Runtime/Concurrency/Worker.md",
     "Tech/WWW/Web/Web Server/Worker.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/NodeJS architecture.md",
-    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/NodeJS.md",
-    "Tech/Software/Arquitecture/Design Patterns/Event Loop.md",
-    "Tech/Programming/Programming Tools/Libraries/Libuv/Libuv.md",
-    "Untitled.md",
-    "Tech/Software/Arquitecture/Design Patterns/Design Patterns.md"
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/NodeJS architecture.md"
   ]
 }
