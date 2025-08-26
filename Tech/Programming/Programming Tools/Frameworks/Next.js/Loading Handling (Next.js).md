@@ -1,4 +1,4 @@
-In [[NEXT.js]] you can create a loading.tsx file in your [[Folder Groups (Next.js)]] to handle loading situations to the user
+In [[Next.js]] you can create a loading.tsx file in your [[Folder Groups (Next.js)]] to handle loading situations to the user
 
 ```jsx
 "use client"

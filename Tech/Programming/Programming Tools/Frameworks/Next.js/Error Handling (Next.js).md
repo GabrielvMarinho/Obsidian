@@ -1,4 +1,4 @@
-In [[NEXT.js]] you can create a error.tsx file in your [[Folder Groups (Next.js)]] to handle errors and not show whatever the error is to the user
+In [[Next.js]] you can create a error.tsx file in your [[Folder Groups (Next.js)]] to handle errors and not show whatever the error is to the user
 
 #### error.tsx
 ```jsx

@@ -1,1 +1,1 @@
-In [[NEXT.js]] you name a folder with paranteses like this (about) and it wont affect the actual [[URL]], only makes a group where you can set a layout file for navbars for example
+In [[Next.js]] you name a folder with paranteses like this (about) and it wont affect the actual [[URL]], only makes a group where you can set a layout file for navbars for example

@@ -36,3 +36,35 @@ for t in threads:
     t.join()
 ```
 
+An example with shared memory:
+```python
+
+import threading
+
+# Shared memory
+counter = 0
+counter_lock = threading.Lock()
+
+# Worker function
+def increment():
+    global counter
+    for _ in range(100000):
+        # Acquire lock before modifying shared memory
+        with counter_lock:
+            counter += 1
+
+# Create threads
+thread1 = threading.Thread(target=increment)
+thread2 = threading.Thread(target=increment)
+
+# Start threads
+thread1.start()
+thread2.start()
+
+# Wait for threads to finish
+thread1.join()
+thread2.join()
+
+print(f"Final counter value: {counter}")
+```
+The lock provided a way to avoid concurrency.
