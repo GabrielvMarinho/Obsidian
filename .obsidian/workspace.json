@@ -25,14 +25,12 @@
             "id": "a4f9e626f342d934",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Tech/Programming/Programming Tools/Frameworks/Next.js/Next.js.md",
-                "mode": "source",
-                "source": false
+                "file": "Tech/DataScience/Data Structure/Trees/Binary Tree/Examples/binary_tree_type.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "Next.js"
+              "icon": "excalidraw-icon",
+              "title": "binary_tree_type"
             }
           }
         ],
@@ -68,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nextjs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,6 +186,15 @@
   },
   "active": "a4f9e626f342d934",
   "lastOpenFiles": [
+    "Tech/DataScience/Data Structure/Trees/Binary Tree/Examples/Sorted Array to Binary Search Tree.md",
+    "Tech/DataScience/Data Structure/Trees/Binary Tree/Examples/binary_tree_type.excalidraw",
+    "Tech/DataScience/Data Structure/Trees/Traversal/Inorder Traversal.md",
+    "Tech/DataScience/Data Structure/Trees/Traversal/Breadth-First Traversal.md",
+    "Tech/DataScience/Data Structure/Trees/Traversal/Traversal.md",
+    "Tech/DataScience/Data Structure/Trees/Traversal/Postorder Traversal.md",
+    "Tech/DataScience/Data Structure/Trees/Traversal/Preorder Traversal.md",
+    "Tech/Software/Architecture/Security/Authentication/Web Authentication/Keycloak/Keycloak.md",
+    "Tech/Programming/Programming Tools/Frameworks/Next.js/Next.js.md",
     "Tech/Network/Protocols/Important/HTTP/HTTP only cookies.md",
     "Tech/Network/Protocols/Important/HTTP/Cookies.md",
     "Tech/Programming/Programming Tools/Frameworks/Next.js/How SSR works.md",
@@ -208,17 +215,8 @@
     "Books/Software/Clean Code/Insight/Procedural vs OOP in adding functionality.md",
     "Books/Software/Clean Code/Insight/Explicitness over Simplicity.md",
     "Books/Software/Clean Code/Insight/Consistent Noun Using.md",
-    "Books/Software/Clean Code/Insight/Abstracting Implementation.md",
     "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg",
-    "Articles/Software Development/Algorithms and Data Structures/Hash Table.md",
-    "Tech/Programming/Programming Paradigms/OOP/Concepts/Polymorphism.md",
-    "Tech/Programming/Programming Paradigms/OOP/Concepts/Object.md",
-    "Tech/Programming/Programming Tools/Frameworks/Spring/Annotations/@Bean.md",
-    "Tech/Software/Processes/Runtime/Concurrency/Thread/Thread.md",
-    "Tech/Programming/Programming Languages/Python/Python.md",
     "Tech/Programming/Programming Languages/Python/Libraries/Threads/threading",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Parameters/Args and Kwargs.md",
-    "Tech/Software/Processes/Compilation/Paradigms/Interpreter.md",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/WebPack",
     "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel",
     "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/OS"

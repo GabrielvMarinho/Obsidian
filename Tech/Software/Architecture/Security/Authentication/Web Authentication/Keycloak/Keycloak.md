@@ -4,9 +4,9 @@ It uses [[Asymmetric (RS256)]] signing of [[JWT|JWTs]] the flow usually goes lik
 
 1. User logins in frontend
     
-2. Keycloak receives user info like password and username
+2. Keycloak receives user info like password and username ->sends to backend
     
-3. Keycloak retrives a jwt and a refresh token (usually easier to deal with ssr frameworks)
+3. Keycloak retrives a jwt and a refresh token (again, done by the backend, though it can be handled by ssr frameworks), backend sets the httponly cookies for the frontend
     
 4. Frontend tries to go for an api call
     
