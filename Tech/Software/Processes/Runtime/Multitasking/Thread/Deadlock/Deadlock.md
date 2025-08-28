@@ -1,0 +1,1 @@
+A situation where the [[Thread]]s cannot continue its tasks due to a specific reason

@@ -1,0 +1,1 @@
+One [[Thread]] cannot take resources away from another thread, once a thread holds a resource, the only way to another thread to get it is for the holding thread to release it.

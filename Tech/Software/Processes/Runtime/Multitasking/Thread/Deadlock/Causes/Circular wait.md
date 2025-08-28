@@ -1,0 +1,1 @@
+Consider two [[Thread]]s, T1 and T2, and two resources, R1 and R2, T1 has R1, T2 has R2. T1 also requires R2, and T2 also requires R1, creating a circular wait.

@@ -1,0 +1,1 @@
+Once a [[Thread]] acquires a resource, it will not release the resource until it has acquired all of the other resources it requires and has completed its work.

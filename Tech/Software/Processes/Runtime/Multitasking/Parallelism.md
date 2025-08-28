@@ -1,0 +1,1 @@
+two or more tasks executing the the same instant in time, require multiple CPU or CPU cores

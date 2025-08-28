@@ -1,0 +1,3 @@
+One [[Thread]] or a group is prohibited from proceeding for an excessively long time. Example: letting fast running threads though first could starve longer running threads.
+
+Example: imagine a system where threads need to access a list of resources, if on of the resources of the list is busy, simply free them all and start over. If you have a thread that needs a very specific list of resources that make it hard for them all to be finished, it could suffer from starvation.

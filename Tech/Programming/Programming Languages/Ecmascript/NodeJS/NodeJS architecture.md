@@ -1,4 +1,4 @@
-[[NodeJS]] is by default single threaded, however, many native APIs it uses are executed in different [[thread]]s ([[Libuv]] thread pool).
+[[NodeJS]] is by default single threaded, however, many native APIs it uses are executed in different [[Thread]]s ([[Libuv]] thread pool).
 
 An overview of how that works:
 ```node
