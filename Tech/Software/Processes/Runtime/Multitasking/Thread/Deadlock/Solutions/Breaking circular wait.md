@@ -1,0 +1,1 @@
+When a global order of resource allocation in [[Thread]]s is set, could mean a resource is allocated firstly and used in the last task, which is bad and make heavy use of the CPU

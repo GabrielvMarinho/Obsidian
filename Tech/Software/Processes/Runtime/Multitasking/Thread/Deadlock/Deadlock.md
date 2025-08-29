@@ -1,1 +1,1 @@
-A situation where the [[Thread]]s cannot continue its tasks due to a specific reason
+A situation where the [[Thread]]s cannot continue its tasks because progress is impossible dua to a standstill caused by opposing forces or a mutual dependency the prevents any advancement

@@ -1,1 +1,1 @@
-Refusing to wait, if you have to use a resource and its busy, simply starts over, easy to run into [[Starvation]] or [[Livelock]]
+Refusing to wait. if you have to use a resource and its busy, simply starts over, easy to run into [[Starvation]] or [[Livelock]]
