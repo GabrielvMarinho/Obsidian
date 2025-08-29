@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Processes/Runtime/Multitasking/Parallelism.md",
+                "file": "Tech/WWW/Web/Web Server/Web Server Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parallelism"
-            }
-          },
-          {
-            "id": "b4bf9a24cbb19cf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Software/Clean Code/Examples/ThreadingIssue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ThreadingIssue"
+              "title": "Web Server Architecture"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fast",
+                "query": "asgi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,10 +171,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4bf9a24cbb19cf4",
+  "active": "3313c08385058a0c",
   "lastOpenFiles": [
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Deadlock.md",
+    "Tech/WWW/Web/Web Server/Web Server.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/Server Gateway Interface.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/ASGI.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/WSGI.md",
+    "Tech/Software/Processes/Runtime/Multitasking/Parallelism.md",
+    "Tech/Software/Architecture/Definition/The 4 parts/Architecture characteristics.md",
+    "Tech/Software/Architecture/Definition/To take into consideration.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Fundamentals of Software Architecture - An Engineering Approach.md",
+    "Tech/Software/Architecture/Software Architecture.md",
+    "Tech/Software/Architecture/Definition/The 4 parts/Structure.md",
+    "Tech/Software/Architecture/Definition/The 4 parts/Architecture decisions.md",
+    "Tech/Software/Architecture/Definition/The 4 parts",
+    "Tech/Software/Architecture/Definition/The 4 parts/Design principles.md",
+    "Tech/Software/Architecture/Patterns of software/Event Loop.md",
+    "Tech/Software/Architecture/Patterns of software/Builder.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architecture is based on context.md",
+    "Tech/Software/Architecture/Definition",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight",
     "Books/Software/Clean Code/Examples/ThreadingIssue.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach",
+    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Deadlock.md",
     "Books/Software/Clean Code/Examples",
     "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Solutions/Breaking mutual exclusion.md",
     "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Solutions/Breaking circular wait.md",
@@ -200,30 +204,11 @@
     "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Causes/No preemption.md",
     "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Causes/Mutual exclusion.md",
     "Tech/Software/Processes/Runtime/Multitasking/Thread/Livelock.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Causes/Important.md",
     "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Solutions",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Starvation.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Causes/Lock & Wait.md",
     "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Causes",
-    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Merge.md",
     "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock",
-    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Squash and merge.md",
-    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Deciding which type or merge.md",
-    "Tech/Software/Processes/Versioning/Git/Commands/Merge/Types/Fast Forward.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Concurrency.md",
     "Tech/Software/Processes/Runtime/Multitasking/Process",
-    "Tech/Software/Processes/Runtime/Multitasking/Parallelism.md",
-    "Tech/Software/Concepts/MISCELLANEOUS/Asynchronous.md",
     "Tech/DataScience/Data Structure/Trees/Binary Tree/Examples/binary_tree_type.excalidraw",
-    "Tech/DataScience/Data Structure/Trees/Binary Tree/Examples/Sorted Array to Binary Search Tree.md",
-    "Tech/DataScience/Data Structure/Trees/Traversal/Inorder Traversal.md",
-    "Tech/DataScience/Data Structure/Trees/Traversal/Breadth-First Traversal.md",
-    "Tech/DataScience/Data Structure/Trees/Traversal/Traversal.md",
-    "Tech/DataScience/Data Structure/Trees/Traversal/Postorder Traversal.md",
-    "Tech/Programming/Programming Languages/Python/Libraries/Threads/subprocess",
-    "Tech/Programming/Programming Languages/Python/Libraries/Threads",
-    "Tech/Programming/Programming Languages/Python/Libraries/Threads/multiprocessing",
-    "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg",
-    "Tech/Programming/Programming Languages/Python/Libraries/Threads/threading"
+    "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg"
   ]
 }

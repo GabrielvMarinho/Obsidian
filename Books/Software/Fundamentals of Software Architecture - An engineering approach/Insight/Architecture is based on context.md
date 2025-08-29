@@ -1,0 +1,1 @@
+Software architecture is entirely based on the context of the application, in the 2000s operating systems were expensive, servers were expensive, databases were expensive, thats why they had a lot of resource sharing back then, and something like microsservices couldnt be implemented, even with the best software architects
