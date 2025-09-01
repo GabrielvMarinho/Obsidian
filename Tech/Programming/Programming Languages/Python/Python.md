@@ -1,4 +1,5 @@
 Python is an [[Interpreter|Interpreted]] High level [[Programming Language]].
 
-doesnt support http requests natively because its meant to be a general purpose language. 
+Python itself is just the programming language specification -> syntax + standard library.
+When you download "python" you actually download a python implementation, like [[CPython]]
 

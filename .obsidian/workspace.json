@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/WWW/Web/Web Server/Web Server Architecture.md",
+                "file": "Tech/Programming/Programming Languages/Python/Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Server Architecture"
+              "title": "Python"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asgi",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,42 +173,42 @@
   },
   "active": "3313c08385058a0c",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Languages/Python/Python Interpreter/CPython.md",
+    "Tech/Programming/Programming Languages/Python/Python Interpreter/PVM.md",
+    "Tech/Programming/Programming Languages/Python/Python Interpreter/GIL.md",
+    "Tech/Programming/Programming Languages/Python/Python Interpreter",
+    "Tech/Software/Processes/Compilation/Bytecode.md",
+    "Tech/Software/Processes/Compilation/Machine Code.md",
+    "Tech/Programming/Programming Tools/Browsers/Hydration.md",
+    "Tech/Programming/Programming Tools/Browsers/How CSR works.md",
+    "Tech/Programming/Programming Tools/Browsers/How SSR works.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser.md",
+    "Tech/Software/Architecture/Definition/The 4 parts/Architecture characteristics.md",
+    "Tech/Software/Architecture/Definition/The 4 parts/Design principles.md",
+    "Tech/Software/Architecture/Definition/The 4 parts/Architecture decisions.md",
+    "Tech/Software/Architecture/Definition/The 4 parts/Structure.md",
+    "Tech/Software/Software.md",
+    "Tech/Software/DevOps.md",
+    "Tech/WWW/Web/Web Server/Web Server Architecture.md",
     "Tech/WWW/Web/Web Server/Web Server.md",
     "Tech/Programming/Programming Languages/Python/Server Gateway Interface/Server Gateway Interface.md",
     "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/ASGI.md",
     "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/WSGI.md",
     "Tech/Software/Processes/Runtime/Multitasking/Parallelism.md",
-    "Tech/Software/Architecture/Definition/The 4 parts/Architecture characteristics.md",
     "Tech/Software/Architecture/Definition/To take into consideration.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Fundamentals of Software Architecture - An Engineering Approach.md",
     "Tech/Software/Architecture/Software Architecture.md",
-    "Tech/Software/Architecture/Definition/The 4 parts/Structure.md",
-    "Tech/Software/Architecture/Definition/The 4 parts/Architecture decisions.md",
     "Tech/Software/Architecture/Definition/The 4 parts",
-    "Tech/Software/Architecture/Definition/The 4 parts/Design principles.md",
     "Tech/Software/Architecture/Patterns of software/Event Loop.md",
     "Tech/Software/Architecture/Patterns of software/Builder.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architecture is based on context.md",
     "Tech/Software/Architecture/Definition",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight",
-    "Books/Software/Clean Code/Examples/ThreadingIssue.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Deadlock.md",
     "Books/Software/Clean Code/Examples",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Solutions/Breaking mutual exclusion.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Solutions/Breaking circular wait.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Causes/Circular wait.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Solutions/Breaking preemption.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Solutions/Breaking Lock & Wait.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Thread.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Causes/No preemption.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Causes/Mutual exclusion.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Livelock.md",
     "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Solutions",
     "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Causes",
     "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock",
     "Tech/Software/Processes/Runtime/Multitasking/Process",
-    "Tech/DataScience/Data Structure/Trees/Binary Tree/Examples/binary_tree_type.excalidraw",
     "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg"
   ]
 }
