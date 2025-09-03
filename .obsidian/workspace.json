@@ -1,64 +1,37 @@
 {
   "main": {
-    "id": "400b7551bb2b982f",
+    "id": "759855ee244da6c6",
     "type": "split",
     "children": [
       {
-        "id": "aee0104ca4bfb78b",
+        "id": "909ad37bb60e7f0d",
         "type": "tabs",
         "children": [
           {
-            "id": "3313c08385058a0c",
+            "id": "ea36709552bf9218",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "Tech/Programming/Programming Languages/Python/Python.md",
-=======
-                "file": "Tech/Software/Processes/Runtime/Multitasking/Parallelism.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Python"
-=======
-              "title": "Parallelism"
-            }
-          },
-          {
-            "id": "b4bf9a24cbb19cf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Software/Architecture/Definition/The 4 parts/Design principles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design principles"
->>>>>>> Stashed changes
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f8f1e7658b4b8a86",
+    "id": "6b11f27c223a5c57",
     "type": "split",
     "children": [
       {
-        "id": "6085c000b2d6aa8f",
+        "id": "a4b764ee2904b491",
         "type": "tabs",
         "children": [
           {
-            "id": "2215c3c31b83fe0d",
+            "id": "ef1f9d89e203a500",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,16 +44,12 @@
             }
           },
           {
-            "id": "6f8ef60268767ebb",
+            "id": "c8ceaa652bd87309",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< Updated upstream
-                "query": "python",
-=======
-                "query": "fast",
->>>>>>> Stashed changes
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +61,7 @@
             }
           },
           {
-            "id": "4bdb9c36a3f1b9df",
+            "id": "3f539f765224b212",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 300
   },
   "right": {
-    "id": "f69488161ef3db57",
+    "id": "44991527e7cf08ce",
     "type": "split",
     "children": [
       {
-        "id": "71a4d990b092a88c",
+        "id": "3c56dc45bbb5b605",
         "type": "tabs",
         "children": [
           {
-            "id": "f28c9811ba78863c",
+            "id": "337fe56afc3067ca",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cluster"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "8513ebcf09791114",
+            "id": "60f15dcd846d311a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cluster"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ee5032597cfe9ee5",
+            "id": "36d01c1087235fb9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -164,18 +131,17 @@
             }
           },
           {
-            "id": "e90295610463d702",
+            "id": "d86cd8c6b487674d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Cluster.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cluster"
+              "title": "Outline"
             }
           }
         ]
@@ -187,94 +153,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "3d-graph-new:Global 3D Graph": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4bf9a24cbb19cf4",
+  "active": "ea36709552bf9218",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Tech/Programming/Programming Languages/Python/Python Interpreter/CPython.md",
-    "Tech/Programming/Programming Languages/Python/Python Interpreter/PVM.md",
-    "Tech/Programming/Programming Languages/Python/Python Interpreter/GIL.md",
-    "Tech/Programming/Programming Languages/Python/Python Interpreter",
-    "Tech/Software/Processes/Compilation/Bytecode.md",
-    "Tech/Software/Processes/Compilation/Machine Code.md",
-    "Tech/Programming/Programming Tools/Browsers/Hydration.md",
-    "Tech/Programming/Programming Tools/Browsers/How CSR works.md",
-    "Tech/Programming/Programming Tools/Browsers/How SSR works.md",
-    "Tech/Programming/Programming Tools/Browsers/Browser.md",
-    "Tech/Software/Architecture/Definition/The 4 parts/Architecture characteristics.md",
-    "Tech/Software/Architecture/Definition/The 4 parts/Design principles.md",
-    "Tech/Software/Architecture/Definition/The 4 parts/Architecture decisions.md",
-    "Tech/Software/Architecture/Definition/The 4 parts/Structure.md",
-    "Tech/Software/Software.md",
-    "Tech/Software/DevOps.md",
-    "Tech/WWW/Web/Web Server/Web Server Architecture.md",
-    "Tech/WWW/Web/Web Server/Web Server.md",
-    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/Server Gateway Interface.md",
-    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/ASGI.md",
-    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/WSGI.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Parallelism.md",
-    "Tech/Software/Architecture/Definition/To take into consideration.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Fundamentals of Software Architecture - An Engineering Approach.md",
-    "Tech/Software/Architecture/Software Architecture.md",
-    "Tech/Software/Architecture/Definition/The 4 parts",
-    "Tech/Software/Architecture/Patterns of software/Event Loop.md",
-    "Tech/Software/Architecture/Patterns of software/Builder.md",
-    "Tech/Software/Architecture/Definition",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach",
-    "Books/Software/Clean Code/Examples",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Solutions",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Causes",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock",
-    "Tech/Software/Processes/Runtime/Multitasking/Process",
-=======
-    "Tech/Software/Architecture/Definition/The 4 parts/Architecture decisions.md",
-    "Tech/Software/Architecture/Definition/The 4 parts/Structure.md",
-    "Tech/Software/Architecture/Definition/The 4 parts/Architecture characteristics.md",
-    "Books/Software/Clean Code/Examples/ThreadingIssue.md",
-    "Tech/Software/Architecture/Patterns of software/Event Loop.md",
-    "Tech/Software/Architecture/Patterns of software/Design Patterns.md",
-    "Tech/Software/Architecture/Patterns of software/Builder.md",
-    "Tech/Software/Architecture/Definition/The 4 parts/Design principles.md",
-    "Tech/Software/Architecture/Definition/To take into consideration.md",
-    "Tech/Software/Architecture/Definition/The 4 parts",
-    "Tech/Software/Architecture/Definition",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Tracing GC/Tracing GC.md",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Region-based GC/Regio-based GC.md",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Reference Counting GC/Reference Counting GC.md",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Manual Memory Management/Manual Memory Management.md",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Generational GC/Generational GC.md",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Incremental GC/Incremental GC.md",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Concurrent GC/Concurrent GC.md",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Tracing GC",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Region-based GC",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Reference Counting GC",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Manual Memory Management",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Incremental GC",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Generational GC",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types/Concurrent GC",
-    "Tech/Operating Systems/Architecture/Memory/RAM/RAM.md",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Types",
-    "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Garbage Collector.md",
-    "Tech/Operating Systems/Architecture/Memory/Caching/TTL.md",
-    "Tech/Operating Systems/Architecture/Memory/Caching/Caching.md",
-    "Tech/Operating Systems/Architecture/Memory/Caching/Cache Eviction.md",
-    "Tech/Operating Systems/Architecture/Memory/Buffer/Buffer.md",
-    "Tech/Operating Systems/Architecture/Memory/Stack.md",
-    "Tech/Operating Systems/Architecture/Memory/Pointer.md",
-    "Tech/Operating Systems/Architecture/Memory/Heap.md",
-    "Tech/Operating Systems/Architecture/Memory/Byte.md",
->>>>>>> Stashed changes
-    "Articles/Software Development/Code Patterns/Simple Explicit Code/simple_explicit_code.jpg"
+    "Tech/Programming/Programming Languages/Python/Libraries/MatPlotLib/MatPlotLib.md",
+    "Tech/Software/Architecture/LCOM.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Types of Cohesion.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/types of cohesion",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion"
   ]
 }
