@@ -11,10 +11,14 @@
             "id": "ea36709552bf9218",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Dynamic Connascence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Connascence"
             }
           }
         ]
@@ -164,12 +168,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ea36709552bf9218",
+  "active": "ef1f9d89e203a500",
   "lastOpenFiles": [
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Types of Cohesion.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
+    "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Dynamic Connascence.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Static Connascence.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Technical Breadth.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence",
     "Tech/Programming/Programming Languages/Python/Libraries/MatPlotLib/MatPlotLib.md",
     "Tech/Software/Architecture/LCOM.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Types of Cohesion.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/types of cohesion",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion"
   ]
