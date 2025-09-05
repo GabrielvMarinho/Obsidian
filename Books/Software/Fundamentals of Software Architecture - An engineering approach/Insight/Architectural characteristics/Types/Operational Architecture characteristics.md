@@ -1,0 +1,1 @@
+Operational related (related to DevOps) characteristics, like elasticity, performance, recoverability and so on.

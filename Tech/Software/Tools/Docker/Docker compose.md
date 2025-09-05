@@ -1,5 +1,10 @@
 A [[Docker]] tool used to run and manage multiple **[[Docker Container|Docker containers]]** simultaneously, as well as to automatically configure network bridges and shared resources between them.
 
+## Example
+
+```dockerfile
+asdasd a ds
+```
 
 ## **Volumes** 
 
