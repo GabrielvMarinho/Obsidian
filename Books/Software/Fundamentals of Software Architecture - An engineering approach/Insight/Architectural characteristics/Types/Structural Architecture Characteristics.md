@@ -1,0 +1,1 @@
+(code) Structure related characteristics, like reuse of components, maintainability, upgradeability.

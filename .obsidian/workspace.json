@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Python/Python Interpreter/GIL.md",
+                "file": "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIL"
+              "title": "Cohesion"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,6 +170,15 @@
   },
   "active": "ea36709552bf9218",
   "lastOpenFiles": [
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Types of Cohesion.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Cross-Cutting Architecture Characteristics.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Structural Architecture Characteristics.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Operational Architecture characteristics.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics overlap.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Dynamic Connascence.md",
+    "Tech/Programming/Programming Languages/Python/Python Interpreter/GIL.md",
     "Tech/Software/Tools/Docker/Docker compose.md",
     "Tech/Software/Tools/Docker/Docker.md",
     "Tech/Software/Tools/Docker/Dockerfile.md",
@@ -179,9 +187,6 @@
     "Tech/Software/Tools/Docker/concepts/Docker Image.md",
     "Tech/Software/Tools/Docker/concepts/Docker Container.md",
     "Tech/Software/Tools/Docker/example/Building a container.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Operational Architecture characteristics.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Cross-Cutting Architecture Characteristics.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Structural Architecture Characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics",
@@ -189,10 +194,6 @@
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Technical Depth.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Technical Breadth.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architecture is based on context.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Types of Cohesion.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Dynamic Connascence.md",
     "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Static Connascence.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence",

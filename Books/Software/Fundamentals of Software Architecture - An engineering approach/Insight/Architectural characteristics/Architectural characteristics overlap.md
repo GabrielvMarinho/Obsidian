@@ -1,0 +1,1 @@
+If you want a fast and secury app, you will have to make it a bit slower by encrypting things, so the more characteristics are needed, the more complex the system gets, sometimes, you can hit walls where it's not about complexity, but the fact that they overlap and nothing can be done about it
