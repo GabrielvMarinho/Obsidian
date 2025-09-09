@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
+                "file": "Tech/Software/API/OpenAPI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cohesion"
+              "title": "OpenAPI"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GIL",
+                "query": "api",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +170,18 @@
   },
   "active": "ea36709552bf9218",
   "lastOpenFiles": [
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
+    "Tech/Software/API/API.md",
+    "Tech/Software/API/OpenAPI.md",
+    "Tech/Software/API",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural fitness function.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
+    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/View.md",
+    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Tools/MongoDB Ops Manager/MongoDB Ops Manager.md",
+    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Replica Set.md",
+    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Seed List.md",
+    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/MongoDB.md",
+    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Cluster.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Types of Cohesion.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Cross-Cutting Architecture Characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Structural Architecture Characteristics.md",
@@ -187,18 +197,10 @@
     "Tech/Software/Tools/Docker/concepts/Docker Image.md",
     "Tech/Software/Tools/Docker/concepts/Docker Container.md",
     "Tech/Software/Tools/Docker/example/Building a container.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Fundamentals of Software Architecture - An Engineering Approach.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Technical Depth.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Technical Breadth.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architecture is based on context.md",
     "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Static Connascence.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence",
-    "Tech/Programming/Programming Languages/Python/Libraries/MatPlotLib/MatPlotLib.md",
-    "Tech/Software/Architecture/LCOM.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/types of cohesion",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion"
   ]
