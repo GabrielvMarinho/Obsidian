@@ -1,0 +1,1 @@
+Open authorization/authentication, a [[Protocol]] to how web authentication should behave. It's not the implementation itself, a set of rules
