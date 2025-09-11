@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Architecture/Security/Authentication/Oauth.md",
+                "file": "Tech/Programming/Programming Languages/Ecmascript/Promise (JS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oauth"
+              "title": "Promise (JS)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "protocol",
+                "query": "promise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,10 +171,20 @@
   },
   "active": "ea36709552bf9218",
   "lastOpenFiles": [
+    "Tech/Software/Architecture/Patterns of software/Event Loop.md",
+    "Tech/Software/Concepts/MISCELLANEOUS/Asynchronous.md",
+    "Tech/Software/Concepts/MISCELLANEOUS/Synchronous.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Dynamic Connascence.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
+    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Javascript.md",
+    "Books/Software/Clean Code/Review.md",
+    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Untitled.md",
+    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel/Babel.md",
+    "Tech/Programming/Programming Languages/Ecmascript/Promise (JS).md",
+    "Tech/Software/Architecture/Security/Authentication/Oauth.md",
     "Tech/Protocol.md",
     "Tech/Network/Protocols/Protocol Level.md",
     "Tech/Network/Protocols/No one cares/ASCII file Reader/ASCII file Reader.md",
-    "Tech/Software/Architecture/Security/Authentication/Oauth.md",
     "Tech/Software/Untitled.md",
     "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/IPC Channels Electron.md",
     "Tech/Programming/Programming Tools/Frameworks/FastApi/Internals/Dependency Injection.md",
@@ -185,19 +196,9 @@
     "Tech/Software/API",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural fitness function.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
     "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/View.md",
     "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Tools/MongoDB Ops Manager/MongoDB Ops Manager.md",
     "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Replica Set.md",
-    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Seed List.md",
-    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/MongoDB.md",
-    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Cluster.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Types of Cohesion.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Cross-Cutting Architecture Characteristics.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Structural Architecture Characteristics.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Operational Architecture characteristics.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics overlap.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Dynamic Connascence.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics",
     "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",

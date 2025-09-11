@@ -1,2 +1,1 @@
-events or operations happens in a specific sequence, can be multithreaded.
-
+An operation that happens in a specific sequence of tasks, blocks everything while something is happening. (can be multithreaded)
