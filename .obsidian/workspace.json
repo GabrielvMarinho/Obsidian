@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/WWW/Web/Web Server/Web Server.md",
+                "file": "Tech/Programming/Programming Languages/Ecmascript/NodeJS/NodeJS architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Server"
+              "title": "NodeJS architecture"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wsgi",
+                "query": "javascript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,34 +170,35 @@
   },
   "active": "ea36709552bf9218",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel/Babel.md",
+    "Tech/Software/Concepts/MISCELLANEOUS/Asynchronous.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Component Partitioning.md",
+    "Books/Software/Clean Code/Insight/Procedural vs OOP in adding functionality.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Structural Architecture Characteristics.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics overlap.md",
+    "Books/Software/Clean Code/Insight/Explicitness over Simplicity.md",
+    "Books/Software/Clean Code/Insight/Consistent Noun Using.md",
+    "Books/Software/Clean Code/Insight/Abstracting Implementation.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Cross-Cutting Architecture Characteristics.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architecture is based on context.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural fitness function.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Operational Architecture characteristics.md",
+    "Tech/Programming/Programming Tools/Browsers/Browser.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning",
+    "Tech/Network/Protocols/Important/HTTP/HTTP.md",
+    "Tech/Network/Protocols/Important/HTTP/Cookies.md",
+    "Tech/WWW/Web/Web Server/Web Server.md",
     "Tech/WWW/Web/Web Server/Integration with apps.md",
     "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/WSGI.md",
     "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/ASGI.md",
     "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/Examples/Gunicorn.md",
-    "Tech/Network/Protocols/Important/HTTP/HTTP.md",
     "Tech/Protocol.md",
     "Tech/Network/Protocols/Important/HTTP/Architecture/HTTP Server.md",
     "Tech/Network/Protocols/Important/HTTP/HTTP only cookies.md",
-    "Tech/WWW/Web/Web Server/Web Server.md",
     "Tech/Network/OSI Model/OSI Model.md",
-    "Tech/DataScience/Machine Learning/Training/Learning Algorithm/Linear Regression.md",
-    "Tech/DataScience/Machine Learning/Training/Supervised Learning.md",
-    "Tech/DataScience/Machine Learning/Training/Unsupervised Learning.md",
-    "Tech/DataScience/Machine Learning/Training/Problems/Classification problem.md",
-    "Tech/DataScience/Machine Learning/Training/Logistic Regression.md",
-    "Tech/DataScience/Machine Learning/Training/Linear Progression.md",
-    "Tech/DataScience/Machine Learning/Training/Classification Threshold.md",
-    "Tech/DataScience/Machine Learning/Training/Logistic Regression/Metrics/False Positive Rate.md",
-    "Tech/DataScience/Machine Learning/Training/Logistic Regression/Sigmoid Function.md",
-    "Tech/DataScience/Machine Learning/Training/Hyperparameters/Hyperparameter.md",
-    "Tech/DataScience/Machine Learning/LLMs/Fine Tunning.md",
-    "Tech/DataScience/Machine Learning/Training/Problems/Regression problem.md",
-    "Tech/DataScience/Machine Learning/Training/Learning Algorithm/Gradient Descent.md",
     "Tech/DataScience/Machine Learning/LLMs",
     "Tech/DataScience/Machine Learning/Training/Learning Algorithm",
-    "Tech/DataScience/Machine Learning/LLMs/RAG.md",
-    "Tech/DataScience/Machine Learning/Machine Learning.md",
-    "Tech/DataScience/Machine Learning/Training/Logistic Regression/Metrics/Acurracy.md",
     "Tech/DataScience/Machine Learning/Training/Problems",
     "Tech/Programming/Programming Tools/Frameworks/FastApi/Internals",
     "Tech/Software/API",
@@ -205,7 +206,6 @@
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics",
     "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/types of cohesion",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion"
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/types of cohesion"
   ]
 }
