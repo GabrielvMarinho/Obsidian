@@ -1,4 +1,4 @@
-Simple Object Access [[Protocol]] used for exchanging data using [[XML]], build on top of [[HTTP]]
+Simple Object Access [[Protocol]] used for exchanging data using [[XML]], build on top of [[Tech/Network/PROTOCOLS/Important/HTTP/HTTP]]
 
 Application level.
 

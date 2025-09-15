@@ -1,1 +1,0 @@
-A process where you "take out" or "add" layers in the [[Artificial Intelligence|AI]] model looking forward to manipulating it in a way It's going to be more specific for a certain taks, however the task is very costly and a lot of times can not be predicted surely, turning into a very complex process

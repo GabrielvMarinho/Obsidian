@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Ecmascript/Promise (JS).md",
+                "file": "Tech/WWW/Web/Web Server/Web Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Promise (JS)"
+              "title": "Web Server"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "promise",
+                "query": "wsgi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 503.5
+    "width": 241.5
   },
   "right": {
     "id": "44991527e7cf08ce",
@@ -171,34 +170,37 @@
   },
   "active": "ea36709552bf9218",
   "lastOpenFiles": [
-    "Tech/Software/Architecture/Patterns of software/Event Loop.md",
-    "Tech/Software/Concepts/MISCELLANEOUS/Asynchronous.md",
-    "Tech/Software/Concepts/MISCELLANEOUS/Synchronous.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Dynamic Connascence.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
-    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Javascript.md",
-    "Books/Software/Clean Code/Review.md",
-    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Untitled.md",
-    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel/Babel.md",
-    "Tech/Programming/Programming Languages/Ecmascript/Promise (JS).md",
-    "Tech/Software/Architecture/Security/Authentication/Oauth.md",
+    "Tech/WWW/Web/Web Server/Integration with apps.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/WSGI.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/ASGI.md",
+    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/Examples/Gunicorn.md",
+    "Tech/Network/Protocols/Important/HTTP/HTTP.md",
     "Tech/Protocol.md",
-    "Tech/Network/Protocols/Protocol Level.md",
-    "Tech/Network/Protocols/No one cares/ASCII file Reader/ASCII file Reader.md",
-    "Tech/Software/Untitled.md",
-    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/IPC Channels Electron.md",
-    "Tech/Programming/Programming Tools/Frameworks/FastApi/Internals/Dependency Injection.md",
+    "Tech/Network/Protocols/Important/HTTP/Architecture/HTTP Server.md",
+    "Tech/Network/Protocols/Important/HTTP/HTTP only cookies.md",
+    "Tech/WWW/Web/Web Server/Web Server.md",
+    "Tech/Network/OSI Model/OSI Model.md",
+    "Tech/DataScience/Machine Learning/Training/Learning Algorithm/Linear Regression.md",
+    "Tech/DataScience/Machine Learning/Training/Supervised Learning.md",
+    "Tech/DataScience/Machine Learning/Training/Unsupervised Learning.md",
+    "Tech/DataScience/Machine Learning/Training/Problems/Classification problem.md",
+    "Tech/DataScience/Machine Learning/Training/Logistic Regression.md",
+    "Tech/DataScience/Machine Learning/Training/Linear Progression.md",
+    "Tech/DataScience/Machine Learning/Training/Classification Threshold.md",
+    "Tech/DataScience/Machine Learning/Training/Logistic Regression/Metrics/False Positive Rate.md",
+    "Tech/DataScience/Machine Learning/Training/Logistic Regression/Sigmoid Function.md",
+    "Tech/DataScience/Machine Learning/Training/Hyperparameters/Hyperparameter.md",
+    "Tech/DataScience/Machine Learning/LLMs/Fine Tunning.md",
+    "Tech/DataScience/Machine Learning/Training/Problems/Regression problem.md",
+    "Tech/DataScience/Machine Learning/Training/Learning Algorithm/Gradient Descent.md",
+    "Tech/DataScience/Machine Learning/LLMs",
+    "Tech/DataScience/Machine Learning/Training/Learning Algorithm",
+    "Tech/DataScience/Machine Learning/LLMs/RAG.md",
+    "Tech/DataScience/Machine Learning/Machine Learning.md",
+    "Tech/DataScience/Machine Learning/Training/Logistic Regression/Metrics/Acurracy.md",
+    "Tech/DataScience/Machine Learning/Training/Problems",
     "Tech/Programming/Programming Tools/Frameworks/FastApi/Internals",
-    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/Electron IPC System.md",
-    "Tech/Programming/Programming Tools/Frameworks/FastApi/FastApi.md",
-    "Tech/Software/API/OpenAPI.md",
-    "Tech/Software/API/API.md",
     "Tech/Software/API",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural fitness function.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
-    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/View.md",
-    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Tools/MongoDB Ops Manager/MongoDB Ops Manager.md",
-    "Tech/Database/Types of storing data/NoSqlDatabases/MongoDB/Replica Set.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics",
     "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",

@@ -1,0 +1,1 @@
+Connascence of communication -> communication overhead of differente services in a micro services architecture

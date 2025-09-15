@@ -1,1 +1,0 @@
-The study and practice to find a value that represents the lowest loss in a function

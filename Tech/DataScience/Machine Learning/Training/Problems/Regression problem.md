@@ -1,0 +1,1 @@
+a dynamic range of possibilities, house | prices 0 - infinite

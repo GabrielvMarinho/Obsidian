@@ -1,0 +1,1 @@
+a static range of possibilites, cancer | benign - malignant
