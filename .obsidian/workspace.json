@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Network/Protocols/Important/HTTP/HTTP Request Structure.md",
+                "file": "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Top level (Component) Partitioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP Request Structure"
+              "title": "Top level (Component) Partitioning"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GET",
+                "query": "javascript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,34 +170,35 @@
   },
   "active": "ea36709552bf9218",
   "lastOpenFiles": [
-    "Tech/Network/Protocols/Important/HTTP/HTTP Response Structure.md",
-    "Tech/Network/Protocols/Important/HTTP/HTTP Request Structure.md",
-    "Tech/Network/Protocols/Important/HTTP/HTTP only cookies.md",
+    "Internal Processes/WEG K8S.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/NodeJS architecture.md",
     "Tech/Network/Protocols/Important/HTTP/HTTP.md",
     "Tech/Programming/Programming Languages/Python/Libraries/HttpServer/http.server.md",
     "Tech/Programming/Programming Languages/Python/Libraries/HttpServer",
-    "Tech/Network/Protocols/Important/HTTP/Methods/HEAD.md",
-    "Tech/Network/Protocols/Important/HTTP/HTTP Client.md",
     "Tech/Network/Protocols/Important/HTTP/Methods/PUT.md",
     "Tech/Network/Protocols/Important/HTTP/Methods/POST.md",
     "Tech/Network/Protocols/Important/HTTP/Methods/PATCH.md",
+    "Tech/Network/Protocols/Important/HTTP/Methods/HEAD.md",
     "Tech/Network/Protocols/Important/HTTP/Methods/GET.md",
-    "Tech/Network/Protocols/P2P.md",
-    "Tech/Network/Protocols/Protocol Level 1.md",
-    "Tech/Network/Protocols/Important/SSL/SSL.md",
-    "Tech/Network/Protocols/Important/HTTP/Architecture/HTTP Server.md",
-    "Tech/Network/Protocols/Important/TCP/TCP.md",
-    "Tech/Network/Protocols/Important/TCP/Three way handshake.md",
     "Tech/Network/Protocols/Important/HTTP/Methods/DELETE.md",
-    "Tech/WWW/Web/REST API/API REST Request.md",
-    "Tech/Network/Protocols/Important/HTTP/Cookies.md",
-    "Tech/WWW/Web/Web Server/Web Server.md",
-    "Tech/WWW/Web/Web Server/Integration with apps.md",
-    "Tech/WWW/Web/Web Server/Web Server Architecture.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Component Partitioning.md",
+    "Tech/Network/Protocols/Important/HTTP/Methods",
+    "Tech/Network/Protocols/Important/HTTP/HTTP Response Structure.md",
+    "Tech/Network/Protocols/Important/HTTP/HTTP Request Structure.md",
+    "Tech/Programming/Programming Languages/Ecmascript/Javascript/Babel/Babel.md",
+    "Tech/Software/Concepts/MISCELLANEOUS/Asynchronous.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Top level (Component) Partitioning.md",
+    "Books/Software/Clean Code/Insight/Procedural vs OOP in adding functionality.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Structural Architecture Characteristics.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics overlap.md",
+    "Books/Software/Clean Code/Insight/Explicitness over Simplicity.md",
+    "Books/Software/Clean Code/Insight/Consistent Noun Using.md",
+    "Books/Software/Clean Code/Insight/Abstracting Implementation.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Cross-Cutting Architecture Characteristics.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architecture is based on context.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural fitness function.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Operational Architecture characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning",
-    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/WSGI.md",
-    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/ASGI.md",
     "Tech/DataScience/Machine Learning/LLMs",
     "Tech/DataScience/Machine Learning/Training/Learning Algorithm",
     "Tech/DataScience/Machine Learning/Training/Problems",
@@ -205,7 +206,6 @@
     "Tech/Software/API",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics",
-    "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence"
+    "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png"
   ]
 }
