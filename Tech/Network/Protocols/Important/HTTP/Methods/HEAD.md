@@ -1,0 +1,1 @@
+Identical to [[GET]] method, but the server must not send content in the response, HEAD is used to obtain metadata about the selected representation. 

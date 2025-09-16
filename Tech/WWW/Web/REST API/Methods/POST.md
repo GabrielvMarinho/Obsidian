@@ -1,1 +1,0 @@
-[Method](obsidian://open?vault=Obsidian&file=Tech%2FProgramming%2FProgramming%20Paradigms%2FOOP%2FConcepts%2FMethod) to send [Data](obsidian://open?vault=Obsidian&file=Tech%2FDatabase%2FData) to an [[API]] 

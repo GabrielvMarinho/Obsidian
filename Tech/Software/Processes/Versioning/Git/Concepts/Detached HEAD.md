@@ -1,1 +1,1 @@
-a [[HEAD]] no pointing to any [[Branch]]
+a [[Tech/Software/Processes/Versioning/Git/Concepts/HEAD]] no pointing to any [[Branch]]

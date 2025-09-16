@@ -1,0 +1,1 @@
+Delete something in the [[HTTP|HTTP]] standard
