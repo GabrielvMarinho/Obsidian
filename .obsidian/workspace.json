@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Network/Protocols/Important/HTTP/HTTP.md",
+                "file": "Tech/Network/Protocols/Important/HTTP/HTTP Request Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
-            }
-          },
-          {
-            "id": "47586545311263fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Programming/Programming Languages/Python/Libraries/HttpServer/http.server.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "http.server"
+              "title": "HTTP Request Structure"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,12 +168,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "47586545311263fc",
+  "active": "ea36709552bf9218",
   "lastOpenFiles": [
     "Tech/Network/Protocols/Important/HTTP/HTTP Response Structure.md",
+    "Tech/Network/Protocols/Important/HTTP/HTTP Request Structure.md",
+    "Tech/Network/Protocols/Important/HTTP/HTTP only cookies.md",
+    "Tech/Network/Protocols/Important/HTTP/HTTP.md",
     "Tech/Programming/Programming Languages/Python/Libraries/HttpServer/http.server.md",
     "Tech/Programming/Programming Languages/Python/Libraries/HttpServer",
-    "Tech/Network/Protocols/Important/HTTP/HTTP.md",
     "Tech/Network/Protocols/Important/HTTP/Methods/HEAD.md",
     "Tech/Network/Protocols/Important/HTTP/HTTP Client.md",
     "Tech/Network/Protocols/Important/HTTP/Methods/PUT.md",
@@ -197,7 +184,6 @@
     "Tech/Network/Protocols/Important/HTTP/Methods/GET.md",
     "Tech/Network/Protocols/P2P.md",
     "Tech/Network/Protocols/Protocol Level 1.md",
-    "Tech/Network/Protocols/Important/HTTP/HTTP only cookies 1.md",
     "Tech/Network/Protocols/Important/SSL/SSL.md",
     "Tech/Network/Protocols/Important/HTTP/Architecture/HTTP Server.md",
     "Tech/Network/Protocols/Important/TCP/TCP.md",
@@ -212,7 +198,6 @@
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning",
     "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/WSGI.md",
     "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/ASGI.md",
-    "Tech/Programming/Programming Languages/Python/Server Gateway Interface/WSGI/Examples/Gunicorn.md",
     "Tech/DataScience/Machine Learning/LLMs",
     "Tech/DataScience/Machine Learning/Training/Learning Algorithm",
     "Tech/DataScience/Machine Learning/Training/Problems",
