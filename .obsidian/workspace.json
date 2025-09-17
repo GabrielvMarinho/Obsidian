@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Network/Protocols/Important/HTTP/HTTP Request Structure.md",
+                "file": "Tech/Operating Systems/Architecture/Memory/Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP Request Structure"
+              "title": "Stack"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GET",
+                "query": "heap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,11 +170,23 @@
   },
   "active": "ea36709552bf9218",
   "lastOpenFiles": [
-    "Tech/Network/Protocols/Important/HTTP/HTTP Response Structure.md",
+    "Tech/Operating Systems/Architecture/Memory/Caching/Caching.md",
+    "Tech/Operating Systems/Architecture/Memory/Caching/Cache Eviction.md",
+    "Tech/Operating Systems/Architecture/Memory/Heap.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Fundamentals of Software Architecture - An Engineering Approach.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Event storming.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Actor-Actions.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Component.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Entity Trap.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Dynamic Connascence.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Component Granularity.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Top level (Component) Partitioning.md",
+    "Tech/Software/Processes/Runtime/Multitasking/Thread/Deadlock/Deadlock.md",
     "Tech/Network/Protocols/Important/HTTP/HTTP Request Structure.md",
+    "Tech/Network/Protocols/Important/HTTP/HTTP Response Structure.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
     "Tech/Network/Protocols/Important/HTTP/HTTP only cookies.md",
     "Tech/Network/Protocols/Important/HTTP/HTTP.md",
     "Tech/Programming/Programming Languages/Python/Libraries/HttpServer/http.server.md",
@@ -186,17 +198,6 @@
     "Tech/Network/Protocols/Important/HTTP/Methods/PATCH.md",
     "Tech/Network/Protocols/Important/HTTP/Methods/GET.md",
     "Tech/Network/Protocols/P2P.md",
-    "Tech/Network/Protocols/Protocol Level 1.md",
-    "Tech/Network/Protocols/Important/SSL/SSL.md",
-    "Tech/Network/Protocols/Important/HTTP/Architecture/HTTP Server.md",
-    "Tech/Network/Protocols/Important/TCP/TCP.md",
-    "Tech/Network/Protocols/Important/TCP/Three way handshake.md",
-    "Tech/Network/Protocols/Important/HTTP/Methods/DELETE.md",
-    "Tech/WWW/Web/REST API/API REST Request.md",
-    "Tech/Network/Protocols/Important/HTTP/Cookies.md",
-    "Tech/WWW/Web/Web Server/Web Server.md",
-    "Tech/WWW/Web/Web Server/Integration with apps.md",
-    "Tech/WWW/Web/Web Server/Web Server Architecture.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning",
     "Tech/DataScience/Machine Learning/LLMs",
     "Tech/DataScience/Machine Learning/Training/Learning Algorithm",
@@ -205,7 +206,6 @@
     "Tech/Software/API",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics",
-    "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence"
+    "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png"
   ]
 }
