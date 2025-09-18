@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Operating Systems/Architecture/Memory/Stack.md",
+                "file": "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Monolith or Distributed system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stack"
+              "title": "Monolith or Distributed system"
             }
           }
         ]
@@ -170,14 +170,22 @@
   },
   "active": "ea36709552bf9218",
   "lastOpenFiles": [
+    "Tech/Software/Architecture/Definition/To take into consideration.md",
+    "Tech/Software/Architecture/Definition/The 4 parts/Structure.md",
+    "Tech/Software/Architecture/Definition/The 4 parts/Design principles.md",
+    "Tech/Software/Architecture/Definition/The 4 parts/Architecture decisions.md",
+    "Tech/Software/Architecture/Definition/The 4 parts/Architecture characteristics.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Monolith or Distributed system.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Actor-Actions.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Workflow Approach.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Event storming.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Entity Trap.md",
+    "Tech/Operating Systems/Architecture/Memory/Stack.md",
     "Tech/Operating Systems/Architecture/Memory/Caching/Caching.md",
     "Tech/Operating Systems/Architecture/Memory/Caching/Cache Eviction.md",
     "Tech/Operating Systems/Architecture/Memory/Heap.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Fundamentals of Software Architecture - An Engineering Approach.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Event storming.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Actor-Actions.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Component.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Entity Trap.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Dynamic Connascence.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
@@ -189,15 +197,7 @@
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
     "Tech/Network/Protocols/Important/HTTP/HTTP only cookies.md",
     "Tech/Network/Protocols/Important/HTTP/HTTP.md",
-    "Tech/Programming/Programming Languages/Python/Libraries/HttpServer/http.server.md",
     "Tech/Programming/Programming Languages/Python/Libraries/HttpServer",
-    "Tech/Network/Protocols/Important/HTTP/Methods/HEAD.md",
-    "Tech/Network/Protocols/Important/HTTP/HTTP Client.md",
-    "Tech/Network/Protocols/Important/HTTP/Methods/PUT.md",
-    "Tech/Network/Protocols/Important/HTTP/Methods/POST.md",
-    "Tech/Network/Protocols/Important/HTTP/Methods/PATCH.md",
-    "Tech/Network/Protocols/Important/HTTP/Methods/GET.md",
-    "Tech/Network/Protocols/P2P.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning",
     "Tech/DataScience/Machine Learning/LLMs",
     "Tech/DataScience/Machine Learning/Training/Learning Algorithm",

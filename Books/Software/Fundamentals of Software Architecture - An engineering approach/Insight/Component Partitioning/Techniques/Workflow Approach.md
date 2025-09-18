@@ -1,0 +1,1 @@
+Similar to [[Event storming]] in a sense that you identify the key roles and the kinds of workflows these roles engage in, but not necessarily built for a message based system.
