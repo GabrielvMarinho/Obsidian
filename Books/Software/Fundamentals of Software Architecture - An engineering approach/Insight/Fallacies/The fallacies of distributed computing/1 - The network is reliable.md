@@ -1,0 +1,2 @@
+As a developer its common to assume that the network is reliable, but in fact it's not.
+In a distributed system, its common to have to set things like timeouts and circuit breakers, because the more a system relies on network, the less reliable it is.

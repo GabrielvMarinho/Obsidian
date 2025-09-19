@@ -1,0 +1,1 @@
+There isnt only one network administrator to communicate, so there might be different people to contact  for latency and topology for example.

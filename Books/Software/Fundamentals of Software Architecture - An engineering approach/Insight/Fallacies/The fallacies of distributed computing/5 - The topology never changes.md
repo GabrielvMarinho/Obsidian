@@ -1,0 +1,1 @@
+This includes routers, switches, hubs, firewalls, etc. Systems generally assume that the topology doesnt change, but it in fact does.

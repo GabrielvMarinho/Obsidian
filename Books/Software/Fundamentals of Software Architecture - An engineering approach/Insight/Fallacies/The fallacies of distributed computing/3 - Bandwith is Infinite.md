@@ -1,0 +1,2 @@
+The size of the data being passed is really important, small ammounts of data (talking about KB small) can be multiplied by different users and end up with a big number, which can be a problem,
+See the [[Stamp coupling]]

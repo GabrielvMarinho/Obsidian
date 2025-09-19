@@ -1,0 +1,1 @@
+Function calling (used in monoliths), are tipically calculated in microseconds, when network calling is generally calculated in milliseconds, which may not look like a big overhead at first, but if you sum a small amount of network latency from 10 services, it will show,

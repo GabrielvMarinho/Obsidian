@@ -1,0 +1,1 @@
+the surface area for attacks increase insanely when a monolith becomes a distributed system.

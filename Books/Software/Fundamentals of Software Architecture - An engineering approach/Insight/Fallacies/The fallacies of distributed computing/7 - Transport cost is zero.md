@@ -1,0 +1,1 @@
+Maintaining the infrastructure can be quite expensive, something that wouldnt happen with a monolith for example.
