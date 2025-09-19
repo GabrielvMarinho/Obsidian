@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Monolith or Distributed system.md",
+                "file": "Tech/Software/Architecture/Coupling/Coupling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monolith or Distributed system"
+              "title": "Coupling"
             }
           }
         ]
@@ -170,12 +170,16 @@
   },
   "active": "ea36709552bf9218",
   "lastOpenFiles": [
+    "Tech/Software/Architecture/Coupling/Types/Stamp coupling.md",
+    "Tech/Software/Architecture/Coupling/Coupling.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Monolith or Distributed system.md",
+    "Tech/Software/Architecture/Coupling/Types",
+    "Tech/Software/Architecture/Coupling",
     "Tech/Software/Architecture/Definition/To take into consideration.md",
     "Tech/Software/Architecture/Definition/The 4 parts/Structure.md",
     "Tech/Software/Architecture/Definition/The 4 parts/Design principles.md",
     "Tech/Software/Architecture/Definition/The 4 parts/Architecture decisions.md",
     "Tech/Software/Architecture/Definition/The 4 parts/Architecture characteristics.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Monolith or Distributed system.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Actor-Actions.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Workflow Approach.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques/Event storming.md",
@@ -195,8 +199,6 @@
     "Tech/Network/Protocols/Important/HTTP/HTTP Request Structure.md",
     "Tech/Network/Protocols/Important/HTTP/HTTP Response Structure.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
-    "Tech/Network/Protocols/Important/HTTP/HTTP only cookies.md",
-    "Tech/Network/Protocols/Important/HTTP/HTTP.md",
     "Tech/Programming/Programming Languages/Python/Libraries/HttpServer",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning",
     "Tech/DataScience/Machine Learning/LLMs",
@@ -204,8 +206,6 @@
     "Tech/DataScience/Machine Learning/Training/Problems",
     "Tech/Programming/Programming Tools/Frameworks/FastApi/Internals",
     "Tech/Software/API",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics",
     "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png"
   ]
 }

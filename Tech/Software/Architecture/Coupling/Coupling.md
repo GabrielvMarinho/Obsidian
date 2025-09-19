@@ -1,0 +1,1 @@
+A software characteristic that refers to the interdependence level of the connection between differente modules.
