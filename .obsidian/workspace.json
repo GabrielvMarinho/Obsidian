@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Architecture/Styles/Layered Architecture/Layered Architecture.md",
+                "file": "Tech/Network/Protocols/Transport layer/TCP/Three way handshake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layered Architecture"
+              "title": "Three way handshake"
             }
           }
         ]
@@ -170,6 +170,12 @@
   },
   "active": "ea36709552bf9218",
   "lastOpenFiles": [
+    "Tech/Network/Protocols/Transport layer/TCP/TCP.md",
+    "Tech/Network/Protocols/Transport layer/TCP/Three way handshake.md",
+    "Tech/Network/OSI Model/OSI Model.md",
+    "Tech/Software/Architecture/Styles/Layered Architecture/Open vs Closed layer.md",
+    "Tech/Network/Protocols/Transport layer",
+    "Tech/Software/Architecture/Styles/Layered Architecture/Layered Architecture.md",
     "Tech/Software/Architecture/Definition/The 4 parts/Structure.md",
     "Tech/Software/Architecture/Definition/The 4 parts/Architecture characteristics.md",
     "Tech/Software/Architecture/Styles/Design Patterns.md",
@@ -192,20 +198,14 @@
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Fallacies/The fallacies of distributed computing/Untitled",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Fallacies/The fallacies of distributed computing/4 - The network is secure.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Fallacies/The fallacies of distributed computing/3 - Bandwith is Infinite.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Fallacies/The fallacies of distributed computing/2 - Latency is zero.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Fallacies/The fallacies of distributed computing/1 - The network is reliable.md",
-    "Tech/Software/Architecture/Coupling/Types/Stamp coupling.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Fallacies/The fallacies of distributed computing",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Fallacies",
-    "Tech/Software/Architecture/Coupling/Coupling.md",
     "Tech/Software/Architecture/Coupling/Types",
     "Tech/Software/Architecture/Coupling",
-    "Tech/Software/Architecture/Definition/To take into consideration.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning/Techniques",
     "Tech/Programming/Programming Languages/Python/Libraries/HttpServer",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Component Partitioning",
     "Tech/DataScience/Machine Learning/LLMs",
-    "Tech/DataScience/Machine Learning/Training/Learning Algorithm",
     "{0D4E2087-169F-41EE-9A5D-1068E9625276}.png"
   ]
 }

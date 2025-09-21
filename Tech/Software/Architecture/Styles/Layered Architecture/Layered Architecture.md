@@ -9,4 +9,4 @@ most commonly its will be divided in:
 3. Persistence layer
 4. Database layer
 
-Layered architecture doesn't integrate well with [[Domain Driven Development]] because all the domain features are spread between layers, making it difficult to implement/alter existing domain features
+Layered architecture doesn't integrate well with [[Domain Driven Development]] because all the domain features are spread between layers, making it difficult to implement/alter existing domain features;ç

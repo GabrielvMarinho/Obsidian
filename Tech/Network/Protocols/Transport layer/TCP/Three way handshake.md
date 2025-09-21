@@ -1,7 +1,8 @@
 a process to start a [[TCP]] connection
 
 1 SYN
-the client sends a syn packet to the server (asking to start a connection) 
+Sends a randomly choosen sequence number know as the SYN.
+Initiates the counting of bytes.
 2 SYN ACK
 the server responds with a SYN ACK packet (sends the sequence number of the server)
 ACK 
