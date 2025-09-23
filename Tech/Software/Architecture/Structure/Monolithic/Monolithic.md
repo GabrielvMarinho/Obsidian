@@ -1,0 +1,1 @@
+A [[Software Architecture]] structure where all the modules related to the application are in the same node

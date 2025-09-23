@@ -1,1 +1,1 @@
-[[Manifest]] to store non confidential data in yaml files that can later be accessed as env variables, its processed during runtime (when its actually called, it may not be).
+[[Manifest]] to store non confidential data in yaml files that can later be accessed as env variables by the pods, its processed during runtime (when its actually called, it may not be).

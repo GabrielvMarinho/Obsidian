@@ -1,0 +1,1 @@
+A [[Software Architecture]] style.
