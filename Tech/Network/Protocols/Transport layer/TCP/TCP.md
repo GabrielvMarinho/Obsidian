@@ -1,2 +1,2 @@
 Transmission control protocol.
-a [[Transport Level]] protocol used by the internet.
+a [[Transport Level]] connection based protocol used by the internet.

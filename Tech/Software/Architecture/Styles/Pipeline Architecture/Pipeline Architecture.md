@@ -17,14 +17,14 @@ ETL and EDI
 | --------------------------- | ----------- |
 | Partitioning type           | Technical   |
 | Number of quanta            | 1           |
-| Deployability               | ⭐⭐         |
+| Deployability               | ⭐⭐          |
 | Elasticity                  | ⭐           |
-| Evolutionary                | ⭐⭐⭐        |
+| Evolutionary                | ⭐⭐⭐         |
 | Fault tolerance             | ⭐           |
-| Modularity                  | ⭐⭐⭐        |
-| Overall cost                | ⭐⭐⭐⭐⭐      |
-| Performance                 | ⭐⭐         |
-| Reliability                 | ⭐⭐⭐        |
+| Modularity                  | ⭐⭐⭐         |
+| Overall cost                | ⭐⭐⭐⭐⭐       |
+| Performance                 | ⭐⭐          |
+| Reliability                 | ⭐⭐⭐         |
 | Scalability                 | ⭐           |
-| Simplicity                  | ⭐⭐⭐⭐⭐      |
-| Testability                 | ⭐⭐⭐        |
+| Simplicity                  | ⭐⭐⭐⭐⭐       |
+| Testability                 | ⭐⭐⭐         |
