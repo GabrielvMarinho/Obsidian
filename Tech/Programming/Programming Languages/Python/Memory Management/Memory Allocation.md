@@ -1,5 +1,4 @@
 Everything in python is an object, even ints.
-Everything in python is stored in the heap.
 
 ints, floats, str are all immutable examples of objects in python, whenever you change a value python creates a new object.
 

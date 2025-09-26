@@ -5,6 +5,8 @@ a [[Software]] architecture that manages the execution of code
 The event loop is responsible for waiting and dispatching events or messages in a program.
 We can say:
 
+The event loop itself, runs on a single thread
+
 Walkthrough:
 
 - A program schedules a **task** with an asynchronous API or event source.

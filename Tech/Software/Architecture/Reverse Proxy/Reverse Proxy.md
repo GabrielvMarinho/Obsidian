@@ -4,7 +4,7 @@ Can be network specific or more general (internal processes within a node)
 
 General: A proxy can be the communication between different languages, machines and processes.
 
-On a network context: acts on behalf of the client to handle network requests.
+On a network context: acts on behalf of the server to handle network requests.
 
 
 
