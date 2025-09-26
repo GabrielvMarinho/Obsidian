@@ -1,4 +1,3 @@
-
 A - Application
 P - Programming
 I - Interface
