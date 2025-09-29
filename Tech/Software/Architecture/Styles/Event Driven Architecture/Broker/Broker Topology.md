@@ -1,4 +1,4 @@
-An [[Event Driven Aarchitecture]] topology
+An [[Event Driven Architecture]] topology
 
 No central event mediator, broadcasting fashion
 

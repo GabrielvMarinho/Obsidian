@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Python/Memory Management/Garbage Collection/References/Weak reference.md",
+                "file": "Tech/Software/Architecture/Styles/Event Driven Architecture/Event Driven Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weak reference"
+              "title": "Event Driven Architecture"
             }
           }
         ]
@@ -168,10 +168,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "af72ad47ef47b9a3",
+  "active": "ef1f9d89e203a500",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Languages/Python/Memory Management/Garbage Collection/References/References.md",
+    "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/Mediator Topology.md",
+    "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/Broker Topology.md",
+    "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/{CB077131-7785-4373-90F6-3B899B25FDDD}.png",
     "Tech/Programming/Programming Languages/Python/Memory Management/Garbage Collection/References/Weak reference.md",
+    "Tech/Programming/Programming Languages/Python/Memory Management/Garbage Collection/References/References.md",
     "Tech/Programming/Programming Languages/Python/Memory Management/Garbage Collection/References",
     "Tech/Operating Systems/Architecture/Memory/Garbage Collector/Garbage Collector.md",
     "Tech/Programming/Programming Languages/Python/Memory Management/Garbage Collection",
@@ -184,9 +187,7 @@
     "Tech/Programming/Programming Languages/Python/Python Internal/Bound method.md",
     "Tech/Software/Processes/Compilation/JIT.md",
     "Tech/Programming/Programming Languages/Ecmascript/V8.md",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/Mediator Topology.md",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/Broker Topology.md",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Event Driven Aarchitecture.md",
+    "Tech/Software/Architecture/Styles/Event Driven Architecture/Event Driven Architecture.md",
     "Tech/Software/Architecture/Styles/Layered Architecture/Layered Architecture.md",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
     "Tech/Software/Architecture/Styles/Layered Architecture/Open vs Closed layer.md",
@@ -205,7 +206,6 @@
     "Tech/Software/Architecture/Reverse Proxy",
     "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/Uvicorn.md",
     "Tech/Programming/Programming Languages/Python/Server Gateway Interface/ASGI/Examples/Starlette",
-    "Tech/Software/API/GraphQL/GraphQL.md",
     "Tech/Software/API/GraphQL",
     "Tech/Software/Architecture/Styles/Micro Kernel/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
     "Tech/Software/Architecture/Styles/Service Based Architecure/{F4039BD9-28A8-4607-9ECA-9DDFA8958054}.png",
@@ -214,7 +214,6 @@
     "Pasted image 20250923222927.png",
     "{0400A790-293C-4CF8-B697-AD94BBD54D64}.png",
     "{F12931AD-1508-415C-A37E-619F777BC762}.png",
-    "Pasted image 20250922224437.png",
-    "Pasted image 20250922221033.png"
+    "Pasted image 20250922224437.png"
   ]
 }
