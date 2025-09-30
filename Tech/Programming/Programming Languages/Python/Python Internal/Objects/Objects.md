@@ -1,0 +1,1 @@
+Everythin in [[Python]] is an object

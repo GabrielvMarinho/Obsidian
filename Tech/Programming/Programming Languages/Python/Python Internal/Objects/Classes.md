@@ -1,0 +1,1 @@
+Even classes in [[Python]] are [[Objects]]

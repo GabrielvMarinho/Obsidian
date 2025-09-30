@@ -1,0 +1,1 @@
+Used to initialize the attributes to a [[Python]] object after its created by [[__new__]]
