@@ -1,0 +1,1 @@
+Stores [[Python]] [[Bytecode]] with a .pyc extension 

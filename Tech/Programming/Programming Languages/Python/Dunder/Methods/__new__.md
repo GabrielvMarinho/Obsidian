@@ -1,1 +1,1 @@
-creates the [[Python]] object
+creates the [[Python]] object instance
