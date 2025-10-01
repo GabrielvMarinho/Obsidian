@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Python/Python Interpreter/CPython Compiler.md",
+                "file": "Tech/Software/Tools/Docker/Docker compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPython Compiler"
+              "title": "Docker compose"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "venv",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +170,11 @@
   },
   "active": "af72ad47ef47b9a3",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Languages/Python/Python Interpreter/Python Bytecode File.md",
+    "Tech/Software/Tools/Docker/Docker Commands.md",
+    "Tech/Software/Tools/Docker/Dockerfile.md",
+    "Tech/Software/Tools/Docker/concepts/Base Image (docker).md",
     "Tech/Programming/Programming Languages/Python/Python Interpreter/CPython Compiler.md",
+    "Tech/Programming/Programming Languages/Python/Python Interpreter/Python Bytecode File.md",
     "Tech/Programming/Programming Languages/Python/Python Interpreter/PVM.md",
     "Tech/Programming/Programming Languages/Python/Python Interpreter/CPython.md",
     "Tech/Software/Processes/Compilation/Compiled languages/Compiler.md",
@@ -196,9 +199,6 @@
     "Tech/Programming/Programming Languages/Python/Python Internal/Objects",
     "Tech/Programming/Programming Languages/Python/Python Internal/Generator.md",
     "Tech/Programming/Programming Languages/Python/Python Internal/Iterator.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Bound method.md",
-    "Tech/Programming/Programming Languages/Python/Python Importing.md",
-    "Tech/Programming/Programming Languages/Python/Dunder/Dunder.md",
     "Tech/Programming/Programming Languages/Python/Dunder",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/{CB077131-7785-4373-90F6-3B899B25FDDD}.png",
     "Tech/Programming/Programming Languages/Python/Memory Management/Garbage Collection/References",

@@ -2,8 +2,12 @@ A [[Docker]] tool used to run and manage multiple **[[Docker Container|Docker co
 
 ## Example
 
-```dockerfile
-asdasd a ds
+```yaml
+services:
+  database:
+    image: mysql
+	ports: 
+	  - "3306:3306"
 ```
 
 ## **Volumes** 
