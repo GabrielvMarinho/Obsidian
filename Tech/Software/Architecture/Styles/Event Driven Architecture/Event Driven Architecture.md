@@ -7,3 +7,21 @@ Relies on asynchronous communication.
 
 [[Broker Topology]]
 [[Mediator Topology]]
+
+## Ratings:
+
+| Architecture characteristic | Star rating |
+| --------------------------- | ----------- |
+| Partitioning type           | Technical   |
+| Number of quanta            | 1 to many   |
+| Deployability               | ⭐⭐⭐         |
+| Elasticity                  | ⭐⭐⭐         |
+| Evolutionary                | ⭐⭐⭐⭐⭐       |
+| Fault tolerance             | ⭐⭐⭐⭐⭐       |
+| Modularity                  | ⭐⭐⭐         |
+| Overall cost                | ⭐⭐⭐         |
+| Performance                 | ⭐⭐⭐⭐⭐       |
+| Reliability                 | ⭐⭐⭐         |
+| Scalability                 | ⭐⭐⭐⭐⭐       |
+| Simplicity                  | ⭐           |
+| Testability                 | ⭐⭐          |
