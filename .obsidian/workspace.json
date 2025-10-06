@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "909ad37bb60e7f0d",
+        "id": "7a8b8f281e52f5f7",
         "type": "tabs",
         "children": [
           {
-            "id": "af72ad47ef47b9a3",
+            "id": "259564bec18cb9db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Architecture/Styles/Event Driven Architecture/Event Driven Architecture.md",
+                "file": "Tech/Software/API/API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Event Driven Architecture"
+              "title": "API"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mqtt",
+                "query": "api",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,11 +169,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "af72ad47ef47b9a3",
+  "active": "259564bec18cb9db",
   "lastOpenFiles": [
+    "Tech/Operating Systems/Architecture/Memory/Stack.md",
+    "Tech/Operating Systems/Architecture/Memory/Pointer.md",
+    "Tech/Operating Systems/Architecture/Memory/Heap.md",
+    "Tech/Software/Arquitecture/Memory/Stack.md",
+    "Tech/Software/Arquitecture/Memory",
+    "Tech/Software/Arquitecture",
+    "Tech/Programming/Programming Languages/Python/Memory Management/Stack and Heap.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Bound method.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Objects.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Python Object Model.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/MetaClasses.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Classes.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Copies/Shallow copies.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Copies/Deep copies.md",
+    "Tech/Programming/Programming Languages/Python/Dunder/Methods/__call__.md",
+    "Tech/Software/Architecture/Styles/Event Driven Architecture/Event Driven Architecture.md",
     "Tech/Software/Architecture/Styles/Pipeline Architecture/Pipeline Architecture.md",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/Mediator Topology.md",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Event Driven Architecture.md",
     "Tech/Network/Protocols/Application layer/MQTT/MQTT.md",
     "Tech/Network/Protocols/Transport layer/TCP/TCP.md",
     "Tech/Network/models/TCP-IP model/TCP-IP model.md",
@@ -185,19 +201,6 @@
     "Tech/Programming/Programming Languages/Python/Libraries/Threads/multiprocessing/multiprocessing.md",
     "Tech/Programming/Programming Languages/Python/Python Internal/Decorators.md",
     "Tech/Programming/Programming Languages/Python/Dunder/Methods/__new__.md",
-    "Tech/Programming/Programming Languages/Python/Dunder/Methods/__init__.md",
-    "Tech/Programming/Programming Languages/Python/Dunder/Dunder.md",
-    "Tech/Network/Protocols/Important/TLS/TLS.md",
-    "Tech/Network/Protocols/Important/HTTP/CORS.md",
-    "Tech/Programming/Programming Languages/Python/Python Interpreter/CPython Compiler.md",
-    "Tech/Programming/Programming Languages/Python/Python Interpreter/Python Bytecode File.md",
-    "Tech/Programming/Programming Languages/Python/Python Interpreter/PVM.md",
-    "Tech/Programming/Programming Languages/Python/Python Interpreter/CPython.md",
-    "Tech/Software/Processes/Compilation/Compiled languages/Compiler.md",
-    "Tech/Software/Processes/Compilation/Interpreted languages/Interpreter.md",
-    "Tech/Software/Processes/Compilation/Ahead of time.md",
-    "Tech/Software/Processes/Compilation/JIT.md",
-    "Tech/Software/Processes/Compilation/Machine Code.md",
     "Tech/Programming/Programming Languages/Python/Python Internal/venv",
     "Tech/Programming/Programming Languages/Python/Dunder/Methods",
     "Tech/Programming/Programming Languages/Python/Python Internal/Objects",
@@ -205,8 +208,6 @@
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/{CB077131-7785-4373-90F6-3B899B25FDDD}.png",
     "Tech/Programming/Programming Languages/Python/Memory Management/Garbage Collection/References",
     "Tech/Programming/Programming Languages/Python/Memory Management/Garbage Collection",
-    "Tech/Programming/Programming Languages/Python/Memory Management",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Copies",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
     "Tech/Software/Architecture/Styles/Micro Kernel/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
     "Tech/Software/Architecture/Styles/Service Based Architecure/{F4039BD9-28A8-4607-9ECA-9DDFA8958054}.png",
