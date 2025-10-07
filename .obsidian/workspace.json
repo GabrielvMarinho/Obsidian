@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/API/API.md",
+                "file": "Tech/Programming/Programming Languages/Python/Server Gateway Interface/Server Gateway Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API"
+              "title": "Server Gateway Interface"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,13 +170,18 @@
   },
   "active": "259564bec18cb9db",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Languages/Python/Memory Management/Stack and Heap.md",
+    "Tech/Programming/Programming Languages/Python/Memory Management/Memory Allocation.md",
+    "Tech/Programming/Programming Languages/Python/Data type classes mutability.md",
+    "Tech/Software/Architecture/Styles/Pipeline Architecture/Pipeline Architecture.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Iterator.md",
+    "Tech/Software/API/API.md",
     "Tech/Operating Systems/Architecture/Memory/Stack.md",
     "Tech/Operating Systems/Architecture/Memory/Pointer.md",
     "Tech/Operating Systems/Architecture/Memory/Heap.md",
     "Tech/Software/Arquitecture/Memory/Stack.md",
     "Tech/Software/Arquitecture/Memory",
     "Tech/Software/Arquitecture",
-    "Tech/Programming/Programming Languages/Python/Memory Management/Stack and Heap.md",
     "Tech/Programming/Programming Languages/Python/Python Internal/Bound method.md",
     "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Objects.md",
     "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Python Object Model.md",
@@ -187,7 +191,6 @@
     "Tech/Programming/Programming Languages/Python/Python Internal/Copies/Deep copies.md",
     "Tech/Programming/Programming Languages/Python/Dunder/Methods/__call__.md",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Event Driven Architecture.md",
-    "Tech/Software/Architecture/Styles/Pipeline Architecture/Pipeline Architecture.md",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/Mediator Topology.md",
     "Tech/Network/Protocols/Application layer/MQTT/MQTT.md",
     "Tech/Network/Protocols/Transport layer/TCP/TCP.md",
@@ -197,10 +200,6 @@
     "Tech/Network/models/OSI Model/OSI Model.md",
     "Tech/Network/Protocols/Important/HTTP/HTTP.md",
     "Tech/Programming/Programming Languages/Python/Libraries/Threads/threading/threading.md",
-    "Tech/Programming/Programming Languages/Python/Libraries/Threads/subprocess/subprocess.md",
-    "Tech/Programming/Programming Languages/Python/Libraries/Threads/multiprocessing/multiprocessing.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Decorators.md",
-    "Tech/Programming/Programming Languages/Python/Dunder/Methods/__new__.md",
     "Tech/Programming/Programming Languages/Python/Python Internal/venv",
     "Tech/Programming/Programming Languages/Python/Dunder/Methods",
     "Tech/Programming/Programming Languages/Python/Python Internal/Objects",

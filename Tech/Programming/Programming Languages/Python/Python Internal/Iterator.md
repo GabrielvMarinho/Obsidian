@@ -1,5 +1,4 @@
-A [[Python]] object that can be iterated, implements [[__iter__()]] and [[__next__()]]
-
+A [[Python]] object that can be iterated, implements [[__iter__]]
 
 Example of iterator:
 ```python
