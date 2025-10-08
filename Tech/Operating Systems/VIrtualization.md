@@ -1,0 +1,1 @@
+the process of taking physical resources like memory, a disk, processor and transforming into a virtual form of itself.
