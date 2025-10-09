@@ -1,4 +1,4 @@
-The first Packet in the [[Three way handshake]]]
+The first Packet in the [[Three way handshake]]
 
 The client sends:
 

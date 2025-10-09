@@ -58,3 +58,5 @@ b.broadcast()
 ```
 
 all those changes were made because the bound method would be orphaned if we just changed it to a weakset in the broadcaster, making it be garbage collected (now the callback is being saved by the `def cb(msg)` line)
+
+Weak ref can be created mostly only for custom classes.

@@ -1,9 +1,8 @@
 Every [[API]] is technically a protocol, but not every protocol is at network level.
 
-TCP is a network level protocol.
-HTTP built on top of tcp, and is also a network protocol.
-Your application is also a protocol, build on top of HTTP, but not a network protocol, rather an application level protocol.
-
+TCP is a transport level protocol.
+HTTP built on top of tcp, and is an application level protocol.
+Your application is also a protocol, build on top of HTTP, creating a "new layer"
 
 
 

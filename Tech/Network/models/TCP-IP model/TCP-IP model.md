@@ -13,13 +13,13 @@ Visual representation:
 
 
 ## Application
-End user layer
+End user layer, defines how data has be sent
 Examples: HTTP
 ## Transport
-Raw Data sending
+Stablish connection, redirects to correct process in the host
 Examples: TCP
 ## Internet
-Responsible for discovering paths in the network
+Responsible for discovering paths in the network and packet sending from host to host
 Examples: IP 
 ## Network Access
 Deals with the physical connection between devices
