@@ -31,3 +31,5 @@ Output:
 13
 ```
 
+Only a python implemented function can be a generator, c built in functions cant.
+
