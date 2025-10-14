@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Software/Processes/Runtime/Multitasking/Process/Process API.md",
+                "file": "Tech/Programming/Programming Languages/Python/PyPI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Process API"
+              "title": "PyPI"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "44991527e7cf08ce",
@@ -170,8 +171,17 @@
   },
   "active": "259564bec18cb9db",
   "lastOpenFiles": [
-    "Tech/Software/Processes/Runtime/Multitasking/Process/Process.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/List.md",
+    "Tech/Programming/Programming Languages/Python/PyPI.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Lambda functions.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Iterator.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Generator.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Classes.md",
+    "Tech/Programming/Programming Languages/Python/Modules/Threads/multiprocessing/multiprocessing.md",
+    "Tech/Programming/Programming Languages/Python/Python Interpreter/GIL.md",
+    "Tech/Programming/Programming Languages/Python/Modules/Threads/threading/threading.md",
     "Tech/Software/Processes/Runtime/Multitasking/Process/Process API.md",
+    "Tech/Software/Processes/Runtime/Multitasking/Process/Process.md",
     "Tech/Software/Processes/Runtime/Multitasking/Process/Process Control Block.md",
     "Tech/Software/Processes/Runtime/Multitasking/Process/Process Status.md",
     "Tech/Operating Systems/Architecture/CPU/CPU.md",
@@ -190,23 +200,14 @@
     "Books/Software/Clean Code/Examples/ThreadingIssue.md",
     "Tech/Software/Processes/Runtime/Multitasking/Concurrency.md",
     "Tech/Programming/Programming Languages/Python/Python Internal/-m flag.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Threads/threading/threading.md",
     "Tech/Programming/Programming Languages/Python/Modules/Threads/subprocess/subprocess.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Threads/multiprocessing/multiprocessing.md",
     "Tech/Programming/Programming Languages/Python/Modules/Standart Library/tempfile/tempfile.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Standart Library/subprocess/subprocess (Python).md",
-    "Tech/Programming/Programming Languages/Python/Modules/Standart Library/multiprocess/multiprocessing (Python).md",
-    "Tech/Programming/Programming Languages/Python/Modules/venv/venv.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Yfinance/Yfinance.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Yfinance/Random Wallets VS IBOV Python.md",
     "Tech/Programming/Programming Languages/Python/Modules/Threads/threading",
     "Tech/Programming/Programming Languages/Python/Modules/Threads/subprocess",
     "Tech/Programming/Programming Languages/Python/Modules/Threads/multiprocessing",
     "Tech/Programming/Programming Languages/Python/Modules/Standart Library/tempfile",
     "Tech/Programming/Programming Languages/Python/Modules/Standart Library/subprocess",
     "Tech/Programming/Programming Languages/Python/Modules/Standart Library/multiprocess",
-    "Tech/Programming/Programming Languages/Python/Modules/Seaborn/Seaborn.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Pyinstaller/Pyinstaller.md",
     "Tech/Programming/Programming Languages/Python/Modules/venv",
     "Tech/Programming/Programming Languages/Python/Modules/Yfinance",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/{CB077131-7785-4373-90F6-3B899B25FDDD}.png",

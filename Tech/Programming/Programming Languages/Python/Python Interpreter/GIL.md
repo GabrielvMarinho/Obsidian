@@ -1,5 +1,7 @@
 Global Interpreter Lock, a mechanism used by [[CPython]] interpreter to assure only one thread in a process executes [[Python]] [[Bytecode]] at a time (some python implementations use it, while others do not).
 
+The gil exist because python is not thread safe.
+
 In some python libraries that are written in C or C++, the GIL might already be unlocked. 
 
 ## Should it be unlocked?
