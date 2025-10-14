@@ -1,0 +1,1 @@
+the status of the [[Process]] will show wether its running, waiting, blocked, finished, etc.
