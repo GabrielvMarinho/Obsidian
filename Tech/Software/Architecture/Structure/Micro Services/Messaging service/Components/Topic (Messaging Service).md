@@ -1,1 +1,0 @@
-Stores the messages, redirects and receives the requests from the producers and the consumer.

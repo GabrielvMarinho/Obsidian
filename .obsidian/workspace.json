@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Python/PyPI.md",
+                "file": "Tech/Software/Architecture/Styles/Microservices/Microservices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PyPI"
+              "title": "Microservices"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cpu",
+                "query": "microser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "44991527e7cf08ce",
@@ -171,51 +170,50 @@
   },
   "active": "259564bec18cb9db",
   "lastOpenFiles": [
+    "Tech/Software/Architecture/Styles/Microservices/Pasted image 20251014230727.png",
+    "Tech/Software/Architecture/Styles/Microservices/Microservices.md",
+    "Tech/Software/Architecture/Styles/Micro Kernel/Micro Kernel.md",
+    "Tech/Software/Architecture/Structure/Micro Services/Messaging service/Components/Topic (Messaging Service).md",
+    "Tech/Software/Architecture/Structure/Micro Services/Messaging service/Components/Producer (Messaging Service).md",
+    "Tech/Software/Architecture/Structure/Micro Services/Messaging service/Components/Partitions (Messaging Service).md",
+    "Tech/Software/Architecture/Structure/Micro Services/Messaging service/Components/Messages (Messaging Service).md",
+    "Tech/Software/Architecture/Structure/Micro Services/Messaging service/Components/Consumer (Messaging Service).md",
+    "Tech/Software/Architecture/Structure/Micro Services/Messaging service/Components/Cluster (Messaging Service).md",
+    "Tech/Software/Architecture/Structure/Micro Services/Messaging service/Components/Broker (Messaging Service).md",
+    "Tech/Software/Architecture/Structure/Micro Services/Micro Services.md",
+    "Tech/Software/Architecture/Structure/Micro Services/Web Pages and Micro services.md",
+    "Tech/Software/Architecture/Structure/Micro Services/Ports.md",
+    "Tech/Software/Architecture/Styles/Service Based Architecure/Service Based Architecture.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/First law of software architecture.md",
+    "Tech/Software/Architecture/Styles/Microservices",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Fundamentals of Software Architecture - An Engineering Approach.md",
+    "Tech/Operating Systems/Posix.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Walrus operator.md",
+    "Tech/Operating Systems/examples/Unix/Unix.md",
+    "Tech/Software/Processes/Runtime/Multitasking/Process/Process API.md",
+    "Tech/Operating Systems/examples/Unix",
     "Tech/Programming/Programming Languages/Python/Python Internal/Objects/List.md",
     "Tech/Programming/Programming Languages/Python/PyPI.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Lambda functions.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Iterator.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Generator.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Classes.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Threads/multiprocessing/multiprocessing.md",
-    "Tech/Programming/Programming Languages/Python/Python Interpreter/GIL.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Threads/threading/threading.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Process/Process API.md",
     "Tech/Software/Processes/Runtime/Multitasking/Process/Process.md",
     "Tech/Software/Processes/Runtime/Multitasking/Process/Process Control Block.md",
     "Tech/Software/Processes/Runtime/Multitasking/Process/Process Status.md",
-    "Tech/Operating Systems/Architecture/CPU/CPU.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Process/Initializing a process.md",
-    "Tech/Operating Systems/VIrtualization.md",
-    "Tech/Operating Systems/Operating System.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Thread/Atomic instruction.md",
     "Tech/Software/Architecture/Styles/Micro Kernel/Pasted image 20250923222927.png",
-    "Tech/Network/Protocols/Transport layer/UDP/UDP.md",
-    "Tech/Network/Protocols/Transport layer/UDP/UDP Messages.md",
     "Tech/Network/Protocols/Transport layer/UDP",
     "Tech/Network/Protocols/Transport layer/TCP/Connection establishment/Pasted image 20250922224437.png",
-    "Tech/Network/Protocols/Protocol Level.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
     "main.py",
-    "Books/Software/Clean Code/Examples/ThreadingIssue.md",
-    "Tech/Software/Processes/Runtime/Multitasking/Concurrency.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/-m flag.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Threads/subprocess/subprocess.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Standart Library/tempfile/tempfile.md",
     "Tech/Programming/Programming Languages/Python/Modules/Threads/threading",
     "Tech/Programming/Programming Languages/Python/Modules/Threads/subprocess",
     "Tech/Programming/Programming Languages/Python/Modules/Threads/multiprocessing",
     "Tech/Programming/Programming Languages/Python/Modules/Standart Library/tempfile",
     "Tech/Programming/Programming Languages/Python/Modules/Standart Library/subprocess",
     "Tech/Programming/Programming Languages/Python/Modules/Standart Library/multiprocess",
-    "Tech/Programming/Programming Languages/Python/Modules/venv",
-    "Tech/Programming/Programming Languages/Python/Modules/Yfinance",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/{CB077131-7785-4373-90F6-3B899B25FDDD}.png",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
     "Tech/Software/Architecture/Styles/Micro Kernel/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
     "Tech/Software/Architecture/Styles/Service Based Architecure/{F4039BD9-28A8-4607-9ECA-9DDFA8958054}.png",
     "Tech/Software/Architecture/Styles/Pipeline Architecture/{0400A790-293C-4CF8-B697-AD94BBD54D64}.png",
-    "Tech/Software/Architecture/Styles/Layered Architecture/{F12931AD-1508-415C-A37E-619F777BC762}.png",
-    "Pasted image 20250923222927.png"
+    "Tech/Software/Architecture/Styles/Layered Architecture/{F12931AD-1508-415C-A37E-619F777BC762}.png"
   ]
 }

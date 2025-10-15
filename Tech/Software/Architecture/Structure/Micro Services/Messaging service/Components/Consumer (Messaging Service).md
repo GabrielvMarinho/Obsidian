@@ -1,1 +1,0 @@
-Consumes the messages in the topic.

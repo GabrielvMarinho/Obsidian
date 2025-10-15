@@ -1,1 +1,0 @@
-The content of the requests, they are stored in the topic.
