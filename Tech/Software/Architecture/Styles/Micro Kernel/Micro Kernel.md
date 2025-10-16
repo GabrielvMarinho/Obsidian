@@ -14,18 +14,18 @@ Very used in monolithic desktop apps where you have the main application (Core s
 Eclipse IDE
 ## Rating:
 
-| Architecture characteristic | Star rating           |
-| --------------------------- | --------------------- |
-| Partitioning type           | Domain and Technical  |
-| Number of quanta            | 1                     |
-| Deployability               | ⭐⭐⭐                   |
-| Elasticity                  | ⭐                     |
-| Evolutionary                | ⭐⭐⭐                   |
-| Fault tolerance             | ⭐                     |
-| Modularity                  | ⭐⭐⭐                   |
-| Overall cost                | ⭐⭐⭐⭐⭐                 |
-| Performance                 | ⭐⭐⭐                   |
-| Reliability                 | ⭐⭐⭐                   |
-| Scalability                 | ⭐                     |
-| Simplicity                  | ⭐⭐⭐⭐                  |
-| Testability                 | ⭐⭐⭐                   |
+| Architecture characteristic | Star rating          |
+| --------------------------- | -------------------- |
+| Partitioning type           | Domain and Technical |
+| Number of quanta            | 1                    |
+| Deployability               | ⭐⭐⭐                  |
+| Elasticity                  | ⭐                    |
+| Evolutionary                | ⭐⭐⭐                  |
+| Fault tolerance             | ⭐                    |
+| Modularity                  | ⭐⭐⭐                  |
+| Overall cost                | ⭐⭐⭐⭐⭐                |
+| Performance                 | ⭐⭐⭐                  |
+| Reliability                 | ⭐⭐⭐                  |
+| Scalability                 | ⭐                    |
+| Simplicity                  | ⭐⭐⭐⭐                 |
+| Testability                 | ⭐⭐⭐                  |
