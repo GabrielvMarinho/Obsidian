@@ -1,3 +1,5 @@
+[[Python]] [[Dunder]] method.
+makes an object callable.
 when you call an object() the compiler translates to obj.`__call__`()
 ```python
 class Testing():

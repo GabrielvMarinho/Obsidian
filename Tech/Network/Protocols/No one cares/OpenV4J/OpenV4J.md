@@ -1,1 +1,0 @@
-[[Protocol]] that communicates with Viessmann oil heaters.

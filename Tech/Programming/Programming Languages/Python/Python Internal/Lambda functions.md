@@ -1,4 +1,5 @@
 [[Lambda function]] in [[Python]] example:
+
 ```python
 a = 1
 b = 2

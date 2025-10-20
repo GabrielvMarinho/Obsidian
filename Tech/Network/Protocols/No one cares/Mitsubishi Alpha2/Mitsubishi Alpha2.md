@@ -1,1 +1,0 @@
-[[Protocol]] that communicates with Mitsubishi PLCs.

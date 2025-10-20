@@ -1,1 +1,0 @@
-Single-wire communication [[Protocol]], an alternative to I²C and SPI

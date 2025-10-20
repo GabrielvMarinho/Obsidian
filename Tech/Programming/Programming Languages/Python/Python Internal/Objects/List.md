@@ -1,4 +1,6 @@
-lists in [[Python]] over-allocate memory in order to make append functions run more efficiently:
+a [[Python]] obj type
+
+they over-allocate memory in order to make append functions run more efficiently:
 
 ```python
 >>> sys.getsizeof(tuple(range(10)))

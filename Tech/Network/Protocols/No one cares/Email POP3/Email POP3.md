@@ -1,1 +1,0 @@
-Receives emails via the POP3 [[Protocol]].

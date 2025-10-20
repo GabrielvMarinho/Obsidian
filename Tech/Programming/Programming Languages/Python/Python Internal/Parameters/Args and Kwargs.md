@@ -16,3 +16,6 @@ Output:
 ('hey', 'bye')
 {'greeting': 'hey', 'not_greeting': 'bye'}
 ```
+
+Args: a [[tuple]]
+kwargs: a [[dict]]

@@ -1,1 +1,0 @@
-[[Protocol]] that listens for data from GPS devices and sonars.

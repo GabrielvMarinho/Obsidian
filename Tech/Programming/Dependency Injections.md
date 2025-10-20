@@ -1,0 +1,1 @@
+Providing the objects that an object needs instead of having them contruct them itself

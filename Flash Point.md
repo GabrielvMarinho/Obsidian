@@ -1,1 +1,0 @@
-The lowest temperature at which a liquid emits sufficient vapors to form an ignitable mixture with air

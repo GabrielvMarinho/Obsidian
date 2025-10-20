@@ -1,1 +1,0 @@
-Smart grid communication [[Protocol]] (older than IEC 104).

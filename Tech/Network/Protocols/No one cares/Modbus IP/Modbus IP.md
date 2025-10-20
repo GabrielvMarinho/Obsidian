@@ -1,1 +1,0 @@
-Widely used industrial automation [[Protocol]].

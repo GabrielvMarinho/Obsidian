@@ -1,1 +1,0 @@
-Serial version of the DNP3 [[Protocol]] for smart grids.

@@ -1,1 +1,0 @@
-[[Protocol]] to downloads images from a specified URL.

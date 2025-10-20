@@ -1,1 +1,0 @@
-[[Protocol]] that retrieves data via HTTP, mainly for remote ScadaBR instances.

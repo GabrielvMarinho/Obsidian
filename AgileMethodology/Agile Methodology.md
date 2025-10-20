@@ -1,1 +1,2 @@
-Its a methodology that tries to be more agile. No shit. It's a set of patterns and concepts to be used in developing teams.
+A methodology to standardize [[Software]] development processes.
+It's iterative, meaning you iterate through the development processes and get continous feedback from the stakeholders.

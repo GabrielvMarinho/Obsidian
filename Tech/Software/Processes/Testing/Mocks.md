@@ -1,0 +1,1 @@
+An object that represents a seemingly compatible version of a real system, aiming for centralizing and having more control over the tests in a test suite, to make it both easier to run tests and more predictable behaviour. Of course, such pros come with the cons of having a deviating system when overmocking.

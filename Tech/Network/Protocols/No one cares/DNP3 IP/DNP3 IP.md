@@ -1,1 +1,0 @@
-Smart grid communication [[Protocol]].

@@ -1,1 +1,0 @@
-[[Protocol]] for remote management and control of Java applications.

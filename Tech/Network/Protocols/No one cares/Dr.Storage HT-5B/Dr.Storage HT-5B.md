@@ -1,1 +1,0 @@
-Communication [[Protocol]] with specific devices (dry storage cabinets).

@@ -1,1 +1,0 @@
-European [[Protocol]] for water, gas, and electricity metering.

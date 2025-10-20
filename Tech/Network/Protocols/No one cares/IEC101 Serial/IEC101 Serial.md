@@ -1,1 +1,0 @@
-Serial version of the IEC101 [[Protocol]].
