@@ -1,0 +1,1 @@
+A [[Low Level Programming language|Low level]] [[Compiler|Compiled]] [[Programming Language]]

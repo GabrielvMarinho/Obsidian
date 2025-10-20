@@ -1,1 +1,2 @@
-A [[Programming Language]] that can be easily understood by humans because of abstractions
+A [[Programming Language]] that has many layers of abstractions
+the more abstraction -> the highest

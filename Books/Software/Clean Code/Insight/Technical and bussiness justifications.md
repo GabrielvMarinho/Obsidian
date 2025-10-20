@@ -1,0 +1,1 @@
+every [[Software Architecture]] related decisions just have a both technical and bussiness domain justification, in the end, every technical improvement is only really a improvement if it has a bussiness gain

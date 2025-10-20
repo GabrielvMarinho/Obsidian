@@ -1,1 +1,2 @@
-A [[Programming Language]] that is not as easily understood by humans and generally doesnt have many abstractions
+A [[Programming Language]] that doesn't have many layers of abstractions
+the less abstraction -> the lowest
