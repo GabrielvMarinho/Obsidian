@@ -1,0 +1,1 @@
+When deciding things related to the software architecture or documenting it, prefer to state why and not how, as someone in the future might choose a new feature/implementation that might make sense with the how it was done, but not the why (bussiness rules)
