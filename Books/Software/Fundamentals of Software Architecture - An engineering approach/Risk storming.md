@@ -1,0 +1,1 @@
+A moment of collaboration to define existing risks in the system, trying to quantify them and mitigate it, architects and developers usually rate a service/module with points from how likely something bad is to happen and how much impact would this "bad thing" have.
