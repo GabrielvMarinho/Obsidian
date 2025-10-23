@@ -1,0 +1,1 @@
+a [[Tech/Programming/Programming Tools/Git/Concepts/HEAD]] no pointing to any [[Branch]]

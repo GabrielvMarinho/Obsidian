@@ -8,10 +8,10 @@ Important Concepts
 - [[Features]]
 
 Important Commands
-- [[Tech/Software/Processes/Versioning/Git/Commands/Merge/Merge]]
+- [[Tech/Programming/Programming Tools/Git/Commands/Merge/Merge]]
 - [[Branch]]
 - [[Rebase]]
-- [[Tech/Software/Processes/Versioning/Git/Commands/Commit]]
+- [[Tech/Programming/Programming Tools/Git/Commands/Commit]]
 - [[Pull]]
 - [[Clone]]
 - [[Push]]
