@@ -1,0 +1,1 @@
+a virtual (in memory) representation of the [[DOM]] in [[React]], makes the process of updating the ui more efficient.
