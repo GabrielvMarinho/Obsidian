@@ -1,0 +1,1 @@
+architecture quantum -> single deployable artifact
