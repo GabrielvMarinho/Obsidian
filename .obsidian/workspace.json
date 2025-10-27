@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/8 - Component-Based Thinking.md",
+                "file": "Tech/Programming/Programming Languages/Python/Modules/Wheel file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Component-Based Thinking"
+              "title": "Wheel file"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cpu api",
+                "query": "wheel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,8 +171,20 @@
   },
   "active": "259564bec18cb9db",
   "lastOpenFiles": [
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/7 - Scope of Architecture Characteristics.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Walrus operator.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Attributes/Naming conventions.md",
+    "Tech/Software/Processes/Compilation/Name mangling.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Attributes",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/12 - Microkernel Architecture.md",
+    "Tech/Software/Architecture/Styles/Micro Kernel/Micro Kernel.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/11 - Pipeline Architecture.md",
+    "Tech/Software/Architecture/Styles/Pipeline Architecture/Pipeline Architecture.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/10 - Layered Architecture Style.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/9 - Architecture Styles.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Fallacies/The fallacies of distributed computing/3 - Bandwith is Infinite.md",
+    "Tech/Software/Architecture/Coupling/Types/Stamp coupling.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/8 - Component-Based Thinking.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/7 - Scope of Architecture Characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Quanta.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/6 - Measuring and Governing Architecture Characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/5 - Identifying Architecture Characteristics.md",
@@ -187,25 +200,13 @@
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/2 - Architectural Thinking.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/1 - Introduction.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Four dimensions.md",
-    "Tech/Operating Systems/Architecture/CPU/API/Exec/exec.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix",
-    "Tech/Programming/Programming Tools/Libraries/React/Virtual DOM.md",
-    "Tech/Operating Systems/Architecture/CPU/API/Wait/wait.md",
-    "Books/Software/Operating systems - Three easy pieces/Cpu api/Exec Family.md",
-    "Books/Software/Operating systems - Three easy pieces/Cpu api/CPU api.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/coehsion/Cohesion.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Fundamentals of Software Architecture - An Engineering Approach.md",
-    "Tech/Operating Systems/Architecture/CPU/API/Wait/waitpid.md",
     "Tech/Operating Systems/Architecture/CPU/API/Exec",
     "Tech/Operating Systems/Architecture/CPU/API/Wait",
-    "Tech/Operating Systems/Architecture/CPU/Virtualizating the cpu.md",
     "Tech/Operating Systems/Architecture/CPU/API",
-    "Tech/Operating Systems/Architecture/CPU/CPU.md",
     "Tech/Programming/Programming Tools/Git/Commands/Merge/Types",
     "Tech/Programming/Programming Tools/Git/Commands/gc",
     "Tech/Programming/Programming Tools/Git/Commands/Merge",
-    "Tech/Programming/Programming Tools/Git/Architecture/Storing",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas",
     "Tech/Software/Architecture/Styles/Microservices/Pasted image 20251014230727.png",
     "Tech/Software/Architecture/Styles/Micro Kernel/Pasted image 20250923222927.png",

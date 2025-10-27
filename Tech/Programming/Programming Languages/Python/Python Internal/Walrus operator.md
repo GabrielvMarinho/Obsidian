@@ -14,4 +14,4 @@ while (line := file.readline()):
     process(line)
 ```
 
-the walrus operator can have performance benefits, on like database queries or something like this.
+the walrus operator can have performance benefits, on database queries or something like this.
