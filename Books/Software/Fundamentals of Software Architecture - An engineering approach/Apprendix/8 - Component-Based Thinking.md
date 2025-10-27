@@ -1,7 +1,7 @@
 1. We define the term component as a building block of an application—something
 the application does. A component usually consist of a group of classes or source
 files. How are components typically manifested within an application or service?
-- as classes
+- as subsystems or layers
 
 2. What is the difference between technical partitioning and domain partitioning?
 Provide an example of each.
@@ -13,11 +13,13 @@ Provide an example of each.
 
 4. Under what circumstances would technical partitioning be a better choice over
 domain partitioning?
-- when the lack of experience and need for fast/ standardized development exists
+- when the lack of experience and need for fast/standardized development exists
 
 5. What is the entity trap? Why is it not a good approach for component
 identification?
-- the entity trap is basically seeing the architecture as entities that makes actions, this oftern builds a generic architecture and provides no values other than what a crud would have
+- the entity trap is basically seeing the architecture as entities that makes actions and offer no insights, this often builds a generic architecture and provides no values other than what a crud would have
 
 6. When might you choose the workflow approach over the Actor/Actions
 approach when identifying core components?
+- when you have a clear or numerous separation of roles in a system
+- when you need upfront design
