@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Python/Modules/Wheel file.md",
+                "file": "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/17 - Microservices Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wheel file"
+              "title": "17 - Microservices Architecture"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wheel",
+                "query": "cpu api",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,19 +170,28 @@
   },
   "active": "259564bec18cb9db",
   "lastOpenFiles": [
-    "Tech/Programming/Programming Languages/Python/Python Internal/Walrus operator.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Attributes/Naming conventions.md",
-    "Tech/Software/Processes/Compilation/Name mangling.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Attributes",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/12 - Microkernel Architecture.md",
-    "Tech/Software/Architecture/Styles/Micro Kernel/Micro Kernel.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/11 - Pipeline Architecture.md",
-    "Tech/Software/Architecture/Styles/Pipeline Architecture/Pipeline Architecture.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/10 - Layered Architecture Style.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/9 - Architecture Styles.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Fallacies/The fallacies of distributed computing/3 - Bandwith is Infinite.md",
-    "Tech/Software/Architecture/Coupling/Types/Stamp coupling.md",
+    "Tech/Software/Architecture/Styles/Microservices/Microservices.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/17 - Microservices Architecture.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/16 - Orchestration-Driven Service-OrientedArchitecture.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/15 - Space-Based Architecture.md",
+    "Tech/Software/Architecture/Styles/Space Based Architecture/Space Based Architecture.md",
+    "Tech/Software/Architecture/Styles/Service Based Architecure/Service Based Architecture.md",
+    "Tech/Software/Architecture/Styles/Space Based Architecture/Pasted image 20251027212714.png",
+    "Tech/Software/Architecture/Styles/Space Based Architecture",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/14 - Event-Driven Architecture Style.md",
+    "Tech/Software/Architecture/Styles/Event Driven Architecture/Event Driven Architecture.md",
+    "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/Broker Topology.md",
+    "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
+    "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/Mediator Topology.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/13 - Service-Based Architecture.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/8 - Component-Based Thinking.md",
+    "Tech/Software/Processes/Compilation/Name mangling.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Attributes/Naming conventions.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Attributes",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/9 - Architecture Styles.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/12 - Microkernel Architecture.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/11 - Pipeline Architecture.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/10 - Layered Architecture Style.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/7 - Scope of Architecture Characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Quanta.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/6 - Measuring and Governing Architecture Characteristics.md",
@@ -194,29 +202,20 @@
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Cross-Cutting Architecture Characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics overlap.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/3 - Modularity.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Static Connascence.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Dynamic Connascence.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/Connascence.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/2 - Architectural Thinking.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/1 - Introduction.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix",
     "Tech/Operating Systems/Architecture/CPU/API/Exec",
     "Tech/Operating Systems/Architecture/CPU/API/Wait",
     "Tech/Operating Systems/Architecture/CPU/API",
     "Tech/Programming/Programming Tools/Git/Commands/Merge/Types",
     "Tech/Programming/Programming Tools/Git/Commands/gc",
-    "Tech/Programming/Programming Tools/Git/Commands/Merge",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas",
     "Tech/Software/Architecture/Styles/Microservices/Pasted image 20251014230727.png",
     "Tech/Software/Architecture/Styles/Micro Kernel/Pasted image 20250923222927.png",
     "Tech/Network/Protocols/Transport layer/TCP/Connection establishment/Pasted image 20250922224437.png",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/{CB077131-7785-4373-90F6-3B899B25FDDD}.png",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
     "Tech/Software/Architecture/Styles/Micro Kernel/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
     "Tech/Software/Architecture/Styles/Service Based Architecure/{F4039BD9-28A8-4607-9ECA-9DDFA8958054}.png",
-    "Tech/Software/Architecture/Styles/Pipeline Architecture/{0400A790-293C-4CF8-B697-AD94BBD54D64}.png",
-    "Tech/Software/Architecture/Styles/Layered Architecture/{F12931AD-1508-415C-A37E-619F777BC762}.png"
+    "Tech/Software/Architecture/Styles/Pipeline Architecture/{0400A790-293C-4CF8-B697-AD94BBD54D64}.png"
   ]
 }
