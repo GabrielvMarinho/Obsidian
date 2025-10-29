@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/17 - Microservices Architecture.md",
+                "file": "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/24 - Developing a Career Path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 - Microservices Architecture"
+              "title": "24 - Developing a Career Path"
             }
           }
         ]
@@ -170,8 +170,15 @@
   },
   "active": "259564bec18cb9db",
   "lastOpenFiles": [
-    "Tech/Software/Architecture/Styles/Microservices/Microservices.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/23 - Negotiation and Leadership Skills.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/24 - Developing a Career Path.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/22 - Making Teams Effective.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/21 - Diagramming and Presenting Architecture.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/20 - Analyzing Architecture Risk.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/19 - Architecture Decisions.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/18 - Choosing the Appropriate Architecture Style.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/17 - Microservices Architecture.md",
+    "Tech/Software/Architecture/Styles/Microservices/Microservices.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/16 - Orchestration-Driven Service-OrientedArchitecture.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/15 - Space-Based Architecture.md",
     "Tech/Software/Architecture/Styles/Space Based Architecture/Space Based Architecture.md",
@@ -193,15 +200,8 @@
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/11 - Pipeline Architecture.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/10 - Layered Architecture Style.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/7 - Scope of Architecture Characteristics.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Quanta.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/6 - Measuring and Governing Architecture Characteristics.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/5 - Identifying Architecture Characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/Untitled",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/6",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/4 - Architecture Characteristics Defined.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Types/Cross-Cutting Architecture Characteristics.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/Architectural characteristics/Architectural characteristics overlap.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix",
     "Tech/Operating Systems/Architecture/CPU/API/Exec",
     "Tech/Operating Systems/Architecture/CPU/API/Wait",
