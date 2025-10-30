@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7a8b8f281e52f5f7",
+        "id": "ad1bb24704b3008a",
         "type": "tabs",
         "children": [
           {
-            "id": "259564bec18cb9db",
+            "id": "939155c0d7afa1c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/24 - Developing a Career Path.md",
+                "file": "Tech/Operating Systems/Architecture/File descriptor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 - Developing a Career Path"
+              "title": "File descriptor"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cpu api",
+                "query": "unna",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 289.5
   },
   "right": {
     "id": "44991527e7cf08ce",
@@ -168,10 +168,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "259564bec18cb9db",
+  "active": "939155c0d7afa1c7",
   "lastOpenFiles": [
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/23 - Negotiation and Leadership Skills.md",
+    "Tech/Operating Systems/Architecture/Standard Streams/Standard input.md",
+    "Tech/Operating Systems/Architecture/Standard Streams/Standard output.md",
+    "Tech/Operating Systems/Architecture/Standard Streams/Standard Streams.md",
+    "Tech/Operating Systems/Architecture/Standard Streams/Standard error.md",
+    "Tech/Operating Systems/Architecture/File descriptor.md",
+    "Tech/Software/Architecture/Proxy/IPC/Pipes.md",
+    "Books/Software/Operating systems - Three easy pieces/Pipes.md",
+    "Books/Software/Operating systems - Three easy pieces/CPU API.md",
+    "Tech/Software/Architecture/Proxy/IPC/Types/IPC Named Pipes.md",
+    "Tech/Software/Architecture/Proxy/IPC/Types/IPC Unnamed Pipes.md",
+    "Tech/Software/Architecture/Proxy/IPC/IPC.md",
+    "Tech/Programming/Programming Tools/Frameworks/Electron/IPC System/Electron IPC System.md",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/11 - Pipeline Architecture.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/24 - Developing a Career Path.md",
+    "Tech/Operating Systems/Architecture/Standard Streams",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/23 - Negotiation and Leadership Skills.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/22 - Making Teams Effective.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/21 - Diagramming and Presenting Architecture.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/20 - Analyzing Architecture Risk.md",
@@ -185,21 +199,8 @@
     "Tech/Software/Architecture/Styles/Service Based Architecure/Service Based Architecture.md",
     "Tech/Software/Architecture/Styles/Space Based Architecture/Pasted image 20251027212714.png",
     "Tech/Software/Architecture/Styles/Space Based Architecture",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/14 - Event-Driven Architecture Style.md",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Event Driven Architecture.md",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/Broker Topology.md",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/Mediator Topology.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/13 - Service-Based Architecture.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/8 - Component-Based Thinking.md",
-    "Tech/Software/Processes/Compilation/Name mangling.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Attributes/Naming conventions.md",
     "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Attributes",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/9 - Architecture Styles.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/12 - Microkernel Architecture.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/11 - Pipeline Architecture.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/10 - Layered Architecture Style.md",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/7 - Scope of Architecture Characteristics.md",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/Untitled",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/6",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix",
@@ -207,7 +208,6 @@
     "Tech/Operating Systems/Architecture/CPU/API/Wait",
     "Tech/Operating Systems/Architecture/CPU/API",
     "Tech/Programming/Programming Tools/Git/Commands/Merge/Types",
-    "Tech/Programming/Programming Tools/Git/Commands/gc",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas",
     "Tech/Software/Architecture/Styles/Microservices/Pasted image 20251014230727.png",
     "Tech/Software/Architecture/Styles/Micro Kernel/Pasted image 20250923222927.png",

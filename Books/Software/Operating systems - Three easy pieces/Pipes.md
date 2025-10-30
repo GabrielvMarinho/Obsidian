@@ -1,0 +1,1 @@
+pipes are mechanisms to send data unirectionally to different processes
