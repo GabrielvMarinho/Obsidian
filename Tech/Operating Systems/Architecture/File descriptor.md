@@ -12,3 +12,7 @@ int main(void){
 
 }
 ```
+
+you could then call something like a `write(fds, "hi", 2)` 
+
+just opening a file doesnt actually load anything into memory, just holds metadata as the location of the file, calling write and read operations is when the operating system may load it.
