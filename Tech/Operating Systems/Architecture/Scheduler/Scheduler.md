@@ -1,0 +1,1 @@
+A [[CPU]] component used to schedules and deal with multiple processes running concurrently

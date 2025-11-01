@@ -1,1 +1,2 @@
-the [[Operating System]] works on virtualizating the cpu, it grabs one singular unit and virtualize it, creating a seemingly infinite number of virtual CPUs.
+The [[Operating System]] works on virtualizating the cpu, it grabs one singular unit and virtualize it, creating a seemingly infinite number of virtual CPUs.
+

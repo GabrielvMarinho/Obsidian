@@ -1,0 +1,1 @@
+a signal sent by the [[Operating System]] indicating something about a process, when an interrupt is called, an [[Interrupt Handler]] will be run.

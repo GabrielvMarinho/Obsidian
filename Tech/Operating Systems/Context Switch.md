@@ -1,0 +1,1 @@
+[[Operating System]] saves the values related to a running process in the kernel stack and then switches to another process.

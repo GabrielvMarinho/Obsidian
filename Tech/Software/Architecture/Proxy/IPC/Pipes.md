@@ -1,7 +1,8 @@
-Mechanisms to share data within processes ([[IPC]], unidirectly.
+Mechanisms to share data within processes ([[IPC]]), unidirectly.
 A pipe consists of a write [[File descriptor]] and a read [[File descriptor]].
 You use the writer to write and the reader to read.
-Its all saved in memory and the content expires once a proces reads it.
+Its all saved in memory and the content expires once a process reads it.
+
 
 ```c
 #include <stdio.h>

@@ -1,0 +1,1 @@
+a timer that calls [[Interrupt]]s automatically so the [[Operating System]] regain access to the [[CPU]] once a program is running

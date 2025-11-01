@@ -1,0 +1,1 @@
+a handler to [[Interrupt]]s setted by the [[Operating System]] during boot time.
