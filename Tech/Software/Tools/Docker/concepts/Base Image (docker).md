@@ -1,1 +1,1 @@
-everything that composes an [[Operating System]] less the [[Kernel]]
+everything that composes an [[Operating System]] except for the [[Kernel]]
