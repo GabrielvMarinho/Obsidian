@@ -1,0 +1,1 @@
+The concept of sending multiple queries/commands to a database at once so you cut network latency from the process
