@@ -1,0 +1,1 @@
+[[Scheduler]] techniques that use the concept of fair shares, doesnt deal well with [[IO]] or responsive processes generally

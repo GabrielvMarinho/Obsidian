@@ -1,0 +1,1 @@
+the time that it takes to complete a [[Process]]

@@ -1,6 +1,5 @@
 A running instance of a program, may contain multiple [[Thread|Threads]]
 
-
 ## Initializing a process
 
 The process of initializing a [[Process]] looks like this:

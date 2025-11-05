@@ -1,0 +1,1 @@
+This chapter walks through [[Fair share schedulers]] approaches, such as the [[Lottery scheduler]], [[Stride scheduler]], [[CFS]], stating its trade-offs and implementations 

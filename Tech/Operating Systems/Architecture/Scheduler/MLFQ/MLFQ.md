@@ -21,7 +21,7 @@ a new rule from it:
 this solves the cpu bound and interactive process problem as well as the starvation one
 
 now to solve the user 99% problem we can rewrite 4a and 4b to a single rule
-4. Once a job uses up its time allotmen at a given level (regardless of how many times it has given up the CPU), its priority is reduced (moves down one queue).
+4. Once a job uses up its time allotment at a given level (regardless of how many times it has given up the CPU), its priority is reduced (moves down one queue).
 
 
 ## Parameters

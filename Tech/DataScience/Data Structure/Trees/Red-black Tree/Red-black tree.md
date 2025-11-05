@@ -1,0 +1,1 @@
+a [[Balanced Binary Tree]] like [[Data Structure]] that ensures its balance through red and black colouring rules instead of strict height checks
