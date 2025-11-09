@@ -1,0 +1,1 @@
+this chapter basically talks about how architects, implementers and users interact to pass the word on what a system should be, and how that can fail

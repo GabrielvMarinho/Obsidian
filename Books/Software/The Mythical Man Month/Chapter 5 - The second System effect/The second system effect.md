@@ -1,0 +1,2 @@
+an effect that basically states that the second system design by a designer tends to be a hazard.
+because all the built up confidence + all the fancy stuff that couldn't be implemented in the first system tends to pop up.

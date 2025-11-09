@@ -1,0 +1,1 @@
+a unique identifier given to a point in [[Virtual memory]]

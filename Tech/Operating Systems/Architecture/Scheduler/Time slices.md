@@ -1,0 +1,1 @@
+the time a [[Process]] runs before triggering a [[Timer Interrupt]] trap

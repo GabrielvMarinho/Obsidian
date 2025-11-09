@@ -1,0 +1,2 @@
+[[Scheduler|Scheduling]] algorithm that uses the concept of [[Time slices]] to favor [[Response time]] for a system
+it executes a [[Process]] for a specific time (time slice part), then changes to another, passing through all the processes and treating them the same
