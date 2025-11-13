@@ -1,0 +1,1 @@
+`\0`, simply indicates the end of a string in languages like [[C]]

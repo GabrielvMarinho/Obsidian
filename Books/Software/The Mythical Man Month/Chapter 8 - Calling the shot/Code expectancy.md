@@ -1,0 +1,2 @@
+honestly i didn't get much what this chapter was about. 
+from what i could absorb from it, its talking about how to state how many months/years it will take to deliver a product feature/ implementation and how projects with fewer people even though they deliver less in total work, they deliver more in terms of result/man-month

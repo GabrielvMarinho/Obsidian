@@ -1,4 +1,4 @@
-A form of exposing functionalities to the user program such killing and creating processes
+A form of exposing functionalities to the user program such as killing and creating processes
 
 in a OS you can be in:
 user mode: access to basic stuff

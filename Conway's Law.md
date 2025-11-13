@@ -1,0 +1,1 @@
+Organizations which design systems are constrained to produce design which are copies of the communication structures of the organization

@@ -1,0 +1,1 @@
+this was not something the book states but something i though about while reading it, there are some hundreds of system calls in unix systems, this is the way to communicate with the kernel, so basically everything, even the most high level python functions are just a set of system calls arranged in a specific sequence
