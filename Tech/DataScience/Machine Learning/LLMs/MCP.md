@@ -1,0 +1,1 @@
+Model Context Protocol, an [[Open-Source]] standard for connecting AI applications to external systems (e.g. a desktop app)
