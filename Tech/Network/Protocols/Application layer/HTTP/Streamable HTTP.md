@@ -1,0 +1,1 @@
+similar to [[HTTP]], but the data is trasmitted in chunks, its very common on computational heavy activities like asking something to an llm or the download percentage of a load bar
