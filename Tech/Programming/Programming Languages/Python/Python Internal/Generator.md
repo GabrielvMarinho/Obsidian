@@ -1,5 +1,7 @@
 functions used to create [[Iterator|Iterators]], returns an iterable set of items, on item at a time, the yield command is used for that.
 
+generator implement the `__next__` and `__iter__` methods
+
 Example:
 ```python
 def fibonacci():

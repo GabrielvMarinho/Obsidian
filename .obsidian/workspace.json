@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Network/Protocols/Application layer/HTTP/Streamable HTTP.md",
+                "file": "Tech/Network/Protocols/Transport layer/TCP/TCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Streamable HTTP"
+              "title": "TCP"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ser",
+                "query": "tcp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,10 +167,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "c8ceaa652bd87309",
+  "active": "939155c0d7afa1c7",
   "lastOpenFiles": [
-    "Tech/Operating Systems/Architecture/CPU/Scheduler/Scheduler.md",
+    "Tech/WWW/Internet/Internet.md",
+    "Tech/Programming/Programming Languages/Python/Modules/Pymongo/cursor.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Generator.md",
+    "Tech/Programming/Programming Languages/Python/Modules/Pymongo",
+    "Tech/Programming/Programming Languages/Python/Python.md",
+    "Tech/Programming/Programming Languages/Python/Dunder/Methods/__del__.md",
     "Tech/Network/Protocols/Application layer/HTTP/Streamable HTTP.md",
+    "Tech/Operating Systems/Architecture/CPU/Scheduler/Scheduler.md",
     "Tech/DataScience/Machine Learning/LLMs/MCP.md",
     "Tech/Operating Systems/valgrind.md",
     "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools",
@@ -192,20 +198,14 @@
     "Conway's Law.md",
     "Books/Software/The Mythical Man Month/Chapter 11 - Plan to Throw One Away",
     "Books/Software/The Mythical Man Month/Untitled.md",
-    "Books/Software/The Mythical Man Month/Chapter 10 - The documentary hypothesis/The documentary hypothesis.md",
     "Books/Software/The Mythical Man Month/Chapter 10 - The documentary hypothesis",
-    "Books/Software/The Mythical Man Month/Chapter 9 - Ten pounds in a five pound sack/Ten pounds in a five pound sack.md",
     "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API",
-    "Books/Software/The Mythical Man Month/Chapter 8 - Calling the shot/Code expectancy.md",
     "Books/Software/The Mythical Man Month/Chapter 9 - Ten pounds in a five pound sack",
-    "Tech/Operating Systems/Architecture/Memory/Paging.md",
     "Books/Software/The Mythical Man Month/Chapter 8 - Calling the shot",
-    "Tech/Operating Systems/Architecture/Memory/types/Virtual memory.md",
     "Books/Software/Operating systems - Three easy pieces/Insights",
     "Tech/Operating Systems/Architecture/Memory/Address space.png",
     "Tech/Operating Systems/Architecture/Memory/types",
     "Books/Software/The Mythical Man Month/Chapter 7 - Why did the tower of babel fail",
-    "Books/Software/The Mythical Man Month/Chapter 6 - Passing the word",
     "Tech/Software/Architecture/Styles/Space Based Architecture/Pasted image 20251027212714.png",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas",
