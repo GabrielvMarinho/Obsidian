@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Network/Protocols/Transport layer/TCP/TCP.md",
+                "file": "Tech/Network/Protocols/Application layer/HTTP/HTTP Parsers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP"
+              "title": "HTTP Parsers"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tcp",
+                "query": "http",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,13 +168,26 @@
   },
   "active": "939155c0d7afa1c7",
   "lastOpenFiles": [
+    "Tech/Network/Protocols/Application layer/HTTP/HTTP.md",
+    "Tech/Network/Protocols/Application layer/HTTP/HTTP Parsers.md",
+    "Tech/Network/Protocols/Application layer/HTTP/Streamable HTTP.md",
+    "Tech/Network/Protocols/Application layer/HTTP/Cookies.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/ClusterIP.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/LoadBalancer.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Ingress.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/Ingress Controller.md",
+    "Tech/Software/Tools/Kubernetes/Kubernetes.md",
+    "Tech/Software/Tools/Kubernetes/Kubernetes Features/Automated Rollouts and Rollbacks.md",
+    "Tech/Software/Architecture/Security/Authentication/Asymmetric (RS256).md",
+    "Tech/Software/Architecture/Security/Authentication/Symmetric (HS256).md",
+    "Tech/Software/Architecture/Security/Authentication/Web Authentication/JWT/JWT.md",
+    "Tech/Network/Protocols/Transport layer/TCP/TCP.md",
     "Tech/WWW/Internet/Internet.md",
     "Tech/Programming/Programming Languages/Python/Modules/Pymongo/cursor.md",
     "Tech/Programming/Programming Languages/Python/Python Internal/Generator.md",
     "Tech/Programming/Programming Languages/Python/Modules/Pymongo",
     "Tech/Programming/Programming Languages/Python/Python.md",
     "Tech/Programming/Programming Languages/Python/Dunder/Methods/__del__.md",
-    "Tech/Network/Protocols/Application layer/HTTP/Streamable HTTP.md",
     "Tech/Operating Systems/Architecture/CPU/Scheduler/Scheduler.md",
     "Tech/DataScience/Machine Learning/LLMs/MCP.md",
     "Tech/Operating Systems/valgrind.md",
@@ -184,20 +196,7 @@
     "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API/Homework.md",
     "Tech/Programming/Programming Languages/C/Undefined behaviour.md",
     "Tech/Operating Systems/System call.md",
-    "Tech/Operating Systems/Traps/Trap table.md",
-    "Tech/Operating Systems/Traps/Trap instruction.md",
-    "Tech/Programming/Programming Languages/C/malloc.md",
-    "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API/Memory management.md",
-    "Tech/Programming/Programming Languages/C/free.md",
-    "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API/Levels of memo.md",
-    "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API/Stack and heap allocation.md",
-    "Books/Software/Operating systems - Three easy pieces/13. The abstraction - Address spaces/Virtual memory Explaining.md",
-    "Books/Software/Operating systems - Three easy pieces/13. The abstraction - Address spaces/Homework.md",
-    "Tech/Programming/Programming Languages/C/NULL Terminator.md",
-    "Books/Software/The Mythical Man Month/Chapter 11 - Plan to Throw One Away/Plan to Thrown One Away.md",
-    "Conway's Law.md",
     "Books/Software/The Mythical Man Month/Chapter 11 - Plan to Throw One Away",
-    "Books/Software/The Mythical Man Month/Untitled.md",
     "Books/Software/The Mythical Man Month/Chapter 10 - The documentary hypothesis",
     "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API",
     "Books/Software/The Mythical Man Month/Chapter 9 - Ten pounds in a five pound sack",
