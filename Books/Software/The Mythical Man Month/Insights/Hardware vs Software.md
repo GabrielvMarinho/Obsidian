@@ -1,0 +1,1 @@
+It could be because of the work positions of the writer, even though i dont trully believe it. It seems that there is not much separation from hardware to software, what i mean is they are always together, with so many abstractions today, a lot of positions dont even need to know about hardware, low level concepts to be able to get something working.
