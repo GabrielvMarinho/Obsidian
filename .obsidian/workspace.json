@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools/Sharp tools.md",
+=======
+                "file": "Tech/Programming/Programming Languages/Java/Internals/Sinks.md",
+>>>>>>> cbe8a500212fcca7c333a265ce6dc48234ba5b79
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Sharp tools"
+=======
+              "title": "Sinks"
+>>>>>>> cbe8a500212fcca7c333a265ce6dc48234ba5b79
             }
           }
         ]
@@ -53,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "malloc",
+                "query": "java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,6 +176,7 @@
   },
   "active": "939155c0d7afa1c7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Books/Software/The Mythical Man Month/Insights/Hardware vs Software.md",
     "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools/Sharp tools.md",
     "Books/Software/The Mythical Man Month/Insights.md",
@@ -192,19 +201,54 @@
     "Conway's Law.md",
     "Books/Software/The Mythical Man Month/Chapter 11 - Plan to Throw One Away",
     "Books/Software/The Mythical Man Month/Chapter 10 - The documentary hypothesis/The documentary hypothesis.md",
+=======
+    "Reactive stream.md",
+    "Tech/Software/Concepts/MISCELLANEOUS/Asynchronous.md",
+    "Tech/Programming/Programming Languages/Java/Internals/Sinks.md",
+    "Tech/Programming/Programming Languages/Java/Java.md",
+    "Tech/Programming/Programming Languages/Java/Internals",
+    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
+    "Tech/Network/Protocols/Application layer/HTTP/HTTP Parsers.md",
+    "Tech/Network/Protocols/Application layer/HTTP/HTTP.md",
+    "Tech/Network/Protocols/Application layer/HTTP/Streamable HTTP.md",
+    "Tech/Network/Protocols/Application layer/HTTP/Cookies.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/ClusterIP.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/LoadBalancer.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Ingress.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/Ingress Controller.md",
+    "Tech/Software/Tools/Kubernetes/Kubernetes.md",
+    "Tech/Software/Tools/Kubernetes/Kubernetes Features/Automated Rollouts and Rollbacks.md",
+    "Tech/Software/Architecture/Security/Authentication/Asymmetric (RS256).md",
+    "Tech/Software/Architecture/Security/Authentication/Symmetric (HS256).md",
+    "Tech/Software/Architecture/Security/Authentication/Web Authentication/JWT/JWT.md",
+    "Tech/Network/Protocols/Transport layer/TCP/TCP.md",
+    "Tech/WWW/Internet/Internet.md",
+    "Tech/Programming/Programming Languages/Python/Modules/Pymongo/cursor.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Generator.md",
+    "Tech/Programming/Programming Languages/Python/Modules/Pymongo",
+    "Tech/Programming/Programming Languages/Python/Python.md",
+    "Tech/Programming/Programming Languages/Python/Dunder/Methods/__del__.md",
+    "Tech/Operating Systems/Architecture/CPU/Scheduler/Scheduler.md",
+    "Tech/DataScience/Machine Learning/LLMs/MCP.md",
+    "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools",
+    "Books/Software/The Mythical Man Month/Chapter 11 - Plan to Throw One Away",
+>>>>>>> cbe8a500212fcca7c333a265ce6dc48234ba5b79
     "Books/Software/The Mythical Man Month/Chapter 10 - The documentary hypothesis",
-    "Books/Software/The Mythical Man Month/Chapter 9 - Ten pounds in a five pound sack/Ten pounds in a five pound sack.md",
     "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API",
-    "Books/Software/The Mythical Man Month/Chapter 8 - Calling the shot/Code expectancy.md",
     "Books/Software/The Mythical Man Month/Chapter 9 - Ten pounds in a five pound sack",
-    "Tech/Operating Systems/Architecture/Memory/Paging.md",
     "Books/Software/The Mythical Man Month/Chapter 8 - Calling the shot",
+<<<<<<< HEAD
     "Tech/Operating Systems/Architecture/Memory/types/Virtual memory.md",
     "Books/Software/The Mythical Man Month/Chapter 7 - Why did the tower of babel fail/Why did the tower of babel fail.md",
     "Books/Software/Operating systems - Three easy pieces/Insights",
     "Tech/Operating Systems/Architecture/Memory/Address space.png",
     "Tech/Operating Systems/Architecture/Memory/types",
     "Books/Software/The Mythical Man Month/Chapter 7 - Why did the tower of babel fail",
+=======
+    "Books/Software/Operating systems - Three easy pieces/Insights",
+    "Tech/Operating Systems/Architecture/Memory/Address space.png",
+    "Tech/Operating Systems/Architecture/Memory/types",
+>>>>>>> cbe8a500212fcca7c333a265ce6dc48234ba5b79
     "Tech/Software/Architecture/Styles/Space Based Architecture/Pasted image 20251027212714.png",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
     "Tech/Programming/Programming Tools/Git/GitFlow.canvas",

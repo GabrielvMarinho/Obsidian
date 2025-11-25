@@ -1,0 +1,1 @@
+the [[Pymongo]] cursor object is a generator that lazily loads the database data, each next goes though the next document in the database and they are loaded (new network request) every 101 documents, this is a [[MongoDB]] specific feature, pymongo just follows it
