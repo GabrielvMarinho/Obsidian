@@ -1,0 +1,1 @@
+in [[Java]], a Sink is a class that pushes data into a [[Reactive stream]]
