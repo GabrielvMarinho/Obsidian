@@ -1,0 +1,1 @@
+its easy to mislead projects milestones if they are fuzzy, they should always be very concrete

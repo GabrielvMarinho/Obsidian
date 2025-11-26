@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "759855ee244da6c6",
+    "id": "aa9673f42a2a20e1",
     "type": "split",
     "children": [
       {
-        "id": "ad1bb24704b3008a",
+        "id": "c36a19393356d4f7",
         "type": "tabs",
         "children": [
           {
-            "id": "939155c0d7afa1c7",
+            "id": "c3eee4d47ea359c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools/Sharp tools.md",
-=======
-                "file": "Tech/Programming/Programming Languages/Java/Internals/Sinks.md",
->>>>>>> cbe8a500212fcca7c333a265ce6dc48234ba5b79
+                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Sharp tools"
-=======
-              "title": "Sinks"
->>>>>>> cbe8a500212fcca7c333a265ce6dc48234ba5b79
+              "title": "Dynamic relocation"
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6b11f27c223a5c57",
+    "id": "7f836a48ae4c6b82",
     "type": "split",
     "children": [
       {
-        "id": "a4b764ee2904b491",
+        "id": "bcbf15c54cdd6e37",
         "type": "tabs",
         "children": [
           {
-            "id": "ef1f9d89e203a500",
+            "id": "d51c15c16c21dbc9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +48,12 @@
             }
           },
           {
-            "id": "c8ceaa652bd87309",
+            "id": "8394ee1cf410eb98",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "java",
+                "query": "lde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "3f539f765224b212",
+            "id": "7a70f8f4dab61632",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,22 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 300
   },
   "right": {
-    "id": "44991527e7cf08ce",
+    "id": "6c5d6507e39576a5",
     "type": "split",
     "children": [
       {
-        "id": "3c56dc45bbb5b605",
+        "id": "4c0d672c893d1d70",
         "type": "tabs",
         "children": [
           {
-            "id": "337fe56afc3067ca",
+            "id": "662d57039dd27643",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Dynamic relocation"
             }
           },
           {
-            "id": "60f15dcd846d311a",
+            "id": "b86ce25557920806",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Dynamic relocation"
             }
           },
           {
-            "id": "36d01c1087235fb9",
+            "id": "a2e12d20ecb448a5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,17 +137,18 @@
             }
           },
           {
-            "id": "d86cd8c6b487674d",
+            "id": "6b42c660730a5da6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Dynamic relocation"
             }
           }
         ]
@@ -174,90 +169,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "939155c0d7afa1c7",
+  "active": "c3eee4d47ea359c4",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Books/Software/The Mythical Man Month/Insights/Hardware vs Software.md",
-    "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools/Sharp tools.md",
-    "Books/Software/The Mythical Man Month/Insights.md",
-    "Books/Software/The Mythical Man Month/Insights",
-    "Tech/Operating Systems/valgrind.md",
-    "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools",
-    "Tech/Operating Systems/gdb.md",
-    "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API/Homework.md",
-    "Tech/Programming/Programming Languages/C/Undefined behaviour.md",
-    "Tech/Operating Systems/System call.md",
-    "Tech/Operating Systems/Traps/Trap table.md",
-    "Tech/Operating Systems/Traps/Trap instruction.md",
-    "Tech/Programming/Programming Languages/C/malloc.md",
-    "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API/Memory management.md",
-    "Tech/Programming/Programming Languages/C/free.md",
-    "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API/Levels of memo.md",
-    "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API/Stack and heap allocation.md",
+    "Tech/Operating Systems/Architecture/Memory/virtualization/Virtualization of memory.md",
+    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation/15. Mechanism - Address translation.md",
+    "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
+    "Tech/Operating Systems/Architecture/Memory/Address space.md",
+    "Tech/Operating Systems/Architecture/Memory/virtualization",
+    "Tech/Operating Systems/Architecture/Memory/Difference of RAM and Disk.md",
+    "Tech/Operating Systems/Architecture/Memory/Address space.png",
+    "Reactive stream.md",
+    "Pasted image 20251125215234.png",
+    "Tech/Operating Systems/Architecture/Memory/Program structure.md",
+    "Tech/Operating Systems/Architecture/Memory/Memory Address.md",
+    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation",
+    "Tech/Operating Systems/Interrupt/Timer Interrupt.md",
+    "Tech/Operating Systems/Interrupt/Interrupt Handler.md",
     "Books/Software/Operating systems - Three easy pieces/13. The abstraction - Address spaces/Virtual memory Explaining.md",
     "Books/Software/Operating systems - Three easy pieces/13. The abstraction - Address spaces/Homework.md",
-    "Tech/Programming/Programming Languages/C/NULL Terminator.md",
-    "Books/Software/The Mythical Man Month/Chapter 11 - Plan to Throw One Away/Plan to Thrown One Away.md",
-    "Conway's Law.md",
-    "Books/Software/The Mythical Man Month/Chapter 11 - Plan to Throw One Away",
-    "Books/Software/The Mythical Man Month/Chapter 10 - The documentary hypothesis/The documentary hypothesis.md",
-=======
-    "Reactive stream.md",
-    "Tech/Software/Concepts/MISCELLANEOUS/Asynchronous.md",
-    "Tech/Programming/Programming Languages/Java/Internals/Sinks.md",
-    "Tech/Programming/Programming Languages/Java/Java.md",
-    "Tech/Programming/Programming Languages/Java/Internals",
-    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
-    "Tech/Network/Protocols/Application layer/HTTP/HTTP Parsers.md",
-    "Tech/Network/Protocols/Application layer/HTTP/HTTP.md",
-    "Tech/Network/Protocols/Application layer/HTTP/Streamable HTTP.md",
-    "Tech/Network/Protocols/Application layer/HTTP/Cookies.md",
-    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/ClusterIP.md",
-    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/LoadBalancer.md",
-    "Tech/Software/Tools/Kubernetes/Exposing Application/Ingress.md",
-    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/Ingress Controller.md",
-    "Tech/Software/Tools/Kubernetes/Kubernetes.md",
-    "Tech/Software/Tools/Kubernetes/Kubernetes Features/Automated Rollouts and Rollbacks.md",
-    "Tech/Software/Architecture/Security/Authentication/Asymmetric (RS256).md",
-    "Tech/Software/Architecture/Security/Authentication/Symmetric (HS256).md",
-    "Tech/Software/Architecture/Security/Authentication/Web Authentication/JWT/JWT.md",
-    "Tech/Network/Protocols/Transport layer/TCP/TCP.md",
-    "Tech/WWW/Internet/Internet.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Pymongo/cursor.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Generator.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Pymongo",
-    "Tech/Programming/Programming Languages/Python/Python.md",
-    "Tech/Programming/Programming Languages/Python/Dunder/Methods/__del__.md",
-    "Tech/Operating Systems/Architecture/CPU/Scheduler/Scheduler.md",
-    "Tech/DataScience/Machine Learning/LLMs/MCP.md",
-    "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools",
-    "Books/Software/The Mythical Man Month/Chapter 11 - Plan to Throw One Away",
->>>>>>> cbe8a500212fcca7c333a265ce6dc48234ba5b79
-    "Books/Software/The Mythical Man Month/Chapter 10 - The documentary hypothesis",
-    "Books/Software/Operating systems - Three easy pieces/14. Interlude - Memory API",
-    "Books/Software/The Mythical Man Month/Chapter 9 - Ten pounds in a five pound sack",
-    "Books/Software/The Mythical Man Month/Chapter 8 - Calling the shot",
-<<<<<<< HEAD
-    "Tech/Operating Systems/Architecture/Memory/types/Virtual memory.md",
-    "Books/Software/The Mythical Man Month/Chapter 7 - Why did the tower of babel fail/Why did the tower of babel fail.md",
-    "Books/Software/Operating systems - Three easy pieces/Insights",
-    "Tech/Operating Systems/Architecture/Memory/Address space.png",
-    "Tech/Operating Systems/Architecture/Memory/types",
-    "Books/Software/The Mythical Man Month/Chapter 7 - Why did the tower of babel fail",
-=======
-    "Books/Software/Operating systems - Three easy pieces/Insights",
-    "Tech/Operating Systems/Architecture/Memory/Address space.png",
-    "Tech/Operating Systems/Architecture/Memory/types",
->>>>>>> cbe8a500212fcca7c333a265ce6dc48234ba5b79
-    "Tech/Software/Architecture/Styles/Space Based Architecture/Pasted image 20251027212714.png",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
-    "Tech/Programming/Programming Tools/Git/GitFlow.canvas",
-    "Tech/Software/Architecture/Styles/Microservices/Pasted image 20251014230727.png",
-    "Tech/Software/Architecture/Styles/Micro Kernel/Pasted image 20250923222927.png",
-    "Tech/Network/Protocols/Transport layer/TCP/Connection establishment/Pasted image 20250922224437.png",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/{CB077131-7785-4373-90F6-3B899B25FDDD}.png",
-    "Tech/Software/Architecture/Styles/Micro Kernel/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
-    "Tech/Software/Architecture/Styles/Service Based Architecure/{F4039BD9-28A8-4607-9ECA-9DDFA8958054}.png"
+    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Concrete milestones.md",
+    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Hatching a Catasthrope.md",
+    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Big vs small issues.md",
+    "Untitled.md",
+    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe"
   ]
 }

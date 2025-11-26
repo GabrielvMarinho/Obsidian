@@ -1,0 +1,3 @@
+the [[Operating System]] works so that the memory of a process is isolated from everything else
+
+looking at [[Address space]] we can see the address starts at 0, but this is just not true for the entire computer as a whole, thats why whenever a process tries to handle memory related tasks, it needs some help translating the virtual address to the physical address, there are two forms of doing it [[Dynamic relocation]] and 
