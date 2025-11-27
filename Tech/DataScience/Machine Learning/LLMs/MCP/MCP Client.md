@@ -1,0 +1,1 @@
+the bridge between the host and the server, handles the connection, the client translates what the [[MCP Host]] want, because the [[LLMs]] doesn't speak [[MCP]], to execute to the [[MCP Server]]

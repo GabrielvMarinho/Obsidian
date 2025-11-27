@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "aa9673f42a2a20e1",
+    "id": "759855ee244da6c6",
     "type": "split",
     "children": [
       {
-        "id": "c36a19393356d4f7",
+        "id": "ad1bb24704b3008a",
         "type": "tabs",
         "children": [
           {
-            "id": "c3eee4d47ea359c4",
+            "id": "939155c0d7afa1c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
+                "file": "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Client.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic relocation"
+              "title": "MCP Client"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7f836a48ae4c6b82",
+    "id": "6b11f27c223a5c57",
     "type": "split",
     "children": [
       {
-        "id": "bcbf15c54cdd6e37",
+        "id": "a4b764ee2904b491",
         "type": "tabs",
         "children": [
           {
-            "id": "d51c15c16c21dbc9",
+            "id": "ef1f9d89e203a500",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "8394ee1cf410eb98",
+            "id": "c8ceaa652bd87309",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "lde",
+                "query": "mcp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "7a70f8f4dab61632",
+            "id": "3f539f765224b212",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 445.5
   },
   "right": {
-    "id": "6c5d6507e39576a5",
+    "id": "44991527e7cf08ce",
     "type": "split",
     "children": [
       {
-        "id": "4c0d672c893d1d70",
+        "id": "3c56dc45bbb5b605",
         "type": "tabs",
         "children": [
           {
-            "id": "662d57039dd27643",
+            "id": "337fe56afc3067ca",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dynamic relocation"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "b86ce25557920806",
+            "id": "60f15dcd846d311a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dynamic relocation"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a2e12d20ecb448a5",
+            "id": "36d01c1087235fb9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +135,17 @@
             }
           },
           {
-            "id": "6b42c660730a5da6",
+            "id": "d86cd8c6b487674d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dynamic relocation"
+              "title": "Outline"
             }
           }
         ]
@@ -169,28 +166,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "c3eee4d47ea359c4",
+  "active": "939155c0d7afa1c7",
   "lastOpenFiles": [
+    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP.md",
+    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Host.md",
+    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Client.md",
+    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Server.md",
+    "Tech/DataScience/Machine Learning/LLMs/MCP",
+    "Tech/Operating Systems/Architecture/CPU/Scheduler/Fair share Schedulers/Stride scheduler/Stride scheduler.md",
+    "Tech/Programming/Programming Languages/Java/Internals/Sinks.md",
     "Tech/Operating Systems/Architecture/Memory/virtualization/Virtualization of memory.md",
-    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation/15. Mechanism - Address translation.md",
     "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
-    "Tech/Operating Systems/Architecture/Memory/Address space.md",
     "Tech/Operating Systems/Architecture/Memory/virtualization",
-    "Tech/Operating Systems/Architecture/Memory/Difference of RAM and Disk.md",
-    "Tech/Operating Systems/Architecture/Memory/Address space.png",
-    "Reactive stream.md",
-    "Pasted image 20251125215234.png",
-    "Tech/Operating Systems/Architecture/Memory/Program structure.md",
-    "Tech/Operating Systems/Architecture/Memory/Memory Address.md",
-    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation",
-    "Tech/Operating Systems/Interrupt/Timer Interrupt.md",
-    "Tech/Operating Systems/Interrupt/Interrupt Handler.md",
-    "Books/Software/Operating systems - Three easy pieces/13. The abstraction - Address spaces/Virtual memory Explaining.md",
-    "Books/Software/Operating systems - Three easy pieces/13. The abstraction - Address spaces/Homework.md",
-    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Concrete milestones.md",
+    "Books/Software/The Mythical Man Month/Insights/Hardware vs Software.md",
+    "Books/Software/The Mythical Man Month/Insights",
     "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Hatching a Catasthrope.md",
+    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Concrete milestones.md",
     "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Big vs small issues.md",
-    "Untitled.md",
-    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe"
+    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe",
+    "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools/Sharp tools.md",
+    "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools",
+    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation/15. Mechanism - Address translation.md",
+    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation",
+    "Reactive stream.md",
+    "Tech/Software/Concepts/MISCELLANEOUS/Asynchronous.md",
+    "Tech/Programming/Programming Languages/Java/Java.md",
+    "Tech/Programming/Programming Languages/Java/Internals",
+    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
+    "Tech/Network/Protocols/Application layer/HTTP/HTTP Parsers.md",
+    "Tech/Network/Protocols/Application layer/HTTP/HTTP.md",
+    "Tech/Network/Protocols/Application layer/HTTP/Streamable HTTP.md",
+    "Tech/Network/Protocols/Application layer/HTTP/Cookies.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/ClusterIP.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/LoadBalancer.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Ingress.md",
+    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/Ingress Controller.md",
+    "Tech/Programming/Programming Languages/Python/Modules/Pymongo",
+    "Books/Software/The Mythical Man Month/Chapter 11 - Plan to Throw One Away",
+    "Books/Software/The Mythical Man Month/Chapter 10 - The documentary hypothesis",
+    "Tech/Operating Systems/Architecture/Memory/Address space.png",
+    "Tech/Software/Architecture/Styles/Space Based Architecture/Pasted image 20251027212714.png",
+    "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
+    "Tech/Programming/Programming Tools/Git/GitFlow.canvas",
+    "Tech/Software/Architecture/Styles/Microservices/Pasted image 20251014230727.png",
+    "Tech/Software/Architecture/Styles/Micro Kernel/Pasted image 20250923222927.png",
+    "Tech/Network/Protocols/Transport layer/TCP/Connection establishment/Pasted image 20250922224437.png",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
+    "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/{CB077131-7785-4373-90F6-3B899B25FDDD}.png",
+    "Tech/Software/Architecture/Styles/Micro Kernel/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
+    "Tech/Software/Architecture/Styles/Service Based Architecure/{F4039BD9-28A8-4607-9ECA-9DDFA8958054}.png"
   ]
 }
