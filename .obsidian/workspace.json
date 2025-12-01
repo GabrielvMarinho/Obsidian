@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
+                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic relocation"
+              "title": "No silver bullet"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
+                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dynamic relocation"
+              "title": "Backlinks for No silver bullet"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
+                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dynamic relocation"
+              "title": "Outgoing links from No silver bullet"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
+                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dynamic relocation"
+              "title": "Outline of No silver bullet"
             }
           }
         ]
@@ -171,9 +171,13 @@
   },
   "active": "c3eee4d47ea359c4",
   "lastOpenFiles": [
+    "Books/Software/The Mythical Man Month/Chapter 15 - The other face/The other face.md",
+    "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
+    "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering",
+    "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
+    "Books/Software/The Mythical Man Month/Chapter 15 - The other face",
     "Tech/Operating Systems/Architecture/Memory/virtualization/Virtualization of memory.md",
     "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation/15. Mechanism - Address translation.md",
-    "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
     "Tech/Operating Systems/Architecture/Memory/Address space.md",
     "Tech/Operating Systems/Architecture/Memory/virtualization",
     "Tech/Operating Systems/Architecture/Memory/Difference of RAM and Disk.md",
