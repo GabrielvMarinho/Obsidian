@@ -44,3 +44,4 @@ this will instantly style the charts already done at some point without having t
 ```
 sns.heatmap(carteira.corr(), annot=True)
 ```
+
