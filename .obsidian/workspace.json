@@ -8,43 +8,51 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a89667bb59407b4d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "939155c0d7afa1c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
-=======
-                "file": "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Client.md",
->>>>>>> 3006d1d
-                "mode": "source",
-                "source": false
-              },
+              "type": "3d_graph_view",
+              "state": {},
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "No silver bullet"
-=======
-              "title": "MCP Client"
+              "title": "3D-Graph"
             }
           },
           {
             "id": "f3bd7ceae58e8f8a",
             "type": "leaf",
             "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
+            }
+          },
+          {
+            "id": "3600f56673662bd2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Python/Package management/UV/UV.md",
+                "file": "Tech/Programming/Programming Languages/Python/Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UV"
->>>>>>> 3006d1d
+              "title": "Python"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pip",
+                "query": "excali",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,10 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
-=======
->>>>>>> 3006d1d
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,11 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Backlinks for No silver bullet"
-=======
               "title": "Backlinks"
->>>>>>> 3006d1d
             }
           },
           {
@@ -143,19 +143,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
-=======
->>>>>>> 3006d1d
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Outgoing links from No silver bullet"
-=======
               "title": "Outgoing links"
->>>>>>> 3006d1d
             }
           },
           {
@@ -179,20 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
-=======
->>>>>>> 3006d1d
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "Outline of No silver bullet"
-=======
               "title": "Outline"
->>>>>>> 3006d1d
             }
           }
         ]
@@ -210,58 +194,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef1f9d89e203a500",
+  "active": "3600f56673662bd2",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Books/Software/The Mythical Man Month/Chapter 15 - The other face/The other face.md",
-    "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
-    "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering",
-    "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
-    "Books/Software/The Mythical Man Month/Chapter 15 - The other face",
-    "Tech/Operating Systems/Architecture/Memory/virtualization/Virtualization of memory.md",
-    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation/15. Mechanism - Address translation.md",
-    "Tech/Operating Systems/Architecture/Memory/Address space.md",
-=======
-    "Tech/Programming/Programming Languages/Python/Package management/PyPI.md",
+    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Client.md",
+    "Excalidraw/Drawing 2025-12-02 16.29.18.excalidraw.md",
+    "Excalidraw",
+    "Visual Maps/kubernetesArchitecture.excalidraw",
+    "Tech/Software/Tools/Kubernetes/Kubernetes Architecture.md",
+    "Tech/Operating Systems/Architecture/CPU/Scheduler/Fair share Schedulers/Lottery Scheduler/Lottery scheduler chart.md",
+    "Tech/Programming/Programming Languages/Python/Python Interpreter/CPython.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Bound method.md",
+    "Tech/Programming/Programming Languages/Python/Dunder/Methods/__new__.md",
+    "Tech/Programming/Programming Languages/Python/Dunder/Methods/__init__.md",
+    "Tech/Programming/Programming Languages/Python/Dunder/Methods/__call__.md",
+    "Tech/Programming/Programming Languages/Python/Dunder/Dunder.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Iterator.md",
+    "Countries/Brazil/Brazil.md",
+    "Tech/Programming/Programming Languages/Python/Python Internal/Generator.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Encapsulation.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Constructor.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Instance.md",
+    "Tech/Programming/Programming Paradigms/OOP/Concepts/Class.md",
+    "Tech/Programming/Programming Paradigms/OOP/OOP.md",
+    "Tech/Programming/Programming Paradigms/OOP/Factory.md",
+    "Countries/Brazil/Drex.md",
+    "Internal Processes/WEG K8S.md",
+    "Tech/Programming/Programming Languages/Python/Python.md",
+    "Tech/Software/Architecture/Styles/Layered Architecture/Layered Architecture.md",
     "Tech/Programming/Programming Languages/Python/Package management/UV/UV.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/NodeJS.md",
+    "Tech/Programming/Programming Languages/Ecmascript/NodeJS/APIs/Buffer.md",
+    "Visual Maps/loadBalancerArchitecture.excalidraw",
+    "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering",
+    "Books/Software/The Mythical Man Month/Chapter 15 - The other face",
     "Tech/Programming/Programming Languages/Python/Package management/UV",
     "Tech/Programming/Programming Languages/Python/Package management",
-    "Tech/Programming/Programming Languages/Python/Modules/MatPlotLib/MatplotLib with Yfinances.md",
-    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP.md",
-    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Host.md",
-    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Client.md",
-    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Server.md",
     "Tech/DataScience/Machine Learning/LLMs/MCP",
-    "Tech/Operating Systems/Architecture/CPU/Scheduler/Fair share Schedulers/Stride scheduler/Stride scheduler.md",
-    "Tech/Programming/Programming Languages/Java/Internals/Sinks.md",
-    "Tech/Operating Systems/Architecture/Memory/virtualization/Virtualization of memory.md",
-    "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
->>>>>>> 3006d1d
     "Tech/Operating Systems/Architecture/Memory/virtualization",
-    "Books/Software/The Mythical Man Month/Insights/Hardware vs Software.md",
     "Books/Software/The Mythical Man Month/Insights",
-    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Hatching a Catasthrope.md",
-    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Concrete milestones.md",
-    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Big vs small issues.md",
-    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe",
-    "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools/Sharp tools.md",
-    "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools",
-    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation/15. Mechanism - Address translation.md",
-    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation",
-    "Reactive stream.md",
-    "Tech/Software/Concepts/MISCELLANEOUS/Asynchronous.md",
-    "Tech/Programming/Programming Languages/Java/Java.md",
-    "Tech/Programming/Programming Languages/Java/Internals",
-    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
-    "Tech/Network/Protocols/Application layer/HTTP/HTTP Parsers.md",
-    "Tech/Network/Protocols/Application layer/HTTP/HTTP.md",
-    "Tech/Network/Protocols/Application layer/HTTP/Streamable HTTP.md",
-    "Tech/Network/Protocols/Application layer/HTTP/Cookies.md",
-    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/ClusterIP.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Pymongo",
     "Tech/Operating Systems/Architecture/Memory/Address space.png",
     "Tech/Software/Architecture/Styles/Space Based Architecture/Pasted image 20251027212714.png",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",

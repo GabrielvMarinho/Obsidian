@@ -1,1 +1,1 @@
-The process of hiding/managing state with a certain behaviour
+The process of hiding/managing state with a certain behaviour, abstracting it

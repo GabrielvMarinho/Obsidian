@@ -1,1 +1,1 @@
-A group of 8 bits
+A group of 8 [[Bit|bits]]
