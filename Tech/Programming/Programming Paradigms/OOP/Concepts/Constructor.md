@@ -1,1 +1,1 @@
-The [[Method]] to  [[Instance|Instaciate]] a [[Object]]
+The [[Method]] to  [[Instance|Instatiate]] an [[Object]]

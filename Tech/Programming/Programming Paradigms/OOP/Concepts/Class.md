@@ -1,1 +1,1 @@
-A blueprint for creating objects
+A blueprint for creating [[Object|Objects]]

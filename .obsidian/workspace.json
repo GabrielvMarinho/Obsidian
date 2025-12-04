@@ -17,6 +17,8 @@
                 "mode": "source",
                 "source": false
               },
+              "type": "3d_graph_view",
+              "state": {},
               "icon": "lucide-file",
               "title": "Isometrics and knee pain"
             }
@@ -171,6 +173,8 @@
   },
   "active": "194019179d8f6223",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-02 16.29.18.excalidraw.md",
+    "Excalidraw",
     "Physical Training/Isometrics/Isometrics.md",
     "Physical Training/MVC.md",
     "Physical Training/Isometrics/Isometrics and knee pain.md",
