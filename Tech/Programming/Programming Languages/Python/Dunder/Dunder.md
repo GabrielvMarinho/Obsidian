@@ -10,6 +10,7 @@ print(a.__repr__())
 
 The first way will work and call the fallback from object, while the other will throw when not found
 
+Generally they are written in [[C]]
 
 ## Don't call it though
 

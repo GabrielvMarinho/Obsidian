@@ -1,5 +1,5 @@
-[This study](https://bjsm.bmj.com/content/49/19/1277.abstract) shows that people with patellar tendon pain had huge ammounts of cortical inhibition, like if their motor cortexwas trying to limit the use of the quads.
-A single set of of heav 70% [[MVC]] isometrics reduced the associated muscle inhibition, resulting in an increase in muscle strength, the times of hold were around 45%
+[This study](https://bjsm.bmj.com/content/49/19/1277.abstract) shows that people with patellar tendon pain had huge ammounts of cortical inhibition, like if their motor cortex was trying to limit the use of the quads.
+A single set of 70% [[MVC]] isometric reduced the associated muscle inhibition, resulting in an increase in muscle strength, the times of hold were around 45 seconds
 
 article: [here](https://www.iasp-pain.org/publications/relief-news/article/isometrics-reduce-tendon-pain/)
 
