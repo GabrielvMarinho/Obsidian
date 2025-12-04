@@ -19,3 +19,20 @@ Invisibility: the fact that software parts become invisible to certain contribut
 ## Some abstractions of accidental difficulties
 
 High level languages, time sharing, unified programming environment (like unix)
+
+
+## Software vs hardware
+
+this chapter really talks about how hardware is able to gain efficiency and productivity over the years, unlike software, which gains arent even close
+
+### Generic apps
+
+the author talks about how productivity can be gain by designing loose programs for non software experts to use, like writing tools and spreadsheets
+
+### Growing software
+
+author states that with the current complexity of programs, they are not written nor built, they are grown, you increment it piece by piece, as he believes that a software system cannot be built faultlessly
+
+### Conclusion
+
+there is no single silver buller for increasing software productivity

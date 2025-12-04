@@ -1,64 +1,41 @@
 {
   "main": {
-    "id": "759855ee244da6c6",
+    "id": "82e475e2bf93b492",
     "type": "split",
     "children": [
       {
-        "id": "ad1bb24704b3008a",
+        "id": "68e28c369052d6c3",
         "type": "tabs",
         "children": [
           {
-            "id": "939155c0d7afa1c7",
+            "id": "194019179d8f6223",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
-=======
-                "file": "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Client.md",
->>>>>>> 3006d1d
+                "file": "Physical Training/Isometrics/Isometrics and knee pain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "No silver bullet"
-=======
-              "title": "MCP Client"
-            }
-          },
-          {
-            "id": "f3bd7ceae58e8f8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Programming/Programming Languages/Python/Package management/UV/UV.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UV"
->>>>>>> 3006d1d
+              "title": "Isometrics and knee pain"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6b11f27c223a5c57",
+    "id": "522b773a90c72b68",
     "type": "split",
     "children": [
       {
-        "id": "a4b764ee2904b491",
+        "id": "ede2e4c14d911bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "ef1f9d89e203a500",
+            "id": "2668aefe6226f8d4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,12 +48,12 @@
             }
           },
           {
-            "id": "c8ceaa652bd87309",
+            "id": "3994c44c8432b48a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "pip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +65,7 @@
             }
           },
           {
-            "id": "3f539f765224b212",
+            "id": "3b989d69626e53ee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -101,26 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 300
   },
   "right": {
-    "id": "44991527e7cf08ce",
+    "id": "ee31ae1aafb63694",
     "type": "split",
     "children": [
       {
-        "id": "3c56dc45bbb5b605",
+        "id": "5319242fc7d5068c",
         "type": "tabs",
         "children": [
           {
-            "id": "337fe56afc3067ca",
+            "id": "efe47a4f0e9b65ed",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
-=======
->>>>>>> 3006d1d
+                "file": "Books/Software/The Mythical Man Month/Chapter 17 - No silver bullet refired/\"No silver bullet\" refired.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,36 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Backlinks for No silver bullet"
-=======
-              "title": "Backlinks"
->>>>>>> 3006d1d
+              "title": "Backlinks for \"No silver bullet\" refired"
             }
           },
           {
-            "id": "60f15dcd846d311a",
+            "id": "8c36018a370a01d1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
-=======
->>>>>>> 3006d1d
+                "file": "Books/Software/The Mythical Man Month/Chapter 17 - No silver bullet refired/\"No silver bullet\" refired.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Outgoing links from No silver bullet"
-=======
-              "title": "Outgoing links"
->>>>>>> 3006d1d
+              "title": "Outgoing links from \"No silver bullet\" refired"
             }
           },
           {
-            "id": "36d01c1087235fb9",
+            "id": "74b3cd02e9e6ab84",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -174,25 +137,18 @@
             }
           },
           {
-            "id": "d86cd8c6b487674d",
+            "id": "08cf8d0ccec889af",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
-=======
->>>>>>> 3006d1d
+                "file": "Books/Software/The Mythical Man Month/Chapter 17 - No silver bullet refired/\"No silver bullet\" refired.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "Outline of No silver bullet"
-=======
-              "title": "Outline"
->>>>>>> 3006d1d
+              "title": "Outline of \"No silver bullet\" refired"
             }
           }
         ]
@@ -213,65 +169,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "ef1f9d89e203a500",
+  "active": "194019179d8f6223",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Books/Software/The Mythical Man Month/Chapter 15 - The other face/The other face.md",
+    "Physical Training/Isometrics/Isometrics.md",
+    "Physical Training/MVC.md",
+    "Physical Training/Isometrics/Isometrics and knee pain.md",
+    "Books/Software/The Mythical Man Month/Chapter 17 - No silver bullet refired/\"No silver bullet\" refired.md",
+    "Physical Training/Isometrics",
+    "Physical Training",
     "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering/No silver bullet.md",
-    "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering",
-    "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
-    "Books/Software/The Mythical Man Month/Chapter 15 - The other face",
-    "Tech/Operating Systems/Architecture/Memory/virtualization/Virtualization of memory.md",
-    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation/15. Mechanism - Address translation.md",
-    "Tech/Operating Systems/Architecture/Memory/Address space.md",
-=======
-    "Tech/Programming/Programming Languages/Python/Package management/PyPI.md",
-    "Tech/Programming/Programming Languages/Python/Package management/UV/UV.md",
-    "Tech/Programming/Programming Languages/Python/Package management/UV",
-    "Tech/Programming/Programming Languages/Python/Package management",
-    "Tech/Programming/Programming Languages/Python/Modules/MatPlotLib/MatplotLib with Yfinances.md",
-    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP.md",
-    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Host.md",
-    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Client.md",
-    "Tech/DataScience/Machine Learning/LLMs/MCP/MCP Server.md",
-    "Tech/DataScience/Machine Learning/LLMs/MCP",
-    "Tech/Operating Systems/Architecture/CPU/Scheduler/Fair share Schedulers/Stride scheduler/Stride scheduler.md",
-    "Tech/Programming/Programming Languages/Java/Internals/Sinks.md",
-    "Tech/Operating Systems/Architecture/Memory/virtualization/Virtualization of memory.md",
-    "Tech/Operating Systems/Architecture/Memory/virtualization/Dynamic relocation.md",
->>>>>>> 3006d1d
-    "Tech/Operating Systems/Architecture/Memory/virtualization",
-    "Books/Software/The Mythical Man Month/Insights/Hardware vs Software.md",
-    "Books/Software/The Mythical Man Month/Insights",
-    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Hatching a Catasthrope.md",
-    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Concrete milestones.md",
-    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe/Big vs small issues.md",
-    "Books/Software/The Mythical Man Month/Chapter 14 - Hatching a Catastrophe",
-    "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools/Sharp tools.md",
-    "Books/Software/The Mythical Man Month/Chapter 12 - Sharp Tools",
-    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation/15. Mechanism - Address translation.md",
-    "Books/Software/Operating systems - Three easy pieces/15. Mechanism - Address translation",
-    "Reactive stream.md",
-    "Tech/Software/Concepts/MISCELLANEOUS/Asynchronous.md",
-    "Tech/Programming/Programming Languages/Java/Java.md",
-    "Tech/Programming/Programming Languages/Java/Internals",
-    "Tech/Programming/Programming Languages/Java/Guide/DatabaseIntegration/DB Java Integration Guide.md",
-    "Tech/Network/Protocols/Application layer/HTTP/HTTP Parsers.md",
-    "Tech/Network/Protocols/Application layer/HTTP/HTTP.md",
-    "Tech/Network/Protocols/Application layer/HTTP/Streamable HTTP.md",
-    "Tech/Network/Protocols/Application layer/HTTP/Cookies.md",
-    "Tech/Software/Tools/Kubernetes/Exposing Application/Service/ClusterIP.md",
-    "Tech/Programming/Programming Languages/Python/Modules/Pymongo",
-    "Tech/Operating Systems/Architecture/Memory/Address space.png",
-    "Tech/Software/Architecture/Styles/Space Based Architecture/Pasted image 20251027212714.png",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
-    "Tech/Programming/Programming Tools/Git/GitFlow.canvas",
-    "Tech/Software/Architecture/Styles/Microservices/Pasted image 20251014230727.png",
-    "Tech/Software/Architecture/Styles/Micro Kernel/Pasted image 20250923222927.png",
-    "Tech/Network/Protocols/Transport layer/TCP/Connection establishment/Pasted image 20250922224437.png",
-    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
-    "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/{CB077131-7785-4373-90F6-3B899B25FDDD}.png",
-    "Tech/Software/Architecture/Styles/Micro Kernel/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
-    "Tech/Software/Architecture/Styles/Service Based Architecure/{F4039BD9-28A8-4607-9ECA-9DDFA8958054}.png"
+    "Books/Software/The Mythical Man Month/Chapter 17 - No silver bullet refired"
   ]
 }

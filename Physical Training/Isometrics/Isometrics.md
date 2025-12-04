@@ -1,0 +1,1 @@
+exercises with no motion, where you contract your muscle isometricly, like a wall sit
