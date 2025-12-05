@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Programming/Programming Languages/Python/Dunder/Dunder.md",
+                "file": "Tech/Programming/Programming Languages/Python/Python Internal/Objects/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dunder"
+              "title": "List"
             }
           }
         ],
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dunder",
+                "query": "vba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,8 +190,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef1f9d89e203a500",
+  "active": "c8ceaa652bd87309",
   "lastOpenFiles": [
+    "Tech/Programming/Programming Languages/Python/Python Internal/Objects/Tuples.md",
+    "Tech/Programming/Programming Tools/Git/Architecture/Storing/Loose objects.md",
+    "Tech/Programming/Programming Tools/Git/GitHub/How Github Integrates Git.md",
+    "Tech/Programming/Programming Tools/Git/Git.md",
+    "Tech/Programming/Programming Tools/Git/Architecture/Storing/Data Storing.md",
+    "Tech/Programming/Programming Tools/Git/Architecture/Storing/BLOB.md",
+    "Tech/Programming/Programming Tools/Git/Architecture/Storing/Commit.md",
+    "Tech/Programming/Programming Tools/Git/Architecture/Storing/Tree.md",
+    "Articles/Software Development/Git Storage/Git Short Storage.md",
+    "Articles/Software Development/Git Storage/Git Storage Pic.jpg",
+    "Tech/Programming/Programming Tools/Git/GitFlow.canvas",
+    "Books/Software/Fundamentals of Software Architecture - An engineering approach/Apprendix/19 - Architecture Decisions.md",
+    "Tech/Programming/Programming Languages/Python/Dunder/Dunder.md",
     "x",
     "Tech/Programming/Programming Languages/Python/Dunder/Methods/__call__.md",
     "Tech/Programming/Programming Languages/Python/Python Internal/Decorators.md",
@@ -209,16 +223,6 @@
     "Visual Maps/kubernetesArchitecture.excalidraw",
     "Tech/Software/Tools/Kubernetes/Kubernetes Architecture.md",
     "Tech/Operating Systems/Architecture/CPU/Scheduler/Fair share Schedulers/Lottery Scheduler/Lottery scheduler chart.md",
-    "Tech/Programming/Programming Languages/Python/Python Interpreter/CPython.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Bound method.md",
-    "Tech/Programming/Programming Languages/Python/Dunder/Methods/__new__.md",
-    "Tech/Programming/Programming Languages/Python/Dunder/Methods/__init__.md",
-    "Tech/Programming/Programming Languages/Python/Dunder/Dunder.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Iterator.md",
-    "Countries/Brazil/Brazil.md",
-    "Tech/Programming/Programming Languages/Python/Python Internal/Generator.md",
-    "Tech/Programming/Programming Paradigms/OOP/Concepts/Encapsulation.md",
-    "Tech/Programming/Programming Paradigms/OOP/Concepts/Constructor.md",
     "Visual Maps/loadBalancerArchitecture.excalidraw",
     "Books/Software/The Mythical Man Month/Chapter 16 - No silver bullet, essence and accident in software engineering",
     "Books/Software/The Mythical Man Month/Chapter 15 - The other face",
@@ -226,17 +230,14 @@
     "Tech/Programming/Programming Languages/Python/Package management",
     "Tech/DataScience/Machine Learning/LLMs/MCP",
     "Tech/Operating Systems/Architecture/Memory/virtualization",
-    "Books/Software/The Mythical Man Month/Insights",
     "Tech/Operating Systems/Architecture/Memory/Address space.png",
     "Tech/Software/Architecture/Styles/Space Based Architecture/Pasted image 20251027212714.png",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Broker/{899EF33E-1BCC-46B3-9D03-7CBCA9570A20}.png",
-    "Tech/Programming/Programming Tools/Git/GitFlow.canvas",
     "Tech/Software/Architecture/Styles/Microservices/Pasted image 20251014230727.png",
     "Tech/Software/Architecture/Styles/Micro Kernel/Pasted image 20250923222927.png",
     "Tech/Network/Protocols/Transport layer/TCP/Connection establishment/Pasted image 20250922224437.png",
     "Books/Software/Fundamentals of Software Architecture - An engineering approach/Insight/connascence/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
     "Tech/Software/Architecture/Styles/Event Driven Architecture/Mediator/{CB077131-7785-4373-90F6-3B899B25FDDD}.png",
-    "Tech/Software/Architecture/Styles/Micro Kernel/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png",
-    "Tech/Software/Architecture/Styles/Service Based Architecure/{F4039BD9-28A8-4607-9ECA-9DDFA8958054}.png"
+    "Tech/Software/Architecture/Styles/Micro Kernel/{0D4E2087-169F-41EE-9A5D-1068E9625276}.png"
   ]
 }

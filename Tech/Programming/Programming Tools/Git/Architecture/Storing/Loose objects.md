@@ -1,0 +1,1 @@
+are objects in [[Git]], found in the .git/objects/ folder, however they are not long living, every 2 weeks the git Garbage collector cleans it and write it to a pack file in .git/objects/pack/xxxxx.pack
